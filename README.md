@@ -6,9 +6,10 @@
 $~~~~~~~~~~~$
 
 ## :clipboard: What is Maximum Doom:<br />
-Maximum Doom is a collection of community-made levels included on the "Master Levels for Doom II"-CD, released by Id Software in 1995.<br />
-The collection was Id Software's answer to the various Doom level collection CDs that had begun to circulate around the time. <br />
-It contained 21 levels selected & licensed by Id (the Master Levels) and a larger collection of 1830 other levels (Maximum Doom).<br />
+Maximum Doom is a collection of community-made levels included on the "Master Levels for Doom II"-CD,<br />
+released by Id Software in 1995. The collection was Id Software's answer to the various Doom level<br />
+collection CDs that had begun to circulate around the time. It contained 21 levels selected & licensed<br />
+by Id Software (the Master Levels) and a larger collection of 1830 other levels (Maximum Doom).<br />
 
 ---
 
