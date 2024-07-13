@@ -1,0 +1,84 @@
+==============================================================================
+Title                   : Gore Galore (for DOOM 2)
+Filename(s)             : GOREG2.WAD and GOREGSND.WAD
+Release Date            : 12/12/94
+Author                  : Ian Springer
+Email Address           : ips@eden.rutgers.edu
+Misc. Author Info       : computer science major and Net-DOOM addict at 
+                          Rutgers U.; this is my first WAD so bug reports,
+                          criticisms, & suggestions for improvement would
+                          be greatly appreciated; plz send me feedback via
+                          email; this is the second (and probably final)
+                          release of the level;  I believe that I have 
+                          taken care of all the bugs that existed in the 
+                          first release (a few missing textures, etc..);
+                          I have also added a few small things to spice up
+                          the level and improved textures in several rooms;
+                          I would suggest copying GOREG2.WAD over GOREG.WAD
+                          and deleting GOREG2.WAD since you will no longer
+                          need the original version.  The Music/SFX WAD
+                          (GOREGSND.WAD) has not changed.
+
+Description             : This level is designed especially for DeathMatch
+                          2.0, but it is also an excellent single-player
+                          experience (although it will take a DOOM guru to
+                          beat it on Ultra-Violence).  At first, the level 
+                          will seem rather large for a DM level, but I can 
+                          assure you that once all the players become 
+                          familiar with the map's layout, this level provides
+                          the ultimate DeathMatch environment.  There are 
+                          many intricacies present which are not essential
+                          for a simple rowdy DM game, but they will truly 
+                          enhance the game for those who take the time to
+                          figure them out.  Have fun!
+
+Additional Credits to   : iD Software for DOOM 2 and IDBSP
+                          Authors of DEU and those who hacked it to make DEU2
+                          Author of EdMap
+                          Ben Colten, Anthony Gaeta, and Matt Gamble
+                          (for playtesting the level) 
+==============================================================================
+
+* Play Information *
+
+Game Type (Doom / Doom2): Doom 2
+Episode and Level #     : Level 01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes, for all you pathetic pussies out there 
+Deathmatch 2-4 Player   : YOU BET! (best w/ -altdeath & -nomonsters)
+Difficulty Settings     : Yes
+New Sounds              : Yes (in GOREGSND.WAD)
+New Graphics            : No
+New Music               : Yes (Terminator ][ - also in GOREGSND.WAD)
+Demos Replaced          : Nope
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Deu2 and EdMap 1.23
+Build time              : 40-50 hours
+Known Bugs              : None! (I encourage you to prove me wrong)
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels, as long as 
+they let me know via email and give me the due credit.
+
+You may distribute this WAD in any electronic format (FTP, UseNET, BBS, Disk, 
+CD, etc.) as long as you include this text file, with no modifications.
+
+* Where to get this WAD *
+
+FTP sites:
+---------
+
+ftp.orst.edu:/pub/doom/doom2/NEWSTUFF
+             /pub/doom/doom2/wads (if not in NEWSTUFF)
+
+ftp.cdrom.com:/pub/doom/doom2/NEWSTUFF
+              /pub/doom/doom2/wads (if not in NEWSTUFF)
+
+Newsgroups:
+----------
+
+alt.binaries.doom

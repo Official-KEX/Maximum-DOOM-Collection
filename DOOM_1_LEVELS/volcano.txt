@@ -1,0 +1,58 @@
+================================================================
+Title                   : Volcano Island (DeathMatch)
+Filename                : VOLCANO.WAD
+Author                  : Sean Torres
+Email Address           : st3df@jetson.uh.edu
+Misc. Author Info       :
+
+Description             : Simple Death Match with small water passages that
+                          lead up to a big clearing with erupting volcanos.
+                          This is my first one so give me some feedback. You
+                          can play cooperative, but its really only for Death-
+                          match. I added the Player 1, 2, etc. so it wouldn't
+                          bug up.
+
+Additional Credits to   : Ben (The one who got me started.)
+================================================================
+
+* Play Information *
+
+Game                    : Heretic
+Episode and Level #     : Episode 1 Level 1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Heu V1.0
+Known Bugs              : None that i know of.
+
+
+* Copyright / Permissions *
+
+You (MAY) use this level as a base to build additional
+levels.
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites: None
+
+BBS numbers: Psychodrome BBS - (713) 488-6817   \
+             Sound Off BBS   - (713) 392-7286   |-- Houston, TX (USA)
+             Dwango BBS      - (713) 467-9272   /
+
+Other: None

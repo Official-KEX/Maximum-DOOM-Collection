@@ -1,0 +1,39 @@
+================================================================
+Title                    : The Skill!  
+Filename                 : skill!.wad
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Author                   : Ben_C 
+Email Address            : shaftxx@aol.com or
+			   dfx@netcom.com
+
+Author Info              : Fellow Doom player/Dwango junkie
+			  
+Description              : This wad was made stictly for deatchmatch play.  
+			   No monsters, just all out fun.  I have included
+			   all of the items I feel necessary for a good, fair
+			   deathmatch game.  There is even a way to make use 
+			   of the Berzerker power up but I'll let you figure
+			   that out.
+
+Bugs:                    : What bugs?                          
+			  
+Play Testers             : Me/shaft, Ernie/eps, Mark/bilbo, Nick/reaper, 
+			   Lyle/lyle, Mark/butcrap, Jason/stream, 
+			   Kevin/krazie, and whoever else I forgot!
+
+Additional Credits to    : Deu2gcc, BSP12x (best wad building utils around!)
+=============================================================================
+
+  
+* Play Information *
+
+Single Player           : no
+Cooperative 2-4 Player  : no 
+Deathmatch 2-4 Player   : YES!
+Team Deathmatch         : YES!
+New Sounds              : no
+New Graphics            : No
+New Music               : No
+Demos Replaced          : No
+
+Well what are you waiting for!!??  Go get some friends and play!!!

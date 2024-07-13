@@ -1,0 +1,16 @@
+Whats new in v1.1 of WORLDDM.WAD
+--------------------------------
+
+- Mancubus now fires chicken's inside of those flame balls or whatever
+you want to call them <g> It works very good actually, and is fun to
+watch :-)
+
+- Included a seperate Sound PWAD called WORLDSND.WAD, which is just some
+new sounds for some of the graphic's replacement's in WORLDDM.WAD. It's
+not easy trying to find those perfect sounds you know :-)
+
+- Imps, Demon's, Lost Soul's, Cacodemon's, Baron of Hell and Cyberdemon
+now have new graphic replacements :-) I think you'll especially love the
+Cyberdemon graphics <g> I'd hate to run into this dude playing DOOM
+deathmatch at 3 in the morning <g>
+

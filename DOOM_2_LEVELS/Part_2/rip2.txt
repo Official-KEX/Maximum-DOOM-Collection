@@ -1,0 +1,60 @@
+================================================================
+Title                   : Rest in Pieces II
+Filename                : RIP2.WAD
+Author                  : Jeremy Drye
+Email Address           : will be forwarded from    nickwt@aol.com
+Misc. Author Info       : Student
+                          Mortal Kombat II has-been
+
+Description             : After playing against some people who can
+                          memorize a level after playing it 1 or 2 times
+                          I decided and tried to create a board that would
+                          be difficult to memorize, and it is.  Remember
+                          the outside wall is a door where you can restock
+                          your health and armor.  Enjoy!
+
+Additional Credits to   : Nick Tucker
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M4 (the music is the best one)
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : ~2 hours
+Editor(s) used          : DEU and BSP
+Known Bugs              : In some places you will be able to 'see through'
+                          some walls but no go though them.  I do not
+                          know what is causing this or how to fix it.
+                          The outside door sometimes does not make noise 
+                          when opened, probably because it is so big.
+                          
+* Copyright / Permissions *
+
+Authors (may NOT) use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites:  infant2 (you should know what this is ;D)
+
+BBS numbers:  Carolina Forum BBS  (704) 563-5857 
+              Bills Graphics BBS  (704) 932-4739 
+              
+Other:  America Online PC Games Forum

@@ -1,0 +1,73 @@
+====================================================================
+Title                   : Underground
+Author                  : Darren Cullern
+Email Address           : Chungra@dircon.co.uk
+
+Description             : This is a DOOM II DEATHMATCH pwad.
+
+                          Blast your way through old underground
+                          stations and monster crawling streets.
+                          Explore the long dark tunnels. Raid the
+                          buildings, but watch your back!!.
+
+                          There are plenty of monsters to kill before
+                          the real fraggin' can begin, so this will
+                          get you warmed up. If you don't want any
+                          monsters, use the -nomonsters option when
+                          loading.
+
+                          P.S.   There is no EXIT!
+                                 If you want the level to end use
+                                 the -timer option when loading.
+
+Info                    : This is my first 'released' pwad.
+                          It was made for DOOM but I modified
+                          it for DOOM II.
+
+     * If you have any comments please email me at the above address. *
+
+Additional Credits to   : My gang of network doomers and testers:
+
+                                    (Spud, Paul & John)
+                          Together we have had some cool deathmatches
+                          & coop games and many late nights. One doom
+                          session lasted 14 hours!!!. Thanks Guys.
+
+                          Special thanks to ID for DOOM & DOOM II
+====================================================================
+
+* Play Information *
+
+Doom Version            : DOOM II
+Level                   : 1
+Single Player           : Yes   - But designed for Deathmatch
+Cooperative 2-4 Player  : Yes   - But designed for Deathmatch
+Deathmatch 2-4 Player   : YES   - PLENTY OF FRAGGIN' !!!
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes
+Demos Replaced          : None
+Release Date            : 18 October 1994
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Forever!!
+Editor(s) used          : DEU 5.21, DEU II 1.0, IDBSP, EDMAP 1.12b
+Known Bugs              : No known bugs
+
+* Copyright / Permissions *
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+  infant2.sphs.indiana.edu    [undergrd.zip]
+
+BBS numbers:
+  Sound & Vision              [+44] (0)1932-252323

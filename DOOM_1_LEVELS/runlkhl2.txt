@@ -1,0 +1,65 @@
+================================================================
+Title                   : RUNLKHL2.WAD
+Author                  : Duffy Knox
+Email Address           : dknox@alchemy.chem.utoronto.ca
+Misc. Author Info       : nothing of any pertinence that I can think of
+
+Description             : The second version of my first WAD.  Designed for 
+			  single player, multiple player or Deathmatch modes, 
+			  easy, medium or hard. Looks much like a Castle, 
+			  complete with moats, dungeons, secret passages, 
+			  temples, and even an open pit mine where they 
+			  obviously got all of that green marble (and there 
+			  is a lot of green marble).  I added a section at 
+			  the end which seems to me to be well designed 
+			  for deathmatch, but I didn't get around to putting 
+			  the deathmatch startpoints there. It is a very 
+			  large wad and could drag at times on slower 
+			  machines. I fixed the problem with the first 
+			  version in the temple where there seemed to be 
+			  invisible walls, it was actually dead bodies 
+			  hanging from the ceiling. You couldn't see them 
+			  but they still blocked your movements.
+
+Additional Credits to   :  Richard Janis and Steve Coulber for creative 
+			   input and testing.
+			  
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : yes
+Difficulty Settings     : Yes, all of them
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : ~30-40 hours
+Editor(s) used          : Deu 5.1, Bsp 1.1
+Known Bugs              : none, tell me if you find some.
+
+
+* Copyright / Permissions *
+
+You may do whatever you want with this file as long as you put my name in
+it somewhere.
+
+
+* Where to get this WAD *
+
+FTP sites: ocf.unt.edu
+	   wuarchive.wustl.edu
+
+* Additional *
+
+This is my first WAD. Please let me know if you have any comments, 
+suggestions or constructive criticism. I'm always on the
+lookout for good ideas to incorporate into another level, so if someone has 
+some thoughts about what they would like to see, but doesn't want to do it 
+themselves please let me know.
+

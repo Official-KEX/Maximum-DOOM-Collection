@@ -1,0 +1,18 @@
+     DM_KHAN2 adds a few things dm_khan1 was missing. Namely an exit, and  
+non-deathmatch starts for viewing offline.
+     DM_KHAN2 is a "for deathmatch only" wad. There was no support
+added for coop play (i.e. no monsters). I tried to incorporate some 
+new ideas/features without ruining the fun of simplicity. I appreciate 
+any comments, complaints, or suggestions you might have for future wads. 
+
+fragem,
+
+David Tyer  ("Khan" on DWANGO Houston)
+
+(David_Tyer@wyattconsult.com)
+
+
+P.S. - I don't know if there's any legalese that needs to be in here so...
+
+Blah blah blah, yadda yadda yadda ID Software.
+

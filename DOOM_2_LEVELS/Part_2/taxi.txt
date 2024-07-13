@@ -1,0 +1,55 @@
+	This wad is designed for Deathmatch only.  If you use IDDT
+you will see two rooms near "left" area, and two near "right" area,
+seperated by a door.  These doors are tagged to lines in the
+opposite sections and are designed to help you find your opponent.
+If you hear one of these doors, you know where your opponent is.
+Also, "star" in middle drops when someone is in the "ammo" room.
+Use an editor to see what I mean.
+================================================================
+Title                   : Taxi (no special meaning) 
+Filename                : Taxi.wad
+Author                  : Don Good
+Email Address           : dgood68@ix.netcom.com
+
+Description             : A fun deathmatch wad
+
+Additional Credits to   : Upon completion, I was told of the
+			  similarities to Peace-D2.wad.  So give
+			  that author some credit.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Doom2  M01
+Single Player           : Yes, for looking.
+Cooperative 2-4 Player  : No.
+Deathmatch 2-4 Player   : Of course.
+Difficulty Settings     : No.  No Monsters.
+New Sounds              : No.
+New Graphics            : No.
+New Music               : No.
+Demos Replaced          : No.
+
+* Construction *
+
+Base                    : From scratch.
+Build Time              : 8 hours.
+Editor(s) used          : DoomCAD 5.1   First attempt with this
+			  editor.  I like it.
+Known Bugs              : Sector containing RocketLauncher.  Could
+			  not get rid of annoying white vertical line.
+			  Brief, not very noticable.
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels as long as you credit me in your work. Distrubute 
+this freely; it's freeware.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other:

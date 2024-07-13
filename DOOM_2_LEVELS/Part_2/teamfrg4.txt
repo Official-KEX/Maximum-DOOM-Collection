@@ -1,0 +1,45 @@
+================================================================
+Title                   : Team Frag 4  
+Filename                : TEAMFRG4.WAD
+Date released           : 28/2/1995
+Author                  : Cameron Gascoyne
+Email Address           : C.Gascoyne@student.anu.edu.au
+Description             : A two-on-two deathmatch level
+Additional Credits to   : Craigy, Chrisso and Rog007 for playing
+                          DOOM with me. Keep trying fellas.			  
+================================================================
+
+* Play Information *
+Map                     : DOOM2, Map 01 
+Single Player           : Yer, if ya really want to.
+Cooperative 2-4 Player  : Ho hum.
+Deathmatch 2-4 Player   : Yes!!!! 4 Players required.
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : No
+
+* Construction *
+Base                    : Brand Spankin' new
+Time taken              : 629.3 minutes
+Editor(s) used          : DEU2, IDBSP v1.1beta
+Known Bugs              : Why do they have this question? Good
+                          WADs don't have bugs.                      
+
+* Copyright / Permissions *
+You can distribute this WAD freely, but credit where credit is
+due. If you modify it, please e-mail me a copy with a short list
+of changes made so I can see what was done to make it better.
+
+* Play Information *
+This WAD is designed for 2 on 2 deathmatch. To encourage
+co-operation within teams, you will require your team-mate to
+help you to obtain the rocket-laucher, both super-shotguns and
+the mega-sphere.
+
+This WAD requires 3 players to exit. It's pretty straight forward:
+the first player opens the first exit door (left-most) and presses
+the switch, the second and third players do the same to the next
+two doors. The switch behind the 3rd exit door ends the level.
+

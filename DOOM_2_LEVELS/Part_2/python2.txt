@@ -1,0 +1,44 @@
+================================================================
+Title             : Monty Python's Revenge   
+Filename          : PYTHON2.WAD
+Author            : Mark Potter, John Potter, & Clifton Cline
+Email Address     : ?
+Misc. Author Info : we need to get some sleep
+
+Description       : sounds from "Monty Python-The Final Ripoff"
+
+Additional Credits to : whoever wrote these skits
+================================================================
+
+* FX Information *
+
+Sounds Replaced : all 61
+New Music       : No
+
+
+* Construction *
+
+Base On        : all new python wadfile from scratch
+Editor(s) used : DMAUD.EXE
+Known Bugs     : haven't heard any yet
+
+
+* Copyright / Permissions *
+
+Authors may use this wad as a base to build additional FX wads.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers: The Wall (1-214-286-8291)
+
+Other: the 3 authors
+
+(this is a modified version of the WAD Authoring Template v1.4)
+

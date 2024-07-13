@@ -1,0 +1,55 @@
+================================================================
+Title                   : The Grid
+Filename                : GRID.WAD
+Author                  : Colin Dickens
+Email Address           : colin.dickens@aeat.co.uk
+Misc. Author Info       :
+
+Description             : This is a deathmatch level set in a 
+                          grid of criss-crossing upper and lower
+                          corridors with moving floors at each 
+                          intersection. The upper corridors run
+                          north to south and are connected by
+                          windows. The lower corridors run east
+                          to west, and are dark. Shotgun,
+                          chaingun and chainsaw are available,
+                          with a rocket launcher in the middle.
+
+Additional Credits to   :
+================================================================
+
+* Play Information *
+
+Game                    : DOOM I
+Episode and Level #     : E1M1
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Extracted from DEADZONE.WAD
+Editor(s) used          : DEU 5.21, BSP 1.2
+Known Bugs              :
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You may do whatever you want with this file.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other:
+

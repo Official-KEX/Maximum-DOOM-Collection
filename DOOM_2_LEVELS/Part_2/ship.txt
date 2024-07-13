@@ -1,0 +1,42 @@
+Title                   : Paddock (paddock.wad)   
+Author                  : Rand Smith
+Email Address           : CIS 75117,2173
+Credits                 : Testers:  Recomm Rogues
+			  Inspired by:  A dream...
+				      
+* Play Information *
+
+Episode and Level #     : MAP 02 DOOM ][
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Most DEFINITELY! 
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : From scratch
+Build Time              : 25 hours
+Editor(s) used          : DEU2 and RMB
+Known Bugs              : One HOM effect, small (yes), annoying (yes),
+			  and virtually unnoticeable (thankfully!).
+			  (AUTHOR's NOTE:  Am I the only author who finds
+			   the limit on 2S linedefs troublesome???)
+
+* Copyright / Permissions *
+
+Authors may do whatever they want with this level, but it might be nice
+to give me some credit if they use it as a basis for a new level.
+
+Author's Note:
+
+	This wad was created just to see how the concept would turn out.
+	I am pleased with the finished product and I hope you will be, too.
+	Exiting is no trouble (once you find it) and it is a little heavy
+	with monsters until you get to know it, but it was designed for
+	non-cooperative Deathmatch and you will find that it is best enjoyed
+	in that mode.  Nothing can substitute for semi-intelligent opponents!
+	Please send me comments, suggestions for improvement, or wad ideas
+	that you would like to see come to fruition.  Thanks!

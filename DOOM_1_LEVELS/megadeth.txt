@@ -1,0 +1,288 @@
+================================================================
+Title:                          MEGADETH      Version 2.2
+ 
+Author:                 Jaswant S. Hayre  <a.k.a. BLADE>
+Location:               Kent, UK
+E-Mail Address:         CompuServe  100070,3233
+
+
+
+
+Description:    The ultimate deathmatch.
+
+		This level is specifically designed for DEATHMATCH play.
+		It comprises 4 zones: the ATRIUM (centre); JSH ZONE (East);
+		ARENA (West); and the WARP ZONE (North). There are also two
+		SECRET ROOMS.
+
+		Each zone has its own theme, strategy and secrets. Note
+		that the skill levels (1-5) also have a major effect on
+		the strategies.
+
+		MEGADETH is designed to be played with monsters present.
+
+		MEGADETH incorporates the use of enhanced weapons.
+		
+
+
+
+Story:          After defeating the Demons in Hell on Earth, you finally
+		discover the truth of DOOM. The original invasion of the
+		Phobos moonbase by the hordes from Hell was only possible
+		because of a human traitor - an officer in the Space
+		Marines like you. You have tracked him down after
+		discovering his picture in the ARENA, and now one thought
+		is foremost in your mind - to scatter his atoms to the
+		depths of hell!
+
+		This will be your toughest mission yet - an assassination
+		- and you will have Earth's most advanced weaponry
+		available to you: guns with laser sights and silencers!
+
+		Earth is counting on you. The final War of the Worlds is
+		about to begin on Mars - Earth vs. Hell - prepare for
+		M E G A D E T H . . .
+
+
+
+
+Gameplay:       MEGADETH is designed solely for deathmatches although all
+		other modes are supported. It is a highly strategic level
+		designed first and foremost for depth of gameplay. This
+		level rewards the strategic player who takes the trouble
+		to learn its secrets.
+
+
+
+Enhanced
+Weapons:        MEGADETH is an assassination mission and therefore gives
+		you access to enhanced weapons. These incorporate silencers
+		for the pistol and chaingun, and laser sights for the
+		pistol, shotgun and chaingun. (Laser sights are optional.)
+
+		The silencers only muffle the shots enough for you to hit
+		your target without him hearing you  :)
+
+		The shotgun and plasma rifle have enhanced sounds.
+
+		The laser sights are not used for the rocket launcher,
+		plasma rifle and BFG9000 because these weapons have a blast
+		radius and do not need precise aiming.
+
+		The laser sights will auto-dim when you enter darkened areas
+		to avoid giving your position away  :))
+
+		Like with the real thing, if you keep the trigger down on
+		the pistol, shots will tend to wander after the first one.
+		It is best to release the trigger after each shot. This also
+		applies to the chaingun. Short controlled bursts of fire are
+		most effective.
+
+
+
+
+
+Additional Credits to:  The programmers at ID for DOOM.
+			Ari Koivisto whose zzone.wad was used as the basis
+			for the ATRIUM.
+			Hoss for the reddot files.
+================================================================
+
+* Play Information *
+
+Episode and Map #:              E2M7
+Single Player:                  Yes - boooring
+Cooperative 2-4 Player:         Yes - yawwwn
+Deathmatch 2-4 Player:          Yesssssss - the ultimate deathmatch WAD!
+Difficulty Settings:            Yes (1-5)
+				1)      Lots of weapons + power-ups
+				2)      As on level 1
+				3)      Few weapons
+				4)      Few weapons + extra monsters
+				5)      NOT advised if you want to live!
+New Music:                      Yes
+New Sounds:                     Yes
+New Graphics:                   Yes
+
+
+
+
+* Instructions *        To activate the LASER SIGHTS, type "LASERON" at
+			the DOS prompt. This will work for all Doom levels.
+			To switch the laser sights off, type "LASEROFF" at
+			the DOS prompt.
+
+			To try out the level in single player mode, type
+			"DOOM -FILE MEGADETH.WAD" at the DOS prompt. Then
+			start your game as normal. When you enter a level,
+			type "IDCLEV27".
+
+
+
+
+
+* Play Guide *
+			This WAD should not be judged by playing it in
+			single player or cooperative modes, but if you
+			insist on playing it this way then try skill
+			level 4. On Deathmatch, for an action oriented
+			"kill everything that moves" game try skill
+			level 1. For a more strategic game try skill
+			level 3 (recommended).
+
+			The WARP ZONE is not designed as a combat zone
+			and is best used as a means of access to weapons
+			and power-ups.
+
+			The level is designed so that if you listen to
+			the monsters and warp sounds you can judge where
+			your opponent is.
+
+
+
+* Construction *
+
+PC used:                Accelerated 486 DX2 66
+Build Time:             80 hours
+Editors used:           DoomEd The Real Thing, V 2.60 Beta 4
+			Deu, V 5.2
+			MIDI2MUS, V 2.04
+			DMMUSIC, V 1.0
+			DMAUD, V 1.1
+			Paint Shop Pro V 1.01
+			DMGRAPH, V 1.1
+Known Bugs:             None
+Slowdown:               None on development machine (full screen, high detail)
+
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels but must give credit.
+
+Anyone may distribute this PWAD, provided that NO charge of any type is made for it
+and the following files are included unaltered:
+
+-MEGADETH.TXT:          this file.
+-MEGADETH.WAD:          the PWAD file.
+-DMGRAPH.EXE:           the graphics editor.
+-LASERON.BAT:           the batch file for installing the laser sights.
+-LASEROFF.BAT:          the batch file for removing the laser sights.
+-REDCHAIN.GIF:          the laser graphic for the chain gun.
+-REDPISTL.GIF:          the laser graphic for the pistol.
+-REDSHOT.GIF:           the laser graphic for the shotgun.
+
+
+
+* Disclaimer *          I will not be held responsible for any damage done
+			to your hardware, software, personal relationships
+			or your state of mind by the use of any of these files.
+
+
+
+
++ Secrets *             WARNING - reading the following may significantly
+			enhance your enjoyment of this level :)
+
+	ATRIUM:         The ATRIUM has two lifts, operated by pushing one
+			wall on each lift. It also has a secret warp which
+			teleports to the top of a pillar sniper position.
+			The small building has a fake front wall which is
+			ideal for snipers. There are 2 hidden doors leading
+			to the JSH ZONE, 2 hidden doors leading to the ARENA
+			and one large hidden door leading to the WARP ZONE.
+
+			One lift is an octagon located in the NE corner. Its
+			NE wall is the switch. The other lift is a rectangle
+			located in the SE corner. Its S wall is the switch.
+
+			The warp leading to the top of the pillar (and the
+			BFG9000) is located at the E end of the large block
+			(facing the door to the WARP ZONE) at the North. The
+			only way to enter the warp is to enter it by moving
+			Southwards. (The approximate location of the warp is
+			at the NE of the ATRIUM.)
+
+	JSH ZONE:       The JSH ZONE has 2 fake walls which are ideal for
+			snipers and one hidden teleport (the end wall in
+			the "S").
+
+	ARENA:          The ARENA has many secrets. It has two lifts,
+			operated by pushing 2 of the angled sides. It has
+			a cyberdemon trapped by barrels (it is not a good
+			idea to let a stray shot hit a barrel!), and a
+			spider demon trapped with some of his buddies from
+			hell (don't get too close). There are two exits (one
+			to the Tower of Babel and the other to the Fortress
+			of Mystery). There is also a fake wall with a sniper
+			position and a secret tunnel leading from it. The
+			switch in this area raises the Spider Demon and the
+			warp platforms. Its generally not a good idea to use
+			it. There are four marked warp platforms.
+
+			The two lifts are located at the NE and SW corners
+			of the ARENA. Each has two walls which act as
+			switches. For the NE lift these are the angled NW
+			and NE faces. For the SW lift these are the angled
+			SW and SE faces.
+
+	WARP ZONE:      The WARP ZONE has a central area packed with
+			weapons, ammunition, medikits and power-ups. To get
+			to it you must follow the path created by the
+			barrels. The monsters are deaf here and will not
+			bother you so long as you don't start the fight!
+			Also, a stray bullet will destroy the barrel path
+			and you will keep warping if you try to reach the
+			goodies. Some warp points take you out of the WARP
+			ZONE itself. Two hidden warp points (South & East)
+			provide access to the two secret rooms.
+
+			As players were finding it frustrating trying to
+			navigate the path after the barrels were destroyed,
+			I have provided a faint visual path on the floor
+			which can be used as a guide. The entrance to the
+			path is on the East side of the WARP ZONE. The faint
+			path is most visible with low levels of gamma
+			correction. However, before resorting to this,
+			players can follow the temporary energy cell path.
+			There is also a short-cut route.
+
+			The warp leading to SECRET ROOM 1 is located mid-way
+			in the South of the WARP ZONE. It is the SW line of
+			the faint upside down V in the South. Access it by
+			moving North or NW.
+
+			The warp leading to SECRET ROOM 2 is located mid-way
+			in the East of the WARP ZONE. It is located to the
+			West of the soldier on the pole. Access it by moving
+			just South of the soldier and then moving West (about
+			300 degrees).
+
+	SECRET ROOM 1:  SECRET ROOM 1 is full of weapons and ammunition. The
+			floor is made of lava and inflicts a small amount of
+			damage (this prevents players hiding here). The warp
+			exit leads to three different locations.
+
+	SECRET ROOM 2:  SECRET ROOM 2 is full of body armour and power-ups.
+			This room is radioactive and inflicts a small amount
+			damage (this prevents players hiding here). The warp
+			exit leads to three different locations.
+
+
+================================================================
+
+
+	MEGADETH has been extensively play tested and should contain
+	no bugs. If you do find a bug, let me know so I can fix it.
+
+	A lot of effort has gone into MEGADETH and I would greatly
+	appreciate it if people let me know what they think - good
+	or bad. If there is enough demand I may write an update
+	featuring players' comments, or maybe even version 3.
+
+
+	* Remember - your feedback is greatly appreciated *
+
+============================END=================================
+			
+			

@@ -1,0 +1,148 @@
+=======================================================================
+Title                   : RIKER11.WAD   
+
+Author                  : Chris Richards
+
+Email Address           : Chris-Richards@uiowa.edu
+
+Misc. Author Info       : 6'3", 180 lbs.
+
+
+Description             : 
+
+
+Walk down the Corridor of Raw Meat, spend a night in the Disco of the 
+
+Damned, scratch your head in the Pit of Choices, curse your fate while 
+
+taming the Rodeo of Infinity.  Every room was designed to have a 
+
+different feel and challenge to it, with the overall emphasis placed on 
+
+finding yourself in a position you wouldn't have expected just a few 
+
+seconds earlier.  For this reason, Riker11 is a much better solo or 
+
+cooperative level than it is deathmatch, so I didn't include any 
+
+deathmatch spots.  Feel free to add some of your own if you want to.
+
+
+A good completion time, from The Zombie Shootout to The Apocalypse is 
+
+about 20 minutes.  The end-of-game screen says 30 seconds, but if anyone 
+
+can do it in that I tip my hat to 'em.
+
+
+Some things you won't see:  doors triggered in one place you have to run 
+
+to before they close, Wolfenstein-type secret door placement, squiggly 
+
+little hidden things you have to find before you can continue. I never 
+
+liked these much.  The path through Riker is clear and easy to follow, 
+
+though hidden or off-the-path items can help you greatly.
+
+
+Several spots (one in particular) were designed to be low visability, so 
+
+if they look too dark for you on your monitor and you have DOOM v 1.2 or 
+
+greater, press the F11 key to modify the brightness.
+
+
+If the Disco of the Damned gets you down, there is a pair of infra-red 
+
+goggles, though they're hidden in a pretty tricky place.
+
+
+Enjoy.
+
+
+Additional Credits to   : Play testing and slaughter-boy: Matt Seemuth
+
+=======================================================================
+
+* Play Information *
+
+
+Episode and Level #     : E1M1
+
+Single Player           : Yes
+
+Cooperative 2-4 Player  : Yes
+
+Deathmatch 2-4 Player   : No
+
+Difficulty Settings     : Yes -- Riker levels were highly optimized.
+
+                          Levels 1 and 2 should be rather easy, level 3
+
+                          is fairly challenging, and level 4 should be
+
+                          hard enough for anyone to enjoy.
+
+New Sounds              : No
+
+New Graphics            : No
+
+Demos Replaced          : None -- that would make it too easy.
+
+
+
+* Construction *
+
+
+Base                    : New level from scratch
+
+Build Time              : Around 50 hours while watching lots of movies.
+
+Editor(s) used          : DEU 5.0/5.1, BSP 1.0
+
+Known Bugs              : None known, though I almost forgot to turn
+
+                          on the acid.
+
+
+* Changes from version 1.0
+
+
+It was possible to exploit the DOOM! engine to recover both weapons from 
+
+the Pit of Choices which, though it remained a Pit, kind of removed the 
+
+Choices element.  This has been fixed.
+
+
+* Copyright / Permissions *
+
+
+Authors MAY NOT use this level as a base to build additional
+
+levels.  
+
+
+You MAY distribute this WAD, provided you include this file, with
+
+no modifications.  You may distribute this file in any electronic
+
+format (BBS, Diskette, CD, etc) as long as you include this file 
+
+intact.
+
+
+* Where to get this WAD *
+
+
+FTP sites: Infant2.sphs.indiana.edu (and presumably all other ocf.unt.edu
+
+           mirrors) 
+
+
+BBS numbers:
+
+
+Other: Feel free to upload this level to any other place you like.
+

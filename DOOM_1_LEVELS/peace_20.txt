@@ -1,0 +1,85 @@
+================================================================
+Title                   : PEACE_20.WAD   
+Authors                 : Wolfgang Grassl
+                          Christian Hellmann
+Email Address           : grassl@mailer.uni-marburg.de
+=================================================================
+
+Description             : This is the DEATHMATCH 2.0 release of
+                          peace.wad. 
+                          Please play this wad with -altdeath only.
+                          There are all weapons and an exit.
+                          Peace.wad was based on shadows2 but
+                          it's almost everything changed.
+                                                   
+Additional Credits to   :  Sergey Ishchenko and
+                           Ivan Samarin
+                           - the authors of shadows2
+===============================================================
+
+* Play Information *
+
+Doom Version            : THIS PWAD IS FOR DEATHMATCH 2.0 ONLY !
+Episode and Level #     : E1M1
+Single Player           : (yes)
+Cooperative 2-4 Player  : (yes)
+Deathmatch 2-4 Player   : YES !      !!! DEATHMATCH 2.0 ONLY !!!
+Difficulty Settings     : No
+New Sounds              : No 
+New Graphics            : No
+Demos Replaced          : None 
+
+* Construction *
+
+Base                    : peace.wad (which was based on shadows2)
+Editor(s) used          : DEU 5.21 gcc and BSP11x
+Known Bugs              : no known bugs
+
+* Copyright / Permissions *
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+I Germany you MUST NOT give this WAD to people under 18 years !
+
+* Where to get this WAD *
+
+FTP sites:
+ infant2.sphs.indiana.edu    (peace_20.zip)
+
+
+That's what people think about peace:
+--------
+> Newsgroups: alt.games.doom
+> From: wobrien@badlands.NoDak.edu (William P Obrien)
+> Subject: Favorite DeathMatch!
+> Date: Wed, 15 Jun 1994 03:21:44 GMT
+
+> My favorite DeathMatch pwad (that I have played) is Peace.wad.
+> Congrats go out to the lunatic who mad this pwad.  What an evil
+> mind he/she must have.  If you haven't picked this one up, as
+> advertised...it delivers.  I have played this one with 3 players
+> and it is hours of fun.  Lots of weapons, lots of hiding spaces,
+> and lots of your friends backside's on the wall.
+>
+> The peace symbol in the center of the room is a classy touch.
+> The irony/symbolism involved in this one is creative.
+> Keep 'em coming.
+---------
+> From: jradwan@wariat.org (Jeremy Radwan)
+> Subject: Re: Best Deathmatch .WADs?
+> Date: 15 Jun 1994 12:27:40 GMT
+>
+> My friends and I just recently held DOOMFest II at a friend's house this
+> past weekend (about 6 hours od DeathMatching) and I must admit that
+> PEACE was the .WAD of choice. That sprint across the main room to the BFG
+> is something else! :)
+>
+--
+Jeremy C. Radwan <jradwan@wariat.org>   [_ use finger for PGP public key _]
+"Reality is 80 million polygons per second."  --Alvy Ray Smith
+----------
+
+   ... and now the peace continues with peace_20 ! GET IT !
+   

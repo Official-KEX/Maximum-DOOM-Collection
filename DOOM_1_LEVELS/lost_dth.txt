@@ -1,0 +1,90 @@
+================================================================
+Title                   : Lost in Paris / Death Match version
+Filename                : LOST_DTH.WAD
+Author                  : Herv‚ Benvel
+Email Address           : Herve.Benvel@inria.fr
+
+Additional Credits to   : see below
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Episode 2, level 1 and 2 (E2M1, E2M2)
+Single Player           : Yes --- boring!
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes!
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes (level 2 only!)
+
+* Construction *
+
+Base                    : From scratch
+Editor(s) used          : DEU GCC 5.21, MIDI2MUS, MUS2PWAD, BSP 1.1
+Known Bugs              : None
+
+================================================================
+
+Description
+
+A pack of two levels, only made for Death Match. You wanted a
+place where you could have some fun fighting each other, I hope
+you got it! This is a sequel of a PWAD I still haven't released
+(should be out by the end of the month), with the sounds, 
+graphics, and music removed. Thus, this PWAD is sort of a 
+pre-release ;-)
+
+I spent a week on the first level, and just about two hours on
+the second. Tell me what you think of the "frag while flying" 
+effect :-)
+
+I made the music of level two on my own, using an AWE32, a GUS,
+a Roland Keyboard, and Cakewalk Apprentice. It is inspired by
+Two Unlimited's euro-hit: No Limit. May their new album be as
+succesful as the previous :-D
+
+================================================================
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels (as long as proper credits are given to the author).
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+================================================================
+
+Very special thanks to the wonderful crew that helped me get
+Lost_Dth where it now is, by giving me very convincing arguments on how
+to improve the level. Namely:
+
+jayson@cs.tamu.edu, Tom.Holmes%8N1@hyit.oau.org,
+fookilla@u.washington.edu, BARNASH@COLLEGE.MED.UFL.EDU,
+geertges@rintintin.Colorado.EDU, LordJim718@aol.com,
+stasiak@iinet.com.au, and all the other helpful people I cannot think
+of right now. Thanks you guies.
+
+I hope our next Episode's gonna rock! (of this I am almost sure, you're
+so talented!)
+
+BTW We're still looking for some beta-testers. If you wanna help,
+drop me a note, I'd be so happy.
+
+And of course, nothing would have been possible without the 
+devotion of scores of people like those at iD, the authors of
+Deu, BSP, MIDI2MUS, MUS2PWAD, ... Sicere congratulations to all
+of them.
+
+================================================================
+
+To use this file with doom, type:
+
+doom -file <path>\lost_dth.wad
+
+where <path> denotes the path to lost_dth.wad from Doom's 
+directory.
+

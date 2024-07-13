@@ -1,0 +1,85 @@
+	It seems there was an error with the original REACTOR1.WAD that 
+	locks up doom when played, that little problem has been fixed.
+	This Reactor.WAD has _NOTHING_ to do with reactor2.wad by that
+	other dude....
+
+
+
+
+
+Title                   :       The Reactor 
+Filename                :       Reactor3.wad
+File to run             :       Reactor.bat
+Author                  :       Toast
+Email Address           :       Toast@bsu-cs.bsu.edu
+Description             :       
+  Scene    :      The site of A fusion reactor.
+  Situation: CRITIAL; An infultration team entered the reactor a day 
+		      ago to check on reports of missing personel and 
+		      strange happenings with the equipment.  A half-hour
+		      ago, all the power went out in the nearby colony.
+		      You've just been ordered to go in, along with your
+		      partner, and investigate.  
+  
+		      Upon entering, you and your partner immediately find
+		      yourselves under a rain of heavy gunfire.  You managed
+		      to dive outta the way, unfortunately you can't say the
+		      same for your partner, you look up just in time to 
+		      see him look at you for help, hand reached out toward
+		      you.  *KA-BOOM*  Your partner's body falls to the 
+		      ground lifelessly.  
+
+		      Rage fills every part of your being as you look up
+		      at the enemy, and then total horror hits you.  Your
+		      partner was just gunned down by one of the members
+		      of the infultration team!  NO TIME TO THINK!! 
+		      *KA-BOOM*  The shot rips through your shoulder....
+		      You unload three shots into the person standing before
+		      you.   
+	
+		      As you examine the body of the man you just killed,
+		      you are horrified when you notice the condition of the
+		      body.  "Three bullets couldn't have done this much 
+		      damage?!"  Well, no matter, you know what you were
+		      sent to do, and you know you can't trust anyone else 
+		      you meet here.....
+						
+					
+					
+
+Thanks to               :       The creator of DoomCad for his awesome program; Sherlock and
+				Jefe for testing it.......etc., etc. 
+				
+<Episode Information>
+
+Episode and Level #     :       Episode 2, Mission 1
+Single Player           :       yes
+Cooperative 2-4 Player  :       yes
+Deathmatch 2-4 Player   :       yes; This is what the level was made for!!!
+Difficulty Settings     :       yes
+New Graphics            :       no      
+New Sounds              :       no
+New Music               :       no
+Demos Replaced          :       no
+
+<Construction>
+NOTES;
+	DoomCAD was used to create the levels in Windows 3.1, with NODEBLD.EXE to create the 
+		nodes in the DOS environment.  
+Base                    : From Scratch
+Editor(s) used          : DoomCAD
+Known Bugs              : No bugs as far as I'm aware..
+			  AND THERE IS AN EXIT!
+
+
+<Copyright / Permissions>
+Please feel free to distribute this WAD (Reactor3.zip). If you do, you 
+must include this file, with no modifications.  No modifications can be 
+done to this WAD without the written permission (electronical or otherwise) 
+of it's creator.  This file may be distributed in any electronic format 
+(Diskette, CD, etc) as long as you include this file (reactor3.txt) 
+unmodified, reactor.bat, and Reactor3.wad unmodified.
+
+<Where to find this WAD>
+FTP sites:  infant2.sphs.indiana.edu
+		and the mirrors.

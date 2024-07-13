@@ -1,0 +1,106 @@
+
+================================================================
+Title                   :  URBAN2.WAD
+Author                  :  Bill Zimmerman
+Email Address           :  wzimm@u.washington.edu
+			 
+Misc. Author Info       :
+
+Description             :  Deathmatch level set in a Bladerunner-inspired
+			   seamy urban core.  Fight in the open streets, 
+			   seek refuge in buildings, duck through dark
+			   alleys, and ambush your opponent in an abandoned 
+			   subway station.  This level has lots of detail
+			   with new sprites, flats, wall textures, and
+			   graphics.  Cool lighting effects, a super shotgun
+			   armory, lots of dark corners, a pit trap, neon
+			   signs, city skyline and more.  Extensively
+			   playtested and refined.  Weapons are strategi- 
+			   cally placed and building layout punishes players
+			   for camping in one spot too long.  Non-cooperative 
+			   exit.  (Bring your hardware--the map itself is
+			   fairly small for deathmatches with plenty of 
+			   contact, but the open design of the city has a
+			   fair number of visplanes).  Music is borrowed from 
+			   Map08 of Doom2.  Zipfile includes DeuSF for a
+			   clean install with no filmy residue like other
+			   PWADs.  
+
+Additional Credits to   :  Olivier Montanuy, for DeuTex & DeuSF
+			   Jeff Rabenhorst, for Edmap  
+			   id Software
+			   L.A.'s graffiti artists
+			   Sheaf Stout
+			   The playtesters: Matt Hoehnen, Shawn Smith,
+			   Josh Yockey 
+			   
+E-Z Installation:
+
+ Unzip the files into your DOOM2 directory and run INSTALL.BAT 
+ DeuSF will append the required sprites and flats from DOOM2.WAD
+ to URBGFX.WAD.  Your DOOM2.WAD is *not* modified.  Alternate method
+ if you have DeuTex: use DeuTex -merge URBGFX.WAD to add the 
+ graphics to your DOOM2.WAD.  This is fast and requires little
+ disk space but modifies DOOM2.WAD.  Restoration of DOOM2.WAD is
+ easy with DeuTex -restore.  Safe for kids.
+ 
+ After installation, run Doom2 thusly: 
+ doom2 -file urban2.wad urbgfx.wad
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map01
+Single Player           : Sure - Ultra Violence will challenge even the
+			  best solo players (No, there's no Cyberdemon)
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes - Skill 1-3 has all weapons except BFG and
+			  chainsaw, a supercharge sphere, and fewer
+			  monsters.  Skill 4 is slimmer on ammo, includes
+			  a berserk box, chainsaw, and enough foes to make
+			  it interesting for solo play.
+New Sounds              : No 
+New Music               : Lifted from Map08 
+New Graphics            : New sprites, flats, wall textures, sky
+Demos Replaced          : Make your own!  
+
+* Construction *
+
+Base                    : Built from scratch - a few Doom2 graphics
+			  borrowed and modified
+Build Time              : A while
+Editor(s) used          : Edmap, IDBSP, Dview250, DeuTex, DeuSF
+Known Bugs              : Blown thugs?
+
+
+* Copyright / Permissions *
+
+You may distribute these files freely on any media, provided they are   
+unmodified and this text file is included.  If you want to use components
+of URBAN2.WAD or URBGFX.WAD for future levels, drop me a note.  
+
+Like it?  Hate it?  Comments are welcome.
+
+
+* FTP sites *
+
+ftp.cdrom.com and mirrors
+ftp.u.washington.edu/public/zoroaster/
+
+* Future plans *
+
+¯How 'bout adding some redefined sprites of police and/or armed security
+drones ("Miscreant, HALT!") for target practice?  Heck, why stop there--why 
+not a full Bladerunner theme conversion?  Any takers?   ;)
+
+¯Until Quake arrives, Doom needs exhaust-belching, gas-guzzling, wide-tired, 
+motorcycles to do battle upon.  Try running around the streets on this pwad
+with -turbo switched on and you'll get the idea.  Now imagine chasing your
+opponent down a long straightaway at 150mph with a side-mounted chaingun... 
+
+---
+ 
+ "Hold out baits to entice the enemy.  Feign disorder, and crush him."
+       -- Sun Tzu on The Art of War
+

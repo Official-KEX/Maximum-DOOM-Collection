@@ -1,0 +1,57 @@
+================================================================
+Title                   : Help!    
+Filename                : help!.WAD (help.zip)
+Author                  : Sam Taylor
+Email Address: fidonet- : Sam.Taylor@f1200.n261.z1.fidonet.org
+               internet-: samtay@welchlink.welch.jhu.edu
+                Comments and Suggestions Welcome.
+
+Misc. Author Info       : Originally Sam's Surprise... added to
+                          and expanded as I learned to use DEU.
+
+Description             : Hack and slack quicky... in an E1M1, 
+                          E1M2 and E1M3 levels replacement. 
+                          Mainly a single player pwad.
+                             ....more to come!
+
+Additional Credits to   : DEU 521, DCK 1.1a, DCK 2.0, BSP 1.2,  
+                          Dmaud 1.1, and Dmgraph 1.1
+================================================================
+
+* Play Information *    : Doom I
+
+Episode and Level #     : E1M1 E1M2 E1M3
+Single Player           : Yes
+Cooperative 2-4 Player  : Available.. Not tried.
+Deathmatch 2-4 Player   : Available.. Not tried.
+Difficulty Settings     : Yes
+New Sounds              : one or two..
+New Graphics            : Opening screen only... yet...
+New Music               : No
+Demos Replaced          : external Help!.lmp file
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 521, DCK 1.1a, DCK 2.0
+Known Bugs              : None known.
+
+
+* Copyright / Permissions *
+
+Authors may not use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:   ftp.cdrom.com in the doom incoming or newstuff
+
+BBS numbers: Silver Streak BBS, Baltimore, MD  (410) 254-3400
+             v.FC/v.32bis      24 hours - Rip Grahpics
+             
+Other:       Pending

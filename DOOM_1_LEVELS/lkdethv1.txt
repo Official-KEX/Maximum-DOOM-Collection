@@ -1,0 +1,59 @@
+================================================================
+Title                   : lkdethv1.zip (lake death)
+Author                  : Alan Bost
+Email Address           : alan@cv3.chem.purdue.edu
+Misc. Author Info       : Just a poor suffering graduate student
+                          in chemistry.
+Description             : A rather large pwad file that features a
+                          large lake with some nasty surprises.
+                          (WATCH YOUR BACK!!) There are no areas with
+                          10 cyberdaemons, etc. and there is no weapon
+                          more powerful than the rocket launcher.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Approximately 40 hours
+Editor(s) used          : Doom Editor for Windows (the real thing)
+                          v. 2.5 beta 
+Known Bugs              : NONE!!  Let me know if you find any.
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites:  
+
+      infant2.sphs.indiana.edu
+
+Misc. Comments:
+
+    This is my first pwad (how's that for a disclaimer).  I would greatly
+    appreciate any comments that you might have (positive or flames).  If
+    you would like to have this level modified for deathmath or cooperative 
+    play, I will gladly do it.  (I have no one to play with/against)
+    Your comments will determine whether I will spend any more time                            
+    building wads.

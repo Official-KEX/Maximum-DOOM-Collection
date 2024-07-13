@@ -1,0 +1,49 @@
+================================================================
+Title                   : Death 2    
+Filename                : death2.WAD
+Author                  : Ian Koropatnick
+Email Address           : jkoropat@julian.uwo.ca
+Misc. Author Info       : At twelve year old with too much 
+homework but other than that I love computers and Doom 
+
+Description             : At small wad made out of Jay DeVore's 
+death.wad
+
+Additional Credits to   :Idsoftware, Jay DeVore, and my parents for 
+letting me stay up late to work on this and to learn about the 
+editor. Oh, and of course my buddies Mike Jarrett and Luke Brown 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No, but you can download my cool.wad.
+New Graphics            : Uh-uh
+New Music               : No, first I want a midi file to convert
+Demos Replaced          : Nope
+
+* Construction *
+
+Base                    : I used Jay DeVore's death.wad and added enemies 
+Editor(s) used          : DoomEd 4.2 (Also great for editing sfx:)
+Known Bugs              : A bit of HOM
+Build Time              : Half an hour
+
+* Copyright / Permissions *
+
+Do whatever you want as long as you include this file.
+
+
+* Where to get this WAD *
+
+FTP sites:
+ ftp.cdrom.com or anybody who mirrors it
+BBS numbers:
+None, but if you want you can put it on one
+Other:
+If you can't figure out how to download E-mail me and I'll send
+you a disk with it.

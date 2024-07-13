@@ -1,0 +1,75 @@
+================================================================
+Title                   : TRENCH.WAD   
+Author                  : Joshua Lehrer
+                        : Fabian Tillier
+Email Address           : Joshua_Lehrer@Brown.EDU
+                        : Fabian_Tillier@Brown.EDU
+Misc. Author Info       : "Don't code angry."
+                        : "Got a problem?  Drown it out."
+
+Description             : TRENCH WARFARE!  An incredible DEATHMATCH
+                        : adventure.  Hunt down your buddies in an
+                        : intricate maze of trenches, while seargants
+                        : and imps shoot at you from above.  Watch out
+                        : for baddies in the trenches too.  No, we didn't
+                        : overload the level with bad guys, they are just
+                        : strategicaly placed.  Remember, this is a WAR,
+                        : not masacre.  FOR MAXIMUM ENJOYMENT, TURN RESPAWN
+                        : ON!  The level will run out very quickly if you
+                        : don't.  Trust us.  We have play tested this for
+                        : hours, and hours, and hours, and hours.
+                        :
+                        : There is a cooperative exit for multi-player,
+                        : and a simple one for single player. Oh, and
+                        : have a good time, all the time.
+                        :
+                        : Did we mention that you should turn RESPAWN on?
+                        : doom -file trench.wad -respawn
+
+Additional Credits to   : Who else but the makers of DEU.
+                        : The authors of BSP.
+                        : ID, for a truely awesome game.
+                        : Asa Arnold '??
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes - but not too difficult.
+Cooperative 2-4 Player  : Yes - but stupid
+Deathmatch 2-4 Player   : Yes - YES YES!!! (use RESPAWN)
+Difficulty Settings     : Not implemented - Not needed
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 100 hours (includes PLAYtesting)
+Editor(s) used          : DEU 5.1   BSP11X
+Known Bugs              : It sucks without RESPAWN!
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, with the following condition:
+
+          They must send a uuencoded copy of the level(s) to each of us
+          at the above e-mail addresses.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+BBS numbers: none
+
+Other: via uuencoded e-mail.  Just send a request to Joshua_Lehrer@Brown.EDU

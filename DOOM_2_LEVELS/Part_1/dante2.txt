@@ -1,0 +1,111 @@
+================================================================
+Title                   : DANTE'S GATE 2.1 for DOOM ][ 
+Author                  : John W. Anderson (aka Dr. Sleep)
+Email Address           : INTERNET:drsleep@hooked.net
+			  Drsleep5@aol.com
+			
+Additional Credits	: Rapha‰l Quinet and Brendon J. Wyber for DEU 5.21.
+			  Colin Reed for BSP v1.xx (can't DEU without it).
+			  Patrix and War Machine for Deathmatch tutoring and
+			  pointing out two nasty LineDefs that I missed.
+			  Desdinova for being a swell kind of guy.
+			  Myself, for being so clever.
+			  And, of course, those guys at id.
+
+Description             : DANTE'S GATE is the first level in my INFERNO series
+			  and is fully compatible with DOOM ][.  I've added
+			  monsters, weapons, and other goodies along the way.
+			  The level has an entirely different look and feel.
+			  For the most part, the only "theme" I had in mind was
+			  to make the level as aesthetically pleasing and 
+			  consistent as possible.  But there is a storyline:
+
+			  After all this wackiness at the UAC base, you have
+			  lost track of your lady-friend, BEATRICE.  How the
+			  two of you ever got separated is no great mystery,
+			  what with all these demons and devils running about, 
+			  but you're damned if you're going to go through 
+			  Hell for nothing.  The only other survivor besides
+			  yourself and Beatrice is VIRGIL, the beatnik space
+			  poet.  He last saw Beatrice by one of the warp-
+			  gates.  Chances are she made it through -- but 
+			  what's on the other side?
+
+			  Only one way to find out.  You'll have to go 
+			  through DANTE'S GATE.
+
+			: Please let me know what you think by E-Mail at any
+			  of the above addresses.
+			  
+			  Enjoy. 
+
+Instructions		: Put DANTE2.WAD and DANTE2.BAT in your DOOM directory,
+			  then type "DANTE2."   
+
+Disclaimer		: I assume no responsibility for anything of any sort
+			  in any way, shape, or form, now, then, henceforeward,
+			  in this life (or the next several) for any screw-ups
+			  or even minor inconveniences this PWAD causes you,
+			  your family, your relatives, friends, ancestors,
+			  associates, employers, pets, neighbors, lovers,
+			  deities (major AND minor), nor any other person --
+			  living, dead, or undead -- that you have or will ever
+			  have any contact with in even the slightest form.
+			  This PWAD has been tested and tested ad infinitum, so
+			  it shouldn't mess with your computer or anything else
+			  remotely associated with it.  But if it DOES, then
+			  too damn bad.  Don't come cryin' to me.  It must be
+			  something YOU did.
+
+Grammar Lecture		: "a lot" is two words, not one; it's "you're," not
+			  "your" -- as in "you are" unless you're (see?) using
+			  the possessive in your (uh huh) text descriptions;
+			  "their" indicates possession, "there" indicates
+			  place or direction.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Oh Yes
+Difficulty Settings     : All
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch, 3 revisions.
+Build Time              : For-friggin-ever	 
+Editors/Utilities used  : DEU 5.0, 5.1, and 5.21 by Rapha‰l Quinet
+			  & Brendon J. Wyber
+			  DEU-ii by ADLER
+			  EdMap v1.20 by Jeff Rabenhorst
+			  BSP v1.0 and v1.1w by Colin Reed
+			  Reject Map Builder v1.2 by Jens Hykkelbjerg
+			  Reject 1.0 by L.M. Witek
+			  DOOM Endoom Data Editor (TED) v1.2 by Peter Monks
+Known Bugs              : Surely you jest, Pops.
+Unknown Bugs		: You tell me.
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+Internet FTP: infant2.sphs.indiana.edu /pub/doom/incoming or /wads
+CompuServe, Gamers+ Forum, Library 8 (Action Game Aids).
+The Four Winds Bar BBS (412) 437-4521  Games Directory #5
+	Desdinova, Sysop; Dr Sleep, Co-Sysop.
+			
+
+(This information form was provided as AUTH_WAD.TXT v1.2 with DEU 5.1.)

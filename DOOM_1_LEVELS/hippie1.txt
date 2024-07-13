@@ -1,0 +1,56 @@
+================================================================
+Title                   : HIPPIE1.WAD
+Author                  : Jim Davis
+Email Address           : slh3622@tntech.edu
+Misc. Author Info       : Part time student / full time lazy
+
+Description:
+
+    A few big rooms, a few small rooms, and some 
+    tunnels.  Lots of wide open spaces, and some good 
+    ambush-points.  I'd like to see it for team play.
+
+    Basically, this wad was created while showing a friend 
+    how to use DEU.  I think it makes a dandy Deathmatch wad, 
+    although it's only been tested with two players.  At the 
+    hardest level, it's got two cyberdemons.  The middle 
+    levels have a cacodemon or two and a spiderdemon.  
+    The easisiest level is best for using `-respawn', as 
+    it only has one imp, some troopers, and some 
+    sergents.
+    
+    Weapon-wise, it's got one of each weapon, except the 
+    chainsaw.  The BFG is stuck on a small ledge behind a 
+    cyberdemon, so it's not all that accessable...  I've 
+    heard that big monsters and BFGs only ruin a level, 
+    but I feel that this one works.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 10 Hours?
+Editor(s) used          : DEU 5.21, RMB2.0
+Known Bugs              : none
+
+* Copyright / Permissions *
+
+Level design copyright 1994 by Sean R. Malloy.
+
+This level may be distributed freely as long as no fee is charged for
+distribution beyond that required to recover the cost of the distribution
+media.
+
+Authors may use this level as a base to build additional levels so long as
+the above restriction on distribution is placed on any derivative levels.
+
+

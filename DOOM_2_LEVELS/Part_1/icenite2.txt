@@ -1,0 +1,75 @@
+                        
+                        
+                        ICE NIGHTMARE 2
+
+   For Beginers:  To load, copy icenite2.wad into your Doom2 directory.
+At the command prompt type "doom2 -file icenite2.wad"    The level will
+load in level 1 of Doom2.
+
+
+    For Everyone:  Ice Nightmare 2 is a made from scratch level for 
+DOOM2(HELL ON EARTH).  It will not run with DOOM 1.  It is a tough level
+with interesting rooms and open areas.  Many of the rooms take some thought 
+and planning.  You do the room the right way and you can get out with barely
+a scratch.  Do it the wrong way and you're IMPMEAT.  There is enough ammo 
+for all difficulty levels, but don't waste it or you will run out.  Try not 
+to use the rockets or plasma unless you have to because you will probably 
+need them later.  That goes double for UV mode.  
+
+    If you like the level let me know.  If you think it sucks, tell me that 
+too.  How else can I make a better level without input from all the Doomsters
+out there.  I can be reached at michaelst@aol.com
+
+    Have fun and lets toast some baddies.  Also check out my other level
+for Doom1 - Icedeath.wad.  
+
+                                  Vt Ice
+
+
+
+
+
+/*******************Wad Authorization Stuff****************************/
+
+
+Title                   : Ice Nightmare 2   
+Filename                : icenite2.WAD
+Author                  : VT Ice
+Email Address           : michaelst@aol.com
+Misc. Author Info       : 
+
+Description             : Tough intricate level with a unique ending.
+
+Additional Credits to   : 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Level 1 of DOOM2(HELL ON EARTH)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Not Recommended
+Difficulty Settings     : ALL 
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Deu II (Deu 5.21 hacked by Alder)    
+                         BSP 1.2 by Colin Reed
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.  
+
+
+You may do whatever you want with this file. If you modify it please e-mail 
+me where I can download a modified copy.  Thanks
+
+

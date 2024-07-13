@@ -1,0 +1,53 @@
+================================================================
+Title                   : Rest In Pieces part III
+Filename                : RIP3.WAD
+Author                  : Jeremy Drye and Nick Tucker
+Email Address           : Forwarded from nickwt@aol.com
+Misc. Author Info       : HS Student
+                          Super Street Fighter II Tubro wanna-be
+
+Description             : How good are you at staying on ledges?  
+                          Test your skill of such in this PWAD.
+
+Additional Credits to   : DEU and BSP authors
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M2
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU
+Build Time              : ~ 3 hours
+Known Bugs              : More than 16 linedefs screw up some walls
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:  Infant2
+
+BBS numbers:  Bills Graphics BBS  (704) 932 4739   19.2K V.32Terbo
+              Carolina Forum BBS  (704) 563 5857   28.8K V.FC
+
+Other:  America Online PC Game Forum
+

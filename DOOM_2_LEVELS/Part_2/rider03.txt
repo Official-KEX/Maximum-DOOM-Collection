@@ -1,0 +1,51 @@
+===============================================================
+
+Title                   : RIDER03.WAD
+Author                  : Ryan Feltrin
+Email Address           : 9307923J@levels.unisa.edu.au
+
+Description             : Once again, a pretty small level. Set in a tall
+                          house of some-sort with brick inner walls. I've 
+                          placed a lot of look-outs around the perfectly
+                          simetric room, and it pays to have a fast system
+                          to be able to guide your way around without bumping
+                          into walls :).
+                         
+Misc Game Info          : Here's the tip: If you know your enemy is waiting
+                          for you to come back out through a teleporter, 
+                          simply walk backwards while on the platform (looking
+                          down the lane of slime), this will place you up on
+                          the center platform, and hope behind the dude your
+                          about to toast!
+
+Additional Credits to   : ID Software.
+                          Ben Morris, author of DCK.
+
+================================================================
+
+* Play Information *
+
+Map  Level #            : Map 03
+Single Player           : <yawn>
+Cooperative 2-4 Player  : yeah, right.. what a geek!
+Deathmatch 2-4 Player   : Sure thing!
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : 
+Build Time              : About a day I guess. Man, what a waiste!
+Editor(s) used          : DCK 2.2
+Known Bugs              : Uh uh, no way! I hate buggy levels!
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels, if they
+have a spare PC to donate !!
+
+Have FUN!
+ 
+úJRú

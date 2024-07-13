@@ -1,0 +1,44 @@
+================================================================
+Title                   : Just another day at school...
+Filename                : SCHOOL.WAD
+Description             : A map of Holy Trinity Regional High in Torbay,
+			: Newfoundland. Deathmatch-only.
+Author                  : Gary Marsh / Genesis PWADs
+Email Address           : gmarsh @ mini.ultratel.com
+Misc. Author Info       : Doesn't attend this school anymore...
+Additional Credits to   : Raphael Quinet for DEU, ID Software for
+			: Doom, and my many deathmatch opponents
+			: who helped debug the level.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes (4 player at its best)
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : No
+
+* Construction *
+
+Time                    : TOO LONG.
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21gcc (the best!), BSP 1.2x
+Known Bugs              : Haven't found any
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels.  You MAY 
+distribute this WAD, provided you include this file, with no modifications and
+notify us by E-mail (Just to be polite).  You may distribute this file in any 
+electronic format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+ftp.cdrom.com
+ftp.idsoftware.com

@@ -1,0 +1,34 @@
+=============================================================================
+Title                   :MOO.WAD
+Author                  :Matthew Pickford
+Email Address           :mspic1@pfs01.cc.monash.edu.au
+
+
+Description             :Modified level of Id's level 1
+			 Extremely good for deathmatch!!!!!!!!!!!!!!!!!
+
+Additional Credits to   :Id for creating DOOM!
+
+=============================================================================
+* Play Information *
+
+Episode and Level #     :E1M1
+Single Player           :Yes
+Cooperative 2-4 Player  :Yes
+Deathmatch 2-4 Player   :Yes!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Difficulty Settings     :Yes
+
+* Construction *
+
+Base                    :DOOM level 1
+Build Time              :10 Hours
+Editors used            :DEU v5.21 and BSP v1
+Known Bugs              :None
+
+*Copyrights / Permissions *
+
+Hey, the editor was free, I looked at just about every .WAD file out there
+to figure out how to do things, and I had a ball doing it.  If I were to
+restrict or copyright this in any way the spirit would be lost.  Besides,
+if you claim this as your work I figure you'll eventually rot in your own
+personal hell...  (Me, I'll be hanging out in Hell on Earth...)

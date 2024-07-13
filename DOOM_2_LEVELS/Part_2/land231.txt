@@ -1,0 +1,52 @@
+L       A    N   N  DDD   M   M  IIIII  N   N  EEEEE    22222
+L      A A   NN  N  D  D  MM MM    I    NN  N  E         2 2  
+L     AAAAA  N N N  D   D M M M    I    N N N  EEE       2 2
+L     A   A  N  NN  D  D  M M M    I    N  NN  E         2 2
+LLLLL A   A  N   N  DDD   M   M  IIIII  N   N  EEEEE    22222
+ 
+			   -AND-
+
+L       A    N   N  DDD   M   M  IIIII  N   N  EEEEE    3333333
+L      A A   NN  N  D  D  MM MM    I    NN  N  E         3 3 3
+L     AAAAA  N N N  D   D M M M    I    N N N  EEE       3 3 3
+L     A   A  N  NN  D  D  M M M    I    N  NN  E         3 3 3
+LLLLL A   A  N   N  DDD   M   M  IIIII  N   N  EEEEE    3333333
+
+This .zip contains 4 FILES:
+
+Land2.wad       Replaces E2M1
+Land3.wad       Replaces E2M2
+Land.bat        Just type it and you're all set.
+Land231.txt     You're readin it.
+
+ahHA... A SEQUEL!
+These are much more interesting than their eldest brother.. landmine.
+I spent much more time doing these.
+**note** This is an update to fix certain problems with rising stairs...
+Also I added new lighting and traps on E2M2...
+
+The general idea is that keys are useless. You have to find a switch 
+that opens a door so that you can proceed. Sometimes you have to find
+a switch that opens a door to another switch which opens another...
+You get the drift.
+
+Also keep in mind that I don't believe in back tracking unless it will
+be interesting. In other words, watch for monsters on the way back.
+
+Deathmatch is not in these. Due to the nature of the 
+level, players would be locked in areas until other players got there.
+Cooperative is in there, you all start in the same room. And I only added
+a few more monsters to it for co-op. If you have Edmap you can add more.
+Just don't change anything but things please.
+Also difficulty levels are on Both.
+
+These levels replace E2M1 and E2M2.
+I use Edmap 1.24.
+
+Please don't use these to build new levels, they are big enough as it is.
+
+All responses, questions, bugs, mail me:
+Anthony Rocchio
+VICTIM@NECA.COM
+
+tHANX fOR pLAYING...eNJOY!

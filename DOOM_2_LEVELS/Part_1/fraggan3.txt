@@ -1,0 +1,51 @@
+Title                   : Fraggan3.wad
+Filename                : Fraggan3.zip
+Author                  : Engdahl, Wm.  [4-D CREATIONS]    [reddawg]
+Date                    : 3/23/95
+Email Address           : none/or  [ dlbaer@halcyon.com (forwards messages) ]
+Misc. Author Info       : Old fart playing with his wads. I like designing 
+                          the arenas.
+                          
+* Play Information *
+
+Game                    : DOOM II
+Level #                 : MAP1
+Single Player           : Yes, just to take a look...don't think i put any 
+                          monsters in...[well, only a few...]
+Cooperative 2-4 Player  : What's the point?
+Deathmatch 2-4 Player   : YES! Kill yer buddies...very nice 3 player and
+                          hectic 4 player.  Lots of action centered around the
+                          rocket launcher platform, and some in the secret 
+                          hallways.  Watch out for the blind hallways, people
+                          pop out of walls.  There is an exit, by the candles, 
+                          but it takes two to operate.  This one has been a 
+                          hit so far, so enjoy!........[woof]
+Difficulty Settings     : Yes  Just for practice with dumb old monsters...
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None replaced 
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 12 hours Build + 8 hours Testing, and counting.
+Editor(s) used          : Waded 1.83   by Matthew Ayres
+                          Known Bugs: None noticed so far...
+                         
+
+Thanks to all the folks at Id Software, this is such an excellent game!!!
+Thanks to Seattle Dwango users who helped test wad!
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels. As long as my name is in the credits :)   ha ha    [woof]
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact. You may do whatever you want with this file,
+apart from delete it ;)    ha ha ha        [woof woof]    
+
+

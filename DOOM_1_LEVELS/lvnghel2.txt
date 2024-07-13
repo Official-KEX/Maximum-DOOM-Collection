@@ -1,0 +1,55 @@
+================================================================
+Title                   : LVNGHEL2.WAd
+Author                  : Bill Waugh (thermo)
+Email Address           : thermo@ideal.ios.net
+Misc. Author Info       : Well im just a guy wasting his life on doom
+                          goto school.. and play doom.. and meet girls (*wink*)
+                          
+Description             : Well i finally finished my sequal to lvnghell.wad  
+                          this should be about 10x better than lvnghell.wad                               
+                          so have fun and look forward to my next in the                                 
+                          lvnghel.wad series
+
+Additional Credits to   : The makers of Doom and deu
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : No
+Cooperative 2-4 Player  : No  
+Deathmatch 2-4 Player   : YES!  
+Difficulty Settings     : No
+New Sounds              : No
+New Music               : YES!
+New Graphics            : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : About 20 hours
+Editor(s) used          : Deu5.1, Deu5.2, BSP1.1x for nodes
+Known Bugs              : NONE
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels.
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+(*************)
+
+If you enjoyed this wad, please at least send me e-mail saying so.  I've 
+put well over a 20 hours into this level (so far) so if you really like
+it, please consider sending me real mail
+
+
+(*************)
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu, 
+

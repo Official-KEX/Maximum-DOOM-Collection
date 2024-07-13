@@ -1,0 +1,41 @@
+================================================================
+Title                   : TEAM FRAG
+Filename                : teamfrag.wad
+Date released           : 1994
+Author                  : Craig and some other dude
+Description             : A deathmatch level designed for 2 on
+                          2 competition. Four players are
+                          required.
+Additional Credits to   : me <CG> for writing this text file
+================================================================
+
+* Play Information *
+
+Episode and Level #     : DOOM2, Map 01
+Single Player           : Boring
+Cooperative 2-4 Player  : 2-4 times more boring.
+Deathmatch 2-4 Player   : Yes!!!
+Difficulty Settings     : No
+New Sounds              : No  
+New Graphics            : No
+New Music               : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Deu2
+Known Bugs              : None.
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, but I like to hear about the changes.
+
+You may distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+

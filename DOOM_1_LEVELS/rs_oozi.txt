@@ -1,0 +1,68 @@
+============================================================================
+
+Title                   : RS_OOZI.WAD 
+Author                  : Robert Schweiner
+Email Address           : c/o briley@ihades.att.com
+Misc. Author Info       : Green Bay, WI  (Go Pack!)
+
+Description             : This level is designed to provide lots of
+             shooting action (hence the "oozi" pun).  There aren't a lot
+             of puzzles, or secret doors that must be found to get to
+             the end.  Nor are there any "death traps" or rooms with 18   
+             Cyberdemons.  Just steady action.  And while there are lots of 
+             bad guys to kill, an attempt was made to keep it realistic and 
+             within the class of an original Doom level (i.e. this isn't just 
+             another bunch of monsters and weapons and ammo haphazardly 
+             strewn about every room).  I'd appreciate any and all comments/
+             flames as to whether it succeeds.
+             It has been beta tested by 2 players other than myself (with 
+             a "thumbs up" from both), but only in single-player mode.  
+             Multi-player and Deathmatch modes are provided, but not tested.
+             The difficulty levels are also implemented.  In general, the
+             harder the difficulty, the more monsters you get.  This level
+             is designed to be challenging WITHOUT using the cheat keys!
+
+             This is my first attempt at a Doom level built from scratch.
+             Many, many, many! hours went into this level, the majority of
+             which were spent learning various editors and the ins & outs
+             of building levels in general.  At some point in time I'm sure
+             I've done every wrong thing that can be done.  But it's been 
+             a lot of fun and I hope you get as much fun out of playing it.  
+
+                          
+Additional Credits to   : Geoff Allan for the DoomEd editor (V2.5), and
+                          Raphael Quinet for the DEU editor (V5.0 & 5.1)
+                            which were used to create this level.
+                          Bruce Kuehl and Bruce Riley for beta testing.
+                          Linda Schweiner (my patient wife).
+                          id Softwade for starting this whole wonderful saga.
+
+============================================================================
+
+  * Play Information *
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes, but not tested
+Deathmatch 2-4 Player   : Yes, but not tested
+Difficulty Settings     : Fully implemented (but who plays anything other
+                                             than Ultra Violent anyway)
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+
+  * Construction *
+Base                    : None (original creation)
+Build Time              : Dozens and dozens of hours (days? weeks?)
+Editor(s) used          : DEU 5.0 & 5.1; DoomEd 2.5 beta 3; BSP 1.1
+Known Bugs              : There are 1 or 2 spots where, when you walk over
+                          them, the screen blacks out.  If you're moving at
+                          any speed faster than an absolute dead crawl, it
+                          only lasts a split second.  (Any ideas?)
+
+
+  * Copyright / Permissions *
+Feel free to use this level as a base for new variations (I'd be flattered).
+I only ask that you don't use the "RS_....." name as I plan to put out
+additional levels with that naming convention.  
+

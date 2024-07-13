@@ -1,0 +1,45 @@
+================================================================
+
+Title                   : Round we go!!
+Filename                : ROUND.WAD
+Author                  : Mattias Amnefelt
+Email Address           : mattiasa@jakgym.se
+
+Description             :
+It's inspired by map07, but with som coridors on the outside.
+
+Additional Credits to   :
+Tomas Lund ( tlund@jakgym.se )
+He gave me lots of inspiration, and ideas.
+
+================================================================
+
+
+* Play Information *
+
+Game                    : DOOM II
+Episode and Level #     : MAP01
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+
+* Construction *
+
+Base                    : New level from scratch
+Build time              : One week, in Tomas house during the easter vacation
+Editor(s) used          : DEU 5.21/BSP 12.x
+Known Bugs              : NONE
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+

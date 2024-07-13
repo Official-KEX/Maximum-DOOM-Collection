@@ -1,0 +1,50 @@
+===========================================================================
+Title                   : SPANKY04
+Date Finished           : 5/29/95
+Author                  : Eric Burgess
+Email Address           : ericbur@iadfw.net
+Other Files By Author   : none yet
+Misc. Author Info       : SPANKY on Dallas DWANGO
+                          
+Description             : Made-for-deathmatch level.  One blue sphere
+                          and one blue armor.  No plasma weapons.  A
+                          couple of secret rooms and LOTS of windows.
+                          Fast and deadly with 3 or 4 players.
+
+Additional Credits to   : Nine Inch Nails for the music!
+===========================================================================
+* Type of DOOM or DOOM II file*
+
+(Choose One)
+New level WAD           : Yes
+Sound PWAD Only         : No
+Music PWAD Only         : No
+Graphic Addon Only      : No
+.LMP Only               : No
+Other                   : Music is "Head Like a Hole" by Nine Inch Nails
+
+* Play Information *
+
+Map #                   : Map 01
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Hell Yeah
+Difficulty Settings     : Not Implemented
+New Sounds              : No
+New Music               : Bitchin'
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : From Scratch
+Build Time              : about 6 hrs
+Editor(s) used          : Deu2, Norton Disk Editor (added music the hard way!)
+Known Bugs              : none known.
+
+* Copyright / Permissions *
+
+Do whatever the hell you want with it.  But if you change it, just be
+sure to change the name, too, and give me credit in the .txt file.
+
+Please distribute this wad.

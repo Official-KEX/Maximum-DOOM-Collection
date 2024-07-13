@@ -1,0 +1,26 @@
+4Pdeath.wad
+
+Author:  Jason Boche, W. St. Paul, MN
+Internet address:  hulio495@aol.com or rgjv78a@prodigy.com
+Completion date:  February 8, 1995
+Completion time:  10 hours (gimme a break, it's my first one!)
+Tools used:  Doomcad5.1 for Windows, AMD 486DX2/80
+Needed:  Registered version of Doom2 (v 1.666 or above)
+Replaces:  Map 01                                   
+
+This pwad supports single player, 2-player modem, and 2 thru 4 player network
+play (co-op and deathmatch).  Start out on map 01 to play this level.  This is
+my first distribution and attempt at creating a DoomII level.
+
+This level can be played as a single level only, but it was really meant for
+2 to 4 player deathmatch.  It's alot more fun that way!
+
+The setting is 75% out in the open, however, there are a few passage ways
+outside of the large open area.  A few secret places, but no official 
+secrets where you get credit for them.
+
+Give me some feedback and let me know what you think!
+
+You can reach me at hulio495@aol.com or rgjv78a@prodigy.com
+
+Happy Dooming!

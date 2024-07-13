@@ -1,0 +1,62 @@
+================================================================
+Title                   : Massacre
+Filename                : MASSACRE.WAD
+Author                  : Ryan Caine
+Email Address           : caine@teleport.com
+Misc. Author Info       : just a major doom addict
+
+Description             : This is a pretty fast-paced deathmatch
+                          level. It was made for 2 players. I
+                          haven't tested 4 players. There is a 
+                          floating cube on this level and the  
+                          cube has no gliches. I didn't make the
+                          cube the same way as the author of
+                          FLOATCUB. It should be a very good
+                          level for anyone. This level is a need
+                          for everyone! 
+
+Additional Credits to   : ID, Jeff Rabenhorst for Edmap, the 
+                          author of Floatcub.wad, and some
+                          friends for helping test this level
+================================================================
+
+* Play Information *
+
+Game                    : DOOM II
+Episode and Level #     : 1
+Single Player           : Yes (just for looking around)
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes!
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes ("blew" by Nirvana, really good 
+                          music for deathmatch)
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Edmap 1.31 and nwt 1.02
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites: FTP.CDROM.COM
+
+* Misc *
+
+If you want to know how to make a floating cube or want to send
+comments, just e-mail me at caine@teleport.com

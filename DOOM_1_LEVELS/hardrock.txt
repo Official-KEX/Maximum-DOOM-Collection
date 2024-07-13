@@ -1,0 +1,61 @@
+================================================================
+Title                   : HARDROCK.WAD
+Filename                : HARDROCK.ZIP
+Author                  : Mark Lusk
+Email Address           : 74723,3236 CompuServe Internet mlusk@infi.net
+Misc. Author Info       : Author of Rooms.wad, Claws of Heretic, Hunter.wad
+                          for Heretic and several Doom and Doom][ wads.
+
+Description             : Hardrock is for Deathmatch only - This wad takes 
+                          in a abandoned castle where a river has cut through
+                          the wall. There are many, many secrets that will
+                          help in battle. Take nothing for granted!!
+
+Additional Credits to   :
+================================================================
+
+* Play Information *
+
+Game                    : Heretic
+Episode and Level #     : E1M1
+Single Player           : Yes (BORING) - No Monsters - created for Deathmatch 
+Cooperative 2-4 Player  : Yes (BORING) - No Monsters - created for Deathmatch
+Deathmatch 2-4 Player   : Yes!!!!! - Tested with Ernie "the Osprey" Smith
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DCK and HEEP
+Known Bugs              : None leave a comment if found
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels. Please give credit to the original WAD maker.
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+
+
+* Where to get this WAD *
+
+
+BBS numbers: CompuServe Action Games area - Hot Heretic
+
+Drop a line it is easy and keeps WAD builders going!!!!!
+
+Mark Lusk
+74723,3236
+mlusk@infi.net
+

@@ -1,0 +1,50 @@
+                    ****The S&J wad collection V1.2****
+
+*****************************************************************************
+This wad collection was made by two Oregon State University doom 2 fanaticks.
+It is not an attempt to show off wad making mastery, for we are just beginners
+and these are our first creations.  We were just trying to make good 
+deathmatch levels with the intent being fun.
+
+  We thank the maker of waded, our creation program, and the maker of pimp.wad 
+for some ideas we borrowed.
+
+  Level descriptions:
+
+  Map 1:  This is done by the S in our S&J team, his modified and entertaining 
+  version of the first level.  This was his first experiment with Doom level 
+  making, so take it easy on him if you don't like it.  We feel this is the 
+  best size doom level for deathmatch fun, for it features frequent encounters
+  that some of the doom2 later levels dont offer.  this theme is in our wads.
+  
+  Map 2:  The first original done by S in the S&J team, it features a plasma 
+  soulsphere combo that he loves so much.  Notice that same combo in map one.
+  this level focuses on a simple but balanced lay out.  The level is just  
+  plain interesting enough to be played without getting bored.
+  
+  Map 3: The J in S&J's team did this one. There isnt too much to say.  
+  It features rooms that have loops or double exits out of.  Just a quick 
+  level to play on deathmatch a couple of times.
+  
+  Map 4:  J again, this one features a loop around a main center area.  Lots 
+  of weapons, dont use rockets on the chase, they dont get the job done.
+  
+  Map 5:  This one is also the J.  Ever get sick of rematerializing, blasted,
+  (*repeat*) many times.  well this one ALMOST gets rid of that dillema.
+
+  We dont remember that sheet of features so:
+  Doom2 levels 1-5, new designs, and nothing much else.  We are currently 
+  working on sounds, music, and graphics, so we can eventually create a dorm wad
+  complete with actual dorm graphics.  
+  Maps 1 and 2: single, co-oper, dmatch
+  Maps 3,4, and 5: dmatch only, and timed if you want to see other levels. 
+  (no exits)
+
+  we almost forgot to thank those wonderful doom2 creator people at id software 
+  for such a lasting game.
+
+  comments and criticisms:
+  wardje@ucs.orst.edu
+
+  
+

@@ -1,0 +1,56 @@
+================================================================
+Title                   : sports.WAD   
+Author                  : Alan Retlick
+Email Address           : retlick@digidoc.org
+                          yxwu01a@prodigy.com
+
+Misc. Author Info       : Not too bad for my first try!
+                          This one has a little of everything.
+                          Arena warfare, Traps, Hunting and more!
+
+Description             : Aliens have taken over the Phobes Sports
+                          Complex. You must clean out the bad guys, 
+                          so we can once again have sports in Space!
+                          
+Additional Credits to   : id Software the creaters of Doom. 
+                          Raphael Quinet and Brendon Wyber for DEU.
+                          Colin Reed for BSP.
+================================================================
+
+* Play Information *
+Doom Version            : V1.2 R
+Episode and Level #     : E2L1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes  Untested
+Deathmatch 2-4 Player   : Yes  Untested
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : sports.lmp
+
+* Construction *
+
+Base                    : New level from scatch
+Build Time              : The first one...a long time. 
+Editor(s) used          : deu51 and bsp11x
+Known Bugs              : The graphics slow down a little
+                          when the action gets hot. But that's 
+                          expected.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, provided that I get a little credit!  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites: ftp.orst.edu /pub.gaming/doom
+           infant2.sphs.indiana.edu /pub/doom
+

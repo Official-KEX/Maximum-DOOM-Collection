@@ -1,0 +1,52 @@
+Title                   : Reddawgs.wad
+Filename                : Reddawgs.zip
+Date                    : 2/2/95
+Author                  : Engdahl, Wm.  4-D CREATIONS  [reddawg]
+Email Address           : none/or  [dlbaer@halcyon.com (forwards messages)]
+Misc. Author Info       : Old fart playing with his wads. I like designing 
+                          the arenas.
+                          
+* Play Information *
+
+Game                    : DOOM II
+Level #                 : MAP1
+Single Player           : Yes, just take a look, kill some monsters... 
+Cooperative 2-4 Player  : What's the point?
+Deathmatch 2-4 Player   : YES!  Kill yer buddies...very cozy 2 or 3 player and
+                          hectic 4 player.  This is an earlier wad I designed
+                          and redesigned repeatedly, learning how to do wad
+                          editing.  I've done just about everything I can to
+                          it and there should be no more revisions.  There is    
+                          an exit behind the candles for totalling scores. 
+                          There are several secrets in this wad, which will
+                          augment play for those who discover them.  Enjoy!
+Difficulty Settings     : Yes!  Practice killing monsters at various levels,
+                          with #4 being very difficult but possible.
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None replaced 
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 24 hours Build + 8 hours Testing, and counting.
+Editor(s) used          : Waded 1.83   by Matthew Ayres
+                          Known Bugs: None noticed so far...
+                         
+
+Thanks to all the folks at Id Software, this is such an excellent game!!!
+Thanks to all the players on Seattle Dwango for their help too.
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels. As long as my name is in the credits :)   ha ha  [woof]
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact. You may do whatever you want with this file,
+apart from delete it ;)    ha ha ha        [woof woof]
+
+

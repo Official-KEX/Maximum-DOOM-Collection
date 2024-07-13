@@ -1,0 +1,71 @@
+================================================================
+Title                   : Fortress of Doom (2)
+Filename                : FORTRESS.WAD
+Author                  : Rylan Hilman
+Email Address           : rhilman@oasis.rain.com
+Misc. Author Info       : I own a cat named Sabre. He "maus". :)
+
+Description            : The baddies who you beat up in Doom 2 are not 
+                         completely destroyed. The last remaining faction 
+                         captured and took up residence in an old castle. 
+                         You have been sent to retake it.
+
+                         This level will work with single player, cooperative,
+                         deathmatch, and altdeathmatch modes. If you can't 
+                         figure out how to get back up to the outer rim, there
+                         are stair-ladders on the top, sides, and bottom of the
+                         map. 
+
+
+Additional Credits to   : iD Software
+                          Heikki Halme(hehalme@freenet.hut.fi)
+                          The guy who made Deu
+                          The guy who fixed up Deu2
+                          Sabre "Mau" :)
+================================================================
+
+* Play Information *
+
+Game Type(Doom or Doom2): Doom 2
+Episode and Level #     : Level 01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (untested)
+Deathmatch 2-4 Player   : Yes (untested)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Deu2
+Build time              : Around 30 hours
+Known Bugs              : I did notice a HOM as one of the lifts came down,
+                         but I couldn't figure out where it came from.
+                         
+                          
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+ftp.orst.edu:/pub/doom/incoming
+                      /NEWSTUFF (if not there)
+                      /doom2/wads (if not in NEWSTUFF)
+
+Other:
+
+alt.binaries.doom

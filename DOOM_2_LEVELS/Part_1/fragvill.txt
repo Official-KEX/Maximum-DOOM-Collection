@@ -1,0 +1,51 @@
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+Title                :  FRAGVILLE, USA!!!!!
+Filename             :  Fragvill.WAD
+Author               :  Michael C. Davis
+Email Address        :  Software Creations BBS: (508) 368-7036
+Misc. Author Info    :  Ok, heeeere it is!, Fun for the whole family!, its..
+				----- FRAGVILLE, USA!!!! -----
+			Thoroughly play-tested at (almost) every level!!!
+			Lots o' fun for you deathmatch types, but equally 
+			satisfying for the kiddies. Come one, Come all!!!!!
+
+Description          :  This wad is my idea of an old medeival castle. There
+			is a dungeon, a moat, a head on a stick, and lots of
+			"observation points" for the snipers amongst us. The
+			place is called Fragville because..... Oh, I guess
+			you can find out on your own. 
+
+Additional Credits to : Mark Klem (MKD2), Jens Hykkelbjerg (RMB 2.0),
+		        and Colin Reed (BSP 1.2x).
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+* Play Information *
+
+Level #                 : MAP01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes!
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes. Background music ala Nirvana
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Converted from an old favorite from Doom 1.
+Editor(s) used          : MKD2.exe
+Known Bugs              : None.
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+* Copyright / Permissions *
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+Where to get this wad (and many more)...
+Software Creations BBS: (508) 368-7036
+

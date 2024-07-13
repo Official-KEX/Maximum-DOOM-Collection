@@ -1,0 +1,66 @@
+
+Title                   : Spooky Deathmatch
+Filename                : spookydm.wad
+Author                  : Adam Williamson
+Email Address           : adam@scss.demon.co.uk
+Misc. Author Info       : Wolf3d FAQ Author, Doom nut, creator of the Spooky
+						  episode WAD (look for it soonish).
+
+Description             : This is the deathmatch level of the Spooky series.
+						  It will probably be the secret level to my Spooky
+						  episode. I can't really "set a mood" - this level
+						  is designed for pure deathmatch (2.0 recommended).
+						  It's a medium size, but due to clever circular
+						  design coupled with strategic windows, in a 3 or
+						  4 player game you can almost always see an opponent.
+
+
+Additional Credits to   : The usual suspects! iD, the author of Edmap (great
+						  editor!) and the Ledges series for a bit of 
+						  inspiration.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Edmap 1.40
+Known Bugs              : NONE! My levels are always bug free. Also, all 
+						  textures endeavour to "make sense", and all windows
+						  have a border to alleviate that ugly non-matching
+						  problem.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, as long as I get a mention in the Additional Credits to: section.
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com
+
+BBS numbers: None
+
+Other: Compuserve
+

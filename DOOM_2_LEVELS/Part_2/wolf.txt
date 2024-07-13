@@ -1,0 +1,72 @@
+================================================================
+Title                   : The Ultimate Enemy
+Date                    : 5/13/1995
+Filename                : WOLF.WAD
+Author                  : Mark Potter
+Email Address           : ljbu20a@prodigy.com
+Misc. Author Info       : Sometimes, I really don't know about me.....
+
+Description             : This is the first 4 levels of Doom 2, now with only
+                          one enemy (the Wolfenstein soldiers) and 2 weapons
+                          (the super shotgun and the chaingun) !!  Ammo is
+                          scare and so is the health, so when you find some,
+                          you better conserve it a little !
+
+Additional Credits to   : id, the makers of DEU2 and D!Zone
+================================================================
+
+* Play Information *
+
+Episode and Level #     : DOOM II Levels 1-4
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : 1 (of all 4 levels, see below for details)
+
+* Construction *
+
+Base                    : The first 4 levels of Doom 2
+Editor(s) used          : DEU2 and D!Zone's randomizer
+Known Bugs              : you must be kidding!
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers: from The Wall (1-214-286-8291), Code Red (1-214-424-4702),
+Jackalope Junction (1-501-785-5381)
+
+Other: contact me at ljbu20a@prodigy.com
+
+==============================================================================
+                       My Amazing DOOM LMP Films           
+
+Title       : The Ultimate Enemy : The Movie 
+Category    : Bloody 
+Recorded by : Mark Potter                            Date : 5/13/95
+Episode     : The Ultimate Enemy    Level: 1-4       Skill: Ultra Violence 
+
+Summary: This is a complete demo of my 4 level episode - The Ultimate Enemy.
+The only enemies are those pesky soldiers from Wolfenstein and the only 
+weapons are the super shotgun and the chaingun !! 
+
+Works With DOOM Version : DOOM 2 v1.9
+
+Duration : 16:26 minutes
+
+(this is a modified version of "The DOOM .LMP Film Collection: Collector's 
+Edition" template)

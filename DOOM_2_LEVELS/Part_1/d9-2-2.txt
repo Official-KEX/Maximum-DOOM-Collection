@@ -1,0 +1,79 @@
+=============================================================================== 
+Title                   : D9-2-2.WAD for DOOM II!
+   
+Author                  : Mal Blackwell
+
+Email Address           : HarpPlayer@aol.com
+                        : 75031,3117@compuserve.com
+
+Misc. Author Info       : Looking for a job in the PC Game biz!
+                          Any interested partys please
+                          contact me! (please, please, please)
+
+Description             : D9-2-2! Well its finally here, the last 3 levels
+                          of the D9 series for Doom2!  If I do say so myself
+                          these 3 levels are the finest of the series, and
+                          complete the 10 level mini episode I have been
+                          working on!  A must have for any D9 fan!  I have
+                          included two handy batch files to load all 10
+                          exciting levels when you play.  I decided not to
+                          group them to save you download time and money.
+                          These replace levels 8 through 10, and I'm sure
+                          you'll enjoy them.  Have fun!!
+
+Additional Credits to   :Christen D. Klie, Playtester, Puzzle Meister 
+                         technical support and true friend. Thanx buddy!
+                         all around swell guy.  ;)
+                        :John Anderson, Supplier of all the great tools!
+                         net surfer and technical support.
+                         another swell guy.   :>
+                        :Mat Diamond, Playtester and all around
+                         sphincter guy.   :P
+                        :Scott Smith, Playtester, Distribution and 
+                         D9 hypester. also a swell guy    :) 
+                        :Joe Cruz, For doing all my real work while I
+                         Putz around with this stuff, a swell guy too.  :o
+                        :To my wife Erin, Who doesnt know what I've been 
+                         doing for the past month and if she did I'd be
+                         dead meat! But she got me a PC for the house anyway.:D  
+===============================================================================
+
+* Play Information *
+***These levels will only work with DOOM 2 the commercial version!***
+Level #s                : L# (Levels 8-10)
+Single Player           : No (there are player one starting points)
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New levels from scratch
+Build Time              : 60+hours 
+Editor(s) used          : DEU5.21gcc, DEU-II, EDMAP1, BSP1.1w & BSP1.2x
+Known Bugs              : Aaahhhh, hu hu huhuhuhu hu......not.
+
+
+* Copyright / Permissions *
+
+Authors (may NOT) use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+::::::Infant2.sphs.Indiana.Edu   (\Incoming  or  \Newstuff  or  \Wads)::::::
+::::::orst.edu                        "              "             "  ::::::   
+BBS numbers:
+::::::DOOM MAINIA!! BBS at (317-662-8842)::::::
+Other:
+::::::Compuserve, Gamers Forum. Library 12:::::
+::::::::America On Line, PC Games Forum::::::::

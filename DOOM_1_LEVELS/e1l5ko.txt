@@ -1,0 +1,33 @@
+
+  To use this wad file, be sure to use the following command to load doom:
+
+  DOOM -LOAD E1L5KO.WAD -DEVPARM -SKILL 4 -WART 1 5
+
+  Be sure to use SKILL 4 (Ultraviolent) are you will be missing out on
+  a couple of things.
+
+  I made this level especially for deathmatch, but it is also a great game
+  for cooperative mode.  Also, if you are like me, then this is a great 
+  challenge for single play mode.
+
+  Now about the lmp I included.  It shows that someone can win one this
+  level by himself.  A little history about making it.  Finishing this
+  level is hard, especially when under time constrant.  I tried many time
+  to get the level finished under 15 minutes or so (seems to be the lmp
+  time limit).  Finally I did so, but after looking at my inventory, I
+  noticed that I didn't pick up the red card when I teleported.  Having
+  nothing else I could do in 30 seconds, I blew myself up on purpose.  But
+  since this was at the end of the level with a lot of ammo and health 
+  everyone should realize that I could of finished it.  Lesson is to make
+  sure you get the red key card when you teleport.  This was the first time
+  I missed it, so you usually get it  when you teleport.
+
+  To load the lmp type:
+
+  doom -devparm -file e1l5ko.wad -skill 4 -playdemo e1l5ko
+ 
+  Please leave me e-mail if you enjoy or have any comments on this wad file.
+  The more responces I get, the more levels I will edit an upload.
+
+   Ken Ordes
+   kjoee@uno.edu

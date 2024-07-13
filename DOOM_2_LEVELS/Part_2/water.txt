@@ -1,0 +1,86 @@
+=========================================================================
+Title                   : The Watering-Place
+Filename                : WATER.WAD
+Author                  : Dominique Lavergne
+Email Addresses         : Dominique_Lavergne@email.francenet.fr
+                          100424.3626@compuserve.com
+                          lavergne@dialup.francenet.fr
+
+Description             :   As soon as coming back from The Tunnels after
+                          having killed all Hell Order agents, Gal Mac Porter
+                          congraculates you for your success. Indeed, you can
+                          see that Hell Order forces have lost a lot of their
+                          strengh and power. You didn't work for nothing.
+                            Meanwhile, you need to acomplish the last mission
+                          to definitely heradicate these Hell forces. So, for
+                          the last time, you go back to Middle Ages to do 
+                          your work. Gal Mac Porter warns you about the
+                          surely hardness of this mission, because it seems
+                          to be Hell Order's last chance to invade Earth.
+                            Try to do you job as well as you did in previous
+                          missions and may luck be with you !
+
+==========================================================================
+
+Installation            :   Quite easy. Unzip the file in your Doom2 
+                            directory and type WATER.
+
+Additional Credits to   : Id Software for creating such great games
+                          All of you who create such great tools
+==========================================================================
+
+* Play Information *
+
+Game Type               : Doom 2
+Episode, Level #        : MAP01  
+Single Player           : Yes   
+Cooperative 2-4 Player  : Yes (Untested)
+Deathmatch 2-4 Player   : No, sorry
+Difficulty Settings     : Yes, all 5.
+New Sounds              : Yes
+New Graphics            : Yes
+New Music               : Yes
+Demos Replaced          : None
+
+
+==========================================================================
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : WADED, DEUTEX, MIDI2MUS
+Build time              : About 2 weeks.
+Known Bugs              : None that I know of
+                          
+
+==========================================================================
+
+* Misclaneous *
+
+  Send me your reactions and comments about this Wad, using one of the
+above Email adresses.
+
+  These four Pwads (The Monastery, The Fortified Castle, The Tunnels and The
+ Watering-Place will soon be merged in a single Pwad, with, I guess, some 
+ improvements (new graphics, sounds and music).
+
+
+==========================================================================
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites:
+        ftp.cdrom.com
+        ftp.luth.se
+
+

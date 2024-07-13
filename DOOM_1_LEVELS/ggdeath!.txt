@@ -1,0 +1,84 @@
+Title                   : Green Goblin's Deathmatch Levels   
+Filename                : GGDEATH!.WAD
+Author                  : Green Goblin (aka Jim Thompson)
+Email Address           : am249@freenet.carleton.ca
+Misc. Author Info       : access to internet c/o Brett Brooking
+
+Description             : The first 8 levels of this wad were created by me
+                          with the intention of using them in deathmatch
+                          mode with my buddies.  I did try to build them so
+                          that they can be played in single mode, but I may 
+                          have missed a few weapon stashes or monster dens
+                          that should be toggled for multi-player only.
+
+                          There is a definite trend in the complexity of the
+                          levels from 1 to 8.  This reflects the fact that
+                          I was just learning how to build wads at the first,
+                          and slowly got the hang of it by the end.  Also, 
+                          a modified E1M1 is included as the secret level, 
+                          because my friends and I like that level best in
+                          deathmatch mode.
+
+                          The stat bar was based on one I found in the DOOM2
+                          DOMAIN.WAD.  I lost the text file that came with
+                          it, so apologies to the author.  The status bar face
+                          was built by my friend B^2, and the new wall 
+                          textures are modified floor textures saved as walls.
+                          The new sky was something I generated in VistaPro, 
+                          the menu lettering was generated in TrueSpace 3D 
+                          Modeller (they didn't come out like I wanted, 
+                          320x200 resolution sucks :<  ), and the new mission
+                          names were simply cut and pasted from the existing
+                          ones.
+
+                          Phew! Well, I think that's it.  I hope you enjoy it.
+                          Coincidentally, I also put together a pwad of new
+                          sounds for use with my new levels.  It is called
+                          GGSNDS!.WAD.  It is 1.6Meg, so I didn't include it
+                          with this file.
+
+Additional Credits to   : B^2 and the gang for play testing my new wads,
+                          Thanks guys!
+
+================================================================
+* Play Information *
+
+Episode and Level #     : E2M1 through E2M9
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes (not sure about difficulty consistency)
+New Sounds              : *No* 
+New Graphics            : Yes (wall textures,stat bar,sky,misc.)
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New levels from scratch (except M9)
+Editor(s) used          : DEU 5.21, Dmgraph 1.1, Dmaud 1.1, BSP 1.2x
+                          Picture Publisher 3.1
+Known Bugs              : -In M4, two of the multiplayer guys can be seen
+                           outside, even in single player mode.
+                          -Some levels are slow due to number of creatures.
+                           In particular, M6 is slow due to this, and the
+                           fact that so many planes are visible.
+
+* Copyright / Permissions *
+
+Authors MAY use these levels as a base to build additional levels, 
+provided my name is mentioned.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ftp.orst.edu
+
+BBS numbers: The Sarcastic Cow (613)-247-0341
+             Armeggedon Online (613)-246-8022
+
+Other: alt.binaries.doom

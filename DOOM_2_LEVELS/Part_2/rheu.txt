@@ -1,0 +1,47 @@
+                              RHEU version 1.1
+                     Registered Heretic Editing Utilities
+                             
+For instructions on how to edit and create a level read DEU.TXT (included 
+with the original version of DEU).
+
+Before RHEU will work you may need to edit the RHEU.INI file which tells RHEU
+where to find your copy of Heretic.
+
+Send E-mail to robertp@iadfw.net for questions or suggestions about RHEU.
+***************************************************************************
+
+Requirements:
+486 cpu  (no math coprocessor required)
+Registered version of Heretic
+SVGA graphics are highly recommended
+***************************************************************************
+
+New functions:
+4 new functions have been added to help with the desing of Heretic levels.
+
+1-under the Objects menu:
+  'Tombstone'- creates a predefined sector shaped like a tombstone
+
+2-under the Misc. menu when editing sectors:
+  'Distribute sector light levels'- evenly distributes the light levels
+  between 3 or more sectors
+
+3-under the Misc. menu when editing vertices:
+  '3D preview'- displays the entire level in 3D with multiple levels of 
+  detail
+
+4-under the Search menu:
+  'Convert from Doom'- converts all Doom things and textures to 
+  Heretic things and textures within a fraction of a second
+************************************************************************
+
+Plans for future versions:
+ new functions 3 and 4 will be moved to better menu position
+ bugs with grid in 3D mode will be fixed
+ add mouse to 3D mode
+************************************************************************
+
+Credits:
+special thanks to the original creators of DEU
+and the Id Software/Raven Software team for creating Heretic
+

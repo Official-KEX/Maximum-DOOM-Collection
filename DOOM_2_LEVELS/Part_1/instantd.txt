@@ -1,0 +1,43 @@
+
+                         INSTANT DEATH
+Maker of InstantD.wad     -Edward J Buckheit
+E-Mail Address            -Eddie  0,EBuckheit
+Address                   -Staten Island,Newyork
+About Level               -Very good maped out level.Good for Deathmatch and 
+                            Cooperativ play.There is many secrets to find.
+                            Watch out for doors that open behind you!!!
+--Special                 -If you live in the 212,718 area code, leave me
+                           a message if you want to play over the Modem
+
+
+--Play Information-
+-Need Doom2 V1.666 and up
+-Map 01
+-Single play
+-cooperative 2-4 player
+-Deathmatch 2-4 player
+-THere will be a Demo on the game soon,If you are having trouble with
+ The Level
+-To run type doom2 -file Instantd.wad.
+-You should download something like Doom2 control to run your wads
+ Makes it a hundred times easier,
+
+
+--Building-
+-Level from Scratch
+-About 16 Hours to build
+-Used Waded to build level
+-Doom2 v1.6+
+
+*Copyright / Permissions
+-Can be Distributed Freely
+Authors may use this level to build additional levels
+provide you credit me with creating the original level 
+
+This is not a produced by ID Software and therefore no tech support by them
+is possisble.
+If you have any problems or find any bugs in the level contact me.
+
+Additional Credits   -ID-Creators of doom and doom2.
+                     -Waded V 1.8b,Great but has few Bugs
+

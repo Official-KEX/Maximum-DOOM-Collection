@@ -1,0 +1,50 @@
+================================================================
+Title                   : Again.wad   
+Filename                : Again.zip
+Author                  : Big Tiger
+Email Address           : tman2@oia.net
+Misc. Author Info       : Doom ][ addict who ran out of wads to play
+
+Description             : 6'0", 250 lbs., nice smile.
+
+Additional Credits to   : ID 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map01
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Tried DEEP, didn't like it.
+Known Bugs              : Don't think so.
+
+
+* Copyright / Permissions *
+
+Authors may not use this level as a base to build additional
+levels.  Start from scratch, it's very fulfilling and will give
+you an appreciation of the work that goes into the simplest of
+effects. (Stairs, etc.)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  It would be nice if you told me too.
+
+
+* Where to get this WAD *
+
+FTP sites:  
+BBS numbers: (618) 345-6803  OIA.NET (The best in the St. Louis area!)
+
+Other: Okay

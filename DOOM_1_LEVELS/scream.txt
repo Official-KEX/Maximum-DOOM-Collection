@@ -1,0 +1,46 @@
+
+    ---- Scream Level ---
+   "Zork - with a shotgun"
+
+This level is a little larger and more involved than my last level
+(Daemon2).
+
+Scream is designed mainly for solo players.  I have no idea how well
+it would play on deathmatch or co-op.
+
+Scream incorporates some rather nasty puzzles which you will have to
+solve to complete the level.  There are clues and you will have to
+use your eyes and brain as well as your trigger finger.
+
+A number of people sent me mail regarding Daemon2 - mostly claiming
+I hadn't made doors or provided switches.  That's ok - after all,
+I'm interested to hear of any bugs, but in all cases it was because
+the players hadn't done something.  I can assure you that all of
+the puzzles have been checked and tested.  They can all be solved
+*without* resorting to cheat keys.  This applies to Scream as well.
+
+BTW, to complete this level successfully you should end up with a
+kill ratio of about 90%.  Not all of the monsters have to be killed :)
+If you can do 100% - good luck to you - you are a true doom.god.
+
+If you have any questions regarding Scream.wad, send them to the
+address below.
+
+Have fun.
+
+
+Title:       Scream.wad
+Author:      Cameron Newham (cam@iinet.com.au)
+Type:        Standard (solo)
+Level:       E1M1
+Base:        New level from scratch
+Build Time:  25+ Hours
+Tools:       Deu 5.0, with BSP 1.0 providing node generation.
+Bugs:        Possibly some texture alignment.
+
+ftp:         ocf.unt.edu: /pub/incoming or /pub/doom/newwads
+
+- cameron.
+"We're talk'n swoon.  We're talk'n croon.
+ We're talk'n moon in June.  We're talk'n..... DooM!"
+

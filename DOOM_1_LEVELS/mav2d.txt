@@ -1,0 +1,51 @@
+MAV2D - A Deathmatch WAD (BETA TEST) by Tom Neff
+================================================
+Version of August 5, 1994 (E1M1 only)
+
+Please review this BETA TEST version of MAVERICK 2 and email your
+comments to:      tneff@panix.com
+
+--------
+
+This is the first level of what will be a two or three level mini
+episode based on ideas developed in MAVERICK.WAD, which everyone said
+was beautiful but too big and ammo-poor for two players.  Instead of
+putting all the neat ideas into one big level, I am breaking them up by
+episode.  E1M1 is the Arena, with some surrounding corridors and a
+central hide&seek a little like the one in E1M4 which seems popular.
+
+It should be usable under 1.2 through 1.6, any deathmatch rules,
+although the flow of play will of course be slightly different.  
+Actually there are a couple of HOM (Hall Of Mirrors) glitches visible in
+one or two "complex" spots under 1.2, but it doesn't affect game play
+very much, and under 1.5-1.6 it's error free.
+
+The exit switch is in the Northeast of the central courtyard, you press 
+the Satyr switch (SW) on the Roundhouse to get to it.  Pardon the 
+cacodemons. :-)
+
+There are chainguns, shotguns, rockets, a plasma gun (hidden) and a
+chainsaw (hidden).  A little armor and health.  The roundhouse has a blur 
+sphere.  
+
+A few monsters to soften you up, or you can play without them.
+
+There is no nukage or crushers, but you can rocket yourself to death if
+you insist.  I will probably segregate weapons by difficulty level in
+the final product, but for now they're all in there.  
+
+There are definitely some TRICKS to learn on this level, that will help
+your competitive advantage.  Switches for rising walls, etc.  Nothing
+earthshaking but it would pay to explore solo beforehand so you don't
+find yourself fumbling with the enemy bearing down on you!
+
+My thanks to AlanW and Barry Bloom for their helpful comments during the
+development of this level.
+
+--------
+
+If you make a really cool LMP of this level I would like to see it!
+Let me know via email.
+
+-- 
+Tom Neff             tneff@panix.com

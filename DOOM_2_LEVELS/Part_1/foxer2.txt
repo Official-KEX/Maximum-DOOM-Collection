@@ -1,0 +1,56 @@
+===========================================================================
+Title                 : Foxer2.wad
+Date Finished         : April 10,1995
+Author                : Robert Wong
+Email Address         : Foxer@america.com
+Other Files By Author : Foxer.zip (Foxer.wad)
+Misc. Author Info     : Sysop of The Playing Fields BBS 305.819.9925
+Description           : NOTE: Flight Technology included !!!!!!!!
+                        This is my second attempt in creating a Deathmatch
+                        wad. This wad is very small and was a quicky job,
+                        so don't worry, my next wad (foxer3.wad) will be
+                        much bigger. Enjoy, this wad will make you laugh
+                        (and cry) as you fall to your death...
+Additional Credits To : Bobby Goetz (Cyberpunk), Gioffa for being just
+                        plain cool, Connor, aka. Rocket Man, Gamepal for 
+                        running the coolest bbs (game palace bbs), Winter,
+                        my friend and also sysop of The Playing Fields!!
+                        And ALL my other users on my BBS,who I missed...
+
+REQUIREMENTS          : DON'T FORGET TO PLAY FOXER2.WAD on DeathMatch (not 2)
+===========================================================================
+New Level WAD
+
+* Play Information *
+
+Map #                   : Map 01
+Single Player           : YES, Can you kill the CyberDemon and not fall off?
+Cooperative 2-4 Player  : No, I wouldn't recommend it!!
+Deathmatch 2-4 Player   : YES! Call Playing Fields BBS for Multiplayer carnage!
+New Sounds              : Yes, Some player death sounds.
+
+* Construction *
+
+Build Time              : hmm, a couple of weeks....
+Editor(s) used          : EdMap 1.31 (The Best), Nwt (The Best)
+Known Bugs              : Falling off this wad over 100+ times an hour while
+                          playing DeathMatch on the Playing Fields BBS !!
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  Just please give me credit in your text.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: Any major sites or mirrors.
+
+MultiPlayer BBS: PLAYING FIELDS BBS --> 305.819.9925 <--
+                 
+     South Florida's #1 Multiplayer DOOM, DOOM II, & Heretic BBS!
+

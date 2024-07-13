@@ -1,0 +1,52 @@
+Title                   : Mocha.wad
+Filename                : Mocha.zip
+Author                  : Engdahl, Wm.  4-D CREATIONS  [reddawg]
+Date                    : 4/18/95
+Email Address           : none/or  [dlbaer@halcyon.com (forwards messages)]
+Misc. Author Info       : Old fart playing with his wads. I like designing 
+                          the arenas.
+                          
+* Play Information *
+
+Game                    : DOOM II
+Level #                 : MAP1
+Single Player           : Yes, just to take a look, I only put in 4 monsters. 
+Cooperative 2-4 Player  : What's the point?
+Deathmatch 2-4 Player   : YES! Kill yer buddies...very nice 2-3 player and
+                          hectic 4 player.  There's a lot of action in the
+                          room you teleport to, the one with all the ammo...
+                          [There are several secret switches that open secret
+                          doors that you should find before playing in a
+                          Deathmatch.]  There is an exit behind two candles on 
+                          the platform in the north room, this will give you
+                          an official frag score at the end of play.  
+                          Enjoy.  [woof]
+Difficulty Settings     : Yes, [only for the monsters.]
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None replaced 
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 10 hours Build + 2 hours Testing, and counting.
+Editor(s) used          : Waded 1.83   by Matthew Ayres
+                          Known Bugs: None noticed so far...
+                         
+
+Thanks to all the folks at Id Software, this is such an excellent game!!!
+Thanks to the users at Seattle Dwango for their help in testing.
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels. As long as my name is in the credits :)   ha ha ha    [woof]
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this wad in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact. You may do whatever you want with this file,
+apart from delete it ;)    ha ha ha        [woof woof]
+
+

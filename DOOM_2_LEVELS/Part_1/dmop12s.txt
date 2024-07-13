@@ -1,0 +1,17 @@
+This is an MSDOS based DOOM and HERETIC utility.
+
+This program can place new objects into new locations in any DOOM or 
+Heretic IWAD or Patch wad level.
+
+Shareware version 1.12 of the Object Placer for DOOM 1, DOOM 2, 
+ALIENTC, and Heretic by Dusty Bedford
+
+There is an example of a large wad which has been altered in the zip 
+file.
+
+Unzip the file DMOP12S.ZIP into a temporary directory then type INSTALL, 
+
+Send you comments to me at Email: bedford@ix.netcom.com
+
+This is only the shareware version so it may be distributed freely.
+

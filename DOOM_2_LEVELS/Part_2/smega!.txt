@@ -1,0 +1,107 @@
+ ssssss    mm       mm  eeeeeeeeeee   gggggggggg        a        !!
+sssssssss  mmm     mmm  eeeeeeeeeee  gggggggggggg      aaa      !!!!
+sss     s  mmmm   mmmm  eee          ggg      ggg     aaaaa     !!!!
+ sss       mm mmmmm mm  eee          ggg       gg    aaa aaa    !!!!
+  sss      mm  mmm  mm  eeeeeeeeeee  ggg        g    aa   aa    !!!!
+   sss     mm   m   mm  eee          ggg   gggg     aaaaaaaaa    !!
+s   sss    mm       mm  eee          ggg     gggg   aaa   aaa    
+sssssssss  mm       mm  eeeeeeeeeee  gggggggggggg  aaa     aaa  !!!!
+ sssssss   mm       mm  eeeeeeeeeee   gggggggggg   aaa     aaa   !!   . WAD
+ 
+===========================================================================
+Title                   : Smega!
+Date Finished           : 3/26/95 
+Author                  : Swipe (If you need to know my real name, ask a sysop
+                          or mod on DWANGO) And some great help from S-bug.
+Email Address           : None
+Other Files By Author   : lots, no others released though
+Misc. Author Info       : See you on Dallas DWANGO
+Description             : 4 really good levels for doom ][.  One looks simple
+                          but is great for dmatch, the other is kinda weird..
+                          the second is better with 4 players, the first 
+                          supports any amount, except 1.  There is a hidden  
+                          Invincibility And maybe a Megasphere. I think I 
+                          forgot.  (yeah right)
+Additional Credits to   : S-bug or sbug
+===========================================================================
+* Type of DOOM or DOOM II file*
+
+(Choose One)
+New level WAD           : what do you think???
+Sound PWAD Only         : No
+Music PWAD Only         : No
+Graphic Addon Only      : No
+.LMP Only               : No
+Other                   : No
+
+* Play Information *
+
+Map #                   : Map 01-04
+Single Player           : Only 4 exploring the levels
+Cooperative 2-4 Player  : Why not?
+Deathmatch 2-4 Player   : Yes Of course!
+Difficulty Settings     : Why bother?
+New Sounds              : Unfortunately, No
+New Music               : Same as above, but more so.
+New Graphics            : No
+Demos Replaced          : No
+
+* Who stole all the giraffe's paperclips??? *
+Just checking to see if you're still reading....
+now that you are....
+
+* Construction *
+
+Level 1: fraggie.wad
+Base                    : A big blank screen
+Build Time              : hmm...bout 10 hrs. 
+Editor(s) used          : DEU2, Doomcad (don't hurt me)
+Known Bugs              : there's an out-of place floor texture in a 
+                          teleporter and possibly a see through wall
+                          (depends on your computer)
+
+Level 2: S-bug.wad
+Base                    : A big box on a grid
+Build Time              : About 3 hrs. 
+Editor(s) used          : Doomcad (don't hurt me)
+Known Bugs              : some of the "see through" walls aren't transparent
+                          sometimes.
+
+Level 3: stones.wad
+Base                    : I dunno... probably no base.
+Build Time              : Isn't mine, but converting from doom1 format and 
+                          changing textures took about 20 min.
+Editor(s) used          : Doomcad (don't hurt me)
+Known Bugs              : None, let me know if ya find any.
+
+Level 4: pillars.wad
+Base                    : E1M1 from doom 1
+Build Time              : Isn't mine, but converting from doom1 format and 
+                          changing textures took about half an hour..
+Editor(s) used          : Doomcad, Deu2
+Known Bugs              : None, let me know if ya find any.
+
+
+* Copyright / Permissions *
+Do whatever the hell you want with the first level, but get 
+permission from s-bug (on dwango) before you screw around with 
+the second.  Any improvements would be appreciated (i'm gonna have
+my hands full after that) and inform me, bug me, slap me over the
+head with a chicken leg, etc. if you have any improvements.  also
+some new music, graphics, sound, etc. would be nice.  and anyone
+with a really good level can tell me and I'll add it.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  Yada yada yada.. just don't change the txt file if you don't
+change the wad.
+
+This part of the text file you may change if you find it elsewhere.
+* Where to get this WAD *
+(Hey stupid you already have it!!)
+BBS numbers:                          
+KCE: (214) 613-0992
+Code Red: (214) 424-4702
+I.N.X.T.Y. bbs: (604) 987-0688
+

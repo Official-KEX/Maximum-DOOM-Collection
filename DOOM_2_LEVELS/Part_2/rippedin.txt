@@ -1,0 +1,55 @@
+================================================================
+Title                   : Ripped Intestines
+Author                  : Conan, Master of the Universe
+Email Address           : crump@iconz.co.nz (brother's address)
+Misc. Author Info       : Quest: to undo the spell of living stone cast
+                          upon my family. By driving the evil serpentmen back
+                          into another dimension.
+
+Description             : You and your homicidal companion decide to punch the
+                          shit out of each other. As your opponents
+                          intestines spurt forth onto the ground you notice
+                          he is wielding a double-barelled shotgun and has
+                          a wierd lopsided berserker grin on his face.
+
+Additional Credits to   : Baz
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 4 hours
+Editor(s) used          : Edmap 1.31
+Known Bugs              : A small piece of masonry is missing from the roof
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+Should be on ftp.cdrom.com
+
+

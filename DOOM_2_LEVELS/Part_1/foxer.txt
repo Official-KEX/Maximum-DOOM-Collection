@@ -1,0 +1,62 @@
+===========================================================================
+Title                   : Foxer.wad
+Date Finished           : March 02,1995
+Author                  : Robert Wong
+Email Address           : Foxer@america.com
+Other Files By Author   : None
+Misc. Author Info       : Sysop of The Playing Fields BBS 305.819.9925
+Description             : This is my very first attempt to create a Deathmatch
+                          wad. I borrowed some ideas off of a few popular DM
+                          wads and also brainstormed myself. When the wad was
+                          in preliminary stage, I released a *beta* of my wad
+                          called Foxer16.wad on my BBS for my users to test 
+                          play. I had no idea is was going to be this good!!!
+                          Finally, this release of Foxer.wad is the final
+                          version. IMHO it is 10x better than what it was in
+                          beta form!! PLAY IT LOUD on The Playing Fields BBS!!
+Additional Credits To   : Bobby Goetz (Cyberpunk) for assistance on the cooler
+                          parts of the wad (hey, I said I was new to wad 
+                          making 8^), Gioffa for play testing and enlightful
+                          comments!! Connor, aka. Rocket Man, Gamepal for 
+                          running the coolest bbs (game palace bbs), Winter,
+                          my friend and also sysop of The Playing Fields!!
+                          And ALL my other users on my BBS,who I missed,for
+                          playing my beta wad (foxer16.wad) every single day
+                          ..gezz
+===========================================================================
+New Level WAD
+
+* Play Information *
+
+Map #                   : Map 01
+Single Player           : YES, Can you kill ALL 4 CyberDemons on Nightmare??
+Cooperative 2-4 Player  : No, 4 CyberDemons isn't really coop.
+Deathmatch 2-4 Player   : YES! Call Playing Fields BBS for Multiplayer carnage!
+New Sounds              : Yes, All player death sounds including splatter,
+                               punching, and player pain sound.
+
+* Construction *
+
+Build Time              : hmm, gezz I forgot, TOO LONG :)
+Editor(s) used          : EdMap 1.21 (The Best), Nwt (The Best)
+Known Bugs              : About 20-30 Missles flying around your face when
+                          playing DeathMatch on the Playing Fields BBS !!
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  Just please give me credit in your text.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: Any major sites or mirrors.
+
+MultiPlayer BBS: PLAYING FIELDS BBS --> 305.819.9925 <--
+                 
+     South Florida's #1 Multiplayer DOOM, DOOM II, & Heretic BBS!
+

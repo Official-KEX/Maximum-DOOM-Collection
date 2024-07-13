@@ -1,0 +1,41 @@
+Title                   : NETCITY
+File Name               : NETCITY.WAD
+Author                  : Stephane DUMESNIL  (Paris, France)
+
+================================================================
+* Play Information *
+
+Level #                 : Map 01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yeah !! has been created for that.
+                          (better use "-altdeath" and
+                                "-nomonsters" options)
+Difficulty Settings     : Yes
+New demos               : no
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level
+Build Time              : 2 months   9h/day !
+                            but it was a great pleasure
+Editor(s) used          : WINDEU
+Known Bugs              : No *known* bugs...
+			  has been tested many times.
+
+
+
+
+- Perfect for deathmatch 
+- A bit heavy for a 486 (but still entertaining)
+- If you have 'problems' with level 4 ... try level 2 :-)
+- No secrets
+
+- To exit, in deathmatch mode, you have to push a button 
+  to let someone else going out quickly. It avoid individual
+  initiative about ending the level.
+  This button is not usefull in single player mode.
+
+Enjoy ...

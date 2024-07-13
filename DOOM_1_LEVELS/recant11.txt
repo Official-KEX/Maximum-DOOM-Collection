@@ -1,0 +1,108 @@
+05/03/95
+==============================================================================
+Title                   : RECANT v1.1 for HERETIC v1.0
+Author                  : Dr. Sleep
+E-mail Address          : 76132.3415@compuserve.com
+Other Files by Author	: DANTE'S GATE v1.666 (DOOM I), v2.2 (DOOM II);
+			  CROSSING ACHERON v1.666 (DOOM I), v2.2 (DOOM II).
+Misc Author Info	: aka John W. Anderson
+
+Additional Credits	: Joost Schuur for HEU v1.0;
+			: Antony J. Burden for DETH v2.2;
+			: American McGee for all of his help;
+			: Shawn Green for kind words<g>;
+			: Jim F. Flynn for support and play-testing;
+			: Patrix for being such a swell guy;
+			: My pal Howard "Desdinova" Rider for his patience;
+			: Morgana, Nightie, and all the folks in Action Games;
+			: Id and Raven Software, without whom etc.
+
+Description             : RECANT is a fairly large level and is geared more
+			  toward single play, although deathmatch and co-op are
+			  of course supported. The water room took me forever
+			  to put together, and the tower in the lava pit gave
+			  me nightmares with the texture alignment (all done 
+			  manually, folks<g>).  This was supposed to be a
+			  much bigger level, actually (and may be someday),
+			  but I'm worn thin and threadbare.  Still, there are
+			  no loose ends here (I hope) -- and big levels, in
+			  general, don't impress me.  They're a dime a dozen
+			  these days.  
+
+			  I love to get e-mail, so send me any comments you
+			  like about RECANT (as long as they're in good
+			  taste and full of obsequious high praise).
+
+Instructions		: Put RECANT11.WAD in your HERETIC directory, type
+			  "heretic -file recant.wad -warp 1 1 -skill <#>"
+			  (Or, to play advanced, skill 4, also put the file
+			  RECANT.BAT in your DOOM directory and type
+			  RECANT.)
+
+Modem Play		: Batch files for DIALing and ANSWERing are included
+			  for your convenience, but you'll need to edit them
+			  as far as phone numbers and com ports go.  Put
+			  these in your HERETIC directory as well, and then
+			  just type either "dial" or "answer."
+
+Disclaimer		: I assume no responsibility for anything of any sort
+			  in any way, shape, or form--now, then, henceforeward
+			  in this life (or the next several) for any screw-ups
+			  or even minor inconveniences this PWAD causes you,
+			  your family, your relatives, friends, ancestors,
+			  associates, employers, pets, neighbors, lovers,
+			  congressional representatives, nor any other person--
+			  living, dead, or undead -- that you have or will ever
+			  have any contact with in even the slightest form.
+			  This PWAD has been tested and tested ad infinitum, so
+			  it shouldn't mess with your computer or anything else
+			  remotely associated with it.  But if it DOES, then
+			  that's the way the cookie crumbles. Don't come cryin'
+			  to me.  It must be something YOU did.  If you don't
+			  like it, lump it. (I ran out of clich‚s.)
+
+==============================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : All
+New Sounds              : No
+New Graphics            : Yes (couple of new patches, is all)
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : A really, really, really long time (excess of 100hrs)
+Editor(s) used          : HEU v1.0 by Joost Schuur
+			: DETH v2.2 by Antony J. Burden and Simon Oke;
+Other Utilities		: BSP v1.2x by Colin Reed;
+			  EnDoomer v1.0.1 by Zink the Dink;
+			  Reject Map Builder v2.0 by Jens Hykkelbjerg;
+			  DOOMTex 1.0c by Stephen McGrea;
+			  Merge v1.0 by Jim F. Flynn.
+Known Bugs              : Surely you jest, Pops.
+
+==============================================================================
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels. Please.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact. If you DO distribute this PWAD on a CD-ROM and charge money for
+it, then fine -- but let me know that you did it.
+
+* Where to get this WAD *
+
+CompuServe, Action Games Forum (GO ACTION), Library 15, *HOT*:HERETIC.
+The Four Winds Bar BBS (412) 437-4521 -- Desdinova, Sysop; Dr Sleep, co-sysop.
+FTP: ftp.cdrom.com /.2/idgames/levels/heretic/newstuff or /q-s
+
+(This information form was provided as AUTH_WAD.TXT v1.2 with DEU 5.1.)

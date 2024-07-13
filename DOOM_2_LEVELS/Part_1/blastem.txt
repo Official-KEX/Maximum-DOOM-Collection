@@ -1,0 +1,46 @@
+================================================================
+Title                   : BLASTEM   
+Filename                : BLASTEM.WAD
+Author                  : Bill Spratt
+Email Address           : 
+Description             : Two level deathmatch for Doom 2. 
+			  First level is a large open area with buildings,
+			  many weapons, sniper spots, ect. Second level is
+			  similar to a large arena, and has ledges.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 01 & 02
+Single Player           : Yes (Monsters for testing fun)
+Cooperative 2-4 Player  : Yes (But Why?)
+Deathmatch 2-4 Player   : Yes!!! (Intended use. Have a blast!)
+Difficulty Settings     : Yes (Ultraviolence for more of a challenge)
+New Sounds              : Yes (Just a few)
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+
+Editor(s) used          : DEU2 and BSP1.1
+			  
+			  
+
+
+Known Bugs              : Some objects dissappear and reappear, depending
+			  on veiwing angle. ??
+
+* Copyright / Permissions *
+
+You may do whatever you want to with this WAD.
+Please Include this text file with the WAD. 
+If you alter please include my name in the credits.
+
+
+
+
+
+

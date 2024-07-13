@@ -1,0 +1,78 @@
+================================================================
+Title                   : Sudden Death Match for Doom II
+Filename                : sudden.wad
+Author                  : Shawn Yarbrough
+Email Address           : shawny3675@aol.com
+
+Misc. Author Info       : a C programmer in the San Antonio area...
+                          always looking for deathmatch opponents...
+
+Description             : Fast-paced single level deathmatch.  Contains very
+                          interesting map features and secrets.  I have
+                          included an exit even though it is only one level.
+                          When playing with monsters, expect to have a very
+                          hard time living through your exit attempt.  Try
+                          to sucker one of your opponents into exiting!!!
+                          And HIDE when all HELL breaks loose!!!
+
+                          Hint: Every kind of weapon is on this level, and
+                          all of them must be found by at least one player
+                          before anyone can exit.  This INCLUDES Berserker!
+
+                          Also supports single/co-op play, if desired.
+
+                          Don't forget to turn out the lights before you
+                          leave...    :)
+
+Additional Credits to   : ID of course, and Matthew Ayres for making
+                          Waded v1.42   (BEST DOOM/DOOM II EDITOR)
+
+
+================================================================
+* Play Information *
+
+Episode and Level #     : DOOM II Level 1
+Single Player           : Yes   (Single is hard, esp. in Ultra-Violent)
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes   (Deathmatch is the recommended mode)
+Difficulty Settings     : All   (1,2 nomonsters / 3,4,5 monsters)
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+
+================================================================
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : About 40 hours, across two weeks.
+Editor(s) used          : Waded v1.42
+Known Bugs              : Heavily tested.  Only bug I can find is a small
+                          speed problem when the "crusher" is running.
+                          This seems to be a common problem with moving
+                          ceilings in multi-player games.  Please send I-net
+                          mail to the address above if you find any other
+                          problems or if you have questions/comments.
+                          Thanks!
+
+================================================================
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+================================================================
+* Disclaimer *
+
+This level is provided AS IS.  Use it at your OWN risk.  Although
+it is hard to imagine a Doom level actually hurting you or your
+computer, I will in no way accept any responsibility for any damage
+that occurs to anyone or anything as a result of this wad's use.
+
+In other words, you are on your own.

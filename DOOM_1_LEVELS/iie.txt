@@ -1,0 +1,112 @@
+                       
+                       _/_/_/  _/_/_/  _/_/_/
+                        _/      _/    _/_/
+                     _/_/_/  _/_/_/  _/_/_/
+
+=============================================================================
+Title                   : IIE
+Released on             : when ftp.cdrom.com is repaired ... (May 95 ?)
+Filename                : iie.wad (level/music/graphix), specs.wad (glasses)
+Author                  : Sebastien Bacquet
+Email Address           : bacquet@bach.iie.cnam.fr
+Misc. Author Info       : Author of GUS1M-II and DEATHEB
+Description             : A big one-player (or cooperative) level for DOOM 1
+                          based on the plan of my computer science school
+                          (IIE in Evry, France)
+Additional Credits to   : Philippe "Garry", Stephane "Stassi"
+                          and Cyril "Becooling" for testing it
+                          Unknown people who made the music
+=============================================================================
+                                           
+
+* Play Information *
+
+Map #                   : E1M1
+Single Player           : YES
+Cooperative 2-4 Player  : Maybe (not tested) - 4 starting points exist
+Deathmatch 2-4 Player   : No - The level doesn't suit to deathmatch
+Difficulty Settings     : No - What for ? You're a warrior or not ?
+New Sounds              : No
+New Graphics            : Yes (a few)
+New Music               : Yes
+Demos Replaced          : Yes, the first one (recorded with v1.666)
+
+
+* Construction *
+
+Base                    : New level from scratch.
+Editor(s) used          : WADED, DEU, DCK, EDMAP
+Known Bugs              : None, please report any
+
+
+* Copyright / Permissions *
+
+Authors MAY use these levels as a base to build additional
+levels.
+
+You MAY distribute this PWAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+You may do whatever you want with this file, as long as you distribute 
+your modified file under a name OTHER than "IIE".
+
+PLEASE LET ME KNOW IF YOU LIKE IT !
+
+* Where to get this PWAD *
+
+FTP sites:  ftp.cdrom.com, ftp.idsoftware.com
+
+* Important Notes *
+
+Description
+~~~~~~~~~~~
+You have to be brave to enter IIE.
+What you will discover inside could afraid you, you're warned !
+
+IIE means (in French) : Institut d'Informatique d'Entreprise
+what can be translated by : Institute of Computer Science for Firms
+
+When I entered IIE, I thought at once : "This would make a great level 
+for DOOM". Thus, the architecture is so strange and the map is so big
+that I did not resist making this level. It took me an impressive amount
+of hours but I am happy about the result.
+
+There are 2 floors in the level : the first floor (where you begin) 
+and the ground floor where you go through 2 stairways : one is normal, 
+the other one is a spiral staircase. The link between the two parts of 
+each stairway is a teleport (the only way I found to simulate it). 
+So don't be afraid if you teleport at the middle of the stairs !
+
+You will also notice 3 stairs which would like to lead you to the next
+floor up. Misfortunately, this floor is not complete yet. I am working
+on it and will add it to the next version of IIE (IIE ][ ?).
+
+All weapons are present in the level, except BFG9000. You will find them 
+in due time (yet they won't fall from the sky : search them all the same !).
+An indication : you will have to run fast to get the chaingun ...
+
+How to play ?
+~~~~~~~~~~~~~
+To play IIE, just launch IIE.BAT.  (You had guessed ? You're strong !)
+Then see the demo or play.
+YOU CAN CHOOSE THE SKILL YOU WANT : IT WILL BE HELL ANYWAY !
+In fact I think this level is not too hard for good players (especially
+if you are a mouse-player). If it is really too easy for you, tell me
+I will add monsters (or do it yourself !).
+
+>Note< The demo shows nothing, you can see it without fear.
+
+PLAY TO THE END : THERE ARE SURPRISES !
+AND TRY TO DISCOVER ALL SECRETS (5) !
+
+Have fun !
+
+To finish
+~~~~~~~~~
+Get DEATHEB.WAD, a good deatmatch level !
+
+If you own a Gravis Ultrasound with 1024K on board, get GUS1M-II.WAD, 
+your ears will be amazed. 
+If you don't, what a pity for you !

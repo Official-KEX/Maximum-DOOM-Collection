@@ -1,0 +1,80 @@
+================================================================
+Title                   : BFG SPAZ (DOOM II Deathmatch PWAD)
+Filename                : BFGSPAZ.WAD
+Author                  : Tim J. Ash (TIMinator)
+Email Address           : tim.ash@cyberstore.ca
+Other PWADS by Author   : LOSTLEVL.WAD (DOOM)
+                          LOSTLEV2.WAD (DOOM2)
+                          APOCLPSE.WAD (DOOM)
+                          APOCLPS2.WAD (DOOM2)
+                          GLADIATR.WAD (DOOM)
+                          CITADEL2.WAD (DOOM2 Deathmatch)
+                          TIMJAY.WAD (DOOM2 Deathmatch collection)
+                          BOOTHILL.WAD (oh boy.. you just wait...:)
+
+Description:              I hate the BFG.  No skill involved with it. 
+                          Some players like the mass destruction it
+                          causes, so I created this level with those
+                          players in mind, and it's actually quite fun.
+                          This level was designed to be small, fast and
+                          furious.  Non-stop fraggin action, even with 
+                          2 players.
+
+Additional Credits to   : Steve Silvester and his friend James for 
+                          playtesting.  Thanks for the easy frags, guys.
+                          
+                          ID Software for the game we all love to play.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 07
+Single Player           : Yes (Not much point though...)
+Cooperative 2-4 Player  : Yes (Oh sure, this will be REAL fun...)
+Deathmatch 2-4 Player   : Yes!!!!!
+Difficulty Settings     : Yes - Skills 1 & 2 is for Shotguns only. 
+                              - Skill 3 is for Plasma and Rockets only.
+                              - Skill 4 & 5 is for TOTAL BFG CARNAGE!!!!!
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None, but there is a demo separate in BFGSPAZ.LMP,
+                          included in this with the wad.  A 3 player demo,
+                          from my perspective.
+
+* Construction *
+
+Base                    : New level from scratch.
+Editor(s) used          : DEU2 v5.21, BSP v1.2
+Known Bugs              : None - extensively playtested.
+Creation time           : About 5 hours.
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels.
+Just give credit where credit is DEU..
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact. 
+
+* Running this WAD *
+
+  All participating players must have a registered copy of DOOM II
+and a copy of BFGSPAZ.WAD.  Use the -FILE parameter with -WARP 01
+at the command line.
+  To play the demo, type:
+    
+    DOOM2 -file bfgspaz.wad -playdemo bfglmp
+
+  The demo is version 1.9.
+
+  FEEDBACK!!!!!  Please let me know what you and your Deathmatch buddies
+think of this WAD.  Send me a message or even some LMP recordings!
+
+* Where to get this WAD *
+
+FTP sites:          ftp.cdrom.com:/.5/idgames/levels/doom2/deathmatch  
+                    ftp.usis.com:/pub/users/TIMinator (check it out)

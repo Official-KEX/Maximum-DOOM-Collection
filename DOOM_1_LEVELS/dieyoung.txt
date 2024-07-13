@@ -1,0 +1,61 @@
+
+================================================================
+Title                   : Die Young
+Filename                : Dieyoung.wad
+Authors                 : Joe King
+			  75322.2466@COMPUSERVE.COM
+
+Description             : FOR REGISTERED VERSION OF HERETIC ONLY!!
+                          A Haphazard collection of large and small
+			  rooms that should "kill" your evening.
+			  There are some monsters to eliminate, but
+			  the real action is your opponent.  Some
+			  weapons are difficult to get and the FireMace
+			  is damn near impossible.
+                          
+Additional Credits to   : Jon "KFC Target Practice" Messer - Beta testing
+
+Addtional Wads by Author: "Castle Kingfish" (cking.zip)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : From Scratch
+Editors used            : Waded 1.83b, HeeP.
+Build Time              : Not too long
+Known Bugs              : None 
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+Compuserve Action Games
+
+
+** READ FURTHER FOR LEVEL INFO **
+
+To get the the Mace in "Die Young" you must be a chicken and you must
+be flying.  There are 2 teleporters at the top of the stone column in the
+outdoor area.  One of these teleporters will take you directly to the
+mace and the other will not.  There are 2 teleporters there to keep your
+opponent from knowing for sure where you will reappear at.

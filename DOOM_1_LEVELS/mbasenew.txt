@@ -1,0 +1,84 @@
+================================================================
+Title                   : MOONBASE.WAD   
+
+Author                  : Curtis Turner II
+
+Email Address           : via choppe@hubcap.clemson.edu for now
+
+Misc. Author Info       : 
+
+Description             : A drop in for one of the tougher
+
+                          episode one levels.
+
+
+Additional Credits to   : Mike Kelsey, miscellanious assistance.
+
+================================================================
+
+* Play Information *
+
+
+Episode and Level #     : E1M1 
+
+Single Player           : Yes
+
+Cooperative 2-4 Player  : Yes
+
+Deathmatch 2-4 Player   : Yes
+
+Difficulty Settings     : Yes
+
+New Sounds              : No
+
+New Graphics            : No
+
+
+* Construction *
+
+
+Base                    : New level
+
+Build Time              : 10 hours est.
+
+Editor(s) used          : DEU 5.0 BSP 1.1x
+
+Known Bugs              : Weird 'invisible blockage' in rocky
+
+                          exterior area. Any clues, let me know.
+
+
+
+* Copyright / Permissions *
+
+
+Authors MAY use this level as a base to build additional
+
+levels.  
+
+
+
+You MAY distribute this WAD, provided you include this file, with
+
+no modifications.  You may distribute this file in any electronic
+
+format (BBS, Diskette, CD, etc) as long as you include this file 
+
+intact.
+
+
+* Where to get this WAD *
+
+
+FTP sites:
+
+    ocf.unt.edu 
+
+BBS numbers:
+
+    Neutral Zone BBs (803) 882-9194
+
+Other:
+
+
+

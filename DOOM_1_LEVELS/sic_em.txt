@@ -1,0 +1,96 @@
+================================================================
+Title                   : SIC_EM !!! A DOOM I DEATHMATCH WAD   
+Filename                : SIC_EM.WAD
+Author                  : John Wakelin
+Email Address           : johnw@datametrics.com
+Misc. Author Info       : Your every day ordinary DOOM slut.
+                          Maker of LURKER, DBLCROSS
+                          and SIC_EM2 (the DOOM][ version)
+
+Description             : An experts' DEATHMATCH WAD.  For those who
+                          demand the best fraggin they can get.  
+                          Oh, it's pretty to look at, as well.
+
+                          I designed this for my friends and me who,
+                          are becoming quite good at killing each
+                          other.  I don't recommend this WAD for
+                          groups who are not closely matched or for
+                          beginers.  If, however, you and your friends
+                          are looking for a great place to show off
+                          your skill, here it is.
+
+                          As in my previous levels everyone starts 
+                          with either the shotgun or chaingun.
+                          A new twist is the ready rooms where you 
+                          pick up your weapon and some ammo before
+                          teleporting into the fray.  The rocket 
+                          launcher, the plasma rifle and the BFG all
+                          require some effort to achieve.  If you 
+                          try for the BFG or the power globe (hit
+                          the two switches in the middle) more often
+                          then not someone else will get to them 
+                          before you do.  This definitely a "more
+                          the merrier" type of WAD.  Not big but,
+                          a definite slugfest with three or four
+                          players.
+
+                          There is a co-op exit in the SE corner.
+                          the switch in the NW opens it.
+
+                          As a note to other level editors: I believe
+                          I have achieved the most visplanes in view
+                          possible with out crashing the game.  In 
+                          fact if you look at the NE and SW corners
+                          you'll see where I had to cut the corner
+                          to keep a player from getting back far
+                          enough to see a part of the ceiling. If you
+                          clip backwards from there the game will
+                          crash.
+
+                          Please enjoy this WAD and share it with
+                          others.
+
+Additional Credits to   : ID Software - Thanks again guys!!!
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1  *NOTE* this WAD will not work with
+                                       the shareware DOOM
+Single Player           : Sure - hard to exit though
+Cooperative 2-4 Player  : Sure - you're just going to end up shooting
+                                 each other though.
+Deathmatch 2-4 Player   : Why yes! That would probably be best.
+Difficulty Settings     : Yes  - On skill 1 the BFG and the globe are
+                                 replaced by the blue armour and the
+                                 chainsaw respectively.
+New Sounds              : No   - Your friends screaming should be all
+                                 you need to hear.
+New Graphics            : No
+New Music               : No   - <see sounds above>
+Demos Replaced          : None - If you record some good ones send em
+                                 to me.
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU521, BSP12x
+Known Bugs              : none email if you find any.
+
+
+* Copyright / Permissions *
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com   ftp.idsoftware.com
+
+BBS numbers:
+
+Other: E-mail me and I'll send it to ya.

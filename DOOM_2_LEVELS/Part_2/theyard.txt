@@ -1,0 +1,40 @@
+================================================================
+Title                   :THEYARD    
+Filename                :THEYARD.WAD
+Author                  :David Davidson
+Email Address           :(SYSOP) The Obituary 1-615-988-5390
+Description             :Designed for Deathmatch 
+Additional Credits to   :Chicken Bone for being an easy target. 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Hell on Earth (D00M II) Map 01
+Single Player           : Yes (For looking around)
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes (Skill 3 sparse weapons, Skill 4 everthing)
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch that has been refined 
+                        : numerous times and deathmatch tested hundreds of
+                        : hours.
+Editor(s) used          : Deu2, Deu521gcc, TBSP 2.22)
+Known Bugs              : None
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+

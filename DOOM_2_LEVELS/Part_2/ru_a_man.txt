@@ -1,0 +1,57 @@
+A R E   Y O U   A   M A N ?
+= = =   = = =   =   = = = =
+
+================================================================
+Title                           : Are you a Man? (RU_A_MAN.WAD)
+Date                            : Sometime in April, near finals.
+Author                          : Jeremy Holland
+Email Address                   : jdh15@po.cwru.edu
+Misc. Author Info               : Been doing this for awhile now.  
+											 My friends at school all think my 
+											 levels are cool.  This is the first
+											 one I've released.
+Description                     : Three levels are included.  Each is
+											 a different test of your DOOM-playing
+											 abilities.
+											 CHALLENGE of the CYBERDEMON.
+												  Can you kill the cyberdemon?
+											 CHALLENGE of the BARON
+												  Now you see em' now you don't.  If
+												  you kill them both, you win.
+											 CHALLENGE of the SPAWN.  
+												  Your mission is to survive for three 
+												  minutes while hell tries to pull you
+												  under.
+Additional Credits to           : Chad Lester, Eddie Cukierman for 
+											 plasytesting (i.e. dying) and ideas.
+================================================================
+
+* Play Information *
+
+Episode and Level #             : MAP01, MAP02, MAP03
+Single Player                   : Yes 
+Cooperative 2-4 Player          : No 
+Deathmatch 2-4 Player           : No
+Difficulty Settings             : No.  Play on UV for a true test.
+New Sounds                      : No
+New Graphics                    : No
+
+* Construction *
+
+Base                            : New levels from scratch
+Build Time                      : A few hours 
+Editor(s) used                  : "New" DEU ][, W.A.R.M.
+Known Bugs                      : sometimes on MAP03 the demons get 
+											 stuck in each other.  This makes it a 
+											 bit easier, actually.
+
+* Copyright / Permissions *
+
+You may use these levels as bases to build additional levels, but I don't 
+know why you'd want to.  If you do, drop me a line so I can see your work!
+You may distribute this file as long as you include this text file.
+
+* Where to get this WAD *
+
+ftp.cdrom.com and mirrors thereof.
+

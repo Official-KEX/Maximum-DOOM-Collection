@@ -1,0 +1,85 @@
+================================================================
+Title                   : LUNAR BASE
+Filename                : LUNAR.WAD
+Author                  : Mark Barry
+Email Address           : I wish...just my BBS (sigh) 
+Misc. Author Info       : Computer Science Instructor
+                          Alvin Community College (Houston, TX)
+                          (713) 388-4831 voice
+                          (713) 388-4930 BBS (it's free!)
+
+Description             : Designed for Deathmatch 2 for DOOM II                                                   
+                          
+                          Weapons:
+                          --------
+                          Super Shotgun, Rocket Launcher, BFG, Plasma Gun
+
+                          Features:
+                          ---------
+                          1. Lots of hidden areas and traps/tricks
+                          2. A cool COKE machine!
+                          3. New textures of the earth, animation, etc...
+                          4. An electrical fence...ouch!
+                          
+                          I wanted to make the best PWAD I could since
+                          I have been seeing a bunch of crap out there.
+                          In fact, I only put the best and most original
+                          PWADs on my BBS.  I hope you will enjoy playing
+                          this PWAD as much as I had fun making it.
+
+Additional Credits to   : ID Software for a great game
+                          Waded 1.49 (great editor)
+                          Trinity.WAD (for the ideas)
+                          NWT (New Waded Tools to extract/import)
+                          NeoPaint (Used to paint the textures)
+                          Stargate.WAD (for the earth texture)
+                            - Thanks Nick for the help!
+================================================================
+
+* Play Information *
+
+Level #                 : E1M1 
+Single Player           : Yes, but why?
+Cooperative 2-4 Player  : Yes (up to 4 players)
+Deathmatch 2-4 Player   : Yes 
+Difficulty Settings     : (All levels are the same)
+New Sounds              : Nope
+New Graphics            : Lots!
+New Music               : Nope
+Demos Replaced          : Nope
+
+* Construction *
+
+Base                    : Two weeks at part-time
+Editor(s) used          : WADED v1.49
+Known Bugs              : Are you kidding?  Never a bug in my WADs!
+                          But if you find one, hit your PC a few
+                          times and it will come out.
+
+* Copyright / Permissions *
+
+You may not change this pwad.  Usually I don't mind but it took me
+too long to make this one and I'm not letting anyone take credit 
+for it (cocky).  However, if you do, you better give me the credit 
+for the time I spent on it!   :)
+
+You MAY distribute this PWAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: Not yet
+
+BBS numbers:  Alvin Space Center BBS
+              (713) 388-4930
+              I'm the sysop
+
+Other sites: I'm planting this PWAD all over the USA!
+
+Final Note:
+-----------
+  If you are a beginner with creating PWADs, call my BBS or my
+  voice number and I'll help you if I can.  Or, just disect my
+  PWAD and have fun with it.

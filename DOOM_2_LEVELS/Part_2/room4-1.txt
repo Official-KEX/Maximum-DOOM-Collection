@@ -1,0 +1,53 @@
+Filename                : room4-1.wad
+Author                  : Faust
+Misc. Author Info       : Author of room2.wad, room3.wad, room2-1.wad 
+                          psycho1.wad, room3-1.wad & zone1.wad
+                          ALL available on Code Red and The Wall.
+
+Description:            in the first room4 i put a boss shooter that showed
+                        up in deathmatch - in this wad this feature has been
+                        removed for better playability - other than that it
+                        is the same as room4.wad
+                        cool large level for deathmatch - find the ?hidden?
+                        lifts to get more weapons and ammo - in the 1st and
+                        2nd difficulity settings, i put plasma rifles and
+                        a couple of soul spheres
+
+
+
+
+Additional Credits to: ID & bullyboy for playtesting and lift ideas
+
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAPS 01
+Single Player           : uh no 
+Cooperative 2-4 Player  : no 
+Deathmatch 2-4 Player   : ONLY WAY TO PLAY!!!
+Difficulty Settings     : Yes
+New Sounds              : No 
+New Graphics            : No 
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : new
+Editor(s) used          : dck, & waded181
+
+
+* Copyright / Permissions *
+
+Authors MAY (please do!) use these levels as a base to build additional
+levels - jus give me some credit hehehehehee
+
+You MAY distribute this WAD file in any format, as long as this file is 
+included intact.
+
+* Where to get this WAD *
+
+The Wall            214-286-8291
+Code Red bbs        214-424-4702

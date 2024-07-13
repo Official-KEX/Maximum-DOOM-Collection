@@ -1,0 +1,66 @@
+================================================================
+Title                   : OPOST21.WAD   
+Author                  : Scott Amspoker
+Email Address           : scott@basis.com
+
+Description             : The government boasts that Outpost 21 is the home
+			  of scientific research that will benefit all 
+			  humanity.  On the surface, Outpost 21 appears
+			  to be a peaceful complex that provides its
+			  small team of dedicated scientists with living
+			  quarters, research labs, and recreational
+			  facilities.  However, not even the aliens
+			  who recently inhabited Outpost 21 were aware 
+			  of the dark and dirty secrets that lie beneath .
+
+Additional Comments	:
+
+   As with any Doom level, please play this level in a dimly lit
+   or dark room.  I strongly urge that you not use gamma correction
+   unless you really have an unusually dark monitor.  Gamma correction
+   tends to put a "wash" on the otherwise deep Doom colors and I
+   have chosen the light levels carefully.  Some parts of this
+   level are dimly lit.  This is not to disorient the player or
+   pull a cheap shot in the dark.  It is to create the proper
+   mood and to exploit certain Doom textures that would look
+   unconvincing in brighter light (and with gamma correction).
+   Have fun!
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Too damn long
+Editor(s) used          : DEU 5BETA4, 5.0, 5.1  and BSP11X
+Known Bugs              : none
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other:

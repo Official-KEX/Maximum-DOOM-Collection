@@ -1,0 +1,82 @@
+================================================================
+Title                   : TEAM FRAG 2
+Filename                : teamfrg2.wad
+Date released           : 28/2/1995
+Author                  : Cameron Gascoyne
+Email Address           : C.Gascoyne@student.anu.edu.au
+Description             : A deathmatch level designed for 2 on
+                          2 competition.                         
+Additional Credits to   : - my computer
+                          - Chris for finally finding a good node
+                            builder
+================================================================
+
+* Play Information *
+
+Episode and Level #     : DOOM2, Map 01
+Single Player           : It works
+Cooperative 2-4 Player  : I suppose
+Deathmatch 2-4 Player   : Yes!!!
+Difficulty Settings     : No
+New Sounds              : No  
+New Graphics            : No
+New Music               : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Deu2,IDBSP v1.1beta
+Known Bugs              : None. If you find any, it's probably
+                          something wrong with your computer!
+
+* Playing Notes *
+
+OVERVIEW
+--------
+This WAD is designed for 2 on 2 deathmatch, and that's really the
+only way it can be played. Start up the game in DeathMatch mode,
+and choose two teams from 4 players. The players in each team will
+have to work co-operatively to get weapons and bonuses.
+
+WEAPONS
+-------
+The super-shotgun and the rocket launcher both require co-operation
+between 2 players to get them. The super-shotgun is located on top of
+a lift at the top of the stairs in the main arena. The switch to lower
+the lift is behind the lift - it's pretty straight forward.
+
+The rocket launcher is in the "acid room" (south). One player falls
+in to the acid to get the laucher, and presses the button to open one
+of the two doors. His team-mate must press the button in the main
+arena to open the second door to allow the player with the launcher out.
+
+MEGA-SPHERE
+-----------
+The mega-sphere is located at the bottom of the moving-floor (east). The
+floor lowers once a player stands on it. To raise the floor, his team-
+mate must press the button between the two computer panels at the top
+of the lift.
+
+EXIT
+----
+Three players are required to exit the level - 1 player on each of the two
+exit buttons, and another to go through the exit doors to the exit. The
+"exit" buttons raise doors (marked "exit") to the east. Note that both
+buttons must be pressed simultaneously so that the exiting player can run
+safely through to the exit button without being squashed by the crushing
+ceiling in the first exit room.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, but I like to hear about the changes.
+
+You may distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+

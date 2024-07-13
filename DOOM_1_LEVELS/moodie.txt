@@ -1,0 +1,40 @@
+=============================================================================
+Title                   :MOODIE.WAD
+Author                  :Matthew Pickford
+Email Address           :mspic1@pfs01.cc.monash.edu.au
+
+
+Description             :Serious DEATHMATCH WAD, for serious players!!!
+			 
+Additional Credits to   :Id for creating DOOM!
+
+=============================================================================
+* Play Information *
+
+Episode and Level #     :E1M1
+Single Player           :Yes, but why bloody bother!!!!!!
+Cooperative 2-4 Player  :NO! but why bother, boring!!!!!
+Deathmatch 2-4 Player   :Yes!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Difficulty Settings     :No, no monsters!!!!!, just your opponents to kill!
+
+* Construction *
+
+Base                    :DOOM level 1
+Build Time              :5 Hours
+Editors used            :DEU v5.21 and BSP v1
+Known Bugs              :None
+
+*Copyrights / Permissions *
+
+Hey, the editor was free and I had a ball doing it, so copy it, distribute it
+but please don't edit it!!!!!
+
+Please distribute with this file!!!!
+
+Welcome any comments!!!! Please write to:-
+
+Matthew Pickford 
+98 Cook St
+Flinders, Victoria, 3929
+Australia
+

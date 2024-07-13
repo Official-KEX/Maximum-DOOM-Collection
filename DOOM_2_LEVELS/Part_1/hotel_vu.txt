@@ -1,0 +1,46 @@
+===========================================================================
+Title                   : xxxx.WAD 
+Date Finished           : Hotel de Vu
+Author                  : Vu Q. Le
+Email Address           : eabu1144@ea.oac.uci.edu
+Other Files By Author   : siege25.wad, garden.wad
+
+Description             : Here's a dark, creepy hotel for deathmatch.
+                          Set to the tune of an old Eagles tune about
+                          a certain hotel...
+
+===========================================================================
+* Type of DOOM or DOOM II file*
+
+New level WAD           : Yes
+Music PWAD 		: Yes
+
+* Play Information *
+
+Map #                   : Map 1
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Music               : Yes
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Too long
+Editor(s) used          : DEU 2C
+Known Bugs              : none 
+May Not Run With...     : too much beer right before
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels provided I am credited for it.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.

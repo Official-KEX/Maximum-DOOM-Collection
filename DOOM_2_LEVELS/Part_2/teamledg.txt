@@ -1,0 +1,55 @@
+===============================================================
+Title                   : Team Ledge
+Filename                : TEAMLEDG.WAD
+Author                  : Cameron Gascoyne
+Email Address           : C.Gascoyne@student.anu.edu.au
+Misc. Author Info       : I play Doom.
+
+Description             : This is a two-on-two deathmatch level
+                          for Doom II. It requires four players.
+                          This WAD is a modification of LEDGES-X
+                          by Neil Bonner.
+
+Additional Credits to   : Neil R. Bonner, author of the great 
+                          LEDGES-X.WAD!
+                        : Mark K. Gresbach, author of the great
+                        : LEDGESI.WAD!
+
+================================================================
+
+* Play Information *
+
+Episode and Level #                    : MAP01, DOOM II
+Single Player                          : No
+Cooperative 2-4 Player                 : No
+Deathmatch 2-4 Player                  : Yes
+recommended # of players (deathmatch)  : 4 
+Difficulty Settings                    : Not implemented
+New Sounds                             : No
+New Graphics                           : No
+New Music                              : No
+Demos Replaced                         : None
+
+
+* Construction *
+
+Base                    : LEDGESI.WAD and LEDGES-X.WAD
+Editor(s) used          : DEU2, DoomED Deluxe v2.71, IDBSP node builder
+Build time              : Modifications on LEDGES-X took about 2
+                          hours.                          
+Known Bugs              : None.  Email me if you find any.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites: FTP.CDROM.COM

@@ -1,0 +1,89 @@
+=============================================================================
+Title                   : Danzig for DOOM ][ Deathmatch 
+Filename                : danzg11a.wad; map fixes since danzig11.wad
+Author                  : B. Vannatta
+Email Address           : vannatta@bobcat.ent.ohiou.edu
+Misc. Author Info       : Author of most levels in igor9.wad and danzig12.wad. 
+Description             : Danzg11a.wad is a very small level for INTENSE
+                          DOOM ][ Deathmatch.  Supports various modes of
+                          play (see below) and monsters (use respawn). 
+Additional Credits to   : id Software...
+=============================================================================
+
+
+* Play Information *
+
+Map #                   : Map11
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : YES
+Difficulty Settings     : Implemented for various modes of play (SEE BELOW)
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : ---
+Known Bugs              : please report any to vannatta@bobcat.ent.ohiou.edu
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You MAY distribute this PWAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+You may do whatever you want with this file, as long as you distribute 
+your modified file under a name OTHER than "danzig".
+
+
+* Where to get this PWAD *
+
+FTP sites:  wcarchive.cdrom.com
+
+
+* Important Notes *
+
+        Danzg11a is a VERY small level designed to provide for extremely 
+intense Deathmatches.  I've included support for various modes of play as 
+follows:
+        
+        1.  Original Deathmatch rules ("I'm Too Young To Die" and "Hey, Not 
+            Too Rough" support this) 
+            
+        2.  Deathmatch 2.0 rules ("Hurt Me Plenty" supports this) 
+        
+        3.  What I call "Expert" mode ("Ultraviolent" and "Nightmare" support 
+            this)  
+        
+Original Deathmatch and Deathmatch 2.0 are basically the same setup with 
+minor variations in ammo/health placement.  Expert mode has very little 
+health and ammo, but DOES include every weapon in the level (including 
+the BFG).  Use Expert mode if you want access to the more powerful weapons.
+        I've also included monster support - monsters are placed 
+strategically to add spice to the game.  Usually players don't need this in
+a three- or four-player game, but sometimes a two-person game can get a 
+little slow.  Either way you like it, BE SURE TO INCLUDE THE RESPAWN OPTION
+WHEN USING MONSTERS in your Deathmatches.
+        Also note that this level does NOT involve a cooperative exit.  
+Pushing the exit button will open a wall BEHIND one of the rocket launcher 
+lifts; the exit is in a small room there.  Make SURE you're ready to leave 
+when you hit the exit button.
+        Please take a walk through this level before you actually use it in 
+Deathmatch.  While danzg11a is extremely straightforward, it's always nice to
+get a feel for a new level before you begin.  I'm open to any comments/  
+suggestions you may have, so please send me email!
+        Finally, if anyone uses this pwad who plays over a LAN (with three 
+or four people), please make an LMP file and send it to me!  I've rarely had
+the chance to see more than two people in this level, and would like to 
+see the action.  Thanks for using Danzig!
+
+

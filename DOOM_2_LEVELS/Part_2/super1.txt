@@ -1,0 +1,59 @@
+================================================================
+Title                   : Doom ][ - Super-One Showdown   
+Filename                : SUPER1.WAD
+Author                  : ID Software/Malcom X
+Email Address           : None
+Misc. Author Info       : This is NOT my first WAD, but I finally
+                          decided to release something I've made.
+                          This is my first release of something I
+                          have done, and I'll probably put more out
+                          soon.
+
+Description             : This is a SUPER addition to MAP 01.  Most
+                          of the original elements of MAP 01 are still
+                          intact, but some changes have been made to
+                          make this the ULTIMATE design for a Deathmatch
+                          Showdown for 2-4 players, especially on
+                          a place like DWANGO!  A few secrets
+                          lie in this one so I'm not going to give it
+                          all away, but if you wish to lock out the
+                          BFG, backpack, and the two mega-spheres that
+                          exist in this level, simply hit the switch
+                          around the corner from the BFG.  You'll also
+                          experience some moving music, great sound
+                          effects, and a replacement title bar screen at
+                          the bottom.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 01
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : Yes
+New Graphics            : Yes
+New Music               : Yes
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Modified MAP01
+Editor(s) used          : Deu2C/BSP v1.2
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.  
+
+You may do whatever the hell you want with this file.
+
+* Where to get this WAD *
+
+BBS numbers:
+
+Code Red BBS        (214) 424-4702
+Arsenal Of Freedom  (214) 271-5410

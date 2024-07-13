@@ -1,0 +1,61 @@
+*******************************************************************************
+
+				DEPTH LABYRINTH
+				***************
+			First level made by NiceDesign
+			******************************
+
+*******************************************************************************
+
+Title                   	: Depth labyrinth
+Filename                	: DEPTHLAB.WAD
+Author                  	: Hennion Nicolas , Benayoun Laurent.
+Email Address           	: hennion@samoa.unice.fr
+Misc. Author Info       	: A little level in the doom word
+                          	  Please send me comments,suggestions etc...
+Description             	: Design for 1 but cool with 2,3,4 players
+MUCH Additional Credit to   	: Id Software for making the game.
+				  DCK v2.2 programmers.
+
+*******************************************************************************
+* Play Information *
+
+MAP #                   : MAP01
+Single Player           : Yes   
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+*******************************************************************************
+* Construction *
+
+Base                    : New level from scratch
+Editor used             : DCK v2.2
+Build Time              : Long (very long).
+Known Bugs              : Nope.
+
+*******************************************************************************
+* Copyright / Permissions *
+
+Authors may not use this level as a base to build additional
+levels. You may change it to suit your needs, but do not distribute edited
+version.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact. 
+
+*******************************************************************************
+* Where to get this WAD *
+
+FTP sites:  
+            FTP.CDROM.COM
+	    FTP.IBP.FR
+
+*******************************************************************************
+	

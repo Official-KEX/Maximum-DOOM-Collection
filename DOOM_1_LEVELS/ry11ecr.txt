@@ -1,0 +1,79 @@
+============================================================================
+Title				: RY11ECR.ZIP (ry11ecr.wad + ry11ecr.txt) 
+Author				: Eric C. Reuter 
+Email Address			: reuter@merck.com
+				  (All comments, suggestions and criticisms greatly appreciated)
+
+Misc. Author Info		: I'm SYSADMIN and SYSPGMR for supercomputing
+				  with no time on my hands, but make time for
+				  the most important thing: DOOM!
+
+Description			: A deathmatch level, designed originally for 
+				  2 player modem, but suitable for 3-4 player network and
+				  single player. This started as my first wad, but went through
+				  many hours of reworking to look good. Anyway, the central 
+				  area of this level is a reasonable representation of where I and
+				  my regular deathmatch oponnent work in real life, with a DOOM
+				  twist, of course. Outside areas and such were added just for fun.
+				  We find this a constant favorite for long deathmatch duels, but 
+				  that may be due to our familiarity with the layout. Hope you find 
+				  it as much fun. Little attention payed to monsters / difficulty levels,
+				  best played with -nomonsters. Please don't flame me about the 
+				  bigdoor2 textures on most doors, I used the texture because I hate 
+				  the other available door textures for less that 128 widths. 
+				  This wad designed for use under version 1.666. Has lots of ammo,
+				  so you may or may not want to use -altdeath for respawning. 
+				  Then again, if you like rocket duels, you might.  
+				   
+
+Additional Credits to		: Geoff Allan for Doom Editor for Windows
+				  (Yes Geoff, I WILL be registering when 3.0 is done) 
+				  (de_260b2 and b4 and version 3 alpha.)
+				   Walt Woerner   (regular deathmatch opponent)
+				  id Software (of course)
+			  ============================================================================
+
+*  Play Information  *
+
+Episode and Level #		: E1M1
+Single Player			: Yes
+Cooperative 2-4 Player		: Yes
+Deathmatch 2-4 Player		: Yes
+Difficulty Settings		: Yes, but not really much difference.
+New Sounds			: No
+New Graphics			: No
+New Demos			: No
+
+*  Construction  *
+
+Base				: New level from scratch. then reworked for appearance
+Build Time			: Rediculously long.
+Editor(s) Used			: Doom Editor - The Real Thing (for windows)
+				  by Geoff Allan V 2.60b2 and 2.60b4  and 3.0 alpha.
+				  Doom Construction Kit 1.1 (DCK11)
+				   idbsp 1.0
+
+Known Bugs			: None Known or Discovered. 
+				  Have not tried under 1.2 of doom, only 1.666
+				  May have HOM if I exceeded the 2-sided line def
+				  limit. Please e-mail if you have any trouble.
+	
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels.
+Authors/ Users MAY add or remove weapons, monsters and ammo
+to suit taste for playability.
+
+You MAY distribute this WAD provided you include this file with no 
+modifications. You may distribute this file in any electronic format
+(BBS, Diskette CD, etc.) as long as you include this file intact.
+
+* Where to get this WAD *
+
+FTP sites : 	infant2.sphs.indiana.edu
+		ftp.uwp.edu
+		wuarchive.wustl.edu 
+
+
+  
+

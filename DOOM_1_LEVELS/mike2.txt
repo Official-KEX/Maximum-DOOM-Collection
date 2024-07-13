@@ -1,0 +1,45 @@
+================================================================
+Title                   : MIKE2.WAD
+Author                  : Mike M. (Macster)
+Email Address           : cs911415@red.ariel.cs.yorku.ca
+
+Description             : This level is designed for DEATHMATCH play.
+                          It's a modified E1m1 with some new perks. Look
+         	   	  for the chainsaw on the elevator, and some new
+			  exits/entrances to the rocket area. As well the
+			  slime pits don't cause you damage any longer,
+			  and dark areas have been added for added suspense.
+                          
+Misc game info          : Deathmatch Heaven - Also an extra shotgun, you'll
+			  see it.
+
+Additional Credits to   : Swamper for testing this wad to death. :)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1            
+Single Player           : Yes - boring
+Cooperative 2-4 Player  : Yes - boring
+Deathmatch 2-4 Player   : Yes - HEAVEN!
+Difficulty Settings     : No                        
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : E1M1
+Build Time              : 4+ hours
+Editor(s) used          : DEU 5.0, BSP 11x
+Known Bugs              : 
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+

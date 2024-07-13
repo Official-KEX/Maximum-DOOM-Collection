@@ -1,0 +1,159 @@
+New Title               : DOOM Mouse Spinner v0.13 with KEYBOARD Support!
+Filename                : DMS013.com
+Modified by             : Lincoln Yeoh 
+Email Address           : lyeoh@pop.jaring.my
+
+================================================================
+Title                   : Doom Mouse Spinner (DMS) v0.12 beta
+
+Filename                : DMS.COM
+Authors                 : Tom Klok and Dave 'Zoid' Kirsch
+Email Address           : a344@mindlink.bc.ca
+
+Description             : Ever had the problem of a monster or
+                          deathmatch opponent sneaking up behind
+                          you?  Ever needed to turn around *now*?
+                          With DMS, you can rotate your player
+                          180 degrees with a click of the mouse!
+
+Release note            : This is a *BETA* release.  DMS has been
+                          tested with Logitech 3-button and
+                          Microsoft 2-button mice.  It should work
+                          with others without problems.  I don't
+                          know what it would do with a CyberMan.
+
+Release note for DMS v0.13   
+                        : Modified by Lincoln Yeoh so you can use a 
+                          user definable key on the keyboard to flip!
+                          And added -n for people who don't want to use                                            
+                          the mouse buttons to flip.
+
+                          Seems to work. If it doesn't. Tough! Go fix it.
+
+Construction            : TASM 3.1, TLINK 5.1
+
+================================================================
+
+
+What it is
+~~~~~~~~~~
+
+     DMS is a tiny TSR (443 bytes resident) that intercepts Doom's
+calls to the mouse driver.  By clicking the mouse buttons that you
+define, it will instantly turn you 180 degrees -- facing the exact
+opposite direction.  Cranking up your mouse driver sensitivity can
+allow you to do the same, but then your accuracy may fall off.
+With this you don't have to make that compromise.
+
+     It supports mouse "chords".  For example, if you have a 2-button
+mouse you can set it up to spin you only when you press the left and
+right mouse button at the same time.  3-button mice permit even more
+combinations.  I prefer the Middle+Right button chord on my Logitech.
+
+LY> I prefer to flip with the keyboard, and leave the mouse buttons
+    for other stuff. That explains this patch :-). This makes it easier
+    to run forward, flip, run backward facing opponent, aim, fire, flip
+    back again to see where you're going. Also convenient if you back into
+    a door- flip, press spacebar..
+
+Does it work for Deathmatch?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+     Sure, why not?  It shouldn't cause consistency failure.  Some
+might consider it cheating, though.
+
+LY>     I think Heretic has this function built in. And I think adding
+        the keyboard support makes it a bit more fair now... 
+        Mouse AND Keyboard is still better!
+
+How it works
+~~~~~~~~~~~~
+
+     Doom uses two standard Mouse API services:
+
+          function AX=0003h             - mouse button status
+          function AX=000Bh             - mouse delta mickey counts
+
+     A 'mickey' is the smallest unit of mouse movement... sort of like
+a pixel on the screen.  Every time Doom requests the new delta mickey
+counts, the mouse driver returns the number of mickeys (X and Y,
+positive and negative) the mouse has moved since the last request.
+
+     DMS hooks interrupt 33h, the mouse driver interrupt, and watches
+for those two function requests.  Whenever Doom asks for the latest
+button status, DMS passes the request on to the mouse driver and then
+checks to see if the special button(s) have been pressed.  If they
+have, it masks them out (tells Doom they never happened) and adds 180
+degrees to the X-axis mickeys the next time Doom asks for them.
+     DMS 0.13 does that too, and also checks the keyboard- in al,060h
+
+     DMS was written in assembly language for small size.  Source code
+is included.
+
+
+How to install it
+~~~~~~~~~~~~~~~~~
+
+     Put DMS013.COM in your Doom directory, or some other directory in your
+DOS path.  Simply type 'DMS013' to load it.  Be sure you load it AFTER your
+mouse driver, not before, or it won't work.  <-- Important!
+
+     'dms -?' or 'dms -h' will display some simple usage help.  To
+configure your own button preferences, run DMS with a parameter
+indicating which buttons you want.  The default is the right mouse
+button.  For example, if you prefer the Left+Right buttons to spin
+you, enter 'dms -lr'.  Since I like Middle and Right, I use 'dms -mr'.
+
+     You can change your button definitions by running DMS again.  It
+will detect that it is already loaded and just update the buttons.
+
+     DMS may be loaded into conventional memory, or high memory (UMB's).
+There really isn't any point in loading it high, however, as Doom doesn't
+need much conventional memory and DMS only consumes 384 bytes resident.
+
+     Make sure you maximize the mouse sensitivity setting in Doom.
+Anything less than full sensitivity will mean you'll turn less than 180
+degrees.
+     
+     ENSURE that you have set your controller type to Keyboard and Mouse 
+     in your DOOM config setup. Even if you are just using the keyboard
+     you need the mouse driver and mouse enabled under DOOM for it to work!
+     It should work with controller type set to just plain Mouse... 
+     But that's a weird thing to do!
+                                       
+
+How to uninstall it
+~~~~~~~~~~~~~~~~~~~
+
+     DMS doesn't include software to release itself.  Sorry.  Go
+download the MARK/RELEASE tools, or just reboot after you're done.
+
+
+Legal stuff
+~~~~~~~~~~~
+
+     DMS is Copyright (c) 1994 Tom Klok and Dave Kirsch.  Permission
+is granted to distribute it via any media (Internet, BBS, CDROM, etc)
+as long as full attributions are maintained and the source code is
+included.  If you modify the source and build something new with it,
+please have the courtesy of leaving our names on it as well and
+mailing us a copy.  If you are a CDROM producer and include this
+package with your distribution, we expect a free copy of your disk as
+compensation.  Write to Tom Klok at a344@mindlink.bc.ca to notify
+us and get a shipping address.
+
+-- tk 12Aug94Th
+
+I did try to email Tom and Dave a copy, but their email addresses don't seem
+to work anymore. Anyone know their email addresses?
+
+Thanks to you two anyway. Nice code - finally some PC code that even I can
+decipher!
+
+Thinking of adding auxiliary keys/button for forward and backwards. Nah,
+DOOM isn't a flight simulator!! :-).
+
+ Typing DMS013 by itself doesn't seem to select right button by default.
+ Can't be bothered to fix that! 
+
+-- LY 8 May 1995

@@ -1,0 +1,56 @@
+================================================================
+Title                   : Rest In Pieces part VIII
+Filename                : RIP8.WAD
+Author                  : Jeremy Drye and Nick Tucker
+Email Address           : forwarded from nickwt@aol.com
+Misc. Author Info       : HS Student
+                          Just a wanna-be
+Description             : After playing RIP3.WAD a bit, that screwup
+                          with the 16 linedefs was getting to be a little
+                          bit too much.  I am putting this out because it
+                          fixes most of the problems in RIP3.WAD.  Still
+                          the same idea, board.. ledges you have to stay on
+                          to get the guns, etc.
+                          
+Additional Credits to   : DEU and BSP Authors
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M3
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Modified RIP3.WAD
+Editor(s) used          : DEU
+Build Time              : Not long at all
+Known Bugs              : You may still get the HOM effect
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:  Infant2
+
+BBS numbers:  Bills Graphics BBS  (704) 932-4739  19.2K V.32Terbo
+              Carolina Forum BBS  (704) 563-5857  28.8K V.FC
+
+Other:  America Online PC Games Forum
+

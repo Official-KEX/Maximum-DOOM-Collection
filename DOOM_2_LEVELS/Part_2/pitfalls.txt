@@ -1,0 +1,68 @@
+================================================================
+Title                   : Pitfalls   
+Filename                : PITFALLS.WAD
+Author                  : Chris Brown
+Email Address           : Bonesbro@aol.com
+Misc. Author Info       : Spends way too much time playing DOOM ][. WAY too 
+                          much. Trust me. 
+Description             : I was looking through all the textures in DOOM ][,  
+                          and the Bloodfalls/Slimefalls textures really jumped 
+                          out at me. "Design a level based around us" is what 
+                          they said. So I found myself devoting large potions of 
+                          time that might otherwise be spent on useless tasks
+                          (such as studying, eating, or sleeping) building and
+                          testing Pitfalls. It was originally going to be just
+                          the first one, the Bloodfalls, but then it was 
+                          suggested that I build a sequel. So I did and called
+                          them Pitfalls.
+
+Additional Credits to   : Neil "How do I turn the lights back on? Please?" 
+                          Erickson and Jeff "Splatter" Sarnat, Colin Reed
+                          (BSP), and of course, id Software. 
+                          
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01 and MAP02
+Single Player           : Yes
+Cooperative 2-4 Player  : Have fun...
+Deathmatch 2-4 Player   : Guess.
+Difficulty Settings     : Nope
+New Sounds              : Nope
+New Graphics            : Nope - but some of the views are awesome.
+New Music               : No - but I might put in some DOOM music I liked.
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : A DEU 5.21 HACK, Waded 1.42, BSP 1.1x
+Approximate Build Time  : 10 hours total
+Known Bugs              : For some unknown reason respawning in DM play does
+                          not always cause a flash in some spots - like in front 
+                          of the "lights on" idol in Falls.
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels without my prior permission.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact. I must be contacted before any commercial distribution may
+occur.
+
+* Where to get this WAD *
+
+FTP sites: Ftp.Orst.Edu
+           All the good DOOM mirrors
+BBS numbers: The Midwest Express BBS - (219)-273-8789 or (219)-277-7875
+             Co-Sysop - you're looking at him 
+             Over 20 gigs of CDROM's waiting to be put online - as soon as we
+             find time...
+             Custom built computers, cheap.
+
+Other: Alt.Binaries.Doom
+       E-Mail (If I'm in a REALLY good mood...)

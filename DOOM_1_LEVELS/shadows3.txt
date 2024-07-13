@@ -1,0 +1,50 @@
+Here it is ...
+				  SHOOTING
+                                SHADOWS III
+                              (shadows3.wad)    
+                     A professional DEATHMATCH level
+                                   for
+                     professional DEATHMATCH players.
+                     _______________________________
+                                 made by
+                                I.S.& S.I.
+                          Sergey Ishchenko and
+                              Ivan Samarin.
+                     E-mail:
+                   math588@edvzbb2.ben-fh.tuwien.ac.at
+                   math645@edvzbb2.ben-fh.tuwien.ac.at
+                   ep-tsch@titania.tuwien.ac.at
+
+                      Technical University of Vienna
+                     _______________________________
+
+                                           
+
+Short description:
+        It's E1M1
+        It's small
+        It has all weapons
+        It has no monsters
+        It HAS a "level-end"
+        It has 2 teleporters
+        It has many DEATHMATCH start positions (more than 15)
+        IT IS GREAT !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Distribution:
+        This WAD-file can be free distributed.
+        You can copy it, play it, give it to your friends,
+        include it into your Shareware CD or HD, BUT ONLY IF...
+        1) This file is included.
+        2) The first 40 lines of this file are not changed.
+        3) The SHADOWS2.WAD is not changed.
+
+
+
+
+Have a fun ......
+        Serg Ishchenko
+        13 Mai 1994
+
+PS Any comments are welcome
+PS2 We are still working with new DEATHMATCH WADs.
+

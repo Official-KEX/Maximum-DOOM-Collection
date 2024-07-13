@@ -1,0 +1,60 @@
+===========================================================================
+Title                   : Rage1
+Date Finished           : 4/11/95 
+Author                  : Will Pendleton
+                          Carlos Cardenas
+Email Address           : None
+Other Files By Author   : MEGA!
+Misc. Author Info       : I'm Will on Dallas DWANGO, so if you have any
+                          ideas or comments, let me know :) 
+Description             : This level contains a little bit of e1m1 from 
+                          DOOM I and a lil bit of map01 and map02 from
+                          DOOM ][..Hope you enjoy..
+Additional Credits to   : JordanR for helping out with the outside 
+                          area, and Imran for helping out with the sounds.
+===========================================================================
+* Type of DOOM or DOOM II file*
+
+New level WAD           : No
+Sound PWAD Only         : No
+Music PWAD Only         : No
+Graphic Addon Only      : No
+.LMP Only               : No
+Other                   : Yes, new sounds added (thanks to Carlos)
+
+* Play Information *
+
+Map #                   : Map 01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes Of course!
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Music               : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Scratch
+Build Time              : Bout 15 hours. 
+Editor(s) used          : Deu2, BSP 1.0
+Known Bugs              : Good wads dont have bugs! (but lemme know if ya
+                          find any. :)
+
+* Copyright / Permissions *
+
+Authors NOT use this level as a base to build additional
+levels. (Unless you have authors Premission)  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+BBS numbers:                          
+KCE: (214) 613-0992
+Code Red: (214) 424-4702
+The Wall: (214) 286-8291

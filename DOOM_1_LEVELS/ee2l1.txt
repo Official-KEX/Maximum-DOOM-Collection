@@ -1,0 +1,45 @@
+The world's awesomest Deathmatch level!  (Well its pretty good
+anyways).  You NEED to have registered your Doom to use this of course,
+its Episode 2, Level 1.  
+
+DESC
+
+Basically, its a mostly dark level (light intensity 40-60 in
+most areas, so you can see things close up and can see white blurs
+for the other player).  There are weapons all over the place.  Barrels
+all over the place.  Some things modified so for example you can jump
+out of the 'tower' in the middle.
+Recently also added a bunch of light amp visors and invis spheres
+to make things interesting and give you an advantage.  They ovf
+course wont lst all that long.  The main reason for introducing the
+light amp visors is so when we were finished after a 50 frag each
+game we could get a couple and survey the damages!
+Deathmatch starts moved.  Also about 4-5 deathmatch starts added, dont
+know if it actually works (ie. didnt notice if I was warping in to >4
+different places).
+
+INSTRUX
+
+It is a PWAD file, so to you use it load Doom with:
+
+DOOM -FILE EE2L1.WAD
+
+Or if you are playing modem/network all involved parties will have to
+have the file.  I suggest having a MODEM.BAT file to run instead
+of setup.  Here is my MODEM.BAT file - its really quick and
+essy to fix up.
+
+SERSETUP -com4 -skill 4 -episode 2 -nomonsters -deathmatch -FILE EE2L1.WAD
+
+
+FINAL NOTZ
+
+Want some cool ways to play deathmatch and cooperative 2 players (ie.
+scenarios)?  Email me.
+
+Hey, how about a level where theres one big room with 0 light intensity,
+weapons all over, and all deathmatch starts in that room? 
+
+dpapp@amisk.cs.ualberta.ca (Denis Papp)
+
+ 

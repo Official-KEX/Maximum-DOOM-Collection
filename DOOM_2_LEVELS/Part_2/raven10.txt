@@ -1,0 +1,40 @@
+DOOM 2
+
+Part ten of the RAVEN SERIES Map 10
+
+This is part ten in the premier Doom 2 RAVEN series.  
+This .wad will challenge all Doom players regardless 
+of skill level.
+
+Features:
+- support for all 5 skill levels
+- Great DEATHMATCH level. 
+- well placed monsters
+- use of all three keys
+- can be completed with out cheating
+- excellent texture alignment
+- The longer you play the more open it gets.
+
+Use doom2 -file raven10.wad -warp 10 -skill 1   to play.
+or idclev10   during the game. 
+
+You can build a Doom 2 response file that includes
+all the Raven levels.
+
+Or write a bat file that loads all of them.
+
+If you  liked this level or any of the RAVEN levels
+please drop me an E-mail note.  Any suggestions or comments
+will be greatly appreciated.
+
+** Please contact me if you wish to include this level 
+(or any RAVEN levels) in a commercial package. 
+(i.e. MEGA-WAD pack, etc)
+
+Level creator:     Tim Willits 
+		   (will0057@mermaid.itlabs.umn.edu)
+		   63 N. Ruth St.
+		   St. Paul MN 55119
+		       
+Level Tester:      Robert J. Cody
+

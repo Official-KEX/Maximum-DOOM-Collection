@@ -1,0 +1,43 @@
+Doom2 - (Multi-1)
+
+   This is my first Multi-Player only Pwad (more to come). I feel that a 
+single player Pwad is just that, and a multi-player Pwad should be designed 
+differently. The over all set up is two castles (fortifications) that each 
+player can control. 
+
+   The castles each have a switch to raise or lower its protective barrier. 
+There is also a walkway which connects the two which can be controlled by 
+both players. Their are also switches which control the ability of either 
+player to access the BFG9000.
+
+   I also have set up smaller weapon/ammo fortifications which house the 
+chain-gun and the double barrell shotgun, plus the ammo for these.
+
+   The third and final area is the Pit. The pit contains the health, Rocket 
+Launcher and Plasma Rifle. This is a powerful area. He who controls the pit, 
+conmtrols the game (in most cases).
+
+   I have set up most of the walls to be one way. You can see in but you 
+can't see out. You can walk through both directions. This creates some very      
+interesting battles.
+
+   Both players should become familiar with the layout, and then may the best 
+player win.
+
+   If you do not have a loader that runs Pwad files then you will run this
+right from the DOS prompt. I will give a short example of what to type but I
+recommend reading up on the line parameters so ti suits your tastes. Both 
+must have the Pwad installed on their system for this to run correctly.
+
+   Example.
+      sersetup -dial Tel.# -file castles.wad -deathmatch -altdeath -14400
+
+      If you have any questions, comments, or suggestions - Please leave me a 
+message on the B.B.S. you dowloaded this from. 
+
+                                        Have Fun.
+
+                                        Rob Whitney
+
+
+   

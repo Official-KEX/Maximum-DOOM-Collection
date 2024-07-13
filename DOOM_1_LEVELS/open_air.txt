@@ -1,0 +1,53 @@
+================================================================
+Title                   : OPEN_AIR.WAD   
+Author                  : Thilo Beuke, Alexander Dost, Jochen Oster
+Email Address           : beuke@student.uni-kl.de 
+                          dost@student.uni-kl.de
+			  oster@student.uni-kl.de
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes (but boring, just to test)
+Cooperative 2-4 Player  : No 
+Deathmatch 2-4 Player   : Yes (what a question?! see below) 
+Difficulty Settings     : Yes 
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Deu5.2GCC, BSP1.1
+Constuction time        : three weeks building and testing
+Known Bugs              : HOM when looking from few specific points
+			      over the labyrinth
+
+
+* Copyright / Permissions *
+
+If you now how to make this WAD better, feel free to do it but please
+Email one of us your changings.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+==================================================================
+
+This is a very large Open-Air level (You need about 10 seconds to
+run along one side with SHIFT down) designed for deathmatch with
+more than two players. It has several components (a small village,
+a 'mirkwood', a vantage point...).
+Because it is so big, we decided to add some Cyber's...
+Difficulty settings vary the number of them. Try deathmatch with 
+difficulty 4/5 !!!
+The level was made for tough fighters who don't need any kind of 
+technical junk.
+There is really an exit, but not easy to reach. One of you must die
+often enough to find it...
+The best method to play is to write messages (You won't be killed too
+soon to send it. There is enough time.) and to arrange a meeting point.
+
+

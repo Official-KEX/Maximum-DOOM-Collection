@@ -1,0 +1,122 @@
+================================================================
+Title                   : The Power Plant ver 1.5
+Filename                : PWRPLT15.WAD
+Author                  : Ravenwing
+Email Address           : ravnwing@netcom.com
+Misc. Author Info       : College student at Highline Com Col., Kent WA
+                          Ravn on DWANGO and IRC #doom
+                          Author of THEKULT.WAD
+
+Description             : A new twist on pwad deathmatch creation..
+                          a PWAD *MADE* for team play! some of the stuff
+                          you just can't get without a partner ( Like
+                          the BFG ) The BFG is a Trap, you can get TO it
+                          alone, but you can't LEAVE it alone. ::Grin::
+                          ( Phrasing completely intentional )
+
+                          The exit room has more than one switch, ONLY ONE
+                          IS THE TRUE EXIT! the rest lower the ceiling...
+                          ::Grin:: see how eager you are to run for the exit 
+                          now coward...
+
+          - New in 1.5
+                          For some reason, 1.0 didn't work...
+                          (maybe its because I forgot to rebuild the nodes
+                          before I released it to the public? naaah....)
+                          Anyhow, it works now. Made a few changes as you'll 
+                          see.... 
+                          
+
+Additional Credit to   :  id ( gee, wonder why... ) Kee and Romero for
+                          coming up with DWANGO, Ben Morris for DCK, The
+                          entier DEU team, the letter "B", the number "6",
+                          The Guys on DWANGO whom I deathmatch everynight
+                          with ( you know who you are )
+================================================================
+
+* Play Information *
+
+MAP #                   : MAP18  ( The Music fit )
+
+Single Player           : Yes  (1.0 had no monsters, 1.5 has buttloads)
+Cooperative 2-4 Player  : Yes  ( ^  1.5 has a few extra things for team play)
+Deathmatch 2-4 Player   : Yes! (suggest -altdeath -nomonsters and 4 players)
+Difficulty Settings     : Yes, all
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor used             : BSP12x
+                          DCK 2.1b (and later DCK 2.2)
+                          DEU2c
+Build Time              : lots and lots and lots... 
+                          ( "I'm ALMOST DONE!... REALLY!" )
+Known Bugs              : None
+
+
+* Extra Bonus stuff! *
+I'm uploading two versions of 1.5, PWRPLT15.ZIP which is just
+this file and the WAD, and PWRPCX15.ZIP, which is, the WAD, 
+and a bunch of screen shots to help you along. 
+The screen shots are in .PCX format ( taken with -devparm and f1 while
+playing ) I recommend cshow to view them, as in all other viewers I tried,
+(dcview, graphics workshop, MS Paintbrush, and Neopaint) it images were
+either distorted or very tiny.
+ The Pix File listing is as Follows:
+ A-Map.PCX        -  The location of the computer map
+ BFGhall.PCX      -  The entry way to the hall with the bfg,
+                     careful, unless you have a partner, you 
+                     won't leave that hallway with the bfg!
+ BigUgly.PCX      -  One of the many Monsters in the level, still
+                     alive and kicking.. ( Well, he'd kick if he
+                     had legs, and he won't be alive for long )
+ Careful.PCX      -  The last room, showing the first of the switches.
+                     ( Hint, its neither of these 2 :) )
+ DieFatBy.PCX     -  A dead Fat boy
+ Doors.PCX        -  A Pair of secret doors
+ Elevator.PCX     -  What I would've made into a true elevator if Doom was
+                     a True 3D game. For now it has to suffice as the
+                     illusion of one.
+ GetUsed2.PCX     -  You'll get used to this room.. half the teleports
+                     lead here ( Hint, In deathmatch, don't stand on the
+                     landing pad very long.. )
+ GoinDown.PCX     -  Another View of 'The Lift'
+ Hello.PCX        -  Say hello, then goodbye, to the nice seargent.
+ LiteHall.PCX     -  I am rather proud of the lighting in this room
+ Mefirst.PCX      -  I wonder who'll get the shot off first? Me or him..
+                     The tittle of this pix tells the story of what happened
+ MegaSphr.PCX     -  The location of the only MegaSphere in the game.
+ Outtammo.PCX     -  Aw crap.. down to a shotgun.
+ PoolFDth.PCX     -  A neat looking Pool, with a Neat looking reward
+ Pretty.PCX       -  Simply a nice shot of the first room, with bodies 
+                     laying everywhere.. kinda brings a tear to an old
+                     doomers eye... -Sniffle-
+ Secret.PCX       -  You know where the room IS, but how do you GET to it?
+ SwchBFG.PCX      -  The switch to open the hallway for the BFG
+ TheHall.PCX      -  The longest hallway I've ever designed
+ TheLift.PCX      -  One of the central Design features of this wad that 
+                     stand out
+ This1.PCX        -  The True exit switch
+
+
+* Copyright / Permissions *
+
+Authors may not use this level as a base to build additional
+levels. You may change it to suit your needs, but do not distribute edited
+version.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact. 
+
+
+* Where to get this WAD *
+
+FTP sites:  ftp.cdrom.com and mirrors
+
+BBS's: DWANGO file support BBS

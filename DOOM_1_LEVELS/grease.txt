@@ -1,0 +1,67 @@
+================================================================
+Title                   : Grease.  Just because.
+Filename                : Grease.WAD
+Author                  : Python
+Email Address           : allend@wlsunlab.queensu.ca
+Misc. Author Info       : Electrical Engineering Student
+
+Description             : This is intended FOR DEATHMATCH ONLY.
+                          Other people can play it, but I dunno
+                          why you'd want to.  Don't ask me why I
+                          made this - I have no way of actually
+                          deathmatching with anyone myself :(  I
+                          would still appreciate any feedback.
+                          I basically came up with the idea and
+                          made it in about an hour.  The idea is
+                          to have some fast paced action without
+                          suicide holes for wimps.  All weapons
+                          save BFG are here, but you have to travel
+                          to get them.  Take a look, anyways.
+
+Additional Credits to   :  Id, DoomED author Geoff Allan, DEU
+                          contributors, Colin Reed (BSP author)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M1
+Single Player           : Whats the point?
+Cooperative 2-4 Player  :   ditto
+Deathmatch 2-4 Player   : YES! YES! YES!
+Difficulty Settings     : Not Implemented.  There only 8 imps.  :)
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DoomED, DEU, BSP
+Known Bugs              : None.  Lemme know if you find some.
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels without my express written (ie. on paper not email)
+permission.  I really don't care, I just want to know what
+happens to this.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  However, it may only be distributed in the
+following ways:  you can distribute it via anonymous ftp, to local
+free-access BBS's, and to anybody you DOOM with personally.  That's
+it.  I don't want this packaged unless you contact my and get my
+express written consent.
+
+This WAD is (c) Copyright 1994 by David Allen.   All rights reserved.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+BBS numbers:
+
+Other:
+

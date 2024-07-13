@@ -1,0 +1,57 @@
+
+================================================================
+Date			: 10/9/94
+Title               	   	: Slapme   
+Filename         	   	: SLAPME.WAD
+Author                  	: Andrew J. Hulme
+Email Address      	: Andrew@metnov1.bham.ac.uk
+Misc. Author Info       	: My supervisor was on holiday so I did this instead of working.
+
+Description             	: This is my second WAD, the sequel to SPANKME. The name has nothing to do with the design, but I bet it made you look at this file. 
+It's another one of my top deathmatch WADs. I've gone for a bit of a castle courtyard theme this time. Its a large courtyard with sniper points all round. Lots of stairs and corridors to run up and down. The best weapons and bonuses are in difficult places in the open. Its excellent way to give your mates a good slapping.
+
+Additional Credits to   	: Adam Gilchrist and Andy Banks for playtesting, when they should have been working. They think this level is ace.
+================================================================
+
+* Play Information *
+
+Episode and Level #    	  : E1M1
+Single Player        	  : No 
+Cooperative 2-4 Player    : No
+Deathmatch 2-4 Player    : YES, YES, YES.
+Difficulty Settings     	  : Not implemented
+New Sounds                    : No
+New Graphics                 : No
+New Music              	 : No
+Demos Replaced            : None 
+
+This level will work with 1-4 players normally but its shite cos there are no monsters. 
+
+* Construction *
+
+Base                   	 : New level from scratch 
+Time taken		 : Longer than the first one
+Editor(s) used         	 : DEU v5.21gc, BSP 1.2
+Known Bugs                   : Some textures are not aligned (I couldn't be arsed at the moment. May get HOM in places if not using DOOM v1.666.
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.  
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu and mirrors.
+
+
+
+Other:

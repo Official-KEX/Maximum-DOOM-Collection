@@ -1,0 +1,48 @@
+================================================================
+Title                   : THUD2 (ChrisK WAD for Doom ][)   
+Filename                : THUD2.WAD
+Author                  : Christen David Klie
+CompuServe Address      : 74767,3615
+Additional Credits to   : Gerri, Michael & Megan Klie
+                          Mark & Matt Borczon
+                          Mal Blackwell (for inspiration)
+                          John W. Anderson (inspiration part 2)
+================================================================
+
+* Play Information *
+
+Levels Replaced         : MAP10; MAP11; MAP12;
+                          MAP13; MAP14; MAP15;
+                          MAP16; MAP17; MAP18.
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New levels from scratch except maps 17
+                          and 18, which were converted over from
+                          CHRISK.WAD for Doom 1.
+Editor(s) used          : DEU ][ v1.0 by R. Quinet, B. Wyber & Adler
+                          BSP v1.0 by C. Reed
+                          DOOM1-2.WAD by Paolo
+                          MAPCONV.EXE by Xerxes Software 
+                          RMB v2.0 by Jens Hykkelbjerg
+
+This is the official companion to THUD!.WAD, picking up where THUD!
+left off - at level 10.  Extract all THUD2 files into your DOOM2 
+directory, and enter THUD2 to play the new levels.
+
+* Copyright / Permissions *
+
+Authors may NOT use this WAD as a base to build additional levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.

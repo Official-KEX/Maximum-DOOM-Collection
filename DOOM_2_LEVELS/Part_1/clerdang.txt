@@ -1,0 +1,58 @@
+===========================================================================
+Title                   : clerdang.wad  (Clear Danger)
+Date Finished           : February 28, 1995
+Author                  : Steve Huskisson
+Email Address           : gamepal@gate.net
+Other Files By Author   : nonstop.wad, DOOM How To, DOOM II How To
+Misc. Author Info       : I used to run Game Palace bbs
+Description             : This level is DEATHMATCH oriented with lots of
+                          weapons and health.  Perfect size for non-stop
+                          fragging action!
+                          I have added a deliberate and obvious exit to this
+                          level to prevent any arguing over who had how many
+                          frags.  The exit is clearly marked, so don't exit
+                          unless everyone is ready!
+Additional Credits To   : Bobby Goetz (Cyberpunk) at The Playing Fields bbs
+                          id Software and Matthew Ayres author of Waded.
+                          Robert Wong (Foxer) and Paul Bettner (Winter)
+                          Sysops of The Playing Fields bbs (305)819-9925
+                          The #1 Multiplayer DOOM bbs!
+
+If you enjoy this level or "nonstop.wad" please let me know.  I am new to
+creating levels and input is appreciated.
+===========================================================================
+New Level WAD
+
+* Play Information *
+
+Map #                   : Map 01
+Single Player           : yes (No monsters)
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : YES!!!!  Fraggin action galore
+Difficulty Settings     : all
+New Sound               : Yes (Teleport)
+
+* Construction *
+
+Build Time              : about 10 hours
+Editor(s) used          : Waded v1.49
+Known Bugs              : none found yet
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels. Please give me some credit if you do!
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: wuarchive.cdrom.com   /pub/idgames
+           mirror sites
+BBS numbers: The Playing Fields bbs (305)819-9925  (South Florida's
+             hottest place for DOOM, DOOM II, Heretic, Descent, ROTT,
+             etc) multiplayer action!
+Other: Anywhere you want to send this file

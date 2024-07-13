@@ -1,0 +1,189 @@
+
+
+        DeuTex/DeuSf compilation
+
+        by Olivier Montanuy
+        montanuy@dmi.ens.fr
+
+
+
+        ****************************
+        * Structure of the sources *
+        ****************************
+
+DeuTex, DeuSF share the same sources.
+When compiling, you must include all sources and define one of
+those flags so that the C pre-processor knows which part to select:
+
+- DeuSF                   to compile DeuSF
+- DeuTex                  to compile DeuTex
+For a windows DLL
+- LDeuTex                 to compile DeuTex.DLL for Windoze
+
+
+
+
+        **************************
+        * Processor architecture *
+        **************************
+
+if your processor is a MC68040, a Sparc, or any little endian
+processor, you must define the flag:
+- LITTLE_ENDIAN
+This flag must not be set if your processor is little endian.
+DeuTex/DeuSF will refuse to run if compiled incorrectly.
+
+
+        ***************
+        *  Dumb O/S   *
+        ***************
+         by Olivier Montanuy
+
+DeuTex.bat and DeuSF.bat are used on my system to
+compile as a plain DOS executable.
+Edit the library flag -Lxxx  and the include flag -Ixxx
+
+
+        ***************
+        * Windoze 3.1 *
+        ***************
+         by Olivier Montanuy
+
+
+.EXE
+To let Windoze treat its events, as it is a great multi-tasking
+environement, some windoze() calls are made in the main loops.
+for the moment windoze()=kbhit()
+This version is useless. Yes, real useless. incredible!
+
+Use the DOS deutex version under windows, with a suitable deutex.pif
+
+.DLL
+DeuTex itself can't be compiled as a 16-bit windoze DLL (too big).
+the lbdeutex is for the visual basic shell.
+
+
+        *****************************
+        * DOS port by Mark Mathews *
+        *****************************
+          mark.mathews@channel1.com
+         mmathews@genesis.nred.ma.us
+
+MSDOS 5.0+
+Borland C++ 3.1 users
+To make DEUTEXD.EXE use DEUTEXD.PRJ
+or make -fdeutexd.mak
+To make DEUSFD.EXE  use DEUSFD.PRJ
+or make -fdeusfd.mak
+
+        ****************
+        * Unix SUN O/S *
+        ****************
+         by Olivier Montanuy
+
+Unix: Sun Sparc 1, 10, 20, IPX
+gcc:        2.5.8
+The makefile provided for Unix and Linux does not compile .o
+objects. it compiles .ot for DeuTex and .os for DeuSF.
+That little trick is useful to avoid linker problems.
+take care that for SUN the FLAG line must contain -DLITTLE_ENDIAN
+
+
+        ********************
+        * Silicon Graphics *
+        ********************
+         by Chuck Rossi
+Make sure the flag LITTLE_ENDIAN is set, like on SUN.
+
+
+        **********************
+        * Linux i486/Pentium *
+        **********************
+           by Per Allanson
+          c91peral@und.ida.liu.se
+
+Linux:   kernel 1.1.52  libc 4.5.26
+gcc:     2.5.8
+Make sure that the flag -DLITTLE_ENDIAN is not set.
+
+
+        *************
+        * DOS DJGPP *
+        *************
+        by mark.mathews@channel1.com
+
+
+To make DEUTEXG.EXE and DEUSFG.EXE
+
+make -f makefile.dj all
+make -f makefile.dj strip
+make -f makefile.dj clean
+
+DJGPP version uses a DOS extender (go32.exe) which is link with
+DEUTEXG.EXE and DEUSFG.EXE. This means you don't need a copy
+of go32.exe.
+
+
+
+
+        **************
+        * OS/2 2 2.1 *
+        **************
+        by mark.mathews@channel1.com
+
+IBM C Set++ 2.1 users
+
+For DEUTEXOS.EXE you need deutexos.mak and deutexos.def
+To make DEUTEXOS.EXE type:  nmake -f deutexos.mak
+
+
+For DEUSFOS.EXE you need deusfos.mak and deusfos.def
+To make DEUSFOS.EXE type :  nmake -f deusfos.mak
+
+
+
+        ******************************
+        * DEC Alpha 64 bit processor *
+        ******************************
+        by James Bonfield
+        jkb@mrc-molecular-biology.cambridge.ac.uk
+
+Make sure there is no flag -DLITTLE_ENDIAN. Alpha is BIG_ENDIAN.
+
+
+Then run the shell script alpha.sh to convert the DeuTex source to work on
+the Alpha. This simply replaces longs with int4 and typedefs int4 to be int
+(on the alpha long is 64 bits rather than 32). The produced code is written
+to an 'alpha' directory (created by alpha.sh). Change to this directory and
+then Make as per normal.
+
+DeuTex will refuse to run if you get this wrong.
+
+        ************************
+        * Porting DeuTex/DeuSF *
+        ************************
+
+The source makes the following assumptions:
+
+__DOS__         if under DOS
+__GNUC__        if under DOS extender GO32/DJGPP
+__OS2__         if OS/2
+ else           implicitly Unix/Linux
+
+
+char          is a 8 bit integer (signed/unsigned)
+int16         is a 16 bit integer
+int32         is a 32 bit integer
+int           is at least a 16 bit integer
+ DeuTex/DeuSF will not run if it detects size of short
+ or long is incorrect.
+
+
+Some structures related to pictures or to DOOM
+assumes that no word or long word alignement occur.
+if the entries are not put contiguously, DeuTex/DeuSF will
+not work, but there will be no warning.
+
+Most of the O/S related functions are in tools.c.
+
+

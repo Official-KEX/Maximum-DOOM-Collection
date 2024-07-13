@@ -1,0 +1,75 @@
+================================================================
+Title                 : H2H Czech Series (3)  (H2HCZEK3.WAD)
+Author                : Pavel Hodek, Czech Doomer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Email Address         : xhodp03@st.vse.cz
+Finger info           : xhodp03@manes.vse.cz
+Misc. Author Info     : I spend more time with wad-building than playing now.
+
+Description           : This is the final version of the third part in the
+                        CZECH SERIES. Since the beta was good, I just threw
+                        in a couple of monsters. If you decide to play UV,
+                        be carefull with ammo. Sometimes you will have to run
+                        into fire for more shells.
+
+                        This was built for altdeath. Playing solo or in co-op
+                        will close windows and block some passages that are
+                        opened during deathmatch.
+
+Additional Credits to : creators of DOOM, Mark Gundy
+===============================================================================
+* Play Information *
+
+Episode and Level #   : MAP03 (DOOM II)
+Single Player         : Yes (UV is really hard)
+Cooperative 2-4 Player: Yes (little more monsters)
+Deathmatch 2-4 Player : Yes
+Difficulty Settings   : Yes
+New Sounds            : No
+New Graphics          : you will find some there
+Demos Replaced        : no demo inside the pwad
+
+* Construction *
+
+Base           : from scratch
+Build Time     : over 11 hours
+Editor(s) used : DEU 5.21gcc, DEU2, DEUTEX 3.1, IDBSP, (BSP made non-existing
+                 walls), personal DOOM I -> II & II -> I convertor (WAD_DWD)
+                 doesn't work, if it is MAPXX, strange, try it)
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact. But if you intend to include any of my H2H pwads (H2HCZ???.*)
+on a CD, I expect you to ask for permission first.
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com, ftp.idsoftware.com....
+           The most complete list can be found in my finger info
+           (see above).
+
+BBS numbers: H2H DOOM BBS    (619) 426 0073 
+             >> The Best Place On Earth To Die <<
+ 
+             and other good Doom oriented BBS....
+---------------------------------------------------------------------------
+If you like my wads and would like to exchange some mail with me,  I will
+be more than happy because I love to read mail and there are not too many
+Doom players here.
+
+e-mail: see above
+snail-mail:
+
+       Pavel Hodek
+       Cechova 689
+289 22 Lysa nad Labem
+
+C Z E C H   R E P U B L I C
+
+I will reply to anyone to any country.

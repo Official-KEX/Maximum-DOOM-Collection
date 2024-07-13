@@ -1,0 +1,59 @@
+================================================================
+Title                   : MAXFRAG.WAD
+Author                  : Brian Dunham
+Email Address           : brian.dunham@24stex.com  (send trivia answers here)
+Misc. Author Info       : Besides Doom....hmmm.....Bicycling....MBA Student
+
+Description             : Quite effective Deathmatch level utilizing 
+                          responsive logistical projection and mobility.
+                          (What that means is you'll be running around
+                           like a bunch of squirrels on Prozac.)
+
+Additional Credits to   : id, DEU, BSP, and Paul Engel for great new sounds.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yep, but probably only fun for a few minutes.
+Cooperative 2-4 Player  : Yep, (See Single Player Above)
+Deathmatch 2-4 Player   : YOU BETCHA!!
+Difficulty Settings     : Nope
+New demos               : Nope
+New Sounds              : Yep...Great new weapon sounds.
+      
+    Trivia Questions:   1.  The sound for the plasma gun was sampled from
+                            what modern rock song? 
+                               (Hint: The name of the group makes it sound 
+                                like they're a bunch of crying babies or 
+                                fast youngsters)
+
+                        2.  Name the TV detective show the shotgun sample
+                            was taken from.
+                               (Hint: It involved a radio controlled airplane)
+
+New Graphics            : Nope
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Couple days
+Editor(s) used          : DEU, BSP, and DMAUD
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact, and you distribute it free of any charge.
+
+* Where to get this WAD *
+
+FTP sites:  infant2.sphs.indiana.edu
+
+

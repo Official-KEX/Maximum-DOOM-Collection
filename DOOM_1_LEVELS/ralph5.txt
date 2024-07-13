@@ -1,0 +1,21 @@
+Ralph5.wad collected by Ralph Evans (revans@kaiwan.com)
+
+This is my fifth Deathmatch collection and replaces episode 1.
+
+Play using "doom -file ralph5.wad" (you must have the registered version).
+
+This is the source for this new wad pak:
+
+EPISODE1:        
+
+E1M1 PAR-002C       
+E1M2 DRAGON1     
+E1M3 EYESPY     
+E1M4 SLAPME     
+E1M5 HELLTEL6    
+E1M6 SHOWDOWN    
+E1M7 BADBOY   
+E1M7 BEAN      
+                                                              
+
+My highest regard to all WAD authors, you did a fantastic job guys!

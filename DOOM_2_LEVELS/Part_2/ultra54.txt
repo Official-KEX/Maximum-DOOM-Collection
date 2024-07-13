@@ -1,0 +1,84 @@
+================================================================
+Title                   : 30.WAD 
+Author                  : ALEX DINGLE (THE ETERNAL WAD-MASTER!!!!)
+Email Address           : NONE
+Misc. Author Info       : Hey, I'm at it again with yet another deathmatch
+                          level for DOOM II...This ones my personal favorite,
+                          so far...even better than 30. Wait around for my
+                          first single player wad of a subway station if you
+                          like my work...
+                          And remember--
+
+                          I AM THE ETERNAL WAD-MASTER!!
+
+
+Description             : My original goal was to try to draw out a level all
+                          in 1 sitting, then do all the sectors at once, ect.
+                          It turned out to have a kind of great uniformity
+                          to it...as you can see, unlike most of my earlier
+                          work the level kind of looks like a circle instead
+                          of a straight line...it's spread out. Look for the
+                          few glitches in the walls, as if you walk through
+                          them during deathmatch, it's a great place to hide.
+                          It looks really cool to see the other player leap
+                          out of the wall, BFG in hand...
+                       
+                          
+Additional Credits to   : I.D., for being cool and writing the game...
+                        
+                         
+================================================================
+
+* Play Information *
+
+Level #                 : MAP01
+Single Player           : NO
+Cooperative 2-4 Player  : NO
+Deathmatch 2-4 Player   : YES
+Difficulty Settings     : NONE
+New Demos               : NO
+New Sounds              : NO
+New Graphics            : NO 
+New Music               : NO
+
+* Construction *
+
+Base                    : New level from the scratch.                  
+Build Time              : 5 HOURS 
+Editor(s) used          : WADED V 1.42 (the ultimate godly tool)
+
+* Copyright / Permissions *
+
+If you want to make a WAD based off this one, sure, as long as you mention 
+somewhere that it was based off a wad by THE ETERNAL WAD-MASTER.                                                           
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+** Where to get my latest work **
+
+The Black Dog BBS.....--(508)-263-2948
+Tour de Force BBS.....--(508)-897-1963
+
+NOTE: Look for the DOOM GRAPHIC PACK, also by me, on these BBS's. It has
+everything you need to put your own graphics into DOOM...
+
+===========================================================================
+
+N O T E S: 
+
+--Yes, there IS a plasma gun on this level, look carefully!!
+
+--Please upload this .WAD everywhere!!!!
+
+--Watch out for the upcoming ABRHS.WAD...
+
+--If you like it, write me and it would be cool...
+
+--And remember, I AM THE ETERNAL WAD MASTER!!!
+
+
+
+

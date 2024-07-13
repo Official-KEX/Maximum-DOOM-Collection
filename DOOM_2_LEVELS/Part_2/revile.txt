@@ -1,0 +1,72 @@
+================================================================
+Title                   : Revile
+Filename                : REVILE.WAD
+Author                  : Doug Bora
+Email Address           : stigmata@wwa.com
+                          1:115/858@fidonet.org
+================================================================
+
+This level was created with deathmatch firmly in mind.  Sniper spots and
+places to run across your opponent(s) are plentiful, and yet, there's
+plenty of areas to get lost in for awhile.
+
+All weapons except the BFG are present, though not all are easily
+attainable.  Ammo for each weapon is available, but you'll often wish
+there was more.  All testing was done with the -altdeath switch present.
+
+I personally prefer monsters in my deathmatch, so Revile has plenty of
+those.  If you don't like 'em, use the -nomonsters switch.  I don't
+recommend the use of the -respawn switch however, or you'll be sorry...
+
+Secrets are all very well hidden, but there's always something there to
+give them away.  Check the map for possible clues.  There is an exit,
+but it's meant to be found only after hours of play. :-)
+
+================================================================
+
+Additional Credits to   : Eric Schreiber for helping to play-test this
+                          monstrosity.  Heck, though it was like pulling
+                          teeth, he may have even made a few useful
+                          suggestions for improvement as well...
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Doom ][, Level 02
+Single Player           : Yes, but not meant for it.
+Cooperative 2-4 Player  : Yes, but not meant for it.
+Deathmatch 2-4 Player   : Hell yeah!
+Difficulty Settings     : Not Implemented.  Carnage is the name of the
+                          game.
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch.
+Editor(s) used          : Mostly DEU, but Edmap on occasion.
+Known Bugs              : None.  The wad was probably tested for about
+                          15-20 hours of actual play time.  Nothing was
+                          added that wasn't play-tested for a number of
+                          hours.
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  I don't mind if you use something from my level to form a new
+and interesting thing for you own level, but please don't rip anything
+from it directly.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.
+
+* Where to get this and other WAD files *
+
+  FTP sites:  ftp from ftp.cdrom.com
+BBS numbers:  The London Underground (located in the U.S.) at
+              708-680-9420.
+      Other:  File request via FidoNet at 1:115/858@fidonet.org
+================================================================

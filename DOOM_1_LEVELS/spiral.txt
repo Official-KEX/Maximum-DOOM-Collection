@@ -1,0 +1,64 @@
+
+================================================================
+Title                   : Spiral Of Death - deathmatch level
+Filename                : spiral.wad
+Version info            : 1.2
+Author                  : Matt Keller, Anton Groom
+Email Address           : mk273727@longs.lance.colostate.edu
+                          (send me a letter if you like it)
+
+Misc. Author Info       : Parents wanted me to become an architect
+
+Description             : An alteration of doom episode
+                          one, mission two.  Rooms have been
+                          added and joined to make for an excellent
+                          deathmatch game.  Friends and I have spent
+                          three hours straight on this one floor.
+                          Plenty of places to sneak up on your friends,
+                          or enemies depending on how you see it.
+                          Its O.K. to sing "Roll out the barrel" at
+                          the beginning of this game.
+
+                          caution : do not play if you have a heart
+                                    condition
+
+Other wads by same author : tower.wad, stairway.wad
+
+Additional Credits to   : My plant, who gave me fresh oxygen next 
+                          to the computer
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M2 
+Single Player           : Yes 
+Cooperative 2-4 Player  : Yes 
+Deathmatch 2-4 Player   : Yes - excellent
+Difficulty Settings     : Yes 
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : E1M2
+Editor(s) used          : Edmap v1.12
+Known Bugs              : None
+
+Notes                   :  secret areas not marked
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com
+

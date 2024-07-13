@@ -1,0 +1,90 @@
+================================================================
+Title                   : The IGOR Series for DOOM ][
+Filename                : igor4.wad; now supports Deathmatch, Deathmatch 2.0, 
+                          and "Expert" modes through difficulty settings
+Author                  : B. Vannatta/B. Weldon
+Email Address           : vannatta@bobcat.ent.ohiou.edu
+Misc. Author Info       : Created jointly by B. Vannatta (levels 1,3,4,6,7,8)
+                          and B. Weldon (levels 2,5).
+Description             : A fast-paced, eight-level deathmatch pwad for 
+                          DOOM2; supports monsters w/ respawn (two-player) or 
+                          nomonsters (three- or four-player).  
+Additional Credits to   : Jon Parry (playtesting), id Software...
+================================================================
+
+* Play Information *
+
+Map #                   : Map01 through Map08
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : YES
+Difficulty Settings     : Implemented for various modes of play (SEE BELOW)
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New levels from scratch.
+Editor(s) used          : ---
+Known Bugs              : Please report any to vannatta@bobcat.ent.ohiou.edu.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+You may do whatever you want with this file, as long as you distribute 
+your modified file under a name OTHER than "igor".
+
+
+* Where to get this WAD *
+
+FTP sites: (started at) wcarchive.cdrom.com
+
+
+* Important Notes
+
+        Igor is an attempt to provide for as many different Deathmatch tastes 
+as possible, as each level contains a different environment in which to play. 
+You can play all of the levels sequentially or, if you only like a certain 
+level, you can play that one alone.  I've included support for various modes 
+of play as follows:
+        
+        1.  Original Deathmatch rules ("I'm Too Young To Die" and "Hey, Not 
+            Too Rough" support this) 
+            
+        2.  Deathmatch 2.0 rules ("Hurt Me Plenty" supports this) 
+        
+        3.  What I call "Expert" mode ("Ultraviolent" supports this)  
+        
+Original Deathmatch and Deathmatch 2.0 are basically the same setup with 
+a few variations in ammo/health placement.  Expert mode has very little 
+health and ammo, but DOES include almost every weapon per level (including 
+the BFG).  Use Expert mode if you play such an intensive Deathmatch game that 
+you don't stay alive very long (i.e. three- or four-player Deathmatch games 
+over a LAN or MPGS).
+        I've also included monster support - monsters are placed 
+strategically to add spice to the game.  Usually players don't need this in
+a three- or four-player game, but sometimes a two-person game can get a 
+little slow.  Either way you like it, make sure to include the respawn option
+when using monsters in your Deathmatches.
+        Also note that most of the levels involve a cooperative exit.  If an 
+exit door doesn't open when you hit the switch, you may have to ask your 
+friend(s) for help.  Make SURE you're ready to leave when you hit an exit 
+button.
+        Please take a walk through these levels before you actually use them
+in Deathmatch.  While each is extremely straighforward, it's always nice to
+get a feel for a new level before you begin.  I'm open to any comments/  
+suggestions you may have, so please send me email!
+        Finally, if anyone uses this pwad who plays over a LAN (with three 
+or four people), please make an LMP file and send it to me!  I've never had
+the chance to see more than two people in these levels, and would like to 
+see the action.  Thanks for using Igor!

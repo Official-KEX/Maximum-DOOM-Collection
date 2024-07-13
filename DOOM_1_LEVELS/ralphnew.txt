@@ -1,0 +1,966 @@
+Ralphnew.wad collected by Ralph Evans (revans@kaiwan.com)
+
+This is my fourth Deathmatch collection that groups my first three into 
+one full three episode replacement.
+
+Play using "doom -file ralphnew.wad" (you must have the registered version).
+
+This is the source for this new wad pak:
+
+EPISODE1:              EPISODE2:               EPISODE3:
+
+E1M1 GUS               E2M1 ZZONE              E3M1 GOG2X       
+E1M2 SPUNK             E2M2 ARENA11            E3M2 LEDGES3     
+E1M3 ULTIM             E2M3 WIRE2              E3M3 MARKROOM     
+E1M4 SUPER33           E2M4 TOURNEY            E3M4 ELEMENTS     
+E1M5 ZRAT              E2M5 TRIMATCH           E3M5 AYRTON_2    
+E1M6 ARENA             E2M6 TRUNK              E3M6 PUEBLO    
+E1M7 WIRELESS          E2M7 ACHERON            E3M9 LEDGES4I   
+E1M7 SUPER22           E2M8 GANGSTAR           E3M7 FRAGMAN      
+                                                              
+
+My highest regard to all WAD authors, you did a fantastic job guys!
+
+     Here is the text from some of the original wad authors:
+
+
+
+
+================================================================
+Title                   : CROSSING ACHERON 
+Author                  : John W. Anderson (aka Dr. Sleep)
+E-mail Address          : drsleep@delphi.com;CIS:74002,2157;AOL:DrSleep107
+
+Additional Credits  : Rapha‰l Quinet and Brendon J. Wyber for DEU 5.21;
+               : Colin Reed for BSP v1.1 (can't DEU without it);
+               : War Machine for endless Deathmatch tests (am I 
+                 getting any better?); 
+               : Terry C. Ramey and Sebastian Kirke for BETA critiques
+                 and other witty and useful suggestions (I didn't use
+                 any of 'em <g>);
+               : Vanni Fucci and his figs;
+               : And, of course, those id guys. (You and Quinet owe
+                 my wife a BIG apology. But you have MY regards.)
+
+Description             : As in my first level -- DANTE'S GATE -- I have tried
+                 in CROSSING ACHERON to achieve a gaming atmosphere
+                 that is not only fast-paced (once the fur starts to
+                 fly), but just plain creepy. Once again, I went for
+                 the aesthetics (you know: The Look); but this time,
+                 I also tried to keep the game from being too
+                 easy. I think once you get inside, you'll find that
+                 CROSSING ACHERON has been fully optimized for
+                 DEATHMATCH.  But it's just as enjoyable (if I do say
+                 so myself) in Single-player and Co”perative modes.
+
+                 CROSSING ACHERON (pronounced 'ak eron) is a sequel
+                 to DANTE'S GATE -- thematically, anyway.  (It's an 
+                 E1M3 only because I thought the music was more
+                 appropriate than M2.) For any of the two or three 
+                 of you out there who have read Dante Alighieri's 
+                 THE DIVINE COMEDY -- or even only "Inferno" -- 
+                 I'm sure you've been able to appreciate the many 
+                 allusions to this work in DOOM. I have tried to 
+                 take a tack of my own along the same lines. (I do
+                 this not only because I think the idea is neat, but
+                 so that people will think that I'm very clever.)
+                 I'm not so na‹ve as to expect everyone to rush out
+                 and get a copy of "Inferno" (I mean, it IS pretty
+                 tedious stuff, at times), but it's well worth the
+                 read -- and a little patience is a virtue that is
+                 often well-rewarded.
+
+                 (By the way: Acheron is a river in Hell (basically).
+                 But don't look for any rivers in here: I tried it
+                 several different ways and just wasn't convinced.)
+
+                 I thank those of you who sent me mail on my previous
+                 effort, and I hope to hear from more of you about
+                 this one.  (Just a line would do: "It's great!"
+                 or "It sucks!" or "Now I know what John Cormack
+                 MEANT to do in "Unholy Cathedral.")
+
+                 Thanks.  Hope you like it.
+
+Instructions        : Put ACHERON.WAD in your DOOM directory, type
+                 "doom -devparm -file acheron.wad -wart 1 3 -skill <#>"
+                 (Or, to play moderately at first, also put the file
+                 ACHE.BAT in your DOOM directory and type ACHE.  And
+                 you'll get one.)
+  
+Disclaimer          : I assume no responsibility for anything of any sort
+                 in any way, shape, or form -- now, then, henceforeward, 
+                 in this life (or the next several) for any screw-ups
+                 or even minor inconveniences this PWAD causes you,
+                 your family, your relatives, friends, ancestors,
+                 associates, employers, pets, neighbors, lovers,
+                 congressional representatives, nor any other person --
+                 living, dead, or undead -- that you have or will ever
+                 have any contact with in even the slightest form.
+                 This PWAD has been tested and tested ad infinitum, so
+                 it shouldn't mess with your computer or anything else
+                 remotely associated with it.  But if it DOES, then
+                 that's the way the cookie crumbles.  Don't come cryin'
+                 to me.  It must be something YOU did.  If you don't
+                 like it, lump it. (I ran out of clich‚s.) 
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M3 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : All
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : A really, really, really long time      
+Editor(s) used          : DEU 5.1, 5.21, and 5.21GCC by Rapha‰l Quinet
+                 & Brendon J. Wyber 
+                 DoomED by Renegade Graphics (only to print maps)
+Known Bugs              : Rush Limbaugh <g> (none that I know of)
+Unknown Bugs        : How would I know if they're unknown?  Please tell me.
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels. Please.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+CompuServe, Gamers+ Forum, Library 8 (Action Game Aids).
+
+
+
+(This information form was provided as AUTH_WAD.TXT v1.2 with DEU 5.1.)
+Title                   : The Arena     
+Filename                : ARENA.WAD
+Author                  : Steven Rhodes
+Email Address           : 72303,2113 [Compuserve]
+Misc. Author Info       : This is my first COMPLETED .WAD 
+                 file worthy of uploading. Let me 
+                 know if I was mistaken.
+
+Description             : Designed specifically for
+                          deathmatches, with lots of hiding
+                          places and sniper positions
+
+Additional Credits to   : Id software!!
+                          The makers of Doom Editor the Real
+                 Thing.
+                 Rob Elliott and Jeff Marrentette for 
+                 hours of beta testing and design 
+                 suggestions.
+                 My Fiance' Cindy, For still agreeing 
+                 to marry me next month despite my 
+                 hours of time devoted to DOOM.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1,M1
+Single Player           : Don't bother
+Cooperative 2-4 Player  : Don't bother
+Deathmatch 2-4 Player   : Yes!!!!!!!
+Difficulty Settings     : No [No monsters on any level]
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time          : 12 Hours or so [still not perfect, but close].
+Editor(s) used          : Doom Editor
+Known Bugs              : There aren't any to be found!
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Please write me and let me know what you think. I'm still trying
+  to decide what is a good size deathmatch board. My friends and I 
+  like this one because it is small and you don't waste alot of time 
+  looking for each other. [Saves on those long distance calls]
+
+* COMING SOON!!!!!   DMSUCK.ZIP - Not intended for deathmatch, but 
+                      if you like to go thru a large map
+                      with some tricky twists and inter-
+                      esting gimicks you won't want to 
+                      miss this one!   
+                           Projected upload date: June 30th -----BEGIN PGP
+SIGNED MESSAGE-----
+
+====================================================================
+Title                   : AYRTON_2.WAD (new version - delete old ayrton)    
+Authors                 : Wolfgang Grassl
+                           (peace.wad and peace_20.wad)
+Email Address           : grassl@mailer.uni-marburg.de
+====================================================================
+
+Description             : This is a DEATHMATCH 2.0 pwad.
+                          Please play this wad with the -altdeath
+                          rules only (Doom 1.666). Old deathmatch
+                          is no fun with this pwad - you need 
+                          respawning items !
+
+                          Ayrton is the second part of my deathmatch
+                          2.0 trilogy: 1. peace_20
+                                       2. ayrton_2
+                                       3. coming soon !
+                       
+                       *  This new version of ayrton.wad has larger
+                       *  rooms so you have more space to fight.
+                       *  I included difficulty levels that change
+                       *  the type of weapons available:
+                         
+                           1 and 2 : Rocket Launcher
+                                 3 : Rocket Launcher + Plasma
+                           4 and 5 : Rocket Launcher + Plasma + BFG
+                         
+                          (Shotgun, chaingun, chainsaw and Berserker at
+                           every level.)
+                           
+                           -> I recommend to play skill level 4.
+                           The BFG is not easy to use in this level -
+                           the best weapon for ayrton is the plasma gun.
+
+                          Monsters: one Trooper :)
+                          !! try to keep the Trooper alive while
+                          !! playing deathmatch
+                          
+Info                    : This is my latest Deathmatch pwad.
+                          The level is very compact, so you
+
+                                                    
+Additional Credits to   : Ayrton Senna for being the greatest
+                          racing driver ever.
+                          Everyone who enjoyed my prior levels
+                          peace and peace_20.
+                          James Dicke for the deathmatch charts.
+                          ID for DOOM.
+
+* Play Information *
+
+Doom Version            : 1.666 (1.4 or above)
+Episode and Level #     : E1M1
+Single Player           : (yes)
+Cooperative 2-4 Player  : (yes)
+Deathmatch 2-4 Player   : YES !     !!! DEATHMATCH 2.0 ONLY !!!
+Difficulty Settings     : Yes - see description above
+New Sounds              : no
+New Graphics            : no
+Demos Replaced          : none
+Release Date            : 13/Aug/94
+
+* Construction *
+
+Base                    : scratch
+Build Time              : 56 hours ;)
+Editor(s) used          : DEU 5.21 gcc and Idbsp 1.01
+Known Bugs              : no known bugs with 1.6
+                          ( HOM with V. 1.2 )
+                          
+
+* Copyright / Permissions *
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+In Germany you MUST NOT give this WAD to people under 18 years ;)
+
+* Where to get this WAD *
+
+FTP sites:
+  infant2.sphs.indiana.edu    (ayrton_2.zip)
+
+-----BEGIN PGP SIGNATURE-----
+Version: 2.6ui
+
+iQCVAgUBLkzGjEBvrrAQN2odAQEArgP/ZeEqnId2Zzh/SZbBXPvrcnYQCNy1xcM0
+r18e92oN390/r4VXvk/HRL7614IJJBM93FWdrNHdZxLufaAaDRFWRabymk+M7bSD
+uszLWJCm6RF1zy8YFmLWFd8Lwb7aG+tdhmMm+Mq6L52pJ3iEp17W5rpXM7COR6z7
+U6Tq/ITPtHQ=
+=GEc7
+-----END PGP SIGNATURE-----
+================================================================
+Title                   : BEAN'S WAD   
+Filename                : BEAN.WAD
+Author                  : Sean Monahan
+Email Address           : Can be contacted through
+mcollins@magnus.acs.ohio-state.edu
+Misc. Author Info       : 
+
+Description             : This wad was designed solely for DEATHMATCH.
+                          No bloodbath arenas here!  If you like a wad with 
+                          a lot of ambush points and stalking positions, this
+                          is the one for you (I enjoy it, anyway). I've never
+                          played this Wad in a 3 or 4 person DEATHMATCH, so 
+                          if you do, I'd like to hear how it fared.  I'd also
+                          be interested in seeing any LMP's made in this Wad.
+                          I'd also be interested in hearing any comments of
+                          what you thought (This is my first Wad, so please
+                          be merciful!).
+
+Additional Credits to   : 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes!!!!
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU v5.21, BSP v1.2x(?)
+Known Bugs              : None that I know of.
+
+
+* Copyright / Permissions *
+
+You may do whatever you want with this file.
+
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu and its mirrors
+Title                   : Fragman   
+Filename                : Fragman.wad
+Author                  : Robert T. Marentette (Admiral R.O.B.)
+email Address           : Cserve: 73632,3627
+
+Description             : This is one of several .wad files I have
+                 created exclusively deathmatch.  In it contains
+                 a huge arena, several small rooms around the arena,
+                 multiple weapons, bonusus, secrets, traps and
+                 absolutely no monsters.  FRAGMAN has been play
+                 tested several times and has been found to be
+                 plentiful in frags (hence the name).  Any and all
+                 comments are welcome.  Email Rob at CSERVE 73632,3627
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes (but no fun at all, and you can never leave!)
+Cooperative 2/4 Player  : No
+Deathmatch 2/4  Player  : Yes (preferred)
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+Monsters       : No
+
+* Construction *
+
+Base                    : New level from scratch
+Construction time       : Too many hours
+Editor(s) used          : DEU 5.21 and BSP 1.2
+Known Bugs              : None.
+
+* Copyright / Permissions *
+
+Authors (MAY) use this level as a base to build additional
+levels.  Authors (MAY) alter or play or do with this level pretty much
+anything they want, I only ask that you give me credit.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+Compuserve:  Gamer's Forum in the Action Game Aids section. 
+-----------------------------------------------------
+ş GANGSTAR.WAD INFO! READ THIS FILE B-FORE PLAYING! ş
+-----------------------------------------------------
+Title                   : GOTCHA YOU LITTLE FUCKER! -BOOM!-   
+Author                  : GANGSTAR/CTX/SWL
+Email Address           : -
+Misc. Author Info       : SYSTEM ONE +46-(0)850026361
+
+Description             : GANGSTAR.WAD by GANGSTAR 05-20-94
+                          The ultimate DEATHMATCH level!
+                          Made escpecially for DEATHMATCH mode 3-4 players,
+                          but it's fun playing 2! What a heck works fine
+                          for singel play too! 
+                          Has put in lots of secret rooms and passages for
+                          you to discover!
+                          Learn all the secret rooms and passages and 
+                          find the best weapon and you'll easilly kill your 
+                          opponent!
+                          Maybe it's little too BIG! :) More fun that way!
+
+Additional Credits to   : ID SOFTWARE - for making the BEST GAME EVER!
+                          RAPHAEL QUINET - for the DOOM EDITOR UTILITIES!
+                          BRENDON J WYBER - for the DOOM EDITOR UTILITIES!
+                          COLLIN REED - for the BSP v1.0!
+                          DALE, STEED, DODO - Best guys ever!
+                          CORTEX crew - play this at next meeting!
+                          SWELiNK members - You know who you are
+--------------------
+ş Play Information ş
+--------------------
+Episode and Level #     : E1M1 
+Single Player           : YES
+Cooperative 2-4 Player  : NO
+Deathmatch 2-4 Player   : YESSSSSSS!!! (Play 3-4 for ULTIMATE FUN!)
+Difficulty Settings     : YES! TRY ULTRA VIOLENCE OR NIGHTMARE! :)
+New Sounds              : NO 
+New Music               : YESSS! EYE OF THE TIGER!
+New Graphics            : NO
+Demos Replaced          : NONE
+
+----------------
+ş Construction ş
+----------------
+Base                    : NEW LEVEL FROM SCRATCH!
+Build Time              : Oh my god! 24+ Hours!
+Editor(s) used          : DEU v5.1 , MIDI2MUS , BSP v1.0
+Known Bugs              : Had a lots of major bugs, but fixed 'em all!   
+                          Thanx DODO! :)
+                          May run badly on slow computers and poor networks
+                          cause it's so BIG!  
+                          If you find any bugs, plese let me know!
+
+---------------------------
+ş Copyright / Permissions ş
+---------------------------
+OTHER AUTHORS MAY NOT USE THIS LEVEL AS A BASE TO BULID ADDITIONAL
+LEVELS! CALL ME ON SYSTEM ONE +46-850026361 OR MAIL ME AT THE ATTITUDE NET
+AND WE'LL TALK ABOUT IT!
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+-------------------------
+ş Where to get this WAD ş
+-------------------------
+BBS numbers: SYSTEM ONE +46-850026361
+
+markroom.wad
+=============================
+
+This WAD is a big area good for multiplayer NETDOOM.  It's got tons of 
+weapons and no armor---- so be prepared to die LOTS!  We've been playing 
+it around here for a few days, and the matches can easily last >>>1 hr.
+
+Have Fun!
+Mark
+
+Author:         Mark Griswold
+Email:          mgriswol@synapse.npa.uiuc.edu
+
+I don't care about this copyright stuff....
+
+================================================================
+Title                   : PUEBLO.WAD
+Author                  : Tom Neff
+Email Address           : tneff@panix.com
+
+Description             : This was a "contract WAD" for a well known
+                          Deathmatch tournament organizer who ultimately 
+                          couldn't use it for business reasons.  The 
+                          client's requirements were that it run on 1.2, be
+                          pretty fast, have no nukage or other non-combat
+                          hazards, and have the exit clearly marked but
+                          hard to abuse.  My goals were that it look
+                          memorable, play well, and have graded difficulty.
+                          The result was influenced by my travels in Taos 
+                          and the High Southwest.  I hope you like it.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 (but requires Registered WAD)
+Single Player           : By all means look around.
+Cooperative 2-4 Player  : Ditto
+Deathmatch 2-4 Player   : Yes - all 10 start points are there.
+Difficulty Settings     : Yes.  Easy has more ammo and health and easier
+                          access to the rocket launcher.  Hard is fairly
+                          stingy but everyone gets a decent weapon.  You
+                          can get a launcher on Hard but you make yourself
+                          pretty obvious when you do... you'll see!
+New Demos               : No
+New Graphics            : Yes -- do you like the oven?
+New Sounds              : No
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU, BSP, RMB10 for REJECT, Corel PHOTO-PAINT 5.0 
+                          and DMGRAPH for graphics
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact, and you distribute it free of any charge.
+
+* Where to get this WAD *
+
+FTP sites:  infant2.sphs.indiana.edu
+            wuarchive.wustl.edu
+
+
+Ralphnew by Ralph Evans (revans@kaiwan.com)
+
+This is my fourth Deathmatch collection that groups my first three into 
+one full three episode replacement.
+
+Play using "doom -file ralphnew.wad" (you must have the registered version).
+
+This is the source for this new wad pak:
+
+EPISODE1:              EPISODE2:               EPISODE3:
+
+E1M1 GUS               E2M1 ZZONE              E3M1 GOG2X       
+E1M2 SPUNK             E2M2 ARENA11            E3M2 LEDGES3     
+E1M3 ULTIM             E2M3 WIRE2              E3M3 MARKROOM     
+E1M4 SUPER33           E2M4 TOURNEY            E3M4 ELEMENTS     
+E1M5 ZRAT              E2M5 TRIMATCH           E3M5 AYRTON_2    
+E1M6 ARENA             E2M6 TRUNK              E3M6 PUEBLO    
+E1M7 WIRELESS          E2M7 ACHERON            E3M9 LEDGES4I   
+E1M7 SUPER22           E2M8 GANGSTAR           E3M7 FRAGMAN      
+                                                              
+
+My highest regard to all WAD authors, you did a fantastic job guys!
+
+Enjoy.
+SPUNK.ZIP is a zipped PWAD-file, containing an entirely new map 
+for level E1M1, made with DEU 5.0 ... I meant it especially for 
+deathmatch-play; there's no exit, so you have to play till you drop! 
+Especially -respawn is fun!
+
+Do you have the SPUNK to play this?
+
+Mail any suggestions or comments to: bl227@cleveland.freenet.edu
+
+Happy DOOMing!
+
+Greetings... Richard Smol
+
+P.S.: I love those sergeants! Bring 'em on! Bring 'em on!
+
+
+================================================================
+Title                   : SUPER22.WAD and SUPER33.WAD
+Author                  : Rich Shetina
+Email Address           : CIS - 74241,475
+                 Internet - rich.shetina@gco.com
+
+Description             : Two "SUPER" Deathmatch levels
+                 SUPER22.WAD - Great for 2 players, untested with 
+                     > 2 You can really rack up the frags and have
+                     a good time doing it!  When we quit one
+                     particular session, I had 80 Frags and my
+                     opponent had about 40.
+                     Go look at the CYBERDEMON...it can't hurt
+                     you until the barrels are blown up.                         
+                    
+                     Kill the CYBERDEMON together, or leave 
+                     it out there to make things interesting.
+                  SUPER33.WAD - Probably better with > 2 players 
+                     although we had a pretty good time with two.  
+                     Not as heavily playtested as SUPER22.  
+
+Additional Credits to   : My wife, Roxanne and her brother Steve Clancy
+                 (playtesting, and creative ideas)
+
+                : id Software, for creating DOOM, Colin Reed for 
+                  BSP, Matt Fell for the DOOM Specs, and Raphael 
+                  Quinet and Brendon J. Wyber for DEU. 
+
+================================================================
+
+* Play Information *
+
+Episode and Level #             : E2M2 and E3M3
+Single Player                   : Absoulutely NOT!
+Cooperative 2-4 Player          : NO WAY!
+Deathmatch 2-4 Player           : Yep!...the ONLY way to play!
+Difficulty Settings             : Who cares!
+New Sounds                      : No
+New Graphics                    : No
+
+
+COMMAND LINE: ipxsetup -devparm -file SUPERxx.WAD -warp x x
+            sersetup      "       "     "        "      " 
+
+
+* Construction *
+
+Base                            : New levels from scratch
+Build Time                      : SUPER22 - ?? lost track maybe 20-30 hrs.
+                      SUPER33 - about 10-12 hours.
+Editor(s) used                  : DEU 5.21, BSP 1.1xx
+
+READ!****READ!*****READ!*****READ!*****READ!*****READ!*****READ!*****
+
+Known Bugs                      : None that we could find in testing.
+                      For future reference, I NEVER post a level
+                      if I've found even the smallest of bugs and 
+                      I get really PISSED off at people who do!  
+                      I can understand mis-aligned textures, but 
+                      there is NO EXCUSE for the "hall of 
+                      mirrors" effect anywhere in a posted PWAD.  
+                      You probably spent some long-distance $ 
+                      d/ling this file so you deserve a quality 
+                      level.  IF YOU FIND ANY BUGS IN ONE OF MY 
+                      PWADS, FLAME THE #&@% OUT OF ME VIA CIS OR 
+                      EMAIL.
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels. 
+
+* Where to get this WAD *
+
+Software Creations BBS
+CIS Gamers Forum
+
+
+COMMENTS:  Please let me know what you think of these levels, good or bad.
+           
+================================================================
+Title                   : TOURNEY 001
+Filename                : TOURNEY.WAD
+Author                  : Mark K. Gresbach Jr.
+Email Address           : Mark.Gresbach@mixcom.com
+Misc. Author Info       : 
+
+Description             : This file was created especially for the 
+                          VGC's (Virtual Gaming Center) tournament.
+                          It has sniper points, open areas and most
+                          weapons in interesting places.
+                          
+Additional Credits to   : Bill Nowicki, Douglas Hay, and Steve Burg
+
+                          VIRTUAL GAMING CENTER (VGC)
+                          1514 S. 84th Street
+                          Milwaukee, Wisconsin 53214
+                          (414) 476-1514
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21 BSP 1.1x
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may not modify, change or in any way alter this level without
+written permission from the author. This file is the property of the
+author and the VGC Center.
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+================================================================
+Title                   : TRIMATCH.WAD
+Author                  : John Martin
+
+Email Addresses         : jmartin@ivs.att.com
+
+Description             : DEATHMATCH ONLY!!!
+                          4 guns, 3 rooms, 2 great places to hide.
+                          Some fast action, some sniper spots, some
+                          hiding places, nuff said.
+                          Includes an exit.
+
+Additional Credits to   : Authors of DEU 5.21, BSP, REJECT
+                          and of course, id.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 8 hours
+Editor(s) used          : DEU 5.21, BSP, REJECT10
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels (yea, like I could stop you).
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Disclaimers *
+
+I'm not be responsible for your system crashes, sanity, or any divorces.
+
+
+* Where to get this WAD *
+
+infant2.sphs.indiana.edu
+================================================================
+Title                   : TRUNK.WAD
+Author                  : Richard Smol
+Email Address           : bl227@Cleveland.Freenet.edu
+Misc. Author Info       : Member of the Doom Contest Group Rotterdam.
+                          Specialized in the making deathmatch-PWADS
+                          for this team (but I'm not a bad DOOMer myself).
+                          
+Description             : DEATHMATCH-wad, with still lots of attention
+                          for the scenery though. Haunt, kill, slaughter
+                          your friends in this PWAD. Cause total mayhem
+                          and destruction!!!!! Show no mercy!! Let your
+                          opponents suffer enormously!
+
+                          *ahem*
+
+                          Generally, just have fun >:) 
+
+Additional Credits to   : the members of the Doom Contest Group, who 
+                          are a true inspiration.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes (but not as much fun)
+Cooperative 2-4 Player  : Yes (your friends can be your worst enemies)
+Deathmatch 2-4 Player   : YES! This is what the level is made for!
+Difficulty Settings     : No. Why? Real Doomers do it Ultra-Violent!
+New Sounds              : No (aside from your friends screaming!)
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 20 hours 
+Editor(s) used          : DCK 1.0
+                          IDBSP 1.0.1
+Known Bugs              : None.
+
+* Copyright / Permissions *
+
+You MAY use this level as a base to build additional levels.
+But do not claim you created this level.  If you create a new
+level based on this one, please credit the original author.
+You may do whatever you want with this file.  The author
+will not accept any responsibility for problems caused with it.
+
+* Where to get this WAD *
+
+FTP it from: infant2.sphs.indiana.edu
+or one of its mirrors. 
+================================================================
+Filename                : Wireless.WAD
+Author                  : Gene Field
+CIS On-Line Name        : Wireless
+Additional Credits to   : None
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+
+
+Single Player           : no
+Cooperative 2-4 Player  : no
+Deathmatch 2-4 Player   : YES
+Difficulty Settings     : no
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Doom Editor V2.06b "The Real Thing"
+Known Bugs              : Some teleporter lines work from the wrong side
+Quote                   : "It's already three in the morning?"
+
+* Copyright / Permissions *
+
+Authors may use these levels as a base to build additional levels.  
+
+Do whatever the hell you want with this, you're going to anyway....
+
+* Where to get this WAD *
+
+Gene Field
+
+Compuserve Information Service # 75200.2123
+E-Mail:        
+
+                                *** ZRAT ***
+
+                       Brought to you by Banished CPU
+
+
+ ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ ³  -->  QUICK-START INFO:  Unzip the included files into your DOOM      ³
+ ³  directory.  [Registered version is required.]  Then, to install the  ³
+ ³  new graphics, type "ZRAT".  Run DOOM as you normally would, while    ³
+ ³  "including" ZRAT.WAD.  [For example, type "DOOM -FILE ZRAT.WAD".]    ³
+ ³  Select the first level of the game [E1M1].  To restore the original  ³
+ ³  graphics, simply type "ZRAT-" at the DOS prompt.                     ³
+ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+
+Title                   : ZRAT [pronounced "Zee Rat"]
+Filename                : ZRAT.WAD [included in ZRAT.ZIP]
+Description             : Designed especially for DEATHMATCH.  Also good
+                          for single-player and cooperative play.  Includes
+                          new graphics, made from scratch by the author,
+                          including animated "worm" walls and floors.
+
+Author                  : Dan Gannon, a.k.a. Maynard "the Main Nerd"
+Email Address           : maynard@banished.com
+Misc. Author Info.      : Sysop of Banished CPU, a multi-line BBS which
+                          supports Freedom of Speech!
+BBS Info.               : Looking for more great DOOM levels?  We maintain
+                          an extensive collection of the highest quality
+                          available, thanks largely to Terry Hamel!
+BBS Number              : (503) 232-9202  [28.8k multi-line]
+
+Additional Credits to   : Terry Hamel [author of BUNKER.WAD] and Jeff
+                          Magar, for extensive Deathmatch testing and
+                          helpful criticism.  This level's name was
+                          inspired by Terry's often-aggravating style of
+                          Deathmatch play.  DAMN Zee Rat!  <grin>
+
+Notes                   : Provides a great variety of gaming action in
+                          every mode of play.  Lends itself to numerous
+                          strategies.  Very intense Deathmatch action.
+                          This level has been fully tested, critiqued,
+                          and "debugged".  Designed for and tested with
+                          DOOM v1.2.
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : Yes
+New Music               : No
+Demos Replaced          : All 3  ["Zee Rat" himself recorded demo #2]
+
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU v5.21, BSP v1.1x, DMGRAPH, Adobe Photoshop
+                          v2.5, and other utilities.
+Known Bugs              : None.
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels, on the
+condition that Banished CPU is given proper credit, and its (503) 232-9202
+access number is given.
+
+You may freely distribute this level, provided that you include all of the
+files listed below, intact and with no modifications.  You may distribute
+this level in any electronic format (BBS, Diskette, CD-ROM, etc.)
+
+
+* Included Files *
+
+ZRAT.TXT         ZRAT.WAD          ZRAT.BAT          ZRAT-.BAT
+DMGRAPH.EXE      WORMFLO1.GIF      WORMFLO2.GIF      WORMFLO3.GIF
+CRUSTILE.GIF     METAL1.GIF        METAL2.GIF        FILE_ID.DIZ
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+
+                   Banished CPU supports Freedom of Speech!
+
+        ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+        ³  28800 bps (9 lines with V.Fast)...........(503) 232-9202  ³
+        ³  14400 bps (11 lines with V.32bis).........(503) 232-6566  ³
+        ³  9600- bps (12 lines with V.32)............(503) 232-5783  ³
+        ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+
+<end of file>
+
+
+

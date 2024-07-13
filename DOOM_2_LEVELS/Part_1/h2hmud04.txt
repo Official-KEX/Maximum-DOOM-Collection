@@ -1,0 +1,111 @@
+================================================================
+PART 04 * OFFICIAL CO-OP CHALLENGE *  Go For Time - Or Perfection!
+================================================================
+    * Brought to you by STONEHENGE BBS & BATTLESTATION 1 *
+================================================================
+DOOM II - MAP04 - H2HMUD04.WAD - Benchmark Wad... Where Are You?
+
+UNZIP H2HMUD04.ZIP INTO DOOM2 DIR 
+
+TYPE H2HMUD04 to Play Single Mode
+================================================================
+
+**  CHALLENGE ** CHALLENGE ** CHALLENGE ** CHALLENGE ** CHALLENGE **
+This wad presents a great opportunity to prove just how bad you are, 
+take your best team or try it alone, there probably aren't many who 
+are really ready to jump on this one!
+
+This is one of many MUD WADS and you may expect more phenomenal challenges 
+soon!   Brought to you by STONEHENGE BBS & Battlestation 1 - H2H ON-LINE
+***********************************************************************
+
+Episode Title           : H2HMUD04 Created 4/13/95
+Files			: H2HMUD04.WAD - Single level
+			: H2HMUD04.TXT - This Text File
+			: H2HMUD04.BAT - Batch file to run wad 
+Author                  : Dave Swift
+Email Address           : Mud One@Aol.Com
+			  74401,1041@CIS.COM
+			  swift1@powergrid.electriciti.com
+			  Stonehenge BBS (619) 929-6596
+Misc. Author Info       : Author Of The MUD Levels Available Everywhere
+Description             : This Co-Op WAD is the official Co-Op Challenge
+			  presented to the Dooming community at large.
+			  Single, 2, 3, or 4 player lmps are accepted as
+			  entry.  See below for more info
+Many Thanks To		: Geoff Allen Author of DoomEd, "The Real Thing"
+			: David Bruni Author of DMRETU DoomEd Tutorial
+			: Olivier Montanuy Author of DeuTex
+			: Matt Fell Author Doom Specs
+			: Joe Pantuso Author of RG Doom Edit
+			: Raphael Quinet Author of DEU
+			: ZUHL for the Kuhl graphic work!
+			: The H2H BBS - The Best Place On Earth To Die!
+			: All Youse who subject yourself to these levels	
+			  and have given me most excellent feedback!		 
+================================================================
+* Play Information *
+Game                    : Doom II Registered 
+Episode and Level #     : Map04
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes! You'll Need Help!
+Deathmatch 2-4 Player   : YES! YES! YES!
+Difficulty Settings     : Yes, 1 - 3 - 4 - sorta.. all hard! 
+New Sounds              : No
+New Graphics            : Yes, lots of them!
+Demos Replaced          : No
+
+* Construction *
+Base                    : New level All from scratch
+Build Time              : About 20 Hours (mostly Zuhl's gfx time)
+Editor(s) used          : DoomEd "The Real Thing" 
+			: Renegade Graphics Doom Edit 
+			: DEU 
+			: DeuTex 
+Known Bugs              : Please Let me know if you find any.
+
+* Copyright / Permissions *
+Authors may NOT use any of these levels as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+***************** Where to get H2HMUD WADS ******************************
+
+H2H DOOM BBS (619) 426-0073 Home of BATTLESTATION 1 - Multiplayer Gaming
+		  **  The Best Place On Earth To Die  **  ARE YOU WORTHY? 
+                  **  8 lines 28.8 USR  ** Co-Op - Deathmatch - Files **
+
+STONEHENGE BBS (619) 929-6596 - Home Of The MUD Levels!
+		  DOOM  -  DOOM II  -  HERETIC  -  ROTT
+		  DESCENT  -  QUAKE  -  DARK FORCES
+		  24 Hours - 14400
+
+Game Palace BBS   (305) 587-4258  BEST ALL DOOM BBS : DOOM HQ!
+		  Go No Further!  This BBS Has THE BEST & MOST
+		  WADS, HACKS, EDITORS, SOUNDS and LOTS LOTS more!
+		  Download DOOMLIST.ZIP for complete up to date listing.
+
+DOOMania bbs (317)662-8842, (317)662-1447, 48, 49
+                  Home to the DOOMnet conference group. 4 Nodes
+                  24 hours a day!
+
+MetroDOOM bbs (404)590-9375  Another large DOOM & DOOM II BBS 
+
+MORE SOURCES      : America Online
+		  : Compuserve
+		  : Various Internet FTP Sites
+*********************************************************************
+
+iddqd - god
+idclip - no clip
+idkfa - ammo
+idbehold plus letter - s-v-i-r-a-l
+iddt - map enhance
+idclev04 - warp to map04
+	      
+
+

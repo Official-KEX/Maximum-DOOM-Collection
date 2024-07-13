@@ -1,0 +1,100 @@
+Title                   : DRUNK.WAD
+Date Finished           : 2/7/95
+Author                  : Richard Smol
+Email Address           : richard@river.bgu.ac.il
+Misc. Author Info       : - Member of the Doom Contest Group Rotterdam 
+                          - Mediocre deathmatcher, even with a mouse
+                          - The twisted mind who invented SPUNK.WAD
+                            (get SPUNK2 for DOOM ][ ... or miss out!)
+                          - Other cool DM-wads: DUNK, FUNK, TRUNK
+                            (whaddaya mean, they sound the same? ;-)  )
+                          - Known on IRC and various BBS'es as JazzCat
+                          
+Description: 
+
+You and your buddies had a swell time, hanging out in various bars during a
+stormy night. Then, suddenly you get warped by a weird thunderstorm to
+a strange environment full of neato weapons... or something like that...
+WHO CARES? Just take the weapons and have fun! (well, now the name has SOME
+meaning *harhar*).
+
+This is a DEATHMATCH-wad. This means that I didn't put in super-fancy
+puzzles, keys or hard secrets. Those are mostly useless anyway, 'cos 
+most players simply use cheats and editors when it gets too hard. Of course
+I still added some neat stuff to enhance gameplay, but not too much to
+obstruct some pleasant deathmatching (man, it's hard to find the
+balance... I love beauty in simplicity though!)
+
+DRUNK.WAD is the kind of deathmatch in which you have to SEARCH for your 
+prey and HUNT it down. Of course there is enough chance to cause pure 
+MAYHEM & DESTRUCTION! (esp. with 3-4 players).
+
+ALL weapons are there, but the better they are, the harder they are to get
+(you'll probably HATE my solutions for the BFG and the Plasma Rifle *grin*)
+There are 7 deathmatch-spots with a shotgun nearby.
+
+HAVE FUN!
+
+Additional Credits to   : - The members of the Doom Contest Group
+                          - Mr. Morris for his superb editor
+                          - John Romero, for showing that a out-of-phase 
+                            guy can still accomplish something in life
+                            (man, I feel much better now) ;-)
+
+
+===========================================================================
+* DOOM 2 *
+
+New level WAD
+
+* Play Information *
+
+Map #                   : 01
+Episode and Level #     : NA
+Single Player           : No (wanna get wacked by wimpy monsters?)
+Cooperative 2-4 Player  : No (*snore*)
+Deathmatch 2-4 Player   : Yes!  
+Difficulty Settings     : No (pretty useless with -nomonsters *grin*)
+New Sounds              : No (except for the screams from your pals!)
+New Music               : No (you may hum the tune of "Bonanza")
+New Graphics            : No (I wanted to put MY head in there! *sob*)
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : some weird little WAD for DOOM I 
+                          I made some while ago
+Build Time              : Uuuhhh... 
+Editor(s) used          : DCK 1.0, DCK 2.0b1, DCK 2.0
+                          (needless to say, DCK is the best!)
+Known Bugs              : Sometimes, some guy who looks just like you, but 
+                          with a different color, will walk up to you and 
+                          hit you severely with a weapon! The only remedy
+                          is to hit right back... or run! Weird ha?
+May Not Run With...     : CrumbleWorks 2.1
+                          If you don't know what it is, don't worry  ;-)
+
+* Copyright / Permissions *
+
+Authors may use this WAD-file to build their own level. On distributing, they 
+should mention though that THIS is the WAD they built from.
+
+Lately I have seen my WAD-files appear on CD's from companies I have never even
+heard of. Even though I am flattered, I *hate* when this happens. So, if you 
+want to use this WAD on a CD, you have to use an UNMODIFIED version, including 
+this text-file. I'd also like to have a copy of the CD then.
+
+** Where to get this wad ********************* 
+
+ftp.cdrom.com
+ftp.idsoftware.com
+
+and all of their mirrors (I hope).
+
+One final note:
+
+uuuhh..
+
+I forgot
+
+See ya!

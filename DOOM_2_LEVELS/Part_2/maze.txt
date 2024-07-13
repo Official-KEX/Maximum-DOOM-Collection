@@ -1,0 +1,47 @@
+Title                   : MAZE - A DOOM ][ replacement level     
+Filename                : MAZE.WAD
+Author                  : Talon
+Email Address           : CEWessel@aol.com
+Misc. Author Info       : Author of DEJAVU.WAD(9 LEVELS), NEXUS.WAD,  
+                          MODMAP01.WAD,PAIN2.WAD, NEW2.WAD.  Also compiled
+                          TALON.WAD AND TALON2.WAD
+
+Description:    This is a DEATHMATCH ONLY wad..no wimpy mosters to get
+                in the way.
+
+Additional Credits to: Shotgun for help with Heretic sounds/graphics;
+                       
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01
+Single Player           : Yes (kinda lonely)
+Cooperative 2-4 Player  : Yes (awful boring with no monsters, but...)
+Deathmatch 2-4 Player   : ONLY WAY TO PLAY!!!
+Difficulty Settings     : Not implemented
+New Sounds              : Yes 
+New Graphics            : Yes 
+New Music               : Yes
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Edmap 1.31; NWT for texture/sound/gfx replacement
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels, as I might!!  
+
+You MAY distribute this WAD file in any format, as long as this file is 
+included intact.
+
+* Where to get this WAD *
+
+KCE bbs             214-613-0992
+Code Red bbs        214-424-4702
+DWANGO bbs          214-286-8291
+AOL (when they finally get it available)

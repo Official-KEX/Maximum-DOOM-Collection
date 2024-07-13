@@ -1,0 +1,80 @@
+==============================================================================
+Title                   : Haunted Space Ship
+Filename                : SPCHAUNT.WAD
+Author                  : Robert Fenske, Jr.
+Email Address           : rfenske@swri.edu
+Misc. Author Info       : 
+
+Description             : You have just found a derelict space ship orbiting
+       	       	          a planet.  The crew is missing or has been
+			  transformed; there are just zombies roaming all
+			  parts of the ship--the bridge, the holosuite, the
+			  transporter room, the engine rooms, and the empty
+			  shuttle bay.  There are also various floating
+			  creatures haunting the ship and outside in space.
+			  A small shuttlecraft, also abandoned, is near the
+			  ship.  On the planet, you find only unearthly
+			  creatures stalking through abandoned ruins.  Thus
+			  you get to battle in the vast reaches of outer space
+			  and the sometimes cramped areas the ship.  There are
+			  plenty of windows to shoot in and out of (you can
+			  shoot through any of the windows but you can't shoot
+			  through the transparent doors unless they are open.
+			  An adequate supply of ammunition is scattered about
+			  the ship and all of the weapons are available,
+			  though you are going to have to *want* the rocket
+			  launcher or the BFG9000.
+
+Additional Credits to   : the unknown (to me) creator of SPACE.WAD for the
+			  glass window texture;
+			  Alberto Barsella (alberto@astrpi.difi.unipi.it) for
+			  the transparent door idea;
+			  my coworkers for the grueling playtesting and
+			  helpful suggestions
+==============================================================================
+* Play Information *
+
+Episode and Level #     : E1M3 (it's M3 for historical reasons)
+Version Required:       : 1.666
+Single Player           : Yes, but not designed for it
+Cooperative 2-4 Player  : Yes, but not designed for it
+Deathmatch 2-4 Player   : Yes, designed for v2.0 (-altdeath)
+Difficulty Settings     : All identical except for a couple of extra demons
+			  and cacodemon on skills 4 and 5
+New Sounds              : Yes, new materialization sound (from the Internet)
+New Graphics            : Yes, glass window texture from SPACE.WAD;
+			       new transparent door texture;
+			       new solar system display (how many bodies can
+			       you identify?), each picture is a size-reduced
+			       image from the Internet;
+			       new info texture (tells you who made the
+			       spaceship engines);
+New Music               : Yes, from the movie Halloween (from the Internet)
+Demos Replaced          : None
+
+==============================================================================
+* Construction *
+
+Base                    : New level from scratch
+Tools used		: DEU 5.21, DCK 1.1, WARM 1.0, DMAUD, DMMUSIC,
+			  MIDI2MUS, BEAV 1.40, Deluxe Paint (Amiga)
+Known Bugs              : A step in each of the engine rooms has the pink
+			  fuzz stripes; sometimes the one of the lifts in
+			  the shuttle bay doesn't work (I think this is a
+			  DOOM bug)
+
+
+==============================================================================
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.  You MAY
+distribute this WAD, provided you include this file, with no modifications.
+You MAY distribute this file in any electronic format (BBS, Diskette, CD,
+etc) as long as you include this file intact and let me know that you are
+doing this.  If you use any ideas presented in this WAD, just give me credit.
+
+
+==============================================================================
+* Where to get this WAD *
+
+FTP sites:	ftp.cdrom.com

@@ -1,0 +1,42 @@
+DOOM 2 DeathMatch:  NO MONSTERS!
+================================================================
+Title                   : Shotgun ][
+Filename                : SHOTGUN2.WAD
+Authors                 : Rockt and Asmo - play us on DWANGO!
+
+Description             : *** NON-STOP FRAG ORGY! ***
+			  Arena-like setting outdoors surrounded 
+			  by a raised area and a dim indoor area.
+			  
+			  The primary weapons are Super Shotguns, with
+			  some regular Shotguns, Chainguns, and
+			  Chainsaws.  There's also a Rocket Launcher,
+			  Green Armor, and 50% Health Potion, but you'll
+			  take some risks getting them!
+			  *** PLAY AS MAP01 ***
+
+================================================================
+
+* Play Information *
+
+Map Number              : MAP01
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Made from scratch.
+
+Editor(s) used          : WinDEU 5.23 by Renaud Paquay
+Known Bugs              : If we knew about'em dontcha think we'd fix'em?
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.
+You may do whatever you want with this file.

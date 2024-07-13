@@ -1,0 +1,73 @@
+* General Information *
+==============================================================================
+
+Title                   : Purple Death 1 ( PURPDTH1.ZIP )
+Description             : Original Deathmatch PWAD for Heretic (Registered)
+
+Author                  : Chris Villarreal
+Email Address           : chris.villarreal@iotp.com
+Additional Credits to   : Ron Anthony - Beta Tester/Victim
+			  Dan Bowen   - Beta Tester/Drumstick
+			  
+Points of Interest      : This is my first level for I have ever made. My goal
+			  was to make a good, fast deathmatch level that would
+			  hold its own against Ledges or some of the Raven series.
+			  This level bogs a little in one area on my DX2-66 so your
+			  results may vary ( my DX4-100 runs most of the rest 1 
+			  to 2 dots ).  
+			  
+			  Notes: I put in the teleporters to make the game quicker. After
+			  the first hour of deathmatch the level exceeded its goals. Learn
+			  the teleporter locations and destinations and you can do well.
+			  Flying is also key to success this level will reward you if you can
+			  fly and shoot well at the same time.
+
+			  Fun things to do: Trap a teleport destination.  You do this by moving
+			  a cheese ball ( gas bag ) over a teleport destination.  When someone
+			  teleports in BOOM! Cool looking too. This level also has a spot 
+			  where teleport frags can be planned.  I had a friend catch me leaving
+			  the teleporter by the split staircases, I threw an egg, he launched
+			  a volley of arrows. The blast blew me back through the teleporter
+			  and the next thing I saw was a chicken flying through my remains.
+
+			  The exit is back where the water starts. It is the switch by the 
+			  glowing sparkles.
+
+
+* Play Information *
+==============================================================================
+
+Episode and Level #     : E1M1
+Single Player           : If you must
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+
+
+
+* Construction *
+============================================================================
+
+Base                    : New level from scratch
+Build Time              : 30+ hours! Ok, so I was learning how to do it! It was worth it, now
+			  if I can only find where my wife went........
+Editor(s) used          : EDMAP 1.31 and BSP 1.2x
+Known Bugs              : Yes, none fatal.
+
+			 There is a slight graphic glitch in the sector by the egg on the
+			 blue pillar. If you know how to fix it please e-mail me.
+			 I'd like to hear any comments also.
+
+
+* Copyright / Permissions *
+============================================================================
+
+Authors may use this level as a base to build additional levels.
+You may distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file.
+
+You can find this PWAD on: Official DOOM Site-of-the-Month: ftp.cdrom.com, CI$, and
+			   any BBS with class!

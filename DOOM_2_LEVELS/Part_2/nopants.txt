@@ -1,0 +1,28 @@
+** PANTLESS DUDES **
+
+       This archive should contain:
+
+                PANTS.WAD       Template file
+                
+                DMADDS11.EXE    DooM ADD Something v1.1
+                                Great tool by Bernd Kreimeier
+
+                NOPANTS.BAT     Sets up nopants and/or runs
+                                Doom with pantless shotgun guys
+               
+                NOPANTS.TXT     This file
+
+
+        To run DOOM with pantless shotgun guys, unzip the NOPANTS archive
+        in your DOOM directory and type <NOPANTS>.  DMADDS11 will create
+        a runnable PWAD from the PANTS.WAD template.  From there on,
+        NOPANTS.BAT will run DOOM with NOPANTS.WAD.
+
+
+DISCLAIMER:
+
+        Hey.  Usual disclaimer.  No guarantees this will work.
+
+
+ Pantless Dudes by Kirk Felton
+    

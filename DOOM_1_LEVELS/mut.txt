@@ -1,0 +1,54 @@
+================================================================
+Title                  : MUT.WAD   
+Author                 : Derek "Assassin" Brinkmann   
+Email Address          : brink@li.net
+
+Description            : My first attempt at creating a level.  I said
+                         level E1M2 could be a realy good deathmatch
+                         level if you changed it around a bit.  So that
+                         is exactly what I did.  Some good ideas and seems
+                         like a good level for deathmatch.  We'll see.
+                         I might decide to make more levels suitable for 
+                         deatchmatch in the future, but none are in the
+                         process of being made to this date.
+
+Additional Credits to  : Bill (Squidly) Bessette  : Playtester/Debugger
+                         Sean (IMP) Phelan  : Playtester
+                    THANKS BILL!!!!!             
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1            
+Single Player           : Yes but keep in mind that this is not what it is 
+                          designed for.
+Cooperative 2-4 Player  : Yes (not that good)
+Deathmatch 2-4 Player   : YES!!! Here it is baby.
+Difficulty Settings     : Ulta-Violence is different.
+New Sounds              : Music is taken from Doom.wad E1M4
+New Graphics            : Nope
+
+* Construction *
+
+Base                    : Level E1M2
+Build Time              : About 8 hours
+Editor(s) used          : DEU 5.21gcc and BSP
+Known Bugs              : None as far as I know.
+Comments                : Since this is the first level I've created and 
+                          released to the public, I ask that you shoot me 
+                          an E-mail or reach me via Internet to let me know
+                          how you liked the level and how I can improve.
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, provided you mention my name and give credit where credit is due.  
+
+You may post this file freely, *provided* this text file is included.
+
+* Where to get this WAD *
+
+BBS: Modem Gamers BBS (516) 893-4120
+     The "Home for Head to Head Doomers"
+
+        (So Far)

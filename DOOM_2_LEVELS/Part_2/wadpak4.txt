@@ -1,0 +1,28 @@
+WADPAK4.WAD by Gary Karnik (g.karnik@att.com)
+
+This is my fourth attempt to take some of the best shareware PWADs for
+DOOM available and combine them together into reasonable new episodes.
+Each episode should be playable by a single player or deathmatch as in
+ID's own levels.
+
+Play using "doom -file wadpak4.wad" (you must have the registered version).
+
+This is the source for this new wad pak:
+
+EPISODE1:              EPISODE2:               EPISODE3:
+
+E1M1 CHRIS_E1.WAD      E2M1 CHASE.WAD          E3M1 TRAINING.WAD
+E1M2 CHRIS_E1.WAD      E2M2 MAKDOOM2.WAD       E3M2 CONVERTM.WAD
+E1M3 CHRIS_E1.WAD      E2M3 KILLZONE.WAD       E3M3 DUNGEON1.WAD
+E1M9 CHRIS_E1.WAD      E2M4 ZIGGURAT.WAD       E3M4 PENTGRAM.WAD
+E1M4 DETH1.WAD         E2M5 DJW11.WAD          E3M5 STYFST13.WAD
+E1M5 TIBET.WAD         E2M9 SHEPHERD.WAD       E3M6 BEWARE.WAD
+E1M6 TALLON.WAD        E2M6 BUNKER.WAD         E3M9 ACHERON.WAD
+E1M7 THELAST.WAD       E2M7 HIGHWIRE.WAD       E3M7 SURMONT.WAD
+E1M8 COMCON.WAD        E2M8 DRACO1.WAD         E3M8 TOWN.WAD
+
+My highest regard to all WAD authors, you did a fantastic job guys!
+
+If anyone has any problems playing these episodes, please let me know.
+
+Enjoy.

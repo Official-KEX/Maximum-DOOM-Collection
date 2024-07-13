@@ -1,0 +1,163 @@
+Title                   : Excalibur 1.1
+Filename                : XCALIB11.WAD = EXCALIBR.WAD Version 1.1
+Author                  : Stefan Maes
+Email Address           : maes@uia.uia.ac.be
+WWW Homepage            : http://www.uia.ac.be/u/maes/index.html
+Snail Mail              : Verbiststraat 8
+                          2920 Kalmthout
+                          Belgium
+Misc. Author Info       :
+
+        Ph.D. student at the University of Antwerp (Chemical Crystallography)
+        and addicted to first persons games. I rate Doom/Doom ][ a close third
+        after Ultima Underworld. System Shock is my absolute number 1.
+
+Still some more info    :
+
+        When DEU 5.1 came out, my collegue Carl started constructing his own
+        WAD. Gerd and I followed in his tracks. Somehow, I lost both along the
+        road. Maybe they should have planned things a little more, just as I
+        did. Although I didn't plan to spend so much time on this level...
+
+        I've always been fascinated by the Middle Ages, so building a castle
+        WAD was the only thing for me. I tried to give each room a meaning and
+        succeeded for the majority of them. There are still a few 'space
+        fillers', but I'm sure you'll recognize the throne room, the main
+        quarters, the torture room with prison, a bathing house, kitchen,
+        stables and of course a conference room (NO not one with a round
+        table in it :) ). A castle is supposed to have some secret passages,
+        so there are a few; Not as many as I wanted though.
+
+        I intended to name this level something boring like CASTL_SM, but then
+        the BBC played that great movie Excalibur again. A name change was the
+        result...
+
+Description             :
+
+        I confess! I'm not a *true* DOOMer. I like the game the most at the
+        HMP (He Must Practice ?!) level. I want to have some time to take a
+        closer look at the enviroment. Besides, I'm into X-rays, not UV :)
+        Therefore I spend much time aligning textures and I hope I haven't
+        missed a spot (If you find an error, please flame my beta-testers!).
+        On the other hand, this could mean that I exaggerated UV a little...
+                          
+        Before you go out and hopefully play this WAD, I must tell you that
+        there's a CyberDemon Surprise at the end (I know it's a cheap trick,
+        flame me!), but you're given 3 options to bypass this CDS:
+        a) Run like hell; b) Nuke him (a BFG might come in handy); and c) ... 
+        Nah! It's a secret.
+
+The evil S-word         :
+
+        Right. Let's not forget to mention the story of this WAD. Some warlord
+        dared to revolt from your Doom King Romero. You and 3 more of his best
+        Doom Masters were send to his castle to talk this matter over.
+        Negotiations failed and you and your compagnons are about to be put
+        away in some dark cell. This is when plan B took over. Waste the son
+        of a B&%$* ! Question is: 'Where are your buddies?' and moreover 'Can
+        you still trust them?' There's only one way to find out!
+
+System requirements     :
+
+        To fully enjoy Ultra Violent Excalibur a just above average (?) Doom
+        machine (486DX, 8Mb RAM, VLB) is required. You REALLY need 8Mb RAM!
+        On my 486DX2/66 with 8Mb RAM and a ISA ET4000 video card I got about
+        20 FPS indoors and around 14 FPS during heavy outdoors combat. For me
+        it was just tolerable. Since the initial release of EXCALIBR.WAD my
+        PC got a VLB boost. With my newly ET4000/W32i video card, I hardly
+        drop below 23 FPS.
+
+Status of the Ferraris  :
+
+        You asked for it, so here it is :) I have three (3!) one GTO, one
+        512BB and one F40. All are red and on scale 1/24. (Just WHAT else did
+        you expect from a 'poor' student ?!). In real life I settle for a
+        red 1985 Ford Escort XR3i.
+
+Additional Credits to   :
+
+        id Sofware for creating DOOM;
+        Brendon Wyber and Rapha‰l Quinet for the Doom Editing Utilities;
+        Per Allansson and Per Kofod for the GCC port of DEU;
+        Colin Reed for his Binary Space Partitioner 1.2x - the only
+        node-builder that could handle this WAD correctly;
+        L. Witek (lee@trousers.demon.co.uk) for his Reject utility;
+        Jin Kim (xjinkim@fullerton.edu) for discussion about the different
+        nodebuilders out there, beta-testing and many hints to improve
+        playability of this WAD;
+        My collegues Gerd Thys (thys@sch2.uia.ac.be), Carl Peten
+        (peten@sch2.uia.ac.be) and Johan Van der Looy (vdlooy@sch2.uia.ac.be)
+        for DeathMatches and beta-testing;
+        Olivier Montanuy (montanuy@dmi.ens.fr) for his DeuTex utility. 
+        Sometimes things can be so imple if you have the right program;
+        Billy D'Augustine (azog@world.std.com), Ken McDowell
+        (kmcdowel@freenet.columbus.oh.us), Mauro 'from Bologna'
+        (linguagg@sidasun1.cineca.it) and Brett (BrettH33014@aol.com): the 
+        few people that took the time to comment on my creation and which
+        made this WAD a (hopefully) better WAD.
+
+==============================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes   
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No    There are many good sound WADs out there.
+New Graphics            : Yes   Although id did a pretty good job.
+New Music               : No    Get SWMUSIC.WAD !
+Demos Replaced          : Nope  There's absolutely no(DOOM)thing you can learn
+                                from me!
+
+* Construction *
+
+Base                    : Update from my own EXCALIBR.WAD;
+Construction time       : Roughly 10 hours for the paper design;
+                          Six (6!) months for the DOS-port. I had a
+                          Windows-like hate-love relationship with DEU:
+                          More off that on the job.
+Editor(s) used          : DEU 5.1 and DEUGCC 5.2.1, BSP 1.2X, REJECT 1.0 and
+                          DEUTEX 2.1
+Statistics              : You thought you've seen really BIG levels? Take a
+                          look at a few stats: 2018 Vertices to construct
+                          2716 LineDefs with all together 4038 SideDefs. I
+                          needed those to build 643 sectors. Oh yeah, don't
+                          forget about the 618 Things.
+
+Changes in Version 1.1  : - Made it more obvious how to get the vital blue
+                            skull key by creating an ICKWALL3 swith.
+                          - Some cosmetic changes which should make the
+                            secrets a little more obvious. Just a little...
+                          - Added some more rocketlaunchers for Deathmatch.
+
+Known (?) Bugs          : - It's more a feature than a bug: Because of the
+                            complexity of this WAD, don't play it with
+                            anything less than the Doom 1.4 engine. Unless of
+                            course you really like HOMs :)
+                          - Lack of speed on 'lower end' Doom machines on UV.
+                            Send enough comments/complaints and I might try
+                            again. For now I'm a little tired fooling around
+                            with Block Sound LineDefs and Deaf/Ambush Flags.
+                          - The one my beta-testers never told me about.
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels. Please let
+me know where to find the results!
+
+You MAY distribute this WAD, provided you include this file, with no 
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact. I sure would like
+to know about that CD-stuff!
+
+Finally I would love to see a full castle episode, with or without this level.
+
+* Where to get this WAD *
+
+FTP sites:      ftp.cdrom.com, ftp.idsoftware.com and mirrors.
+
+World Wide Web: My homepage at http://www.uia.ac.be/u/maes/index.html
+
+Other:          Sams Publishing's book: Tricks of the DOOM Programming Gurus.

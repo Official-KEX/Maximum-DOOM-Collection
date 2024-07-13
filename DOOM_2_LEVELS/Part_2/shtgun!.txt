@@ -1,0 +1,56 @@
+===========================================================================
+Title                   : Shotgun
+Date Finished           : 4/19/95 
+Author                  : Erick Gammon
+Email Address           : None
+
+Description             : re-make of map 1, The only weapons are Fist,  
+                          Handgun, and Super Shotgun. The level is made   
+                          For Deathmatch Only. The level is pretty much  
+                          a duplicate of map1 but all the textures have
+                          been changed.
+===========================================================================
+* Type of DOOM or DOOM II file*
+
+(Choose One)
+New level WAD           : No
+Sound PWAD Only         : No
+Music PWAD Only         : No
+Graphic Addon Only      : No
+.LMP Only               : No
+Other                   : No
+
+* Play Information *
+
+Map #                   : Map 01
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+New Sounds              : No
+New Music               : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Level 1
+Build Time              : 5 Hours 
+Editor(s) used          : Deu2, TBSP 
+Known Bugs              : none that I know of, if you find any hunt me down
+                          on dwango. 
+
+* Copyright / Permissions *
+
+Authors DO NOT use this level as a base to build additional
+levels. (Unless you have authors Premission)  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+BBS numbers:                          
+The Wall: (214) 286-8291
+Code Red: (214) 424-4702

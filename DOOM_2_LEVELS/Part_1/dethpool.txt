@@ -1,0 +1,46 @@
+================================================================
+Title                   : The Death Pool 
+File Name               : DETHPOOL.WAD
+Author                  : David B. Messina
+Email Address           : a005641t@bcfreenet.seflin.lib.fl.us                         
+
+Misc. Author Info       : u don't want to know...trust me
+
+Additional Credits to   : Mark Riel for helping me to know which textures 
+                          go where, and for fixing the stairs...Matt 
+                          Tagliaferri for creating DoomCAD...and of course 
+                          the people at id software, the ones who created 
+                          this monster we know only as dOoM ][.
+
+
+================================================================
+* Play Information *
+Level #                 : Map 01
+Single Player           : Well, I guess, but since there's no 
+                          monsters, ya could do it to gaze upon
+                          this level's beauty 
+Cooperative 2-4 Player  : Yes, but why?
+Deathmatch 2-4 Player   : YES!!! This is the whole intention of the wad.
+Difficulty Settings     : No monsters, no difficulty settings.
+New demos               : Now why would I make a demo for this?
+New Sounds              : Nope
+New Graphics            : Nope
+
+
+* Construction *
+Base                    : New level from scratch
+Build Time              : This is my 1st wad, so take your guess.
+Editor(s) used          : DoomCAD 5.1, DCK 2.2, Waded, and Edmap.
+Known Bugs              : No. If ya find one, ya modified this wad in
+                          some way.
+
+* Copyright / Permissions *
+
+Yeah, like I can stop you from doing anything to this wad. However, if 
+you put it in a bundle (CD-ROM, etc....), I sure would like to know.  
+
+
+* Where to get this WAD *
+
+*The* Doom-Style FTP site: ftp.cdrom.com
+

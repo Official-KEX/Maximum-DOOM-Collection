@@ -1,0 +1,43 @@
+================================================================
+Title                   : Kill 'em All (Yes, i got it from MetallicA)
+Filename                : kilemall.wad
+Author                  : Jonathan Elly (bElCh on IRC)
+Email Address           : elly@gate.net
+Description             : DOOM level with alot of enemies, and windy stairs.
+
+Additional Credits to   : id software for uhh i forgot :), Baroban on IRC
+                          for helping me on various parts in this wad, the
+                          makers of Edmap.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : No (Too lazy :)
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Roughly 12 hours
+Editor(s) used          : Edmap v1.31
+Known Bugs              : I havent found any, if you do, email me
+
+* Copyright / Permissions *
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+ftp.cdrom.com
+
+
+

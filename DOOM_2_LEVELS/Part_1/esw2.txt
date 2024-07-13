@@ -1,0 +1,71 @@
+Title                   : (imagine a good name here)   
+Filename                : ESW2.WAD
+Authors                 : David Jander (ESW), Juan J. Sierralta
+                          Stefano Villanueva, Felipe Figueroa 
+Email Address           : i5iwg102@loa.disca.utfsm.cl (David Jander)
+Misc. Author Info       : (You wouldn't like to read this, do ya ?)
+
+Description             : This PWAD is a good choice for those who finished
+                          DOOM 2 and just want some more of it. Go on,
+                          give it a shot ! 
+                          
+                          Authors and their maps: 
+                           
+                          MAP03 : Stefano Villanueva
+                          MAP08 : Felipe Figueroa
+                          MAP09 : Juanjo Sierralta
+                          the rest : me :-)
+
+                          Hint : Don't give up looking for secrets...
+                          there are many ! (specially in MAP07)
+                          Hey man, come on, there is really no need to
+                          cheat ! Besides it is YOU who wants to have  
+                          fun playing this, don't you ?
+
+                          This is the first pwad we did, so we would 
+                          apreciate some feedback, e-mail me if you 
+                          liked this pwad (or if you didn't).
+                          More pwads will be done in future (including
+                          HERETIC) depending on your suggestions...
+
+Additional Credits to   : My brothers Manuel and Fabian for intensive
+                          Beta-testing, aswell as all the dudez around  
+                          here....
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01 through MAP10 (inclusive)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (not tested)
+Deathmatch 2-4 Player   : Yes (not tested)
+Difficulty Settings     : Yes
+New Sounds              : No (maybe in next versions)
+New Graphics            : No
+New Music               : No (maybe in next versions)
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch. (Waddaya expect ?)
+Editor(s) used          : WADED 1.42 and BSP2DO (my doom2 node builder)
+Known Bugs              : about 2 HOM's in MAP05, but if you find some more,
+                          let me know :-)
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com (I'll upload it there)
+

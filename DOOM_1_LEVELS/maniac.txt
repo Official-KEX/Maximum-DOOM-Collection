@@ -1,0 +1,60 @@
+
+================================================================
+Title                   : Fun times in Maniac Central Station(1)   
+Filename                : MANIAC.WAD
+Author                  : Jon Boulet(Mirage)
+Email Address           : jon.boulet@swcbbs.com 
+                          ideanet2@ideanet.doe.state.in.us
+Misc. Author Info       : Gahhhhhhhh....
+
+Description             : The first in the MCS series, covering various
+                          city areas. This one is the start of the
+                          sewer and maintenance tunnels.
+
+Additional Credits to   :Brian Gustin and Jason Thompson for running through
+                         it for me.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes, but you can't get out, so it's kinda pointless.<G>
+Cooperative 2-4 Player  : Yes, but very boring.
+Deathmatch 2-4 Player   : Yes(Primary purpose.)
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU521
+Build Time              : A while.
+Known Bugs              : Some misc texture mis-alignments(Stemming from 
+                          EXTREME laziness.<G>)
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You may do whatever you want with this file. Although if you're planning on 
+modifying it, it would be nice if you gave proper credit.
+(I'll be VERY pissed off if I find otherwise.<G>)
+
+
+* Where to get this WAD *
+
+FTP sites:infant2.sphs.indiana.edu
+
+BBS numbers:1-800-IDEANET(If Indiana resident.) 
+            Or you can telnet to it at ideanet.doe.state.in.us
+            Address E-Mail on this board to jboulet
+
+Other:When using DEU521, I STRONGLY suggest getting an outside nodes-builder.
+(Such as BSP11ME.ZIP, the one I used.) The one built into the program isn't
+quite up to par yet. I had some slight HOM effects in my level, and BSP11ME 
+took care of 'em nicely.

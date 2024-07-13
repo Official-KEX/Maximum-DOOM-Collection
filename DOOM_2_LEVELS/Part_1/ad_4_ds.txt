@@ -1,0 +1,65 @@
+DOOM2 v1.7
+================================================================
+Title                   : Doomed Sportsman's ad
+Filename                : AD_4_DS.WAD
+Author                  : Megadeath Land'r 
+Email Address           : Kevlar van@aol.com
+Misc. Author Info       : Yes author is an unknown
+
+Description             : 2-4 Player Deathmatch ONLY
+                          Layout of two connected rooms with a
+                          Temple in the main room filled with
+                          the goodies(BFG9000, MegaSphere). The
+                          Temple has a tricky, push the button
+                          and run sequence to get in. This wad 
+                          contains only a few of each WeApOn &
+                          has many strategicaly placed sniper
+                          spots. Fast paced and lots-of-FRAGS!!!
+
+Additional Credits to   : Baron Kraig and my girlfriend  
+                          The Doomed Sportsman BBS (310)542-2442 
+                          zyzzxfox@cyberverse.com the all-mighty
+                          and ORIGINAL DoomGuRu. (John Romero eat
+                          my chainsaw, brum-brum-brum-brum :D )  
+                          And of course Id Software. 
+                                        ^^ ^^^^^^^^ 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : Yes
+New Music               : Yes
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Deu5.1 nwt1.3
+Known Bugs              : Could be but I didnt see any
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels. But Why
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+BBS sites:
+  The Doomed Sportsman BBS
+  310-542-2442
+
+FTP sites:
+  ftp.cdrom.com
+  But why You have it

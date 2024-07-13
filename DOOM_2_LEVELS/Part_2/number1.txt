@@ -1,0 +1,44 @@
+================================================================
+Title                   : The actual title is 'number1'
+Filename                : NUMBER1.WAD
+Author                  : Dave Worley 
+Email Address           : SeaDooDave@aol.com  (number1 on DWANGO)
+
+Description             : This is a sound/music/item enhancement 
+                          to SUPER1.WAD (DWANGO1.WAD map1) 
+
+================================================================
+
+To get all the new sound effects and music:
+
+doom2 -file number1.wad
+
+
+* Play Information *
+
+Game                    : DOOM II
+Episode and Level #     : Map1 (music)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : YES!! - It's why DOOM was made right?
+Difficulty Settings     : Not implemented
+New Sounds              : YES 
+New Graphics            : No 
+New Music               : YES
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Doom2 map1
+Editor(s) used          : NWT, DCK and WaveEdit
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels. 
+
+* Where to get this WAD *
+
+Code Red BBS, KCE BBS

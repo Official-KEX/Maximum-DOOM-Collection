@@ -1,0 +1,55 @@
+===========================================================================
+Title                   : Room2-2.wad
+Author                  : Faust
+			  
+Email Address           : None
+Other Files By Author   : room3.wad, room4.wad, room3-1.wad, room4-1.wad,
+			  room2.wad, room2-1.wad, Psycho1.wad & Zone1.wad
+Misc. Author Info       : See you on Dallas DWANGO
+			  
+Description             : Awesome deathmatch wad for 2 to 4 players - 
+			  basic design for fast combat - difficulity levels:                           
+			  1st & 2nd only has the chaingun and 2 bar. shotgun
+			  3rd has same as above and has rocket launcher
+			  4th & 5th has same as above and a soul sphere &
+			  three plasma rifles
+			   
+			  
+			  
+Additional Credits to   : Id
+===========================================================================
+* Play Information *
+
+Map #                   : Map #01
+Single Player           : yes
+Cooperative 2-4 Player  : yes
+Deathmatch 2-4 Player   : HELL YEAH
+Difficulty Settings     : yes - see above
+New Sounds              : no
+New Music               : no
+New Graphics            : no
+Demos Replaced          : no
+
+* Construction *
+
+Base                    : room2.wad
+Build Time              : 1 hr
+Editor(s) used          : waded 181
+Known Bugs              : don't think so 
+
+* Copyright / Permissions *
+
+Authors MAY (please do!) use this level as a base to build additional
+levels - jus give me some credit :). 
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+BBS numbers:                          
+Code Red: (214) 424-4702
+The Wall: (214) 286-8291
+Doom's Day(214) 317-3852

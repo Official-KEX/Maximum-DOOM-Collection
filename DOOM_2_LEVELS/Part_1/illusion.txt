@@ -1,0 +1,17 @@
+.WAD Name:    Illusion 
+
+Description:  A tricky Deathmatch .WAD that adds 
+              a lot of strategy into the game.
+              Great for 2-4 players.
+
+Designer:     Modeus
+
+Make Time:    3 hours (Hey, I'm new at this..)
+
+Notes:        You may edit this .WAD file in any 
+              form, as long as you continue to
+              give the designer his credit for 
+              the original construction.
+
+.WAD Editor:  WADED, by Matthew Ayres, which may
+              I say is a very nice program.

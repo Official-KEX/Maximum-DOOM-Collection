@@ -1,0 +1,83 @@
+
+------------------------------------------------------------------
+Title                   : Slaughter!
+Filename                : SLAUGHTR.WAD
+Author                  : Jeremy A. Statz, Dark Lord of the Universe
+Email Address           : JStatz@squeaky.free.org
+Misc. Author Info       : I edit a fanzine!  Info below...
+Description             : A weird Doom 2 DM level that's designed for surprise
+                          and shock value.  This level, for anyone who is an
+                          inexperienced DM player, is evil.  It's complex,
+                          dark, dangerous, and intense.  Cool architecture,
+                          too.
+
+Additional Credits to   : Jesse Gilles and Jason Statz, for testing.
+
+Additional Notes        : This level is hard on the computer, even without 
+                          enemies, and I recommend at least a 486/25.  I 
+                          haven't played it with more than two players, but it 
+                          should be plenty big for four.  I decided at the last 
+                          minute to replace level two with a puny but 
+                          entertaining level I designed a while ago.  
+                          Individually, this level filled only 6k, so I figured 
+                          it might be worth it.  Level 2 may be small, but it's 
+                          great fun if you play it in the right frame of mind.  
+                          I don't recommend more than 2 players, though, as 
+                          there's probably end up being about a frag every 15 
+                          seconds.
+                               Other publicly availiable levels I've done are
+                          Zygote, The Reservoir, Maze, and (The best DM wad
+                          I've personally played) Maze-X.(Zygote.ZIP,
+                          Resrvoir.ZIP, Maze.ZIP, and Mazex.ZIP).
+
+------------------------------------------------------------------
+
+                   --=Lemme see some stats!=--
+
+Episode and Level #     : Map 1 & 2
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes, but it's kind of pointless, with no enemies.
+Deathmatch 2-4 Player   : Yes.  What else is there?
+Difficulty Settings     : No.  There's no enemies!
+
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes, for level 1
+Demos Replaced          : None
+
+                    --=How'd THAT happen?=--
+
+Base level              : Fish.  None.  Fish.
+Build time              : Um, probably around 20+ hours.
+
+Editor(s) used          : Waded 1.83 Beta
+Known Bugs              : None.  (As in, not many.)
+
+               --=Fun Copyright/Permission Stuff!=--
+
+Feeling lazy?  Go ahead and use this as a base for a different level!  Just
+give me credit for the original, and mention where to get a copy of Matrix (see
+below).
+
+Are you amused by the notion of distributing this?  Do, please. Just make sure
+this file is included with it.
+
+              --=Golly, Jeremy, Where can I get one?=--
+
+BBS: Kaizen Online (A FirstClass BBS) 410-995-3600
+
+Internet: FTP.CDROM.COM
+
+      --=What's this fanzine thing I've heard so much about?=--
+
+        A fanzine is kind of like a newsletter, except extremely informal.
+Generally pretty chaotic and entertaining, too.  Mine is Matrix, and it
+focuses mostly and video & computer games.  There's also some stuff on MRPGs,
+movies, and such.  To get a copy cheap ($1.00, which only covers printing
+and shipping costs), write to:
+
+        Jeremy Statz
+        N6148 170 St.
+        Elmwood, WI 54740
+
+     "It's like tactful decor for your soul!"

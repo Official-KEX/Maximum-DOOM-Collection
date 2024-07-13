@@ -1,0 +1,56 @@
+
+Title                   : Dan Deathmatch Level #2
+Filename                : DANDETH2.WAD
+Author                  : Dan Bateman
+Email Address           : batemand@blitzen.buck.com
+
+Description             : A indoor arena style DeathMatch level with 
+                          a few surprises. ;)  Things get really
+                          interesting at a certain point; not many
+                          people can resist the temptation to flip 
+                          that switch!
+                          
+Notes                   : Please let me know you're out there so I'll
+                          feel like making more .WADs.  Any suggestions
+                          or comments you have would be appreciated.
+                          Also let me know if you're interested in Doom2
+                          or Heretic versions of this level.
+
+Additional Credits to   : My wife Brenda for putting up with
+                          my 3am computer sessions.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : DOOM E1M1
+Single Player           : Yes, but no challenge
+Cooperative 2-4 Player  : Yes  "   "    "    "
+Deathmatch 2-4 Player   : YES
+Difficulty Settings     : Not implemented
+New Sounds              : No (maybe in dandeth3)
+New Graphics            : Yes (a few)
+New Music               : Yes 
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Time                    : Not sure, worked on and off for several evenings
+Editor(s) used          : Waded 1.83, DEU 5.2, DMMUSIC x.x, DMGRAPH x.x
+Known Bugs              : None as far as I know, let me know if you find any
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, as long as they let me know.
+
+You may do whatever you want with this file and distribute it anywhere.
+
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com, and wherever else you got this file from...
+
+
+

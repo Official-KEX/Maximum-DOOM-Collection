@@ -1,0 +1,31 @@
+Copy all of the enclosed files into your doom2 directory.
+
+You will need a copy of dehacked2.0 to load the wolf.deh into your doom.exe
+file.  Be sure to backup your doom.exe file prior to patching the file.
+To patch the file type 'dehacked -load wolf.deh' at the c:\doom2 prompt.
+The wad will run just fine without the dehacked patch if you don't have
+dehacked2.0.
+
+If your doom2 is not located in c:\doom2, you will have to edit
+the r2wolf.bat file and change the reference to c:\doom2 to the location
+you have your game.
+
+The following files are located in this zip file.
+
+readit.txt              this file
+r2wolf.txt              wad description
+r2wolf.bat              file to run program
+r2char.wad              sprite.wad changes
+r2levels.wad            10 new levels 
+r2stg.wad               texture, graphics, sound change wad
+wolf.deh                dehacked file
+deusf.exe               program used by r2wolf.bat to create sprite wad
+deusf.txt               description of deusf
+
+Type r2wolf to begin your adventure.....
+
+Check the help screen while in doom for a few basic cheat codes (if you
+think you need them):-)
+
+Email comments to tscott@plains.nodak.edu.
+

@@ -1,0 +1,48 @@
+
+================================================================
+Title                   : QUIRUL.WAD   
+Author                  : Quique Borreda
+Email Address           : a910426@zipi.fi.upm.es
+Misc. Author Info       : Not much. I have been trying the align thingy,
+                          and this was the result.
+Description             : QUIRUL.WAD is a DEATHMATCH pwad for you low 
+                          weapon lovers...
+Additional Credits to   : Raul & all in CITFI
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch. Imagine a blank grid?
+Build Time              : Not too much, i dunno, from time to time... 
+Editor(s) used          : DEU 5.21
+Known Bugs              : I think this haven't.. maybe the damned sky texture
+                          makes it slower sometimes...
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: The usual FTP sites.. if you love DOOM, you know where to get this!
+
+BBS numbers:
+
+Other:

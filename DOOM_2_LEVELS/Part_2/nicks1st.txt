@@ -1,0 +1,47 @@
+================================================================
+Doom Version            : Doom ][
+Title                   : NICKS1ST.WAD
+Author                  : Nick Adair
+Email Address           : nadair@students.wisc.edu
+Misc. Author Info       : no comment...
+			 
+
+Description             : This is my first attempt at WAD creation, but I think
+			  it's pretty good. I tried to capture that spooky, nerve-
+			  wracking feel; lots of darkness and monsters.
+
+Additional Credits to   : Everyone involved in the creation of DOOM2 and
+			  Deep 6.13b. Mommy.
+
+Additional Notes        : Please send me any (constructive) comments 
+			  or suggestions for improvement.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 01
+Single Player           : Yep
+Cooperative 2-4 Player  : Well, I quess so.
+Deathmatch 2-4 Player   : Probably (haven't tried)
+Difficulty Settings     : Not implemented
+New Sounds              : None
+New Graphics            : No
+
+* Construction *
+
+Base                    : New from Scratch!!
+Build Time              : More than enough.
+Editor(s) used          : Deep 6.13b, DeepBSP v?.??
+Known Bugs              : None
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels, or as the foundation of a new religion or political system.
+
+* Where to get this WAD *
+
+FTP sites: ftp.uml.edu, ftp.uwp.edu, ftp.cdrom.com
+EMAIL:  If you don't have FTP access, email me a message and I'll send a 
+	message reply with the WAD included.  Email address included above.

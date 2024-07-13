@@ -1,0 +1,72 @@
+================================================================
+Title                   : MarkRoom 2   (Deathmatch)
+Filename                : markrm2.wad
+Author                  : Mark Griswold
+Email Address           : mgriswol@synapse.npa.uiuc.edu
+Misc. Author Info       : I hate boring deathmatches.
+
+Description             : This is another in the arena-like series
+                          of my wads.  (There are now 3 and more on
+                          the way.)  This one is much more chaotic
+                          than any of the others.  The was is again basically  
+                          a large dark room with weapons scattered around on
+                          pedestals.  However, this time, the whole
+                          room is like climbing twisty stairs- it reminds
+                          me of mountain climbing.  Also as a bonus....
+                          there is a SECOND ROOM of the same terrain with
+                          a plasma gun and the chainsaw.  There are few
+                          obvious hiding places in this wad, but there is
+                          plenty of room for creativity.  If you liked the
+                          original markroom, you might like this one.
+
+                          There is a non-coop exit located in the SE corner.
+
+                          Make sure to look at the wad in an editor before
+                          you go too long.  There are a few hidden lifts that
+                          I didn't make really obvious.
+                          
+                          
+Additional Credits to   : Bill Childers, Aaron Humphreys, and Xinbo Wang for 
+                          testing all of my levels.
+                          Chainsaw Jim, Daniel and all who distrubuted the 
+                          great press and reviews of the first markroom wad. 
+                          You guys are cool.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1 (Sorry, I liked the colors better.)  ;-)
+Single Player           : Yes   zzzzzzzzz  boring!
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.0, 5.21 & BSP 1.0 & 1.1  (cool programs!)
+Known Bugs              : Little bit of HOM when looking down entire length
+                          of room.  Hardly noticable and *should* be fixed
+                          in 1.4 .
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels as long as they mention the god-awful amount of time I spent 
+doing this level AND maybe pat me on the back a few times.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact and at least consider giving me a little of the money you're
+making off of my work.
+
+* Where to get this WAD *
+
+FTP sites:  infant2.sphs.indiana.edu

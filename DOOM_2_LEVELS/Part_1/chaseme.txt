@@ -1,0 +1,46 @@
+================================================================
+Title                   : Chase me   
+Filename                : CHASEME.WAD
+Author                  : Andrew J. Hulme
+Email Address           : andrew@metnov1.bham.ac.uk
+Misc. Author Info       : my name is Andrew, and I'm a Doomaholic
+
+Description             : Yet another deathmatch WAD but only for DooM II. I tried to make this work as a small single player level aswell. Watch out when you go for the plasma gun, you might get trapped. I deceided to include the BFG this time to give your opponent maximum grief.
+
+Additional Credits to   : They know who they are and they should know better by now.
+================================================================
+
+* Play Information *
+
+Level #     		: 1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes, what else
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : edmap 1.21b 
+Known Bugs              : none known
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+

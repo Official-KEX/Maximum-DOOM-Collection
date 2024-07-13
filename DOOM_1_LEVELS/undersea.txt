@@ -1,0 +1,54 @@
+Title                   : UNDERSEA.WAD   
+Author                  : Brian Plumb
+Email Address           : r3bmp@dax.cc.uakron.edu
+Misc. Author Info       : Suffering college student in EE
+
+Description
+-----------
+        You find yourself in the middle of the ocean on an
+abandon complex. The only way out is to go beneath the sea and
+gather the necessary pieces (keys) to exit. 
+        Lots of interesting rooms and tricks. Difficult for
+single player action. Tried at best to texture align everything
+so that the walls look matched. Secret rooms are there but do not
+show up on the map even if discovered. All weapons except for the
+BFG are there if you look hard enough.
+        My personal favorite part is the "rising" arena (you'll
+know it when you see it).
+
+Additional Credits to   : The makers of BSP and DEU. Everyone at
+                          ID software.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : No (not designed for)
+Difficulty Settings     : Yes (slight but there)
+New Sounds              : Yes (music)
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 20+ hrs. 
+Editor(s) used          : DEU5.1 and BSP 1.1x
+Known Bugs              : -none- (let me know if there are!)
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels.  
+Give me credit though! :)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.
+
+* Where to get this WAD *
+
+FTP sites: ocf.unt.edu
+
+Comments and suggestions are welcome

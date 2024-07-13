@@ -1,0 +1,56 @@
+================================================================
+Title                   : The Pit
+Filename                : pit.wad
+Author                  : Jon Lemke
+Email Address           : jtl10@columbia.edu
+Misc. Author Info       : I'm Jon on the Ifrag server.  My picture
+			  is up on the wall in the level.  INDY cams 
+			  and the Doom palette don't do me justice
+			  however.  Feel free to send me e-mail.
+Description             : Cool New Level
+
+Additional Credits to   : All those ifragers out there who helped
+			  me play test it.
+================================================================
+
+* Play Information *
+
+Map#                    : Map 01 - DOOM ][
+Single Player           : Yes
+Cooperative 2-4 Player  : Does anyone play coop?
+Deathmatch 2-4 Player   : Yes!
+Difficulty Settings     : Yep
+New Sounds              : Yep
+New Graphics            : My picture :)
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DCK 2.2, DMAUD, DMGRAPH
+Known Bugs              : Seems to work OK.
+			  
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You may distribute this WAD however you want.  This includes, but is
+not limited to, CD-ROM, BBS, Internet FTP, and passing it out on
+floppies to people on the street.  I don't care.  Just play it
+and enjoy it.
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com & mirrors
+	   ifrag server
+
+* Misc Notes *
+
+This is the first real level I've ever designed, and hopefully
+you'll find it enjoyable.  Best mainly for deathmatch.  I first had
+the plasma guns in the pit, but too many iFragers complained.  So
+now they are a little tougher to get.

@@ -1,0 +1,48 @@
+===============================================================
+Title                   : Elements
+Filename                : ELEMENT.WAD  
+Author                  : Henry Chang
+E-mail Address          : changhenr@urvax.urich.edu
+                          (I'd like some feedback)
+
+Misc Author Info        : about 6'5" 230lbs. cut like granite.  
+                          (if you believe this, I'd like to sell you the
+                           rights to this great game, I call it Doom.)
+
+Description             : This is a WAD for Doom II that can be used for 
+                          either single-player, cooperative, or deathmatch
+                          play. There are three "worlds," if you will, 
+                          (earth, fire, and water) that you must fight
+                          through to get to the exit.  It's pretty straight-
+                          forward. 
+
+Credits                 : Thanx to all my deathmatch buddies for dying so
+                          well when testing this level.  Thanx to the 
+                          creators of Edmap and DEU for making such great
+                          editors.  And last but not least those incredible
+                          guys at ID for taking my life away from me.
+================================================================
+
+* Play Information *
+
+Map Level #             : Map 01            
+Single Player           : Yes  
+Cooperative 2-4 Player  : Yes <-- The level is designed to accomodate coop,
+                                  but it's never been tested.
+Deathmatch 2-4 Player   : Yes <-- This has only been tested with two players. 
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : Scratch
+Build Time              : A long long time ago. . . .
+Editor(s) used          : EDMAP 1.2+ 
+Known Bugs              : None.  If you find anything, please let me know.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels as long
+as you give me a little credit for the work I put into it.

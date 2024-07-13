@@ -1,0 +1,54 @@
+================================================================
+Title                   : Rest In Pieces part VII
+Filename                : RIP7.WAD
+Author                  : Jeremy Drye and Nick Tucker
+Email Address           : forwarded from nickwt@aol.com
+Misc. Author Info       : HS Student
+                          Ridge Racer has-been
+Description             : Another deathmatch-only board, this one is a
+                          good bit bigger than some of the others.  More-less
+                          it was a bunch of small ideas put into one.  
+                          You have a BIG lift on the far left side of the
+                          board, a maze in the center (can you figure out
+                          how to get on the ledges?), and a rocket pit
+                          on the bottom.  Frag 'em!
+Additional Credits to   : DEU and BSP authors
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M5
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes (Use a Gravis UltraSound for best results)
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU
+Build Time              : About 15 Hours
+Known Bugs              : None Known
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:  Infant2
+
+BBS numbers:  Bills Graphics BBS  (704) 932-4739  19.2K V.32Terbo
+              Carolina Forum BBS  (704) 563-5857  28.8K V.FC
+
+Other:  America Online PC Games Forum

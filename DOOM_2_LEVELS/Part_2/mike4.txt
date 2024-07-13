@@ -1,0 +1,59 @@
+================================================================
+Title                   : Mike4   
+Filename                : MIKE4.WAD
+Author                  : Michael M.
+Email Address           : cs911415@ariel.cs.yorku.ca
+Misc. Author Info       : 
+
+Description             : This is a modified E1M1 from (Doom 1), the super
+			  shotgun is in there for all you Deathmatch lovers.
+			  Lots of good hiding places in this one, few elevators,
+			  invisible walls. Totally amazing for Deathmatch!
+			  This is for DOOM 2, this wad was done a few days
+			  ago (Oct. 12/94) which I guess makes it
+			  one of the first Doom 2 deathmatch wads.
+
+Additional Credits to   : Swamper (an132016@anon.penet.fi) for putting up
+			  with me and testing the wad to bits in heated
+			  deathmatch duels.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 1 For DOOM 2!!
+Single Player           : Yes (But crap!)
+Cooperative 2-4 Player  : Yes (But crap!)
+Deathmatch 2-4 Player   : Yes (YEAH! KICK SOME ASS!)
+Difficulty Settings     : Ultra Violence Is Best
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : NoNe
+
+* Construction *
+
+Base                    : Modified E1M1 From Doom 1
+Editor(s) used          : DEU 5.21
+Known Bugs              : Little linedefs problems up near where the chainsaw
+			  is and another near the super shotgun, minimal 
+			  distortion of a line down the screen if you look at
+			  it from a certain angle.. :)
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels. 
+
+(BUT give me some credit and mention for it) 
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact granted you leave me email asking for my permission first.
+
+* Where to get this WAD *
+
+FTP sites:  IRC - If Swamper is around he'll send it to ya :)
+
+BBS numbers:
+
+Other:

@@ -1,0 +1,49 @@
+
+================================================================
+Title                   : PELLEJOS.WAD   
+Author                  : Quique Borreda
+Email Address           : a910426@zipi.fi.upm.es
+Misc. Author Info       : OK! After making QUIRUL.WAD, i decided to make
+                          this one, again from scratch, and play with the
+                          textures a little more... aligning is fun!
+Description             : Another DEATHMATCH level.. really fun discovering
+                          the secret rooms, he he he :)
+Additional Credits to   : Again to CITFI
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No, but thinking about making some noise!!
+New Graphics            : No, in the way to make it posible.. 
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch. (As always)
+Build Time              : uhmmm.. i think i would have to but a cronograph 
+Editor(s) used          : DEU 5.21
+Known Bugs              : Although i may seem a little snob, NONE!
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: You DOOMer know .. infant2, and those sites..
+
+BBS numbers:
+
+Other:

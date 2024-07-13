@@ -1,0 +1,481 @@
+==================== DOOM2 Deathmatch PWAD Collection =======================
+
+Title                   : TIMJAY (DOOM II Deathmatch PWAD Collection)
+Filename                : TIMJAY.WAD
+Authors                 : Tim J. Ash (TIMinator) - tim.ash@cyberstore.ca
+                          Jason Kirby - jakirby@cyberstore.ca
+Description             : This is an 8 level collection of Deathmatch
+                          levels for DOOM2.  Compiled from the works
+                          of myself (Tim) and my fellow author (Jason).
+                          These levels represent a wide range of tastes
+                          in deathmatch play, from the ultra-small levels
+                          to the large, hunt-em-down levels (but not too 
+                          large).
+
+Additional Credits to   : Many playtesters, too many too mention by name.
+                          You know who you are.
+                          
+                          ID Software for the game we all love to play.
+                          
+                          Kenneth S. Forte for some of the great sound FX.  
+                          Check out his sound PWAD, YADSPWAD, it's great.                          
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 01 - Map 08
+Single Player           : Yes (Not much point though...)
+Cooperative 2-4 Player  : Yes (Oh sure, this will be REAL fun...)
+Deathmatch 2-4 Player   : Yes!!!!!
+Difficulty Settings     : Yes - Skill levels vary according to the PWAD.
+                          See the individual PWAD descriptions for details.
+New Sounds              : Yes (Provided mostly to make Deathmatch more fun)
+New Graphics            : Yes, some on MAP02 and MAP08      
+New Music               : No
+Demos Replaced          : None, but three 3-player demos have been included
+                          for your enjoyment (ver 1.9).  They are based on 
+                          levels 1, 5, and 7.  View is from my perspective.
+                          Filenames are TJ-LEV1.LMP, TJ-LEV5.LMP, TJ-LEV7.LMP.
+
+* Construction *
+
+Base                    : All new levels from scratch, except level 1,
+                          which is based upon John Romero's orignal E1M1
+                          from DOOM.
+Editor(s) used          : DEU2 v5.21, EDMAP v1.20, BSP v1.2, DMAUD v1.0
+Known Bugs              : None - extensively playtested.
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels.
+Just give credit where credit is DEU..
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact. 
+
+* Running this WAD *
+
+  All participating players must have a registered copy of DOOM II
+and a copy of TIMJAY.WAD.  Use the -FILE parameter with -WARP 01
+at the command line.
+
+  FEEDBACK!!!!!  Please let me know what you and your Deathmatch buddies
+think of this WAD.  Send me a message or even some LMP recordings!
+
+* Where to get this WAD *
+
+FTP sites:          ftp.cdrom.com:/.5/idgames/levels/doom2/deathmatch   
+                    ftp.usis.com:/pub/users/TIMinator (check it out)
+
+========================== Level Descriptions ==============================
+
+Title                   : FURIOUS (DOOM II Deathmatch PWAD)
+Filename                : FURIOUS.WAD
+Author                  : Tim J. Ash (TIMinator)
+
+Rating (1 to 10)        : Complexity            : 5
+                        : Size                  : 4
+                        : Flow                  : 7
+                        : Aesthetics            : 8
+
+Description             : This PWAD is a mod of the original E1M1 mission
+                          in DOOM that has been revamped for OPTIMUM
+                          DOOM2 deathmatch play.  Yea, I know, you're 
+                          thinking "Oh great, another E1M1 mod...", but
+                          trust me, this one is GREAT for DM. Over 30 hours of 
+                          playtesting on a 4 player network has contributed
+                          to making this level a superior Deathmatch PWAD.
+
+Additional Credits to   : Bob Baum, Dave King and Scott West for thier
+                          playtesting and input.
+                          John Romero, for original design of the level
+                          and ID Software for the game we all love to play.
+                          Kenneth S. Forte for the great sound FX.  Check
+                          out his sound PWAD, YADSPWAD, it's great.                          
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 01
+Single Player           : Yes (Not much point though...)
+Cooperative 2-4 Player  : Yes (Oh sure, this will be REAL fun...)
+Deathmatch 2-4 Player   : Yes!!!!!
+Difficulty Settings     : Yes - Skills 1 & 2 is designed for DEATHMATCH play. 
+                              - Skills 3 - 5 are for ALTDEATH play.
+New Sounds              : Yes (Provided mostly to make Deathmatch more fun)
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+Title                   : Megapit   
+Filename                : MEGAPIT.WAD
+Author                  : Jason Kirby
+
+Rating (1 to 10)        : Complexity            : 3
+                        : Size                  : 5
+                        : Flow                  : 5
+                        : Aesthetics            : 7
+
+Description             : Cozy (yet spacious ;)) fragfest.
+
+Additional Credits to   : Tim "TIMinator" Ash, Ryan Saari and many others
+                          for playtesting. (Oh yeah, and all the rest of  
+                          the cannon fodder for showing me what the pit
+                          looks like covered with corpses! =:) ).
+
+                          Most of the players in the level start out on
+                          an equal level, (with a megasphere and a shotgun)
+                          with the exception of the plasma wielder, he's got
+                          his work cut out for him!.  Grab your shotgun and
+                          megasphere follow the arrow down the elevator, and
+                          oh yeah, watch your ass.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP02
+Single Player           : Yes (What a blast ;) )
+Cooperative 2-4 Player  : Yes (But Why?)
+Deathmatch 2-4 Player   : Yes, more the merrier!
+Difficulty Settings     : Not implemented
+New Sounds              : Yes
+New Graphics            : Yes
+New Music               : Yes
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch (about 4 hrs)
+Editor(s) used          : DEU 5.21GCC, DEU2, BSP12X, Powerchords,
+                          Corel PhotoPaint.
+Known Bugs              : None
+
+============================================================================
+
+Title                   : BRIMSTONE (DOOM II Deathmatch PWAD)
+Filename                : BRIMSTON.WAD
+Author                  : Tim J. Ash (TIMinator)
+
+Rating (1 to 10)        : Complexity            : 7
+                        : Size                  : 9
+                        : Flow                  : 5
+                        : Aesthetics            : 8
+
+Description             : The largest PWAD in this collection, this
+                          level is really only suitable for more than
+                          2 players.  WARNING: This level, although
+                          simple in design, has quite a few linedefs,
+                          therefore it may be slow on anything less
+                          than a 486-33...
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 03
+Single Player           : Yes (Not much point though...)
+Cooperative 2-4 Player  : Yes (Oh sure, this will be REAL fun...)
+Deathmatch 2-4 Player   : Yes!!!!!
+Difficulty Settings     : The higher the skill level, the more items,
+                          weapons, and health exist.
+New Sounds              : Yes (Provided mostly to make Deathmatch more fun)
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+Title                   : Outpost
+Filename                : OUTPOST.WAD
+Author                  : Jason Kirby
+
+Rating (1 to 10)        : Complexity            : 6
+                        : Size                  : 3
+                        : Flow                  : 7
+                        : Aesthetics            : 7
+
+Description             : Can you hold down the fort?  First one in lowers
+                          the drawbridge!  You can raise it from inside  
+                          the outpost or the 2 blue skull switches can
+                          raise it from the outside after they blow your
+                          mangy corpse off of the platform! =;).  Watch
+                          out for respawing spys (players) inside your
+                          fortress!.
+
+Additional Credits to   : Many rocket sucking victims for playtesting.
+                          
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP04
+Single Player           : Yes (Have a look around)
+Cooperative 2-4 Player  : Yes (But Why?)
+Deathmatch 2-4 Player   : Yes, more the merrier!
+Difficulty Settings     : Not implemented
+New Sounds              : Yes
+New Graphics            : No
+New Music               : No 
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch (about 4 hrs)
+Editor(s) used          : DEU 5.21GCC, DEU2, BSP12X.
+Known Bugs              : None
+
+================================================================
+Title                   : CITADEL OF POWER (DOOM II Deathmatch PWAD)
+Filename                : CITADEL2.WAD
+Author                  : Tim J. Ash (TIMinator)
+
+Rating (1 to 10)        : Complexity            : 6
+                        : Size                  : 8
+                        : Flow                  : 8
+                        : Aesthetics            : 9
+
+Description             : Atop the mighty Mount Fragmore the best 
+                          of the best gather to prove thier mettle
+                          in the Citadel of Power.  Whoever reaches
+                          100 Frags first will be crowned as the
+                          toughest marine on the mountain.
+
+Additional Credits to   : Bob Baum, Dave King, Scott West, and many others 
+                          for thier playtesting and input.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 05
+Single Player           : Yes (Quite difficult on skill 4)
+Cooperative 2-4 Player  : Yes (Interesting, but resist temptation to frag ;>)
+Deathmatch 2-4 Player   : Yes (The more players the better!)
+Difficulty Settings     : Yes (Varying amounts of weapons, health, and
+                               monsters, depending upon skill level)
+New Sounds              : Yes (Provided mostly to make Deathmatch more fun)
+New Graphics            : Yes (Nothing major here, just some credits)
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU2 v5.21, EDMAP v1.20, IDBSP v1.0, DMAUD v1.0,
+                          DMGRAPH v1.1.
+Known Bugs              : None - extensively playtested.
+
+* Running this WAD *
+
+  All participating players must have a registered copy of DOOM II
+and a copy of CITADEL2.WAD.  Use the -FILE parameter with -WARP 01
+at the command line.
+
+* About CITADEL2.WAD *
+
+  Citadel II - Citadel of Power is my fifth PWAD, the first one I have
+designed primarily for Deathmatch play.  Considerable time has gone into
+making this level a very playable Deathmatch PWAD.  Many additions and
+modifications were made to the level after extensive playtesting in
+2, 3 and 4 player deathmatches.  A fair amount of time has also been
+spent in making the level look good, so I'm hoping it will be a pleasure
+to play.  As an afterthought, I also added in a few choice sounds to make
+Deathmatch more fun.
+
+  There are several tricks to CITADEL2 that you will only notice and make 
+use of in multi-player play.  They are described below:
+
+  Symmetry:
+
+    Citadel II is symmetrical by design, to keep the layout simple and
+    easy to learn.  Whatever exists on one side of the map will exist
+    on the other.  This goes for textures, rooms, lighting, items, and
+    monsters.
+
+  Lighting effects:
+    
+    Notice that there are two cubbyholes to the left and right of the
+    large central room.  The lights in these rooms flash on and off
+    rapidly if someone is running up the left or right staircases,
+    respectively.  Also, if the light flashes then remains dark, the
+    marine has run down the stairs.  If the light flashes and remains
+    lit, the marine has run up the stairs.  This assists you in locating
+    you foe from inside this large room (I call it the AnteChamber).
+
+    There is a cave-like area on the south side of the map, with the
+    BFG on a platform.  There is a left and right door on either end to
+    allow access, leading from a room with a lit platform in either corner.
+    If a marine jumps out the door to get the BFG, the lit platform in the
+    room on the opposite side of the map will flash.  This is to warn and
+    alert marine of an enemy running for the most powerful weapon in the
+    game.
+
+  Sniper spot doors:
+ 
+    From the AnteChamber you can see two small platforms obstructed by
+    grates.  These grates are initially covered by walls which lower when
+    you enter the AnteChamber.  The doors leading to these sniper spots 
+    are opened by moving towards the left and right lower rooms.  Knowing
+    this, you can tell which direction you foe is headed in the south
+    portion of the map.
+
+  Multiplayer exit:
+  
+    In the Marble Room is a section of wall that lowers when you step on
+    the central platform, exposing this room to the AnteChamber.  When
+    this happens, two switches are exposed, either will lower a lift on
+    the far side of the map.  The lift is by the rocket launcher, between
+    the two single player exit doors.  Behind this lift is the end level
+    switch.  Note that in multiplayer mode, the two single player exits
+    are obstructed.  This prevents someone from ending the level without
+    consent of all duelling parties.
+
+  Extra weapons:
+
+    There are more weapons in multiplayer mode, but the amount of ammo
+    is the same in multi or single player.
+
+* Final Notes *
+
+  There are a couple of secrets too, and if you can get to them before
+the other guys do, you will have a big advantage.  Ill let you find
+these out for yourself.
+  
+  Last but not least, the skill level feature has been utilized to
+provide players with a different flavour of Deathmatch depending upon
+the difficulty level you are playing on.  For those of you who play
+with finesse, try skill 1 or 2, where you will have to shoot straight
+and use your ammo wisely.  If brute force is more your style, then go
+for skill level 4 or 5, where plasma, rockets and megasheres abound.  
+I prefer skill 3 myself, a nice mix that keeps the game flowing.
+  
+  Citadel II was designed for the -ALTDEATH parameter, but regular
+Deathmatch rules work OK too.  If your a sadist, try playing with the
+-RESPAWN parameter on skill 1 or 2 (or higher - ouch!).
+
+================================================================
+Title                   : The Serpents Ring   
+Filename                : SERPRING.WAD
+Author                  : Jason Kirby
+
+Rating (1 to 10)        : Complexity            : 9
+                        : Size                  : 7
+                        : Flow                  : 5
+                        : Aesthetics            : 8
+
+Description             : Very complex, many secrets, requires a little
+                          bit of learning, but worth the time.  For the
+                          dedicated and veteran deathmatchers looking
+                          for something a little different.
+
+                          Most of the weapons are in the secret areas
+                          and require you risking your ass a bit.  If
+                          you have a little bit too much health, go for 
+                          the plasma rifle ;).
+
+                          A quick check of the complete map will explain
+                          the title of the wad.
+                          
+                          Note: All of the "blocks" in the main room have
+                          something inside them.
+
+Additional Credits to   : 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP06
+Single Player           : Yes (for learning the level)
+Cooperative 2-4 Player  : Yes (But Why?)
+Deathmatch 2-4 Player   : Yes, more the merrier!
+Difficulty Settings     : Not implemented
+New Sounds              : Yes
+New Graphics            : Yes
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch (about 10 hrs)
+Editor(s) used          : DEU 5.21GCC, DEU2, BSP12X, Corel PhotoPaint.
+Known Bugs              : None
+
+================================================================
+Title                   : BFG SPAZ (DOOM II Deathmatch PWAD)
+Filename                : BFGSPAZ.WAD
+Author                  : Tim J. Ash (TIMinator)
+
+Rating (1 to 10)        : Complexity            : 2
+                        : Size                  : 2
+                        : Flow                  : 9
+                        : Aesthetics            : 4
+
+Description:              I hate the BFG.  No skill involved with it. 
+                          Some players like the mass destruction it
+                          causes, so I created this level with those
+                          players in mind, and it's actually quite fun.
+                          This level was designed to be small, fast and
+                          furious.  Non-stop fraggin action, even with 
+                          2 players.
+
+Additional Credits to   : Steve Silvester and his friend James for 
+                          playtesting.  Thanks for the easy frags, guys.
+                          
+                          ID Software for the game we all love to play.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 07
+Single Player           : Yes (Not much point though...)
+Cooperative 2-4 Player  : Yes (Oh sure, this will be REAL fun...)
+Deathmatch 2-4 Player   : Yes!!!!!
+Difficulty Settings     : Yes - Skills 1 & 2 is for Shotguns only. 
+                              - Skill 3 is for Plasma and Rockets only.
+                              - Skill 4 & 5 is for TOTAL BFG CARNAGE!!!!!
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+Title                   : Go For it
+Filename                : GOFORIT.WAD
+Author                  : Jason Kirby
+
+Rating (1 to 10)        : Complexity            : 7
+                        : Size                  : 6
+                        : Flow                  : 6
+                        : Aesthetics            : 8
+
+Description             : The name says it all, just beware the plasma
+                          rifle trap.
+
+Additional Credits to   : Tim "TIMinator" Ash, Ryan Saari and many others
+                          for playtesting. 
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP08
+Single Player           : Yes (Have a look around)
+Cooperative 2-4 Player  : Yes (But Why?)
+Deathmatch 2-4 Player   : Yes, more the merrier!
+Difficulty Settings     : Not implemented
+New Sounds              : Yes
+New Graphics            : Yes
+New Music               : No 
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch (about 6 hrs)
+Editor(s) used          : DEU 5.21GCC, DEU2, BSP12X, 
+                          Corel PhotoPaint.
+Known Bugs              : None

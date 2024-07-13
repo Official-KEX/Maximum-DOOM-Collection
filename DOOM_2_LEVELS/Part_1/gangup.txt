@@ -1,0 +1,58 @@
+================================================================
+Title                   :Gang Up or Shut Up (It's all I could think of)    
+Filename                :GANGUP.WAD
+Author                  :Mike Regan
+Email Address           :miker@crl.com or Plucky666@aol.com 
+Description             :A Deathmatch only wad for Doom2. Not very big, and 
+                         It's easy to find the other people. It has four cubie
+                         holes for each player to start in. Each person gets 
+                         a shotgun and a chaingun. If your lucky or unlucky 
+                         you could start in a sealed off room, that teleports 
+                         you to the fort in the middle. (You can get in from 
+                         the outside, theres a hint there.) In the fort you 
+                         can get lots of ammo, butt only two health Bottles. 
+                         So the poeple outside can gang up on the person 
+                         inside, or you can just fight it out all the time. Up 
+                         to you. There is no Exit. Sorry. Couldn't find a fair place
+                         to put one.  
+                         
+
+Additional Credits to   :To Id, Makers of DEU, My little brother Matt who's 
+                         in the Demo, and dies really cool in the air!!
+                         
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map01
+Single Player           : Yes (So you know where everything is. No exit)
+Cooperative 2-4 Player  : Yes (Sure but there still is no exit)
+Deathmatch 2-4 Player   : Yes (Duhh)
+Difficulty Settings     : Nope
+Demos Recorded          : Yes Recored with Doom2 1.9, Include in Air Fargs,   
+                          and while your dead frags. You'll know 'em when you
+                          see 'em
+
+* Construction *
+
+Base                    : New level from scratch 
+Build Time              : A couple hours to put down the map. Couple to pick
+                          Textures. Then Hours and Hours of killing my 
+                          My brothers and firends on it. Is that normal?
+Editor(s) used          : Deu2
+Known Bugs              : Yes. Somethimes you can see a deadbody through the 
+                          Floor. Not big, but it happens when you die next to 
+                          the hall of the lower floor.
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+

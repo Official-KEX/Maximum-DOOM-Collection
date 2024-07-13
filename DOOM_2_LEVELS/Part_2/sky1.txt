@@ -1,0 +1,122 @@
+** RELEASE:  2/25/95 **
+** Hole in the Sky -- for DOOM ][ **
+
+This is a medium-sized, yet complex wad for DOOM ][, with excellent single 
+play, but designed from the beginning with deathmatch in mind ( 3 or more 
+players ).  Two player deathmatch is more of a hunting match in this level 
+(for those who love nothing better than killing).  It should also make a 
+good co-operative game.  The 4 starts are in, but co-op is as of yet 
+untested.
+
+If you're interested, read on.
+
+=============================================================================
+Title                    : Hole in the Sky
+Filename                 : sky1.wad
+Author                   : Michael Novak
+Email Address            : mjn@ksu.ksu.edu
+Discription              : PWAD for DOOM ][.  I firmly believe that
+                           the wad is definitely id-quality play.  It was
+                           tailor made for deathmatch, yet gives excellent
+                           single player play.
+Additional Credits To    : id software (duh!!), the DEU team (still waiting
+                           for 5.3), and the authors of BSP, and RMB.
+                           **   Beta testers who sent feedback:   **
+                           Craig Bates             David J Horn
+                           G.A. Joiner             Gary Laledotrin
+                           Laan M                  Patrick A Friedl
+                           R.J. Dignall            Zach Esler
+                           Ty Halderman (excellent comments)
+                           Thomas Spaulding (for haloween.mid)
+                           **       I appreciate your help        **
+=============================================================================
+
+* Play Information *
+
+Level #                  : Map01
+Single Player            : Yes, excellent and challenging play... three keys
+                           used independantly.
+Cooperative 2-4 player   : Yes, but untried.
+Deathmatch 2-4 player    : DEFINATELY!!! -- that was the original purpose
+                           of this wad, but it eventually grew up into an
+                           excellent single player wad as well.  But, as I
+                           stated earlier 2-player is more of a hunt.
+Difficulty settings      : Yes... lets see if you're badd enough to handle
+                           Ultra Violence on single player without cheats.
+New Music                : The theme from the Halloween movies!!
+                           For best results turn your sound fx down quite
+                           a ways, and turn the music all the way up.
+Demos replaced           : Demo included in the zip, but not in the .wad file.
+
+* Construction *
+
+Base                     : Original
+Editor(s) used           : DEU, BSP, RMB
+Known Bugs               : There was an occasional visplane overflow error
+                           in the first room, but I think I've taken care of
+                           it.  If it creeps up again, let me know.
+Build Time               : Don't ask.  Alot.
+
+* Copyright Permissions *
+
+You are free to distribute this in any electronic form you wish, as long as
+the level and text file are distributed together, and unaltered.  You may
+include this on a CD, as long as you are not charging money for the contents,
+only manufacture.  You may not make modifications to the level without my
+permission, but you are free to include it in a multi-level wad, so long
+as this file is included as well.
+
+* Where to get this WAD *
+
+alt.binaries.doom
+ftp.cdrom.com
+
+=============================================================================
+More thorough discription:
+
+        This level was initially designed with deathmatch in mind.  It is a
+combination of two large seperate rooms, separated by intricite passageways,
+and medium sized junctions.  Alot of attention was payed to textures and
+layout.... As far as I know, there are no horribly mis-aligned textures, and
+absolutely no HOM or Medusa effect.
+        Initially on single player mode, you will start out in the center
+of one of the largest rooms.  There are a *large* number of monsters on the
+level to wreck havoc (deathmatch or no).  Don't be surprised if once you
+clean a room out, its once again filled with monsters upon your return.
+        Difficulty settings are implemented, and on deathmatch, there are
+about a dozen more monsters to contend with than single player, and all
+the weapons are available in multiple spots.  In single player mode, the
+only weapon unavailable is the BFG.
+        For those who don't believe the level is beatable (an accusation
+from a few beta testers), check out the demo I included.  But if you want
+the fun of discovering the secrets, and how to win by yourself, don't
+watch the demo until after you've beaten the level.
+
+=============================================================================
+** what I'm looking for **
+
+First of all, any bugs you might find.
+Secondly, I'd like a lmp of some brave netter beating the level on UV.
+          I'd also like to see a 4-player deathmatch lmp if possible.
+and **FEEDBACK**
+to mjn@ksu.ksu.edu
+
+============================================================================
+
+BTW, I am also seriously considering putting together a complete, 30-level
+wad for DOOM ][  (with this wad included).  If you have authored any wads you 
+feel would be a good addition, e-mail it to me.  If you know of any other 
+wads that are "excellent", please give me an ftp location for them.
+
+All levels need to be reasonable in size to allow deathmatch (hopefully no
+larger than this one), and designed -well-.  Hopefully alot of attention paid 
+to textures, and the look and feel of the level.  I have no objections to 
+additional graphics, and additional music as long as the DOOM ][ wad file 
+need not be modified to accomodate the changes.
+
+If you're willing to contribute to this effort, send me some e-mail.
+
+
+sincerely,
+Michael Novak
+mjn@ksu.ksu.edu

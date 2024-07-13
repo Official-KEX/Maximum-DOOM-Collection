@@ -1,0 +1,152 @@
+================================================================
+Title                   : Oracle...
+Filename                : ORACLE.WAD from DM2ORA.ZIP
+Authors                 :     Jim Flynn and Scott Harper
+Email Address           : CIS: 72713,3334 and 75041,1460
+			  (Also for Scott : sharper@teleport.com)
+Misc. Author Info       :      Programmer and  CNE, Doomers both
+
+================================================================
+Description             : A large alien base has been discovered by 
+			  a Scout and Survey team in the Regulus
+			  Cluster on a close Terran analogue.
+			  Sensor readings show possible traces of
+			  a highly advanced technology. You've been 
+			  assigned the job of exploration. Relax! 
+			  Fleet Intel reports that it's 99.999%
+			  likely that the base is unoccupied and
+			  probably friendly (yeah,right!). You won't
+			  be allowed to carry any weapons in but your
+			  pistol... as usual. 
+
+			  FI also reports that sensors show five 
+			  areas adjoining the main plaza, and
+			  suggests exploration counter-clockwise from
+			  the southeast. Some security gates and
+			  devices do seem to still show energy flows... 
+			  strange. You will beamed into one location 
+			  showing some anomalous energy readings.
+
+			  By The Way - you wouldn't want to upgrade your
+			  insurance plan now - would you?
+
+================================================================
+
+INSTRUCTIONS              Oracle.wad is ~~1.3 MEG. If you sucessfully
+			  extracted/unzipped it, from the \DOOM2 directory,
+			  you should be able to type the following :
+
+			  DOOM2 -FILE ORACLE.WAD  [-options] <ENTER>
+			  __________________________________________
+
+
+					KICK ASS !!
+
+===========================================================================
+
+
+Play notes:               You will require Doom ][ and a 486/66 with
+			  local video to be able play this wad well.
+			  This wad is the largest single level we 
+			  know of, and some impact on play speed is
+			  impossible to avoid. However we have used all
+			  means at our disposal, especially RMB, to make
+			  it playable, and we beleive it is.
+
+			  Co-op and Deathmatch notes:
+			  This wad is large and complex, hence not 
+			  ideally suited for multi-player play and
+			  potentially slow. But, the starts are
+			  there and it HAS been tested and support
+			  HAS been added.
+
+================================================================
+
+Additional Credits to   : Play testers: John Keary, Matt Jonelis
+			: Tom Neff for his sky texture from PUEBLO.WAD
+			: Brendon Wyber and Raphael Quinet for DEU-GCC
+			: Colin Reed for BSP1.2x
+			: Olivier Montannuy for DeuTex 2.9
+			: HevKev for the DeuTex Manual
+			: Jens Hykkelbjerg for RMB
+			: Those folks at ID, for Doom & Doom2
+================================================================
+
+* Play Information *
+
+Level #                 : MAP02 (MAP03 also implemented - single only)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes - Slow unless using killer machines
+Deathmatch 2-4 Player   : Yes - Ditto...
+Difficulty Settings     : Yes - but UV recommended
+New Sounds              : No
+New Graphics            : Yes
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+
+* Construction *
+
+Base                    : New level from scratch
+Tools(s) used           : For level editing: DEU 5.2 (GCC), 
+			  For node building: BSP 1.2x
+			  For reject map building: RMB
+			  For wad composition: DeuTex 2.9
+
+================================================================
+
+* Known Bugs *          : Well, we kinda forgot to put multi-
+			  starting points in MAP03, so if you 
+			  play through Oracle in multi-, the 
+			  whole thing will crash when you try 
+			  to start MAP03...Sorry, but we feel
+			  that these levels are best played alone.
+
+================================================================
+
+* Copyright / Permissions *
+
+The sky texture in this wad is the property of Tom Neff and may not
+be used elsewhere without his permission. We thank him for his
+kindness in allowing us to use it here. Other than that:
+
+Do what you want but don't blame US...
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+================================================================
+
+* Where to get this WAD *
+
+Compuserve Gamers Forum, Hot or Action Game Aids, filename: DM2ORA.ZIP
+PC World Online Forum, The Doom Room, filename: ORACLE.ZIP
+
+================================================================
+
+* Other Doom 2 wads by these authors on Compuserve *
+
+Blindside!               - DM2BLS.ZIP by Scott Harper
+
+The Interdiction Zone    - DM2ITZ.ZIP by Jim Flynn
+
+* Other Doom 1 wads by these authors
+
+Brundle's Revenge        - DMBRND.ZIP 
+Quad                     - DMQUAD.ZIP 
+Castle from Hell         - DMCAS.ZIP by Scott Harper
+
+The Tower                - DMTWR.ZIP
+The Wheel                - DMWHEE.ZIP
+The Citadel              - DMCITI.ZIP
+Wack!                    - DMWACK.ZIP
+Up and Down              - DMUPDN.ZIP 
+The Gulch                - DMGLCH.ZIP 
+Peano                    - DMPEAN.ZIP
+The Rings                - DMRING.ZIP
+Mt. Doom                 - DMMTDM.ZIP
+Surrounded!              - DMSRND.ZIP by Jim Flynn
+

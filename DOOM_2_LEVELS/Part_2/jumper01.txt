@@ -1,0 +1,99 @@
+=============================================================================
+Title                   : Jumper01 for DOOM ][ Deathmatch 2.0
+Filename                : jumper01.wad + jumper01.txt
+Release Date            : April 28, 1995 - incase of revisions
+Author                  : Andrew Tremblay
+Email Address           : bio2ast@cabell.vcu.edu - might change or
+                        : I might stay for GRAD school..hmmmmm. 
+Misc. Author Info       : First completed WAD.  What do you think? 
+Description             : A large central area with a rooms going away
+                        : and leading back.  A few tricks 8) so listen
+                        : and keep your eyes open.  How do your legs feel
+                        : cause this level will give your marine a   
+                        : leg workout. See comment section for additional
+                        : information.
+Additional Credits to   : id Software - Clap, Clap, Clap...Whistle!
+=============================================================================
+
+
+* Play Information *
+
+Map #                   : Map19
+Single Player           : No - You can look around around though
+Cooperative 2-4 Player  : Nope 8(  NO MONSTERS!
+Deathmatch 2-4 Player   : YES!!! 8) Kill, Kill, Kill Happy Happy Joy Joy
+                        : I'm singing in the rain..Just singing in the Rain
+                        : What a glorious feeling I'm happ happ happy Again
+Difficulty Settings     : Not Implemented - why?  Gripe!
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+
+* Construction *
+
+Base                    : New level from scratch - Yeap!
+Time                    : Well I was my first one - HINT ;)
+Editor(s) used          : Edmap140.zip, movelev3.zip (Hence level 19)
+Known Bugs              : None so far.  Report any to me
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels.  Maybe if you ask me nicely!
+
+You MAY distribute this PWAD (under certain conditons) , provided 
+you include this file, with no modifications.  You may distribute 
+this file in any electronic format (BBS, Diskette, CD, etc) as long 
+as you include this file intact and ask my permission FIRST!  The 
+reason is I want to BRAG!
+        -My home address
+                9036 Rosewall Ct.
+                Springfield, Va
+                22152        (703) 569-5369
+
+
+
+* Where to get this PWAD *
+
+FTP sites:  ftp.cdrom.com and mirrors
+
+
+* Comments *
+
+    8( - Some how the automap is disfunctional 8).  Really, it doesn't 
+        matter.  This wad is constructed in a such a way you cannot
+        get lost.  Wad editors will have to suffice for previews this time.
+        Somehow I have pushed the doom engine to hard - Use your map editor.
+        
+    8) - The following is a list of what candy is in the PWAD:
+        1 BFG                           2 boxes of shells
+        1 Plasma Rifle                  2 boxes of bullets
+        1 Chain Gun                     3 shotgun shells (4 to a pack)
+        1 Rocket launcher               3 boxes of rockets
+        1 Double barrel                 3 energy cells - 20
+        1 Single barrel                 2 energy cells - 100
+        1 Chain saw
+        Everybody gets one pistol 8)
+                                           
+       30 Health bonus +1               1 Supercharge (blue sphere)
+        1 Beserk strength               1 megasphere (gold)
+        2 medikits 25%                  2 Invisibility spheres
+        1 Backpack                      1 Invulnerability sphere
+        1 Light amp goggles
+        1 Green Armor
+        1 Blue Armor
+     8)   - Secret Stuff. hmmm. Like I siad LOOK. I have read most design FAQs.
+          - Hint. There are 8 teleporters. Specifically, there are 8
+          which WILL teleport you! Enough hints. PLAY NOW! (imagine some
+          weird star trek voice).
+
+
+If you play this WAD in a 2,3, or 4 person deathmatch, record and LMP and send it to
+me!  I'd love to see how others do in this level!  Also, please send any 
+comments/suggestions/gripes/praises that you have.  Happy hunting!
+
+
+

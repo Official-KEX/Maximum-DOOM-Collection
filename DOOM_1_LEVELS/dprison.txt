@@ -1,0 +1,57 @@
+[ General Information ]
+============================================================================
+
+Title                   : Deathmatch Prison (DPRISON.WAD)
+Author                  : Justin Powell
+Email Address           : Can be reached thru fusioncon@cup.portal.com
+Additional Credits to   : The authors of DOOM, DEU, and especially BSP.
+Description             : Deathmatch Prison is based on the simple idea that
+                          a deathmatch should involve players using one
+                          weapon of their choice, chosen before entering the
+                          battle area.  All doors in the prison area stay
+                          opened when pushed until closed using one of the
+                          switches in the control room.  The control block
+                          in the control room contains one switch for each
+                          cell door.  The west row of switches controls
+                          cell doors for the southern cell block and the
+                          eastern row controls the northern cell block.
+                          I decided not to put an exit switch, although there
+                          IS an exit.  It is located outside the prison, in
+                          the nitch to the left of the door.  All far walls
+                          in the nitch will end the game when pushed.
+
+[ Play Information ]
+============================================================================
+
+Episode and Level #     : Episode 1, Level 1
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+
+[ Construction ]
+============================================================================
+
+Base                    : New level, created from scratch.
+Build Time              : 8 hours.
+Editor(s) used          : DEU 5.0 and BSP 1.0
+Known Bugs              : DOOM seems to have a small problem with the small
+                          green switch tile.  If you push any of the close
+                          cell switches on the control block twice in a row
+                          without waiting for them to reset, the lighting
+                          scheme will reverse, meaning instead of having the
+                          button light up when pushed then turn dark a few
+                          seconds later, it will turn dark then light up a
+                          few seconds later.  As far as I know the cell doors
+                          will still operate normally if this happens, but
+                          it's pretty annoying.
+
+[ Copyright / Permissions ]
+============================================================================
+
+Authors may use this level as a base to build additional levels.
+You may distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file.

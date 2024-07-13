@@ -1,0 +1,140 @@
+                               IGORHELP.TXT
+                             ----------------
+                          
+        This file includes a few tips for playing igor7a.wad.  I want to be
+sure that nobody has any trouble finding exits, bonuses, etc.
+
+                                                        
+* EXITS *
+
+Map01 - cooperative (push the button out in the plasma courtyard to open the
+                    exit door)
+
+Map02 - single is easily possible (BOTH buttons must be pushed to open BOTH
+                                  exit doors)
+
+Map03 - cooperative (push the button in the small room/alcove at the far east 
+                    side of the level to open the exit bars)
+
+Map04 - cooperative (one player MUST be down in the "prep room" and push BOTH
+                    buttons (not simultaneously, but rapidly); one button 
+                    opens a wall in the base of one of the LARGE gray pillars 
+                    outside, and the other button opens the exit door behind 
+                    that wall)
+
+Map05 - single (the exit is directly behind you when you start or come back
+               to life)
+
+Map06 - cooperative (push the button up on the left-hand ledge where the blur 
+                    sphere is to open the exit door down near the corridor 
+                    with the lamps recessed in the walls; this will in turn
+                    open a door back up on the left-hand ledge (with the blur 
+                    sphere) to reveal a teleporter; go through the teleporter 
+                    and push the exit button)
+
+Map07 - single is possible (push the exit button in the long corridor 
+                           (running vertically on the map) to open the exit 
+                           door in the northeastern "green" room; if you run 
+                           like hell you can make it by yourself)
+
+Map08 - single (simply push the button behind the plasma gun lift to exit)
+
+Map09 - single is possible (push the exit button in the center column of the
+                           small outside structure to open the exit door)
+
+Map10 - single is possible (push the first exit button to open a door leading
+                           to another button; push the second button to lower
+                           two walls outside, revealing a Final Enemy in the
+                           northwest corner of the temple and a BFG in the
+                           southeast corner (on skill levels 1-3); use the 
+                           BFG to kill the Final Enemy and end the level (you
+                           will have to aim carefully - try other weapons for
+                           variety)
+
+
+* Misc. *
+
+Map01 - 1) push the green button and run up the northwestern narrow stairs to 
+           gain access to the outside ledges
+
+        2) in the (initially) dark room, there's a switch near the easternmost
+           door which turns ON the lights, and a switch near the westernmost
+           door which turns OFF the lights 
+
+Map02 - 1) there is a bonus behind the door (marked with a candle) at the end
+           of the ledge WITHOUT an impaled soldier 
+
+        2) open the large wooden door and push the switch DIRECTLY to your
+           right to gain access to a weapon
+
+        3) a switch on the wall in the central room lowers a lift to gain
+           access to the center weapons platform
+
+Map03 - 1) at the far eastern side of the map, push one of the buttons on
+           the wall to open the door directly across the hall; this will 
+           reveal another button which opens a door BACK across that hall 
+
+        2) there is a secret door on the southern side of the cacodemon cage
+           (check your map for a yellow line revealing its location)
+
+        3) there are weapon(s) on the south side INSIDE the cacodemon cage
+           (down in the acid - use the teleporter to get back out)
+
+Map04 - everything should be obvious
+
+Map05 - 1) push the button on the outside of the raised tan/brown platform 
+           (outdoors) to lower the lift (at the top of the stairs) with a 
+           plasma rifle
+
+Map06 - 1) go through the teleporter near the large door to get the rocket 
+           launcher
+
+        2) push the button down in the lower corridors (south side of the map)
+           to open the small door to the left of the button
+
+Map07 - 1) push the button near the rocket launcher platform to lower the
+           platform around the rocket launcher; get on the platform and grab
+           the rocket launcher 
+
+Map08 - 1) push the button across from the plasma rifle/supershotgun lift to 
+           open the door (with the gargoyle face) at the top of the stairs
+
+        2) push the red skull on the wall up in the small southwestern room
+           of the building to lower the lift with the rocket launcher 
+           (leading outside)
+
+        3) push the gargoyle switches (one at the bottom of the double stair-
+           case, the other out on the southern ledge of the building) to 
+           raise the stairs and give access to the outer "circular" ledge
+
+        4) activate the lift on the southern side of the building and QUICKLY
+           run around to the front to gain access to a soul sphere in one of
+           the columns supporting the porch overhang
+
+Map09 - everything should be obvious
+
+Map10 - 1) to open a door from INSIDE the central room, walk on the lowest
+           stair ACROSS THE ROOM from the door you want to open
+
+        2) to kill the Final Enemy you must aim carefully with the BFG (line-
+           of-sight) up into the cage on the northwest corner of the temple:   
+
+
+                                 |
+             (outer temple wall) |
+                                 |
+                                 |  x (Final Enemy)
+                                 |  |
+            (line of site)        \ |
+                        __ __ __ __ \ __ __ x (Final Enemy)
+                                    | \ __ __ __ __ __ __
+                                    |    (outer temple wall) 
+                                    |
+                                    |
+                                    |
+                               (line of site)
+
+        the Final Enemy (there are actually two, but you only need to kill
+        one) is located along the inside edge of the temple walls; use the 
+        above diagram to help aim your BFG shots (you CAN use other weapons,
+        but the BFG works best)

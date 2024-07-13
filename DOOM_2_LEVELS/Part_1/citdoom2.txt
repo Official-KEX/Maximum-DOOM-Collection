@@ -1,0 +1,66 @@
+================================================================
+Title                   : Citadel of Sorrow (CITDOOM2.WAD)    (For Doom ][)
+Author                  : Wilco van den Dool
+Email Address           : None yet! Contact me at the Fidonet Gaming area
+			  or Gamesnet for comments
+Misc. Author Info       : This is my first WAD and I think it worked out
+			  quite allright.Dunno if I'll make any more though..
+		      
+Description             : A Medieval Castle with some nice touches,featuring
+			  the first interactive torture chamber ever in a 
+			  PWAD!
+			  There's a lot of attention to detail in order to
+			  create a better gaming experience.
+
+Additional Credits to   : The Guys at ID for making such a kickass game,
+			  Raphael Quinet & Brendon Wyber,authors of DEU,
+			  Colin Reed,author of BSP, 
+			  Albert van Os for additional Sound Effects
+			  and playtesting,
+			  Michael van den Dool for playtesting,
+			  and finally Peter Wesdijk for hatching Citadel.wad
+			  through Gamesnet
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes 
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Music               : Yes
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 80-100 hours in a total of 2 months(inc.updates)
+Editor(s) used          : Deu 5.21 GCC (+ an updated beta version for use with
+			  Doom ][),BSP 1.2x
+Known Bugs              : Only a couple of undisturbing glitches in the court
+			  yard that didn't go away after Id had released              
+			  v1.666 of the Doom-engine
+ * Misc. Notes *
+
+-This is version 2.2,an updated version of v2.0 for Doom 1 for use with 
+ Doom ][ only!(confusing,huh?);I changed some of the textures(I had to,
+ since Doom ][ doesn't use all of Doom 1's textures) and put in a few 
+ new ones(armoury),added the super shotgun,new monsters,more difficulty 
+ levels and a couple of switches.
+
+* Copyright / Permissions *
+
+You may distribute this file provided you include this file, with no
+modifications. Authors may use this file as a base for additional
+levels, but at least give me some credit then !
+
+
+* Where to get this WAD *
+ -Games Unlimited: +31-(0)79-425544  Zyxel 19k2
+		   +31-(0)79-428374  Zoom  28k8
+ -At more than 600 Gamesnet bbs's all over the world!
+
+
+

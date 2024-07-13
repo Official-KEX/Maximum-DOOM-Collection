@@ -1,0 +1,63 @@
+
+================================================================
+Title                   : Fire Storm   
+Filename                : FIRESTM2.WAD
+Author                  : Mutt Man
+Email Address           : ahaney.matt@ksu.ksu.ed
+Misc. Author Info       : 
+
+Description             : Prepare to enter the Firestorm. Select your 
+                          weapons combination and enter the grim 
+                          deathmatch arena. Slug it out with your  
+                          competitors and a furious horde of enemies      
+                          while trying to gain access to hidden caches 
+                          of weapons and power ups.       
+                          
+                          Network play requires cooperation between
+                          two players to end level. Level was designed
+                          to be played as a deathmatch with respawing on, 
+                          providing maximum level playability and 
+                          carnage :) If you play solo, do it in 
+                          nightmare mode.  
+                                    
+Additional Credits to   : 
+================================================================
+
+* Play Information *
+
+Map #                   : 1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (recommended)
+Difficulty Settings     : Not implemented
+New Sounds              : Yes (borrowed from alien doom, ALIEN101.ZIP)
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU2
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers: MDC Computers BBS: 1 505 434 0258 
+
+Other:

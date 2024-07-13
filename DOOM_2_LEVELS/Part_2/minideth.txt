@@ -1,0 +1,88 @@
+================================================================
+Title                   : Mini DeathMatch for DOOM2 
+File Name:              : MINIDETH.WAD
+Author                  : Scott Smith 
+Email Address           : scottallyn@aol.com
+                          scotta@cris.com
+
+================================================================
+* Play Information *
+
+Episode and Level #     : Map 1 
+Single Player           : No, though there -is- a plyr 1 start
+Cooperative 2-4 Player  : Didn't you read the title?
+Deathmatch 2-4 Player   : Yes!! Intended for 3 or 4 plyrs, but
+                          works very well with just two.
+
+================================================================
+* Description *
+
+This is a DeathMatch level that I designed for id Software's
+DOOM2: Hell on Earth. The idea for this level originated from
+VERYTINY.WAD by jazz411@aol.com, which was just a single small
+room with two large crates, shotguns, and a handful of Death-
+Match starts. That doesn't sound like much, but if you toss
+three or four players into that small room, you have a MAJOR
+frag fest that is an absolute riot!
+
+ I expanded upon that theme by making the level twice as big,
+adding MANY various sized crates, a secret teleporter, primary
+and secondary sniper's ledges, and ALL of the weapons. The BFG
+requires a fairly skilled jump to get to, which is virtually
+impossible to do when there are three other players trying very
+hard to prevent you from getting it!
+
+The primary sniper's ledge has a real good view of the main
+room, offers good protection to the sniper, and is easily
+defended. The secondary ledge, while not offering the best view
+of the main room, allows good targeting on the two sniper
+positions on the primary ledge. The secondary ledge also allows
+you to toss a few rockets at another good holdout, which is in
+one of the corners on top of a small crate near the large gray
+teleporter crate. It's kind of an unspoken rule when we play
+this level, that if anyone gets on that primary sniper's ledge,
+the rest of the players will work together to bring him DOWN!
+One or two players will cover the main sniping window, while
+the other rushes the lift.
+
+For two players, -ALTDEATH works pretty good (though you may
+wat to try it with just -DEATHMATCH), but for three or four
+players, -DEATHMATCH is the ONLY way to play this level! Due to
+the small size of the level, your chances of lasting for more
+than 30 seconds with three other players, is very slim; when
+using -ALTDEATH, this means that half of the times that you get
+killed, you'll not have even gotten a weapon! Using -DEATHMATCH
+allows the players immediate access to ALL of the weapons. We
+usually play it with -SKILL 5 so that the ammo will last a bit
+longer.
+
+Overall, I think that this has turned out to be a pretty good
+DeathMatch level. It's asthetically pleasing, and has everything
+that I look for in a DeathMatch PWAD (though on a smaller scale
+than usual). I'd appreciate any feedback that you have to offer
+and I'd love to see some of your recorded games in this level
+(mail 'em to the CRIS address, since the AOL address doesn't
+handle attached files very well... unless you're on AOL, then
+just e-mail them to ScottAllyn).
+================================================================
+
+* Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels without giving both myself AND jazz411@aol.com credit
+for the original versions, as well as stating the changes made
+within a text file. Also, please don't recycle the MINIDETH
+or VERYTINY names with your modified version. I've found a few
+modified versions of my other levels being passed around with
+no mention that I created the original version, and that SUCKS!
+Please have a little respect for the time involved in creating
+this file by at least mentioning the orignal authors.
+
+You MAY distribute this WAD, provided that you include this
+file, with no modifications.  You may distribute this file in
+any electronic format (BBS, Diskette, CD, etc) as long as you
+include this file INTACT. If this level is to be distributed
+under the MINIDETH name, the embedded ENDOOM directory entry
+MUST be included (that's the credits that get displayed after
+quitting the game. If MINIDETH is not mentioned there, then
+someone has been goofing with the level!).

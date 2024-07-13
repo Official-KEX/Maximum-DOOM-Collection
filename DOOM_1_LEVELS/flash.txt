@@ -1,0 +1,26 @@
+flash.wad
+
+A WAD file for DOOM 1.2 [reg]
+Author: J.D. Frazer
+Internet: a481@mindlink.bc.ca
+
+This is my first attempt at a big WAD file. I used mine1.wad as the basis
+for the map, changed a few linedefs and added a big section onto it. It's
+totally populated, and the four difficulty levels are active. It's also
+been set up for cooperative gaming. The level is ideal for deathmatches, as
+there are lots of rooms and windows and nooks and crannies to hide out in
+(good for a three on one!), but it might be a little hairy at the
+ultraviolence level. I've spent three days testing the hell out of it, so
+it should be bulletproof. As far as I know you won't get a single "hall of
+mirrors" effect anywhere on the map.
+
+The only glitch I've come across is the secrets tally. There *is* a secret
+room on this level, but if you find it the end-tally still shows 0%. If you
+know how to fix this, drop me a line.
+
+I'm currently working on a truly massive and intricate level, but I'm also
+putting together a small one here and there. If you enjoy flash.wad, please
+send me email and tell me what you like about it. If there's something you
+*don't* like, tell me that too.
+
+Happy Fragging!

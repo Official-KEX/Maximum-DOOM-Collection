@@ -1,0 +1,60 @@
+ ɻɻɻɻɻɻɻɻɻɻɻɻɻɻɻɻɻɻɻɻɻɻɻɻɻɻɻɻɻɻ
+��ͺ��ͺ��ͺ��ͺ��ͺ��ͺ��ͺ��ͺ��ͺ��ͺ��ͺ��ͺ��ͺ��ͺ��ͺ��
+ȼȼȼȼȼȼȼȼȼȼȼȼȼȼȼȼȼȼȼȼȼȼȼȼȼȼȼȼȼȼȼ
+Title                   : JET.WAD   
+Author                  : Jettero Heller
+Email Address           : jet@aloha.com
+
+Description             : Deathmatch playhouse.  Lots of "detail."
+			  Many sniper/hiding areas.  Also many interesting, 
+			  pointless "trivial" features. NO MONSTERS 
+			  except one DEMON in a cage. 5 MAIN areas:
+			  Catacomb area, military "snipers" area, 
+			  Museum "BFG" room, Bridges, Shrine 
+			  of the All Seeing Eye.
+			 
+Misc Game Info          : Every area was designed with the "line of fire"
+			  taken into account.  Schematic plans were drawn 
+			  in about 4 hours, construction took approximately 
+			  16 hours, punchlisting took about a day (during
+			  which many things were touched up).  Soffits,
+			  headers, etc. kept the whole WAD from having
+			  huge "square" rooms with one texture.
+			  
+Additional Credits to   : Steven McRoberts for his comments and ideas.
+			  Nash For Playtesting.
+			  Ben Morris for Doom Construction Kit (DCK).
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1            
+Single Player           : No fun. Unless you like sightseeing.
+Cooperative 2-4 Player  : No, what's the use, only one monster that
+				can't even touch you!
+Deathmatch 2-4 Player   : Yes, this is what it's for!
+Difficulty Settings     : None
+New Sounds              : None
+New Graphics            : None
+
+* Construction *
+
+Base                    : Scratch
+Build Time              : 25+ hours
+Editor(s) used          : DCK
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+No Copyrights.  Anyone may use this WAD or distribute it.  If you like
+it you can send me any amount of $ you wish but is not required.
+Send to RCad, 1425 Kinau St. #3E, Honolulu, Hawaii 96814.
+Please do not modify it.  If you do, do not call it JET*.WAD, since
+I will be coming out with more Jet Wads and keep an eye out for KING.WAD
+my 4 player deathmatch wad.
+
+* Where to get this WAD *
+
+ftp.aloha.com/home/jet/doom

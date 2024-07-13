@@ -1,0 +1,136 @@
+================================================================
+Title                   : "Shoots" -N- Ladders 2.0 (DOOM II)
+Filename                : SHOOTS20.WAD
+Author                  : Lloyd Shelby
+Email Address           : lshelby@indy.net
+Misc. Author Info       : 6' tall, graying hair, sleeps occasionally.
+
+Description             : I think you're gonna like this one.
+                          Ladders. No, really. A level map with blinking
+                          indicators. Mayhem. Destruction. Plot twists.
+                          Air ducts. Vents. Secrets. Suspense.
+
+Additional Credits to   : The authors of DEU 5.21, DCK 1.1a and 2.1b,
+                          BSP 1.2x, WACKER b7, DEUTEX 3.3, RMB 1.2,
+                          and, of course, DOOM!
+================================================================
+
+* Play Information *
+
+Level #                 : DOOM II MAP01
+Single Player           : Yes (It IS playable, believe it or not.)
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : YES!!!
+Difficulty Settings     : Not implemented at all. (Use UltraViolence -
+                                                don't be a weenie)
+New Sounds              : No
+New Graphics            : Yes.
+New Music               : No
+Demos Replaced          : None (full .LMP available)
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21 GCC, DCK 1.1b, DCK 2.1b, BSP 1.2x,
+                          WACKER b7, DEUTEX 3.3, RMB 1.2.  This wad is over
+                          500K for one level (whew) and underwent approximately
+                          150 different revisions, about 30 of which were
+                          lost when one of the tools crashed in mid-stream,
+                          for whatever reason.  Probably not the tools'
+                          fault. I did some really wierd stuff to fool the
+                          DOOM engine.
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com
+
+Welcome to SHOOTS -N- LADDERS, the sequel to CARDIAC ARREST. One or two raves
+poured in, so I figured I would top it. I think I did. I did some really strange
+things to the DOOM engine, but I managed to pull it off. This level has
+functional ladders throughout (not new, but at least well done). Also a tunnel
+system and a HVAC system. The warehouse was designed specifically for
+DEATHMATCH, and it is also fun to run around the other areas in hot pursuit
+with a rocket launcher.
+
+It is not a large level, but the additional sectors for the ladders make it
+slow on < 486 computers. Also, if you have less than 4MB, I wouldn't
+recommend saving (crashed when I tried this on my 386-40 4Mb).
+
+Check out the map.  I think that this is -really- cool.
+
+Pay for DOOM II.
+
+Direct questions, comments, slander, etc. to lshelby@indy.net or
+alt.games.doom.  I read the mail and a.g.d fairly regularly. If you like it,
+please post.
+
+The DOOM2 version is somewhat tougher than the DOOM version. However, there
+are some VERY helpful secret rooms. Perhaps in the air vents. Check your
+map.
+
+Oh, by the way... Pay attention when you energize the gate.
+
+Have fun.
+
+Lloyd Shelby
+lshelby@indy.net
+
+
+DECRYPTION SUCCESSFUL.
+SOURCE_ID: UAC44-356
+MESSAGE_ID: 3389i329KR_CLASS
+SSPACE HEADER 1102S-NNP-5 !!! CLASSIFIED - EYES ONLY !!!
+
+**   **   ***   *******
+**   **  ** **  **   **
+**   **  *****  **
+**   **  ** **  **   **
+******* **   ** *******
+
+****  *      **   ****  ****  *  ****  *  ****  ***
+*     *     *  *   *     *    *  *     *  *     *  *
+*     *     ****    *     *   *  **    *  **    *  *
+****  ****  *  *  ****  ****  *  *     *  ****  **
+
+REG 55-3n PARA 14 LINE 5 AND FOLLOWING:
+THE READING OF THIS CLASSIFIED TRANSMISSION BY ANY PARTIES NOT GIVEN
+PRIOR CERTIFIED WRITTEN CLEARANCE BY THE GOVERNING BOARD OF THE UAC IS AN
+OFFENSE PUNISHIBLE BY UP TO 30 YEAR IMPRISONMENT.  << IF YOU ARE NOT
+AUTHORIZED TO READ THIS TRANSMISSION, DELETE IT IMMEDIATELY!!! >>
+
+TRANSMISSION BEGINS: 3389i329KR_CLASS
+
+CODE 5 PRIORITY.
+
+PRIOR MISSION TO PHOBOS DEEMED UNSUCCESSFUL BY HIGH COMMAND. DUE TO
+RECENT INVASION OF EARTH, IMMEDIATE ACTION MUST BE TAKEN TO DETERMINE
+SOURCE OF INVASION AND SECURE TRANSPORT GATE.
+
+LANDING PARTY WILL TELEPORT INTO HOLDING AREA OF PHOBOS GATE. LIFE FORM
+SCANS INDICATE LARGE NUMBERS OF INDETERMINATE LIFE FORMS. SECURE HOLDING
+AREA, WAREHOUSE, STAGING AREA, AND GATE PROPER. ALL LIFE FORMS IN BASE
+ARE HEREBY DESIGNATED HOSTILES.
+
+ONCE ALL AREAS ARE SECURED, POWER MUST BE RESTORED TO THE MAIN GATE TO
+PREPARE FOR ASSAULT.  SCANS OF COMPUTER SYSTEM INTEGRITY SHOW THAT ALL
+MAIN BANKS FOR GATE HAVE BEEN RENDERED INACTIVE. AUXILLIARY SYSTEMS WILL
+BE REQUIRED TO ENERGIZE GATE. MAINTENANCE TUNNELS ACCESS THE AUX CONTROL
+ROOM.  ALL MAINTENANCE ACCESS DOORS ARE SEALED (PER RG 54:2.P3) BUT IT
+SHOULD BE POSSIBLE TO LOCATE SECURITY KEYS FOR THESE DOORS. ENGAGE ALL
+BYPASSES (PER MAP) AND ROUTE ALL FOUR POWER CIRCUITS TO GATE. FROM THERE
+UTILIZE NORMAL GATE ENABLE PROCEDURE.
+
+GOOD LUCK
+TRANSMISSION ENDS: 3389i329KR_CLASS
+
+

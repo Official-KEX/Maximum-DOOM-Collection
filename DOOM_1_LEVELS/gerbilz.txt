@@ -1,0 +1,47 @@
+================================================================
+Title                   : gerbilz
+Filename                : gerbilz.WAD
+Author                  : Ken Hagan
+Email Address           : khhaga01@homer.louisville.edu
+Misc. Author Info       : the name Gerbilz just came to me in a dream. The
+                          wad actually looks nothing like any rodent in 
+                          particular.
+
+Description             : Simply two levels of choice deathmatch heaven.
+                          Chainsaws and more chainsaws and other goodies.
+                          
+Additional Credits to   : the people who wrote deu and bsp and doom.
+                          
+=======================================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 and E1M2
+Single Player           : if you really want to 
+Cooperative 2-4 Player  : if you really must
+Deathmatch 2-4 Player   : very much so
+Difficulty Settings     : somewhat implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21 BSP 1.2x
+Known Bugs              : unintentional invisible force field in big room on
+                        E1M1 where you sometimes cannot walk any
+                        closer to the pillar thingies.  Not annoying (to me)
+                        just interesting
+
+* Copyright / Permissions *
+
+Authors may modify, change, sodomize or in any way alter this level without
+written permission from the author. This file is the property of whomever 
+happens upon it.
+
+Play hints: Stay out of the doors on the second level-they hurt.   This is 
+quite my first attempt at wadmaking, so please be gentle(flames aren't really
+necessary are they?). If it looks like you're stuck in a hole with only a 
+rocket launcher, then you are(sorry about your luck).  Have fun.

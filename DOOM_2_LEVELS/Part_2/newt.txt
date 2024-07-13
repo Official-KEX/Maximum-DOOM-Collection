@@ -1,0 +1,64 @@
+===========================================================================
+Title                   : Newt.wad 
+Date Finished           : 4/91/95
+Author                  : William C Roeben
+Email Address           : jnugnug@nas.com
+Other Files By Author   : Oh, a couple goofy .wads here and there...
+Misc. Author Info       : I'm a keyboarder, and not the best player in the
+                          world, but what the hell. I've included an .lmp of
+                          myself winning the level. It's not a perfect game,
+                          but I do come out of it alive.
+Description             : It's a 'constant-wave, oh-look-another-room-full-
+                          of-monsters' kind of level, but what the hell.
+                          It's also about the best original level I've
+                          made so far, so bite me.
+Additional Credits to   : I hate to say this (Sorry, Jeff Rabenhorst!) 
+                          Ben Morris of DCK 2.2 fame... ID... And the guy 
+                          who made the JAX levels (Ya kinda gave me the
+                          idea, ya see...)
+===========================================================================
+* Type of DOOM or DOOM II file*
+
+New level WAD           : Yes
+
+* Play Information *
+
+Map #                   : Map 01 
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Music               : No
+New Graphics            : No
+Demos Replaced          : 1 (Newter.lmp*)
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : About a day to build, a couple hours to tweak 
+Editor(s) used          : DCK 2.2
+Known Bugs              : Occasionally, the pain elementals will blast a 
+                          lost soul through a wall and off the map... if you
+                          hear the roaring monster sound but can't find the
+                          culprit, there's a lost soul roaming about in HOM-
+                          space...
+May Not Run With...     : Oh, golly, there's a large handful here. Um, 
+                          Doom 1, Descent, Heretic, Rise Of The Triad...
+                          The list goes on and on!
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications (well, maybe a >couple< modifications...)
+You may distribute this file in any electronic format 
+(BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: Well, ftp.cdrom.com, and any of it's mirrors, I guess
+

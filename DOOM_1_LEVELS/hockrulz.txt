@@ -1,0 +1,99 @@
+You've watched Rollerblade, you've played Mortal Kombat,
+and now: the most violent sport EVVVVEEERRRRR!!!!! (echo effect)
+
+DOOM HOCKEY!!!!!!!!    by Seth Cohn (all right reserved!!!)
+(version 1.0)
+
+No whimpy old puck, we use genuine living people!!!! (properly
+armored as to avoid nasty corpses)
+
+No penalties at all!!! (Use that BFG slapshot on the opponent!!!)
+
+No scoring!! (well, you can keep track of it...)
+
+
+This game can be played with 1-4 players.  1 player is a practice game,
+2 players is man on man, 3 players is 2 on 1, and 4 players is WAY COOL!
+
+You begin in your locker room.  Grab your weapons (one of each type) and
+go to the closed entries.  There are 2 doors: each door can only be opened
+from one team's side, so neither team can hit the ice before the other.
+From the moment the doors open, gameplay begins!
+
+The 'puck' (well we call him 'Puck' cause he's short and green...) is in the
+center.  Blast the puck into the opposing team's goal using any weapon you
+want.  Shotgun play him! Rocket him! Chaingun him! Plasma him! Even BFG him!
+The only thing that counts is getting him into the goal... If your
+opponent has the puck, steal it, blast him, anything, just don't let him
+score with it!!!!
+
+Whne the puck hits the goal, it vanishes to reappear back in center court.
+Depending on how you want to play, you can either all go back to the blue
+spots and from there, begin, OR play free for all, and anything goes!!!
+
+WARNING: Entering the goal _real_ close to where the puck has entered MAY
+teleport you as well into the SAME spot, causing a nasty space time flux
+which renders you both dead and causes the game to be forfeited to
+the opposing team... 
+
+Each goal scores one point, and when all the ammo is gone, the game is over
+(or it's half over, depending on how you want to play...)
+
+Winner takes all!!!!  Go for it!!!
+
+The teams tonight: The Radical Radiations!!! - They're DANGEROUS!!!
+                             vs.
+                 The Stomping Stopsigns!!! - Stop them before they kill again! 
+
+Play instructions:
+
+1 player: Run, and since you can get out of the locker room, type idspispopd
+to walk thru the wall, then type it again to turn that off.
+You can run this without patching the doom .exe if you also turn on iddqd
+and probably using idkfa as you run out of stuff...
+
+Multiplayer: You MUST MUST MUST run the patch included.  Thanks to the
+author of this patch, we can play DOOM Hockey!!!! Make sure you back up
+the doom .exe BEFORE you run this patch, just in case.  This patch gives you
+godmode and makes any ammo you pick up worth a lot more.  Run a net or modem
+game, and go to it.
+
+Technotes: 1) You must apply the patch to all machines runnings.  Failure to
+           do so will cause inconsistancy failures.  So you cannot use this
+           patch to cheat on a net game.
+           2) The entire level was rewritten to avoid the infamous doom
+           HOM bug.  I had to remove a bunch of 2 sided lines to bring the
+           Hall of Mirror effect under control.  Thus things aren't as
+           smooth as I'd like, but game play is unaffected.
+           3) I had plans for a penalty box, but decided there was no point
+           to it, and had plans for the crowd to do the wave, but again the
+           HOM effect made this difficult...
+           4) I discovered that you can't make multiple doors which open by
+           opening the door nearest you.  You can only trigger multidoors
+           by setting up linedefs you walk over.
+           5) I made the teleport more complex, to avoid the deadly teleport
+           effect more often, and added linedefs futher back, since I was
+           able to shoot the puck once in while past the first set of lines.
+           6) Hope everything is bug free.  Took forever to recode this thing.
+           
+This wad is copyrighted by me, but is freely distributable by people, EXCEPT
+those who do so for profit.  NO CD ROM or SHAREWARE DEALER MAY SELL OR 
+DISTRIBUTE THIS WAD IN ANY WAY SHAPE OR FORM, ON ANY MEDIA (except maybe me, 
+since I'm a cd publisher myself...) I WILL SUE YOU IF YOU DO. (I'm not trying 
+to be nasty here, but the ethics of other cd publishers is a thing I'm REAL 
+familiar with, and if I could sue them, I would...) 
+THIS FILE MUST ACCOMPANY THIS WAD, AS MUST ANY OTHER FILE INCLUDED WITH
+IT.  IF YOU ARE LACKING THE PATCH FILE, THE HACK.EXE, OR THE BATCH FILE,
+YOU MAY NOT DISTRIBUTE THIS WAD. THIS IS TO PROTECT THE INTEGRITY OF THIS
+WAD FILE.
+
+Doom is c. and trademarked by id software, and that should cover everything.
+
+Thanks to the folks on IRC, the many other folks who have made doing this
+possible (id, the authors of DEU, the other people who contributed to 
+figuring out the wad file stuff), my brother Dale and others for betatesting,
+and most of all, whoever at id made the decision that multiple players of
+one number would show up and be moveable...
+
+Seth Cohn, email me at scohn@nyx.cs.du.edu with bugs, thanks, money, whatever.
+

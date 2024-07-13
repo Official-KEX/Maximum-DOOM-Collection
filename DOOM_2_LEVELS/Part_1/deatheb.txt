@@ -1,0 +1,80 @@
+            
+            _/_/  _/_/_/   _/   _/_/_/ _/  _/  _/_/_/  _/_/_/
+           _/ _/ _/_/   _/_/_/   _/   _/_/_/  _/_/    _/_/_/
+          _/_/  _/_/_/ _/  _/   _/   _/  _/  _/_/_/  _/_/_/
+
+=============================================================================== 
+Title                   : DEATHEB for DOOM ][
+   
+Author                  : Sebastien Bacquet
+
+Email Address           : bacquet@bach.iie.cnam.fr
+
+Misc. Author Info       : Author of GUS1M-II and IIE
+
+Description             : This is a fast deathmatch episode for Doom ][
+                          for 2, 3 or 4 players. Great !
+
+Additional Credits to   : ID for wasting my school year
+                          Unknown people who made the music
+===============================================================================
+
+* Play Information *
+Level #s                : Map 01
+Single Player           : No (there is yet a player one starting point)
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : That's it !!
+Difficulty Settings     : Not really :
+                           Play at Hurt me plenty if you don't want to
+                            use the plasma gun.
+                           Play at Ultraviolence if you want to.
+                           All other weapons except BFG are present.
+                           BFG9000 is tired, you won't find her there.
+New Sounds              : No
+New Musics              : No - This is the original music of level 9.
+                          Get GUS1M-II to appreciate to the full if you own 
+                          a GUS with 1024K on board !
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 10+hours 
+Editor(s) used          : WADED, DEU-II, EDMAP, DCK
+Known Bugs              : None, please report any to me
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+   ftp.cdrom.com
+   ftp.idsoftware.com
+
+* Notes *
+
+You won't find :    BFG9000 
+                    secret areas
+                    monsters
+
+You will find :     cooperative exit
+                    FUN !
+
+PLAY AT DEATHMATCH 2.0 MODE (RESPAWNING : -ALTDEATH) !
+
+I let you discover the level and its features by yourself  :)
+
+--------------------------------------------------------------
+
+If you own a GUS with 1024K on board, get GUS1M-II, really great !
+If you like to play alone against all too, get IIE, it's a challenge !

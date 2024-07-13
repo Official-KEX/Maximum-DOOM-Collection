@@ -1,0 +1,99 @@
+FRAGTIME MARINE - PWAD level for DOOM ][ - MAP01
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+Title                   : Fragtime Marine
+Filename                : MKFRGTME.WAD
+Author                  : Mark Anthony Klem
+Email Address           : mark.klem@swcbbs.com
+Misc. Author Info       : Author of the CRINGE! episode for 
+                          Registered DOOM1.
+                          Earlier WADs for DOOM2 include
+                          MKMINES and MKHALLS.
+
+Your Mission            : Shoot things and find stuff. Avoid junk food.
+                          Be aware that there is an instant death teleporter
+                          that will instantly kill all players when used.
+                          This does not work in Deathmatch.
+                          There is also a modified COLORMAP and PLAYPAL
+                          in this level.  There is one sector that is safe
+                          from all monsters.  Can you find it?
+
+Additional Credits to   : Peter Sigler & Eric Sargent for their time 
+                          testing Multi-Player modes.  
+                          Special thanks to everyone who plays 
+                          this level and likes it.
+
+ATTENTION!!!!!!!!!!!!!!!: Many WAD users, like myself, sometimes load the
+                          WADs that they download into their level editors
+                          and run checks on them to make sure they are okay.
+                          If you run a check on MKFRGTME.WAD, you will get
+                          a bunch of MISSING TEXTURE warnings, due to the
+                          fact that there are no lower or upper textures
+                          on some of the sidedefs.  The level was 
+                          intentionally designed that way in order to 
+                          achieve various special effects.  If you have your
+                          editor to fix the missing textures, then you will
+                          have screwed up the level instantly.  Be assured
+                          that ALL sectors are closed, and all cross-refs
+                          are safe.  PLEASE DO NOT TRY TO PUT THE TEXTURES
+                          WHERE I HAVE LEFT THEM OUT.  Thank you.
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+Level #                 : MAP01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (Highly Recommended)
+Deathmatch 2-4 Player   : Yes (Higherly Recommended)
+Difficulty Settings     : Yes (All of them)
+New Sounds              : Yes (Some are from Heretic)
+New Graphics            : Yes (A few wall textures.  A cool new status bar,
+                               and a shameless plug <g> )
+New Music               : Yes (Original tune by me, though you may recognize
+                               a piece in the middle from the Scooby Doo 
+                               Cartoon. Rut Row, Raggy.)
+New Color               : Yes (Now you won't be blinded to death 
+                               when you take a bad hit)
+Endoom                  : Yes
+Demos Replaced          : None
+
+Base                    : New level from scratch & sniff.
+Time to build           : Who really cares?
+Editor used             : WADMASTER 1.01b, RMB 2.0 by Jens Hykkelbjerg 
+                          and Steve Benner.  Thanks to Steve for a helpful
+                          message a while back. :)
+Known Bugs              : Cheesy looking @ symbol.  You'll see it. Read
+                          the top "ATTENTION" part in full if you think 
+                          there are bugs.  There are none.
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+Authors MAY use this level as a base to build additional levels, but
+probably won't because everyone likes to be original.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+Tell your friends they can get this WAD from you, or at one 
+ of the following places:
+
+BBS numbers: 
+ 
+ METRODOOM (DOOMania! BBS has moved here. Largest DOOM BBS on the planet)
+  (404) 590-9375 :node 1
+  (404) 426-8368 :node 2
+  (404) 426-4989 :node 3
+ 
+ SHOCK! BBS (Cool DOOM BBS)
+  (802) 868-5274
+ 
+ Software Creations BBS (Home of the Authors, Voted #1 BBS 2 years straight)
+  (508) 365-2359
+ 
+ APCi BBS (Multiplayer DOOM and DOOM ][)
+  (618) 632-7664
+ 
+ BitStream (Lots and lots of DOOM stuff!)        
+  (708) 705-7741
+
+INTERNET SITE:
+ ftp.cdrom.com

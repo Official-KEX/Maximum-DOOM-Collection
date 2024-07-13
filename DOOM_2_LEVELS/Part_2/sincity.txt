@@ -1,0 +1,55 @@
+================================================================
+Title                   : Sin city
+
+File name               : Sincity5.zip
+
+Author                  : Kurt Maples
+ 
+Description             : Five new Pwads for Doom II.These are the first five installments
+                         of the Sin city series.The first episode has a fortress type
+                         layout,there is only one secret room that is fairly easy to
+                         find.This level shouldn't be too hard to complete even on Ultra
+                         Violence.The second episode on the other hand,is not quite so
+                         easy.Take your time,don't rush into any areas too quickly.Good luck on
+                         Ultra Violence,even I have trouble with it.Episodes three thru
+                         five are from the old Bloodfest Wad,which I created in May for
+                         Doom.This is where the game gets rough.Episode three is a classic.
+                         If you make it to the end you will be treated to an awsome visual
+                         display.When you make it to the final room you will get some major
+                         slowdown if you don't have a fast machine.If you can get 100% kills
+                         on this level you cheated,but it is possible to finish.Episode four
+                         is a nice little level,look hard for the red key before making your
+                         way to the end or it's going to be rough.Episode five is the largest
+                         Wad I have ever seen.Once your inside the fortress you can't leave so
+                         get all the goodies outside you can before entering.I hope to have
+                         more levels before long,meanwhile,Happy Dooming :)
+
+================================================================
+
+* Play Information *
+
+Level #s                : E1,E2,E3,E4,E5
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (Not recommended in E3-E5)
+Deathmatch 2-4 Player   : Yes (Not recommended in E3-E5)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+
+* Construction *
+
+Base                    : New levels
+Editor(s) used          : DEU 2 (for DOOM 2),DEU 5.2 (for DOOM).
+Known Bugs              : None Known! (There are a few HOM's and transparent walls but
+                          you will be too busy to notice.)
+
+* Copyright / Permissions * 
+
+* You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* You may not use these Wads as a base for a new levels.(Why would you wan't to anyway.)
+

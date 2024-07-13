@@ -1,0 +1,79 @@
+ALL:
+
+I'm sure some of you have seen the earlier incarnations of my wad
+(lewis21b and lewis21e). This is the txt file for the newest version
+of the wad. First, the template:
+================================================================
+Title                   : lewis21f.wad   
+Author                  : Lewis Beard
+Email Address           : lewis@c2d2e2.wes.army.mil
+Misc. Author Info       : 
+
+Description             : My wad is a huge canyon with 3 mountains, various
+			  caves and tunnel complexes, spiral stair cases,
+			  a teleport grid, traps, and really long, scenic
+			  views! Ideal for solo play or deathmatch (lots of
+			  hidden nooks and crannies, and plenty of room to
+			  run around). I think its fairly easy, even on UV,
+			  but I didn't make it too hard. I wanted it to be
+			  fun. And so it is! Enjoy!
+
+Additional Credits to   : Deviant on IRC, for suggesting that I remove a few
+			  trees to make his 486 stop slowing down. :)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes (only UV and standard, no easy settings)
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 16 hours (over half of which was refinements) 
+Editor(s) used          : DEU 5.0 and BSP 1.0
+Known Bugs              : None Known
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ocf.unt.edu [archived as:	lewis21f.zip ]
+
+BBS numbers: -
+
+Other: -Most recent modifications were to remove a few extraneous trees, to
+        make a FEW of the dark areas lighter, and to make a couple of rooms
+        darker ... don't whine, its just 2 rooms. Open the door and back up
+        into the safe, lit area you cowards. Besides, its not THAT dark. :)
+       -I have included a lmp file and a batch file to view the lmp with.
+        Watch the LMP only AFTER you play the level or some surprises might be
+        ruined (I want the weak among you to jump a couple of times). I kill
+        everything eventually, and I grab all the keys, get almost all the
+        items, activate practically every teleporter, go to all 3 areas
+        beyond the teleport grid, etc. Just to show ya how its done. I move
+        kinda fast thru the teleport grid, but you'll get it. Any my apologies
+        for my playing. :) Its on UViolence. I only just woke up, so I miss
+        a lot and played very hastily and casually and without concern for
+        deadliness or accuracy. I basically slob through the level and do
+        everything. :) Enjoy.
+        
+Lewis Beard
+lewis@c2d2e2.wes.army.mil
+
+
+
+

@@ -1,0 +1,27 @@
+J_HTIC2.WAD
+by Jordan Russell
+
+Sorry about making another one, but the first release had some bugs that
+made the game halt.
+
+This is all 9 Heretic levels converted to DOOM II! The textures look
+amazingly similar. Most objects are converted, music is converted, and
+linedefs are converted. No monsters.
+
+=============
+= Whats new =
+=============
+
+Level 1: Added super shotgun and a rocket launcher.
+Level 3: Fixed the "special sector" error.
+Level 5: Fixed the "special sector" error.
+Level 6: Had a trooper in there. (oops!)
+Level 8: Now you can exit the level!
+
+=====================
+= How to contact me =
+=====================
+
+DWANGO (Dallas): jordanr
+Chrysalis:       Jordan Russell
+Internet:        jordan.russell@chrysalis.org

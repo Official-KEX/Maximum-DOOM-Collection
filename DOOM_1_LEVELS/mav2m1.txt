@@ -1,0 +1,66 @@
+        ============================================
+        MAV2 - A Deathmatch Mini-Episode by Tom Neff
+        ============================================
+
+               MISSION 1 - TARGET CENTER!
+
+           BETA TEST Version of August 8, 1994
+
+   Please review this BETA TEST version of MAV2 Mission 1 
+     and email your comments to:      tneff@panix.com
+
+        ============================================
+
+This is (part of) a preliminary version of a three- or four- mission
+mini-episode designed for the ultimate in DOOM DEATHMATCH enjoyment!  It
+should be usable under 1.2 through 1.6, any deathmatch rules, although
+the flow of play will of course be slightly different.  Actually, you
+may see a couple of small HOM (Hall Of Mirrors) glitches under 1.2, but
+it shouldn't affect game play very much, and under 1.5-1.6 it's perfect.
+
+The TARGET CENTER is a lightning level to get those Deathmatch juices
+flowing!  There is no place to hide, nowhere to go, just an open
+"playing field" surrounded by "bleachers" and a control room.   You
+enter from one of four "ready rooms" with a shotgun or chaingun, but all
+four ready room doors open together, so your enemy will have to spot you
+visually.
+
+There is minimal ammo on the "field" and some boxes in the stands.  A
+few stim packs are around, and (except at harder skill levels) one green
+armor in the control room.
+
+There are a plasma gun and a rocket launcher hoisted way up on pipe
+stands.  Each pipe lowers briefly when you press the button at the
+*opposite* end -- better run to grab the weapon before it rises!  And
+hope the enemy doesn't get there first...
+
+There's also a chainsaw hidden behind a wall.
+
+Up in the control room is a switch that raises the rim of the "field"
+just enough so that it becomes one-way!  You can get in, but you can't
+get out except by dying.  If this switch is hit, it lasts until you exit
+the level.  See how you like it.
+
+To exit the level, press the gargoyle switch behind the silver door,
+then run (or have the other fellow ready) to enter the Exit door at the
+far end and hit the switch.
+
+There are just a few monsters to soften you up, if you want them.
+
+Notice the red team/blue team decor?  No way to enforce it in the game,
+but if you wanted to play four at once in here, you could think of each
+team has having its own "audience."  Alternatively, the way the
+bleachers are laid out, if you want to play "death co-op" and just let
+some folks "sit and watch" that might be fun.  Co-op players start out
+in the ring.
+
+There is no nukage or crushers, but you can rocket yourself to death if
+you insist.  I will probably segregate weapons by difficulty level in
+the final product, but for now they're all in there.
+
+--------
+
+If you make a really cool LMP of this level I would like to see it!  Let
+me know via email.  Good luck, and happy DOOM'ing!
+
+-- Tom Neff             tneff@panix.com

@@ -1,0 +1,79 @@
+================================================================
+Title                   : Stargate Deathmatch.
+Filename                : STARGATE.WAD
+Author                  : Nick Ramirez
+Email Address           : nramirez@bvsd.k12.co.us
+                          (Barrasso on IRC)
+Misc. Author Info       : Just a hockey playing, wad editing, Doom playing
+                          high school student from Colorado.
+                          Also in love with the Movie Stargate.
+                          ---
+                          If you haven't seen this movie go see it,
+                          or go buy/rent it if your reading this far from now.
+                          ---
+                          Please send me comments,suggestions etc...
+
+Description             : This DOOM II deathmatch wad with a Stargate theme.  
+                          It should be used with deathmatch 2.0
+                          Includes a new sky texture (Non-repeating)
+                          New Doors, and a Really cool animated Gate.
+                          All weapons, one time chance at the BFG.
+                          This is not a huge level the large file size comes 
+                           from the new gfx's and music.     
+                          All testing has gone great this level is a blast.
+
+MUCH Additional Credit to   :  Mark Stolp (mstolp@nyx.cs.du.edu)
+                              (Zep on IRC)  Created the images used for
+                               the animated stargate, And helped test it.
+                          
+                                And Id Software for making the game.
+================================================================
+
+* Play Information *
+
+MAP #                   : MAP01
+Single Player           : Yes   (Just for looking around, no monsters.)
+Cooperative 2-4 Player  : Nope. (No monsters, no point.)
+Deathmatch 2-4 Player   : Yes! (suggest -altdeath)
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : Yes  (This is why the file is so big.)
+New Music               : Yes
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor used             : Deutex2.7
+                          Dview250
+                          BSP12x
+                          Midi2mus
+                          Improcess, Paintbrush, Graphic Workshop.
+                          POV raytracer (What Zep Used to Make Water.)
+Build Time              : Mucho.
+Known Bugs              : Zero.
+
+
+* Copyright / Permissions *
+
+Authors may not use this level as a base to build additional
+levels. You may change it to suit your needs, but do not distribute edited
+version.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact. 
+
+Stargate is a Trademark of Le Studio Canal + (U.S.)
+
+* Where to get this WAD *
+
+FTP sites:  FTP.ORST.EDU
+            FTP.CDROM.COM
+
+BBS's: 
+        Demon Box: 
+            (303)-933-2620
+        Hit the ICE (Comming On-line in Dec.)
+            (303)-673-0993

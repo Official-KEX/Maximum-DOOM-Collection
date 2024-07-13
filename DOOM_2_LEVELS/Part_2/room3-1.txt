@@ -1,0 +1,56 @@
+===========================================================================
+Title                   : Room3.wad
+Author                  : Faust
+                          
+Email Address           : None
+Other Files By Author   : Room2.wad, Psycho1.wad, Room2-1.wad & Zone1.wad
+Misc. Author Info       : See you on Dallas DWANGO
+                          
+Description:            in the first room3 i put a boss shooter that showed
+                        up in deathmatch - in this wad this feature has been
+                        removed for better playability - other than that it
+                        is the same as room3.wad
+                        Awesome deathmatch level for 4 players.   
+                        The 1st and 2nd levels of difficulity have
+                        plasma rifles and a soul sphere in them - jus be sure
+                        to get all the weapons before you jump off the
+                        platforms - there are only the chaingun and double-shot
+                        on the floor
+                                    
+                          
+Additional Credits to   : Id
+===========================================================================
+* Play Information *
+
+Map #                   : Map #01
+Single Player           : no
+Cooperative 2-4 Player  : no
+Deathmatch 2-4 Player   : HELL YEAH
+Difficulty Settings     : yes
+New Sounds              : no
+New Music               : no
+New Graphics            : no
+Demos Replaced          : no
+
+* Construction *
+
+Base                    : new
+Build Time              : 2 hrs
+Editor(s) used          : doom con. kit, waded 181
+Known Bugs              : none??
+
+* Copyright / Permissions *
+
+Authors MAY (please do!) use this level as a base to build additional
+levels - jjus give me some credit hehehehehehe. 
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+BBS numbers:                          
+Code Red: (214) 424-4702
+The Wall: (214) 286-8291

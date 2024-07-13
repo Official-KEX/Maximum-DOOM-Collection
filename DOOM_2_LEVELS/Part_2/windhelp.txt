@@ -1,0 +1,28 @@
+                           WINDHELP.TXT
+                           ************
+
+       Just two tips for solo match play in case you get stuck.
+
+
+
+Where is the damned RED key?!
+
+Search for a secret door along the inner wall of the outer hallway.
+
+How the hell do I survive at the Ultraviolence Level?
+
+ Don't spend any extra time trying to get the BFG at the start! Move quickly
+ to the outer hall and keep on the move around it. Pause VERY briefly at a 
+ window to allow monsters in the center of the arena to get a  shot off then
+ get back on your wheels. Repeat this as you zoom around the outer hall. This
+ tactic will create alot of monster crossfire which tends to  help thin them
+ out. Don't kill the spiderdemon, he will eventually die from the other monster's
+ retaliations, in the meantime he will take out quite a few monsters for you.
+ As you clear out windowed rooms, zip in and get the  health. If all else fails,
+ clear one of towers of badguys then hole up in it and thin out the Cacos from
+ there. If you are still unable to complete it, playback ultwin.lmp with your
+ favorite Wad manager and it will help. Enjoy!
+
+
+
+

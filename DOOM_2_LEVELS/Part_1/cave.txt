@@ -1,0 +1,62 @@
+E-Mail Adress           : Stevek7922@aol.com
+Title                   : The Cave Anomaly  
+Filename                : Cave.wad
+Author                  : Steven Katz
+Misc. Author Info       : I am a 10th grader at Linden High. (Go Tigers!!)
+
+Description             : I have converted all of my doom level for doom2
+                          and will release them soon, this is the first
+                          level I've made for Doom2.
+
+Additional Credits to   : Makers of Deu
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes                 
+Difficulty Settings     : Yes 
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Deu 5.21 Deu 5.2gcc, BSP 1.2x, and reject
+Time                    : About 30 hours
+Known Bugs              : None that I know of?? if you find any email me. 
+
+Note                    :        
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long asp you include this file 
+intact.
+
+
+
+* Where to get this WAD *
+
+FTP sites:  This is up to you people to put it there!
+
+BBS numbers:  This is up to you people to put it there!
+
+Other:  America Online
+
+I would like to thank the makers of Deu for making such a wonderful
+editor.  Without it almost all PWads would not be in existance.
+
+I would most like to thank the makers of Deu text 1-4.  Without them
+this level or any level I make in the future would not have been
+possible without it, thanks Blackfist!!
+

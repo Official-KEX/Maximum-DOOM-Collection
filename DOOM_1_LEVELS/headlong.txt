@@ -1,0 +1,61 @@
+================================================================
+Title                   : Headlong 
+Filename                : HEADLONG.WAD
+Author                  : Chris Hopkins
+Email Address           : chopkins@peinet.pe.ca
+Misc. Author Info       : A doomer since Dec 10th, I can usually be found 
+                          on the irc channel #doom. I'm also the author of
+                          swmusfx4.
+
+Description             : This is a deathmatch wad I made and it's not really
+                          intended for single player or co-op although you
+                          can play it with those methods.  For deathmatch
+                          it's probably better with no monsters but I 
+                          included them just the same.  There's a few sniper
+                          spots on this level as well as plenty of moving
+                          lifts. ;)  There _is_ a cyberdemon on the level
+                          but he's only there on UV.  All the weapons are on
+                          the level.  Hmm, I guess that's all there is to
+                          say about it except enjoy and write me your comments!
+
+Additional Credits to   : Jeff Rabenhorst for making _the_ best editor out
+                          there, edmap.  Nova from irc for letting me in on
+                          edmap info.  And various other folks from irc for              
+                          testing it out!
+                           
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1            
+Single Player           : Yes.
+Cooperative 2-4 Player  : Yes.  
+Deathmatch 2-4 Player   : Yes.   
+Difficulty Settings     : Yes. (I didn't put much emphasis on them though)
+New Sounds              : No.
+New Graphics            : No. 
+New Music               : No. 
+Demos Replaced          : None.    
+
+* Construction *
+
+Base                    : New level from scratch.
+Editor(s) used          : Edmap 102, 110 beta and BSP12TC
+Known Bugs              : None. 
+
+
+* Copyyright / Permissions *
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+           cs.uwp.edu
+
+BBS numbers:
+
+Other:

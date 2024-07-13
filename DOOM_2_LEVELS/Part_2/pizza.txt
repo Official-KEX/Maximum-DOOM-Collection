@@ -1,0 +1,58 @@
+================================================================
+Title                   : Death to Venus    
+Filename                : PIZZA.WAD
+Author                  : Matthew G. Hooper
+Email Address           : JunePie@AOL.COM
+
+Description             : A nice little DeathMatch only WAD.  It requires
+                          movement and minimizes luck.  There is a building 
+                          in the middle of the wad which is similar to a 
+                          local pizza place which is where the name comes 
+                          from.
+
+                          
+                          Always beware of Venus--You never know what lies 
+                          beyond her.
+
+                          If your brave you can walk through lava falls.
+
+                          Visit the Healing Pond when your down on Health.
+
+                          Don't ever under estimate the power of armor.
+
+
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Level One
+Single Player           : No
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : Yes
+New Music               : Yes
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+

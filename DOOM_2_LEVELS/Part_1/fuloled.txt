@@ -1,0 +1,114 @@
+===========================================================================
+Title                   : Full of Lead (FULOLED.WAD)
+Date Finished           : 4/12/95
+Author                  : Michael Sims
+Email Address           : phsims@cypress.mcsr.olemiss.edu
+Other Files By Author   : N/A
+Misc. Author Info       : I'm a student at the University of Mississippi,
+                          currently majoring in Computer Science.  I
+                          welcome E-mail of any kind, so drop me a line
+                          and tell me what you liked, or what you didn't
+                          like, or what you thought sucked royally.
+
+                          (P.S. I would absolutely love to see a *.lmp
+                          of a game played on this level, especially if
+                          it is a 3 or 4 player game!  Please! Please! <g>)
+
+Description             : This is a DEATHMATCH-ONLY pwad for DOOM ][.
+                          SIGH!!! ANOTHER ONE?  Yes, but I think this
+                          one will be worth your download.  First of
+                          all, it contains NO MEGASPHERES OR SUPERCHARGES!
+                          so the game does not turn into HealthWars.
+                          There is a strategically placed medkit and
+                          beserk pack, along with a few stimpacks. There
+                          are plenty of weapons to prevent anyone from
+                          gaurding them all. I've tried to make this
+                          level a very playable deathmatch design.  All
+                          weapons are present, except the BFG.  (I rarely
+                          like the BFG for deathmatch games, except when it
+                          is strategically placed (such as in DANZIG13.WAD). 
+                          I've added a few features to this level which, in
+                          my opinion, sets it apart from most deathmatch
+                          levels currently available:
+
+ 1. Although the plasma gun is available, it rests on a platform that must
+    be dropped by a remote switch, which also drops a lift elsewhere in the
+    level that contains a beserk pack.  This makes getting the plasma gun a
+    risky venture.  Also, there are no energy cells lying around, so you'd
+    better make that ammo count.
+
+ 2. One of the metal pillars in the inside room has a walk-thru linedef on
+    the west side. This allows players to enter the pillar and ambush their
+    opponent, or hide from them when they get low on health.
+
+ 3. There are several sniper positions from which you can frag your buddy,
+    and I've tried to make the level a very "open" one, so most of the time
+    you have a pretty good idea of where your opponent is.
+
+ 4. There is a medium-sized semicircular courtyard for those plasma and
+    rocket battles.  A small bunker in the courtyard has a chaingun and
+    a spy hole that is aimed towards the door of the courtyard.
+
+ 5. Stepping over the rocket-launcher platform in one of the courtyard
+    buildings triggers several lifts throughout the sector to fall,
+    which gives away your position to your enemy.
+
+ 6. This level contains a cooperative exit to prevent one player from
+    exiting when the other isn't ready.
+
+Additional Credits to   : ID, of course, for making the best two-player
+                          game ever.
+
+                          To the creators of the IGOR and DANZIG death-
+                          match levels.  Those guys are absoluted GODS
+                          when it comes to making an awesome PLAYABLE
+                          deathmatch level.  I'd especially welcome
+                          any E-mail from you guys.
+
+                          The creators of Doom Construction Kit 2.2.
+
+                          Robert Maze, for beta-testing and design help.
+
+                          Jason Mattox, for beta-testing.
+                          
+===========================================================================
+* Play Information *
+
+Map #                   : Map 01
+Single Player           : Yes (only if you want to check it out by yourself)
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes!!
+Difficulty Settings     : Not implemented
+New Sounds              : No\
+New Music               : No >--- Who needs it?  Crank up the Death Metal
+New Graphics            : No/     and get ta fraggin! (The Jurassic Park
+Demos Replaced          : None    soundtrack [track #9] works well too!)
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : About 40 or so hours, I didn't really time it. 
+Editor(s) used          : DCK 2.2, the most intuitive level editor I have
+                          *ever* seen.
+Known Bugs              : None, unless you find a texture or two misalinged
+                          by a pixel here or there.
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, etc) as long as you include this file 
+intact. If this is distributed on a CD-ROM, all I ask is that you
+send me a copy of the CD.
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com and its mirrors (but don't you already have it
+           since you're reading this!?!?!????)
+
+BBS numbers: N/A
+
+Other: Wherever it may end up.

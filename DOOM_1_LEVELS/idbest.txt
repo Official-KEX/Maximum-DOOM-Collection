@@ -1,0 +1,66 @@
+===========================================================================
+Title                   : IDBEST.WAD
+Date Finished           : 2/14/95
+Author                  : Chris Dale
+Email Address           : chris@winternet.com
+Other Files By Author   : idmix.wad and many more unreleased
+Misc. Author Info       : I live in Minneapolis.  Let me know if you want
+                          a deathmatch.
+
+Description             : This a huge deathmatch level made by cutting and
+                          pasting together parts of e1m1, e1m2, e1m3, e1m4,
+                          and e1m5.  It's intended for regular deathmatch,
+                          and there are no energy weapons.  I added a lot
+                          more to idmix.wad, and I redid the layout a bit.
+                          Idmix.wad was hastily thrown together.  Now the
+                          the ceiling and floor tiles are properly aligned
+                          (at least where it counts) and the exit works :).
+
+Additional Credits to   : * id Software for the game and the levels.
+                          * Raphael Quinet and Brendon Wyber for DEU.
+                          * Jason Hoffoss for DMapedit.
+                          * Jeff Rabenhorst for Edmap.
+
+===========================================================================
+* DOOM 1 *
+
+New level WAD
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes (possible)
+Cooperative 2-4 Player  : Yes (sure)
+Deathmatch 2-4 Player   : Yes (bingo!  it's big, plenty of room and
+                               goodies for 4 players)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Music               : No
+New Graphics            : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : Modified e1m1, e1m2, e1m3, e1m4, e1m5
+Build Time              : 15 hrs
+Editor(s) used          : DEU, DMapedit, Edmap.
+Known Bugs              : You might see some tiny texture leaks, but
+                          overall idbsp does a very good job of node
+                          building.
+
+May Not Run With...     : ?
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get it *
+
+ftp.cdrom.com
+

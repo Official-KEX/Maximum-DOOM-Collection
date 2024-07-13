@@ -1,0 +1,18 @@
+showpal.exe playpal.d 4
+
+showpal.exe playpa.h 255
+
+
+
+These are the command lines to use to show palette 0 of the
+playpal entry in the IWAD.
+
+The number represents not only the color to show text in, but is useful to see
+if you've located the right color.
+
+
+Translate the grid into decimal i.e. 40x0A = (4*16)+10 = 74
+
+
+cheers John
+

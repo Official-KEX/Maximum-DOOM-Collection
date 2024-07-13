@@ -1,0 +1,52 @@
+================================================================
+Title                   : Pit of Death   
+Filename                : Pitdeath.WAD
+Author                  : Eric Boggs
+A.K.A                   : Scorpion
+Description             : A deathmatch level for Doom 2(Recamended
+			  for DeathMatch 1)This level was made by 
+			  me, cuz that damn Superman.Wad is nice, 
+			  but TOO BIG! So, I made this, it has a 
+			  nice little killing field, plenty of 
+			  weapons, and health. Everything SHOULD 
+			  work, if it doesn't, leave E-Mail on 
+			  Modem Games BBS to Scorpion. Hope u 
+			  enjoy..(I didn't put monsters in so it's 
+			  ONLY a DeathMatch level)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 01
+Single Player           : Why?
+Cooperative 2-4 Player  : For Wusses..
+Deathmatch 2-4 Player   : HELL YES
+Difficulty Settings     : Nope
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+
+Editor(s) used          : DEU2C (Easier Sector and Linedef Editing)
+			  DoomCad v5.0 (Nice Prefab Section)
+
+Known Bugs              : God I hope I didn't miss any!
+
+
+* Copyright / Permissions *
+
+Please Include this text file with the WAD. 
+If you alter please include my name in the credits.
+And PLEASE keep the Commander Keen's in there, I'm
+gonna use them as MY trade mark, so when people see
+that line of Keen's they'll know I had something to
+do with the construction of this wad. thanks...
+
+
+* Where to get this WAD *
+Modem Games BBS
+

@@ -1,0 +1,60 @@
+WAD Authoring Template V1.4   (Clip this line)
+================================================================
+Title                   : Steel Cage Match   
+Filename                : RING.WAD
+Author                  : Robert Fleming
+Email Address           : ROBERTF681@AOL.COM
+Misc. Author Info       : First working WAD
+
+Description             : Steel Cage fight! Designed primarily
+                          for DEATHMATCH in mind. New status bar    
+                          designed by me, and new death sound.
+                          For single or coop, watch as the crowd
+                          follows you around the ring. Don't get
+                          to close, they'll rip your head off.
+
+Additional Credits to   : My old 286 which DEU2 was running on.
+                          That was not a joke, DEU 5.21 runs on
+                          a 286 (you must have the iwad file to
+                          run it)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes!
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Graphics            : Yes
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU2
+Known Bugs              : linedef error behind steps, no biggie
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels. As long as I get credit. 
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other:
+AOL

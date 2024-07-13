@@ -1,0 +1,11 @@
+Frags 'R' Us Wad
+
+by: Slick
+3/14/95
+
+Mode        : Single Player
+              Deathmatch 3-4 players (Slow progress on 2 player games)
+Level       : 1
+New Graphics: No
+New Sounds  : No
+

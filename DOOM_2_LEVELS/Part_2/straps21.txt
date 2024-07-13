@@ -1,0 +1,75 @@
+*** STRAPS v2.1 ***
+
+A DOOM ][ level, designed for (and by!) a single player...
+
+This was originally a Doom I level, a long, long time ago, while
+I was learning DEU. It has grown and changed since...
+
+It is the only "real" WAD I have made so far... Yes, it is my
+first try; I know that it is hard to believe after playing it! :)
+
+In my humble opinion, this level is well-designed and fun to play.
+I love playing it on Ultra-Violence, although it is probably much
+too hard... :) Have fun!
+
+================================================================
+Title                   : STRAPS v2.1 (Doom ][ version)
+                          (Straps probably means Soulman's Traps or
+                           something... :)
+Filename                : STRAPS21.WAD, STRAPS21.ZIP
+Author                  : Knut Arild Erstad (the Soulman)
+Email Address           : ip103@ii.uib.no (until summer -95)
+Misc. Author Info       : Student, MOD-composer, Doom-addict...
+
+Description             : Dark. Lots of traps... Watch your back!
+                          And remember:
+                          "The fact that you are paranoid, doesn't
+                           mean that they are NOT out to get you."
+
+Additional Credits to   : Qaz (is that your real name? :) for testing
+                          this level... And I suppose I'll have to
+                          thank ID. (deja-vu...) And the authors of
+                          Deu, Deu2 and BSP. And <this place is for
+                          rent. Send me 500 NOK ;>
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (untested)
+Deathmatch 2-4 Player   : Yes (untested, and probably really bad :)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Deu 5.21 gcc, Deu2c, BSP 1.2x
+Known Bugs              : Er... it's too linear? No, wait, that's no
+                          bug :)
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com (I'll download it as soon as possible)
+
+BBS numbers:
+
+Other: email me if you don't have FTP...
+       I will probably put this WAD on my WWW homepage too
+       -> http://brems.ii.uib.no/~ip103

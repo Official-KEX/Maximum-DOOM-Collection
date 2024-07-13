@@ -1,0 +1,86 @@
+================================================================
+Title                   : Frag Me Again
+Filename                : FRGMEAGN.WAD
+Author                  : Alan J. Post
+Email Address           : alan@chem.purdue.edu
+Misc. Author Info       : Just another chemistry graduate student
+                          that loves to play doom.
+Description             : This DOOM II pwad was designed specifically 
+                          with 2-player Deathmatch 2.0 in mind and
+                          is the sequel to FRAGME.WAD.  It should 
+                          play pretty well in single player mode
+                          also (ultraviolence).  Skill levels are
+                          fully implemented for those with different
+                          deathmatch tastes.  This level has a
+                          cooperative exit, so you must cheat in 
+                          single player mode to finish.
+
+Additional Credits to : My wonderful team of beta testers!
+                Chris Kuhl
+                Dan Burley  (dburley@@ocf.berkeley.edu)
+                Warren Lockburner (lockburn@uclink.berkeley.edu)
+                Tim Campos  (tcampos@sybase.com)
+                          
+================================================================
+
+* Play Information *
+Doom or Doom II?        : Doom II
+MAP #                   : MAP 2
+Single Player           : Yes (only ultraviolence is a challenge)
+Cooperative 2-4 Player  : Yes 
+Deathmatch 2-4 Player   : Yes!! (suggest -altdeath -respawn)
+Difficulty Settings     : Yes 
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+Release Date            : December 5, 1994
+
+* Construction *
+
+Base                    : New level from scratch
+Editor used             : EdMap 1.22 and 1.23
+Build Time              : Approximately 15 hours.
+Known Bugs              : Absolutely none!
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels. (please give me credit).
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact. 
+
+* Where to get this WAD *
+
+FTP sites:  FTP.ORST.EDU
+      
+***Notes on Difficulty Settings***
+
+Skills 1 and 2:
+        Contains all of the weapons except the BFG and no soul
+        spheres or megaspheres.  Just enough monsters to keep 
+        things interesting.  Great with -altdeath and -respawn.
+        Much too easy for single player mode.
+
+Skill 3:
+        Same as skills 1 and 2, except with a few more monsters
+        and maybe some health and ammo changes.  This dificulty
+        setting has a megasphere and a BFG for those of you that
+        like these items in deathmatch.  Should also be good with
+        -altdeath and -respawn.  Probably too easy for single
+        player.
+
+skill 4:
+        This difficulty separates the men from the boys.  
+        Weapons are the same as Skills 1 and 2, but the amount
+        and difficulty of monsters has been greatly increased.
+        There is also less health and ammo (single player), and
+        no BFG or soul spheres (etc.).  Should play well in 
+        single player mode and -respawn in deathmatch would
+        be a bloodbath.  :)
+
+ 

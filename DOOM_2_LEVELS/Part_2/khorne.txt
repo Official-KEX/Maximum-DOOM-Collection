@@ -1,0 +1,67 @@
+================================================================
+Title                   : Khorne's Demise   
+Filename                : khorne.WAD
+Author                  : Bill Turner III
+E-mail address          : AOL user name GUNDOX
+Description             : The first installment in a series of levels I plan
+			  to create. The central theme is the destruction
+			  of the Blood God, Khorne (as found in the RPG
+			  Warhammer by Games Workshop.)
+			  This wad is excellent for deathmatch. It has only
+			  been tested for 2 player via null modem but should
+			  work fine with networks and phone-modem.
+			  Single play of the game is quite enjoyable.
+			  Consecutive levels of the game will be released
+			  individually as well as grouped with earlier levels.
+			  Oh, this is only my second wad but I believe it
+			  to be better than most of the wads I've D/L'd. I
+			  pay attention to detail. 
+
+			  I'm including DeHackEd v2.2 with the wad.
+			  Unzip it and read directions to use KHORNE.DEH
+			  with KHORNE.WAD. You need it to get the right
+			  feel into the level.
+
+			  If you find bugs please E-Mail me.
+
+			  Thanks and Enjoy!
+		    
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes (easy  or  very hard)
+New Sounds              : YES 
+New Graphics            : No  (Future releases may, thanks to deutex)
+New Music               : YES (NIN - Head Like A Hole from AOL MIDI LIBRARY)
+Demos Replaced          : None
+DEHACKED PATCHED        : YES (made for KHORNE)
+
+* Construction *
+
+Base                    : New level from scratch
+
+Editor(s) used          : EDMAP v1.23 (the best editor around!)
+			  DEUTEX
+			  DEHACKED
+			  MIDI2MUS
+
+Known Bugs              : No Known Bugs
+
+
+* Copyright / Permissions *
+This wad not supported by id software.
+
+Please Include this text file with the WAD. 
+Please do not alter this wad. Thanks.
+If you must alter against my wishes please include my name in the credits.
+
+
+
+* Where to get this WAD *
+America Online
+

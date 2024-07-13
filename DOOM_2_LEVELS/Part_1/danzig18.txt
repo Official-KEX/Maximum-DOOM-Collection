@@ -1,0 +1,101 @@
+=============================================================================
+Title                   : Danzig for DOOM ][ Deathmatch 
+Filename                : danzig18.wad  
+Authors                 : B. Vannatta 
+Email Address           : bv980492@oak.cats.ohiou.edu
+Misc. Author Info       : Author of most levels in igor9.wad, most levels 
+                          in danzig1.wad, and danzig17.wad.
+Description             : Danzig18.wad is a medium-sized level designed for 
+                          two- or three-player DOOM ][ Deathmatch.  Supports 
+                          various modes of play (see below) and monsters (use 
+                          respawn). 
+Additional Credits to   : TIMinator 
+                                - Thanks to Tim (and his group) for all of his 
+                                  excellent ideas and playtesting.  Watch for   
+                                  his upcoming BOOTHILL - it's AWESOME!!
+                          Steve Grecni (grecni@bobcat.ent.ohiou.edu)
+                                - Thanks to Steve and his group for their 
+                                  great ideas and playtesting!
+                          Genesis Kryzaniak (genesisk@eden.com)
+                                - Thanks to Genesis and Peter for some 
+                                  thorough playtesting!
+                          Brandon Weldon (weldon@helios.phy.ohiou.edu)
+                                - I let him use his computer every once in
+                                  a while (he's my roommate). 
+                          id Software
+                                - The MASTERS...
+=============================================================================
+
+
+* Play Information *
+
+Map #                   : Map18
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : YES
+Difficulty Settings     : Implemented for various modes of play (SEE BELOW)
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+Demos Included          : DANZ18D.LMP (A short, fast two-player deathmatch on 
+                                       danzig18.wad).
+                                       
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : ---
+Known Bugs              : please report any to bv980492@oak.cats.ohiou.edu
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels, 
+concatenations, or otherwise.
+
+You MAY distribute this PWAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+* Where to get this PWAD *
+
+FTP sites:  wcarchive.cdrom.com
+
+
+* Important Notes *
+
+        Danzig18 is a medium-sized level designed to provide for two- or
+three-player DOOM ][ Deathmatches.  I've included support for various modes 
+of play as follows:
+        
+        1.  Original Deathmatch rules ("I'm Too Young To Die" and "Hey, Not 
+            Too Rough" support this) 
+            
+        2.  Deathmatch 2.0 rules ("Hurt Me Plenty" supports this) 
+        
+        3.  What I call "Expert" mode ("Ultraviolent" and "Nightmare" support 
+            this)  
+        
+Support for Deathmatch 2.0 has been altered from previous Danzig levels to 
+better provide for -altdeath play.  Original Deathmatch is now basically the 
+same setup as Expert mode without any plasma weapons.  Expert mode still has 
+very little health and ammo, but DOES include almost every weapon in the level 
+(including the BFG).  Use Expert mode if you want access to the more powerful 
+weapons.
+        I've also included monster support - monsters are placed 
+strategically to add spice to the game.  Usually players don't need this in
+a three- or four-player game, but sometimes a two-person game can get a 
+little slow.  Either way you like it, BE SURE TO INCLUDE THE RESPAWN OPTION
+WHEN USING MONSTERS in your Deathmatches.
+        Also note that this level does not involve a cooperative exit; the
+exit should be simple to find.
+        Please take a walk through this level before you actually use it 
+in Deathmatch.  While danzig18 is extremely straightforward, it's always nice 
+to get a feel for a new level before you begin.  I'm open to any comments/  
+suggestions you may have, so please send me email!  
+        Thanks for using Danzig!
+        
+

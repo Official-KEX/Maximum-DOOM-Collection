@@ -1,0 +1,21 @@
+Level Name:     SoftChoice "Goes-to-Hell"
+File Name:      SCC2.WAD
+Episode/Level:  1/1
+Created by:     Christian Antkow
+                
+                softchoice!softchoice.com!cant@uunorth.north.net
+                (or cant@softchoice.com if problems ever get fixed...)
+Editor:         DE v2.5 Beta 4
+Description:
+                SoftChoice II WAD is the second "release" of the
+                modified floorplan of Softchoice Corp located in Toronto,
+                Ontario, Canada. The board is designed for Deathmatch
+                play as no mere mortal would be able to survive this
+                board playing by themselves without cheats... (Go ahead!
+                Try me!!!)
+
+Stipulations:
+                You may not change or modify this level and re-release them
+                into the public domain without first asking myself...
+
+                Have fun...

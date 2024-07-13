@@ -1,0 +1,9 @@
+H2HMud__, __ min __ sec, skill _, ___% Kills
+A version 1.9 lmp that has been entered in
+H2HMud International Doomers Competition
+which ends on July 4, 1995. All the wads 
+and information needed for the competition
+are in H2H-pack.zip. This lmp was recorded
+by: ______________________________________.
+(Fill in the blanks, delete this remark,
+and rename the saved file as file_id.diz.)

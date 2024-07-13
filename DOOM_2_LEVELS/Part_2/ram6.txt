@@ -1,0 +1,126 @@
+================================================================
+Title                   : Rambutt's DOOM (episode 1: Boot To The Head) v3.0  
+Date                    : 4/29/1995 (renamed Ram6.wad on 5/5/1995)
+Filename                : RAM6.WAD
+Author                  : Mark Potter
+Email Address           : none
+Misc. Author Info       : I need a break......
+
+Description             : This is the first of 3 episodes in Rambutt's DOOM.
+                          (again!)
+
+Additional Credits to   : id and the makers of DEU, BSP, & WAD1TO2
+================================================================
+
+* Play Information *
+
+Episode and Level #     : DOOM 2 levels 1-11
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : 8 modified levels, 2 modified id levels, and 
+                          1 original
+Editor(s) used          : DEU 5.21 & BSP 1.1 & 1.2
+Known Bugs              : There better not be any..........
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers: The Wall (1-214-286-8291), Code Red (1-214-424-4702), Jackalope
+Junction (1-501-785-5381), Software Creations (1-508-368-7036)
+
+Other: me
+
+
+------------------------------------------------------------------------------
+ This is the first of my 3 episodes in Rambutt's DOOM. Originally, I had 3 30
+ level collections for DOOM 2 that I ran as 1 wad using D!Zone. But, that was
+ before I figured out how to use to combine levels together. So, I went 
+ through all 90 levels (out of nearly 1000 on D!Zone) and cut'em down to 15 !!
+ This first episode has 8 modified levels from D!Zone, 2 modified id levels,
+ and the upgraded version of my first original level.
+
+ If you the name of the wad that any of these levels came from or who created
+ them, drop me a line ! I want to credit to the people who did these !
+
+ Also, I've added multi-player starts to all of these levels (deathmatch
+ included !) and I also fixed some problems that I found. So, if any of these
+ levels are yours, I hope you like what I did to them.
+
+ Level        Wad            Description
+  #1        Unknown          A building with a large outside area. Makes for
+                             a nice first level, especially with a Baron at 
+                             the start !
+  #2        Unknown          I redid the ending of these one because of a
+                             missing texture that looked really bad ! Look 
+                             for those 2 Spider Masterminds !
+  #3       DMHOUSE (?)       The DOOM House is back ! This time with the more
+                             stuff !
+  #4        Unknown          This is one HUGE room ! Lots of fun !
+  #5        Unknown          One of the hardest levels I've ever seen !
+  #6        H_HOTEL          This isn't the Motel 6, buddy !
+  #7        Unknown          Come and explore an old run down warehouse.....
+  #8         DOOM2           This is level 2 from DOOM 2, modified in my own
+                             twisted style.
+  #9         DOOM            This is (or was) e1m7 from DOOM 1. Also made in
+                             my own style. (whatever that is !)
+ #10        CHICKEN          I rearranged all of the stuff and added lots more
+                             as well ! At least there's an exit somewhere !
+ #11        NOMERCY          This is the Doom 2 version of my first original 
+                             level. It's small, but you'll never live through 
+                             it !
+
+NOTES: All of these levels were originally designed for DOOM I, with the
+exception of level 8.
+Special thanks to Monolith (Kevin) for finding that nasty error in level 2
+while we were playing on Dwango!
+
+
+
+Revision History:
+
+
+v1.0    Wad name = Rambutt1.zip
+        This was the original release. It was a 9 level wad for the first
+        DOOM game. Released on 4/11/95, along with "Rambutt's DOOM FAQ II"
+        v0.04.
+
+v2.0    Wad name = Rambutt2.zip
+        After deciding to finish the rest of Rambutt's DOOM for DOOM 2, I
+        converted all of my DOOM I levels to DOOM II. This version has 2 more
+        levels to balance out with the 11 levels in the first part of DOOM 2.
+        Released on 4/19/1995, with v0.05 of "Rambutt's DOOM FAQ II"
+
+#3.     Wad name = Rambutt3.zip
+        Heretic version of Boot To The Head released 4/21/1995, take #1.
+
+#4.     Wad name = Rambutt4.zip
+        Bug-free version of Rambutt3.zip spawned on 4/27/1995.
+
+#5.     Wad name = Rambutt5.zip
+        Episode 2 of Rambutt's DOOM was released on 4/29/1995, with v0.06 of 
+        my FAQ.
+
+Note: There will NOT be Heretic versions of the 2nd and 3rd episodes of
+      Rambutt's Doom. (at least, not that I'm doing)
+
+

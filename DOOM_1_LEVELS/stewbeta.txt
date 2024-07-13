@@ -1,0 +1,26 @@
+Description:
+This file was especially made for you deathmatch people out there. It's put 
+in the medieval part of time with of course the good weapons. It has two towers
+with a cyberdeamon that can hit you on top of the towers. 
+for use with the registered doom only
+
+Time: 5 days (total time with playing with it)
+
+made and compited with deu50
+bugs: a few glitches when running through certian areas
+        but game play isn't affected
+
+Future plans: planing to add a medieval town with a few secrets
+
+if you have any suggestions or complaints send them to either
+umharnis@ccu.umanitoba.ca
+or
+umrich32@ccu.umanitoba.ca
+
+your complaints will be completly ignored so send them if you want
+
+COPYWRITE
+        This file is copywrited to the fore mentioned persons above
+        It may not be used as a base for any new episodes until the 
+        full non beta version is released
+

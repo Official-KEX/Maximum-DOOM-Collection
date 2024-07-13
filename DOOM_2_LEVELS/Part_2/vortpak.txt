@@ -1,0 +1,73 @@
+                                 another...
+
+                            ÜÛÛÜ   ÜÛÛÜ  ÜÛÛÛÛÛÛÛÜ
+                            ÛÛÛÛ   ÛÛÛÛ ÛÛÛÛß ßÛÛÛÛ
+                   ÜÜÛÛÛÛÜÜ ÛÛÛÛ   ÛÛÛÛ ßÛÛÛÛÛÜÜ    ÜÜÛÛÛÛÜÜ
+                   ßßÛÛÛÛßß ßÛÛÛÜ ÜÛÛÛß    ßßÛÛÛÛÛÜ ßßÛÛÛÛßß
+                             ßÛÛÛÛÛÛÛß  ÛÛÛÛÜ ÜÛÛÛÛ
+                               ßÛÛÛß     ßÛÛÛÛÛÛÛß
+
+                             DEATHMATCH LEVEL
+
+            The best in DOOM, DOOM II & Heretic PWADS and Utilities
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+Title                   : The VorTeX Deathmatch Series, Pack 1
+Filename                : VorTPaK1.wad
+Author                  : VorTeX
+Email Address           : johnh@tamu.edu
+Misc. Author Info       : DooM Demi-God (The best DM'ers are from Texas)
+
+Description             : This is a DM series that I started because the
+                          only DOOM ][ levels we really played for DM were
+                          map 1, 7, and 16.  I decided to make a series that
+                          contained fast paced action, and some thought into
+                          what you were going to do to stay alive.  There
+                          are 5, yes FIVE, levels in this pack.
+                          
+Additional Credits to   : Matt Lea for helping design map04 over the phone
+                          while waiting to play it. <g>
+                          And many IRC Death Matchers for helping play test 
+                          them.
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+* Play Information *
+
+Episode and Level #     : MAP01 - MAP05
+Single Player           : Well, yes, but really boring.
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes, Is there any other way to play?
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : 20 or so Hours for the Maps and DM stuff
+Editor(s) used          : HFDE/2 (internal release), Various -VS- utilities
+Known Bugs              : None.  
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+* Joining -VS- *
+
+-VS- is a group dedicated to creating (and spreading) DOOM/DOOM2/HERETIC pwads
+and distributing them in to the public domain.  We are seeking artist, coders
+and pwad creators to join our ranks.
+
+If you think you would like to join -VS- then drop us a line.  Send some email
+to "josephw@ramp.com" with the subject "JOIN -VS-".  Please either attach or
+work, or give us an FTP site where we can go get it.
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+* Copyright / Permissions *
+
+This PWAD (including any graphics, patches, textures or sounds including
+within) MAY NOT be distribution by any mean other than to BBS's, Online
+Services, or public FTP/FSP sites without written premission of -VS-.
+
+CD developers, and shareware dealer MUST obtain the above permission before
+including this PWAD.
+
+You MAY not use any textures, sprites, sounds, or the actual level contained
+in this pwad without obtaining permission of -VS- (but, if you really like
+something you see, feel free to drop us a line).

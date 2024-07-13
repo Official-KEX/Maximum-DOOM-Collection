@@ -1,0 +1,53 @@
+
+================================================================
+Title                   : YERDEATH.WAD   
+Filename                : YERDEATH.WAD
+Author                  : Alan Steinhauser
+Email Address           : 
+Misc. Author Info       :  
+Description             : Easy to get lost, Great for DM. All Weapons,
+                          excluding one. The mindless BFG.Many, Many,  
+                          Starting positions.
+
+Additional Credits to   : Me, Myself, and I 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Doom ][ Map 10
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DoomCad 5.0
+Known Bugs              : aside from the Imps, Hell Barons, Arachnotrons, etc.  
+                          there are none.
+                                         
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:Wolf Den BBS (517)345-9188, Doom Central BBS (713)575-0932.
+
+Other:

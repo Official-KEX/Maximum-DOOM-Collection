@@ -1,0 +1,67 @@
+==========================================================================
+Title                   : Commando Mission 1 (3 fortress)
+Filename                : JOI-CM1.WAD
+Author                  : JOI
+Email Address           : 
+Misc. Author Info       : 
+
+Description             : Note!!! This level is for deathmatch only.
+                          Your mission is to take over all three
+                          main buildings, and kill every other
+                          military personel.
+                          Unfortunately all the other commandos
+                          have the same intructions.
+                          Commando mission 1 is very tight and
+                          compact wad map. And it has plenty of
+                          action even with -nomonsters parameter
+                          There are no secret or hidden places,
+                          and all weapons are available. But
+                          remember, there are only one way to
+                          restore your health, a single supercharge
+                          in the middle of central square.
+                          
+Additional Credits to   : The authors of DOOM and DEU
+                          Playtesters: METAL GURU, -=IO=-,
+                                       HANGMAN, SAM, DARKFIRE
+
+==========================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes     (But not so fun)
+Cooperative 2-4 Player  : Yes     (But also not so fun)
+Deathmatch 2-4 Player   : Must    (VERY FUN)
+Difficulty Settings     : Yes     (Effects only on monster count)
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : About 3 days and nights
+                          plus 2 nights testing with deathmatch
+Editor(s) used          : DEU 5.2
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels. I am sick and tired to play the same maps with only
+different names and one big monster added to original map.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:      infant2.sphs.indiana.edu
+                ftp.uwp.edu
+
+BBS numbers:
+

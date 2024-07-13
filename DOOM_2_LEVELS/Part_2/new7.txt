@@ -1,0 +1,73 @@
+New7 is my second published WAD, so go easy on me, but not as easy as you
+did for my first  :).  New7, as the name implies, is a shameless ripoff of
+Doom 2's level 07, which seems to be a favorite deathmatch level.
+
+================================================================
+Title                   : New 7
+Filename                : NEW7.WAD
+Author                  : Brian Monroe (with apologies to ID software)
+Email Address           : monroeb@essex.hsc.colorado.edu
+Misc. Author Info       : Love fast cars, big houses, and wants to be
+                          just like Ron Puryear
+Description             : If you've ever played DOOM 2, you'll remember
+                          level 7, with the mancubi and the spiderdemons.
+                          I modified this level, because I've played too
+                          many ALTDEATHS where one person gets the weapons,
+                          and the other can't get anything until they are
+                          killed and reappear outside the court area
+                          (Near the BFG).  This remake has the area opened
+                          up from the beginning, plus I added 2 teleports,
+                          moved a few things around, and changed some of
+                          the mechanics.  I also removed the BFG, which
+                          while it is a favorite toy of mine, tends to
+                          ellicit cries of "waaaaah!" from certain other
+                          players.  The 4 buttons on the walls now lower
+                          sections of wall between the courtyard and the
+                          outer hallway, plus 2 other small suprises.
+                          I added a crushing ceiling (which may be
+                          hard to find) and other nifty little items.
+                          No incredible secrets, however, so just play it.
+                          
+                          One small note:  The 4 platforms with the weapons
+                          now lower like normal lifts, i.e. by pressing
+                          on the sides of them.  They will rise back up.
+                          This'll slow some people down a bit, but there
+                          are ALWAYS ways around these things in NEW7.
+
+Additional Credits to   : Everyone in my office who sacrificed lunch to
+                          play (right.  sacrificed), everyone in my
+                          Networking class who played, and everyone
+                          on #IDOOM on IRC.  Also, thanks to ID for
+                          creating a wonderful game from which I have
+                          shamelessly stolen.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP07  (YES IT REPLACES MAP 7)
+Single Player           : Yes (But worthless)
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes! (That's what it's designed for!)  
+Difficulty Settings     : No 
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Level 07 from DOOM 2
+Editor(s) used          : Edmap, and whatever it comes with.
+Known Bugs              : None
+Design Time             : 1 hours (Plus whatever ID took to design it)
+                          
+
+* Permissions *
+
+Authors:  Go for it.  I'll never find out.  Use it and abuse it.
+
+You MAY distribute this WAD, however you see fit.  However, since I 
+like to see my name in lights, I'd PREFER you include this file with
+it.
+

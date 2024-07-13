@@ -1,0 +1,56 @@
+================================================================
+Title                   :RAZZOR	
+Filename                : RAZZOR.WAD
+Author                  : Rob Misner
+Email Address           :Robert.Misner@canrem.com
+			 
+Misc. Author Info       :
+
+Description             : Razzor is a pure deathmatch level .The level is of
+ a medium size and is very centralized so that theres a few different places
+ to go but everyones going to end up back at the arena area.There are a few 
+sniper areas that offer advantages but are also hazardous if your not 
+careful ;-). All the weapons are present but if ya want the BFG ya gotta be
+ pretty good with your controls. hehe
+
+Additional Credits to   :All the guys at ID for making my life hell! :-)
+
+				PLAYTESTERS:Shawn(the Bulldog)Billington
+				Ryan(I'm gonna rammit down your throat)Rose	
+================================================================
+
+* Play Information *
+
+Game                    : DOOM II
+Episode and Level #     :level 1	
+Single Player           : Yes/but why	
+Cooperative 2-4 Player  : not a hope in hell
+Deathmatch 2-4 Player   : Yes/go kick some butt!!!
+Difficulty Settings     : No/Be a man play level 4
+New Sounds              : No
+New Graphics            : No
+New Music               : yep (one of the greatest alltime Zep tunes ever!!!
+Demos Replaced          : None
+lmps			: R&R.lmp included(me and ryan goin to town);-)
+* Construction *
+
+Base                    : New level from scratch/30+hrs. 
+Editor(s) used          :Doomcad 5.1/ bsp 1.1x
+Known Bugs              :texture alignment isn't implemented but whos got 
+			 time to sight see when someones blasten ya in 
+			 the ass.
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.
+Authors may change items to suit there needs
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+                       

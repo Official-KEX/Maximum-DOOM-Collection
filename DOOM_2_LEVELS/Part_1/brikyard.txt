@@ -1,0 +1,63 @@
+==============================================================================
+Title                   : The Brick Yard
+Filename                : BRIKYARD.WAD
+Author                  : Alan R. Johns
+Email Address           : Alan.Johns@cts.comsat.com
+Misc. Author Info       : 1st serious Deathmatch wad. I've taken a little of
+                          what I liked in many deathmatch wads and implemented
+                          them in this wad.
+
+Description             : This is a DOOM II-only deathmatch wad.
+                          If you like the arena type deathmatch wad, then
+                          you'll like this one. I've spent alot of time making
+                          sure the textures line up, that doors aren't chopped
+                          in half, and you don't see the tootie-fruity effect
+                          all over the place. There nothing more irritating
+                          than these people who publish wads with basically
+                          good structural ideas, but with crappy looking
+                          texture alignments.
+                          There are plenty of secret areas and sniper points.
+                          However, watch your back! There is almost no place
+                          you can go where someone can't sneak up behind you.
+                          Have fun. I hope you enjoy it and much as I did
+                          making it.
+
+Additional Credits to   : Jeff Rabenhorst. This is the ONLY Doom editor IMHO.
+
+                          Rick Slezak and Gary Peifer for helping debug this
+                          wad and being rather ruthless playtesters.
+
+==============================================================================
+
+* Play Information *
+
+Episode and Level #     : 01
+Single Player           : Yes, but why?
+Cooperative 2-4 Player  : Yes, who knows why?
+Deathmatch 2-4 Player   : Yes, yes, yes, this is why!!
+Difficulty Settings     : Depends on your opponents!
+New Sounds              : No.
+New Graphics            : No.
+New Music               : No.
+Demos Replaced          : None.
+
+* Construction *
+
+Base                    : Totally Original Wad
+Editor(s) used          : Edmap 1.23 The best!!!
+Known Bugs              : None so far. Please Email if you find any.
+
+* Copyyright / Permissions *
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com
+
+UseNet: alt.binaries.doom
+
+Other: Compuserve

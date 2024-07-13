@@ -1,0 +1,53 @@
+					    THOR.wad                                                 ================================================================                                                Title                   : thor.wadAuthor                  : Chris PollinaE-mail address:   chrismkII@aol.com
+			  
+		      
+Description             :You are finally home. You are tired so you go to sleep 
+you wake up to find yourself in a bizarre fortress. Just keep saying its only a dream, its only a dream..  
+			  
+			  
+			 
+		
+
+Additional Credits to   : The Guys at ID for making such a great game and letting us 
+				    build wads for it.
+			 
+			 Matt Ayres for making Waded, the greatest level editor of all time!!!
+						 
+			 
+			  
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes 
+Difficulty Settings     : hurt me plenty
+New Sounds              : No
+New Music               : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : from scratch
+Build Time              : five-six hours
+Editor(s) used          : Waded 1.81b
+			
+Known Bugs              : I found two or three tutti frutti effects
+				    
+
+* Copyright / Permissions *
+
+You may distribute this file provided you include this file, with no
+modifications. Authors may use this file as a base for additional
+levels, but at least give me some credit.
+
+This is my 1st wad, please mail me to tell me how I am doing,to hard, to easy, 
+whatever...
+
+Enjoy!!!!!!
+
+
+
+								    

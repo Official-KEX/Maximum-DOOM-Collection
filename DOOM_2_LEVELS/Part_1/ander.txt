@@ -1,0 +1,81 @@
+================================================================
+Title                   : The mad scientist has been working!!  
+Filename                : ANDER.WAD 
+Zipfile                 : ANDER.ZIP
+Packed with             : PKzip 2.04G
+Author                  : Magnus Ander
+Email Address           : m94man@student.tdb.uu.se
+Misc. Author Info       : Student (math and computerscience)                   
+			  I do some writing too, when I am in the mood.
+			  Are there any girls out there creating WADs????
+			  Please send me some email if you are one of them... 
+						  
+Description             : A scientist is trying to create human life. 
+			  People say that he is mad. One evening he sits 
+			  in the local pub with a spooky hysteric smile     
+			  on his face. He is mumbling something about 
+			  success. Succes it is, but one thing is terribly 
+			  wrong. It is not human, not human at all!! 
+					    *  *  *
+			  The door is locked behind you!! Now there is only
+			  one way out!! When you turn around the corner you 
+			  realise that the scientist really IS MAD!!
+
+Additional Credits      : Id - Creators of DOOM!
+			  Joost Schuur - info about how to upload
+			  (if it wasn't for him you wouldn't read this).
+			  The author of NEWTECHN.WAD - the bulletproof-
+			  transparent-sector-technique.
+			  Raphael Quinet and Brendon Wyber - DEU 5.21 GCC
+			  They did some excellent work on the GCC-version!!!
+			  Colin Reed - BSP 1.12x
+			  Jens Hykkelbjerg - RMB 2.1
+			  PC - my computer.
+			  SPC - from whom I bought my computer.
+			  My parents - who gave birth to me.
+			  Uppsala University - for sparetime.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : No 
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes, HMP and UV (UV is kinda different).
+New Sounds              : No
+New Graphics            : No (Still readin' the manuals)
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : The number of hours is unprintable. As this 
+			  was my first wad I had to learn about editing 
+			  and DEU first. I have to STUDY some too, you know.
+Editor(s) used          : DEU 5.21 GCC, BSP 1.12x, RMB 2.1  
+			  (waiting for DEU 5.3 to come)
+Known Bugs              : Some thin strings that drops down from the ceiling. 
+			  They are not that easy to discover, so you may not 
+			  even notice. Is it the bsp that causes these????? 
+
+			  
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels provide you credit me with creating the original level and 
+that you say the level you've made is a modified version of my 
+original level.
+
+		     *** VERY IMPORTANT***
+You MAY extract any part/idea or any derivatives of its kind from 
+this level and put it in your level, provided that you credit my name
+in your .txt distribution.
+			      ***
+Don't try to sell this WAD to the forces of evil!! Otherwise DOOM will 
+become your reality... In other words, if you distribute it, please do it  
+without any charge. I want people to enjoy this for free!!
+
+* Where to get this WAD *
+Well... if you read this you should already know where to get it. 
+It should be in the same place as this .txt-file!

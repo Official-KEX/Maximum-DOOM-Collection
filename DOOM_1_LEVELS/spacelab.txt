@@ -1,0 +1,92 @@
+
+Title                   : SPACLAB2.WAD  (SPACELAB.WAD update for Doom 1.666)   
+
+Authors                 : Dan Anderson 
+		           Ringdancer, 
+			   Night...an all around guy... 
+			   DR.I.M.DEMENTED. (Doc!)
+			   Thanks guys..
+
+Email Address           : dananderson@delphi.com
+		 	  drimdemented@fatal.com
+			  drdmntd@aol.com
+
+Description             : This is a DEATHMATCH 2.0 pwad.
+                          Please play this wad with -altdeath only.
+                          You will lack the necessary ammo with origional 
+                          deathmatch rules.  All weapons are accessable and 
+                          a COOPERATIVE exit is included.
+                          Monsters: CYBE! Just to keep you on the move.
+                          Plus, a couple of barons for you to wave at as you 
+                          go by!  For BEST results, Play ultra-violence with
+			  respawn switched ON! 
+                          
+Info                    : Being an advid Doom player since Dec. 10th '93,
+			  I had to finally create a PWAD of my own.  Just 
+                          could not take the dreams...running through the 
+                          corridors! :)
+                          This is my first Deathmatch pwad.
+                          The level is very compact, so you
+                          won't search to long to get a frag.
+                          
+                                                                                       
+Additional Credits to   : Brendon Wyber and Raphael Quinet for DEU.
+                          Per Allanson for his GCC port of DEU.
+			  Collin Reed for BSP.
+			  Bill Neisius for DMGRAPH, DMMUSIC, DMAUD
+                          pinder2@griffin.emba.uvm.edu for the great	
+			   stars.gif snapshot.
+		          author of space.wad for glass texture idea.
+                          Internet people
+			  And MOST of all...those guys at ID!! For putting
+			   together the most incredible, editable game!
+			  Thank you!
+
+Please email me any comments or suggestions of what you think about this level.
+
+
+
+* Play Information *
+
+Doom Version            : 1.666 (1.4 or above)
+Episode and Level #     : E1M1
+Single Player           : (yes) (...if you care to look around)
+Cooperative 2-4 Player  : (yes) (but why?)
+Deathmatch 2-4 Player   : YES !      !!! DEATHMATCH 2.0 ONLY !!!
+Difficulty Settings     : YES! (UV has most monsters, and so forth)
+New Sounds              : YES! (org. music midi file not compatable w/1.666)
+New Graphics            : YES! :)
+Demos Replaced          : None
+Release Date            : AUG-19-1994
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Too Many! :) 
+                          level had major re-construction
+			  due to "viscplane errors" AARGH!
+Editor(s) used          : DEU 5.21 gcc, BSP 1.2x, DMMUSIC10, DMGRAPH11
+			  DMAUD11
+Known Bugs              : no known bugs with 1.5, 1.6
+                          ( some HOM with V. 1.2 )
+                          org. music midi file not compatable with Doom 1.666
+			  so was music taken out   :(
+
+* Copyright / Permissions *
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+  infant2.sphs.indiana.edu    (spaclab2.zip)
+  
+BBS sites:
+  Software Creations (508) 368-7036 (spaclab.zip)
+  Fatal Error (916) 365-6104
+
+American OnLine
+  keyword "PC GAMES" then do a file search for spacelab.zip

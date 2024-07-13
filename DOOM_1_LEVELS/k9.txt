@@ -1,0 +1,77 @@
+================================================================
+Title                   : K9.WAD   
+Author                  : Keith Sheehan & Dave Murray
+Email Address           : upe2001 & ucs1002 @abdn.ac.uk 
+Misc. Author Info       : I drink too much Coke. ;(
+                          & Dave has long hair.
+                          Also, when I was a child .... DELETED
+Description             : With my fertile imagination I failed 
+                          to come up with an honest reason for 
+                          this level. But have fun.  Keith
+                        
+                        Story typed by Dave.
+
+                        In deepest, darkest Durham, deviously, 
+                        dastardly, demonstrative, (etc.),demonic
+                        forces have found fertile ground amongst 
+                        the disillusioned 'Populous'. :) You 
+                        were sent in to break into the cult's HQ 
+                        and rifle their computer system but 
+                        guess what?? You've set off the alarm.:)
+                        Well, at least it can't be as bad as 
+                        Hell...could it?
+
+Additional Credits to   : Dave Murray for testing this level to 
+                           hell and back! :)
+                          Steph Mackay, one of the many Doom 
+                           Widows (TM) of the world.
+                          Author's of Deu & BSP.We're not worthy
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes : Only tested on a Serial cable
+Deathmatch 2-4 Player   : Yes :  "      "    " "   "      "
+Difficulty Settings     : Yes : UV can be done but not under 15m
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : 1/2/3 : I can't play to save my life 
+                                  while being recorded. Does 
+                                  anyone else suffer from this 
+                                  almost fatal disease?? ;)
+                                     OK so we're CRAP. 
+                                  ( Well Dave is anyway!!:) )
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Longer than it looks! :) 
+Editor(s) used          : Deu v5.0 & v5.1 also BSP 1.0
+Known Bugs              : Some creatures move earlier than they 
+                          should (But it all adds to the fun)
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+* Comments *
+
+Please send any compliments to Keith and if you feel that you 
+would like to rant and rave at a small defenceless creature then 
+post all hate mail to Dave.
+
+Seriously please tell us what you think and I hope you have 
+fun. (Well at least kill everything)

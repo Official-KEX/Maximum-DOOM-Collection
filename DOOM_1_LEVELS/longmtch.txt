@@ -1,0 +1,60 @@
+WAD File: longmtch.wad
+Author  : Shane Boyer (sboyer@esu.edu) with help from K. Desrochers, T. Furst
+Date    : 4-21-94
+Author Note: This level has been refined over the course of a couple weeks
+	     through heavy playtesting. Hopefully an optimum blend of 
+	     enemies, ammo, health and "tricks" as well as physical design
+	     has been acheived. Please email any comments to above address.
+Description:
+	A Deathmatch (although single player is supported on one level
+	of play) level. Mid-sized so that players run into each other
+	often enough, but all areas have multiple connections to other
+	areas so there are no traps.  Three big rooms, nicknamed "The
+	Prison", "The Skull Room", and "The Arena". These rooms have various 
+	windows, teleports, and interconnecting passageways between them.
+	Plenty of health, ammo and armor to go around.  Designed as a long
+	lasting deathmatch level.  The three weapons in the multiplayer
+	game are the shotgun, rocket launcher, and one chainsaw.  In the single
+	player game, a chain gun is added.
+	Three secrets, including the "Happy Room".
+	longmtch.wad replaces level 1 of episode 2.
+
+How to play:
+	Single Player: 
+	    Single player is designed to be moderately hard, but shouldn't
+	    be impossible for doom "veterans". The only skill level that
+	    has single player item placements is level 4 (Ultra Violence).
+	    To play single player:
+		doom -file longmtch.wad -episode 2 -skill 4
+
+	Multiplayer:
+	    Multiplayer increases the amount of health and ammo, and decreases
+	    the number of enemies. For those of you who like to play Deathmatch
+	    with enemies, this level should allow -respawn at the same time.
+	    There are just enough enemies to annoy you!  Multiplayer is setup
+	    for skill levels 1, 2 and 3.  So depending on how much damage you
+	    want to take, choose accordingly; the item placement is the same
+	    between the three levels. To play two-player with respawn on 
+	    skill 1, type:
+		ipxsetup -file longmtch.wad -episode 2 -skill 1 -respawn
+
+Known Problems: There are two "problems":
+		  - first, there is a point when going from one sector into
+		    a door sector where the screen momentarily will turn
+		    black with speckles.  I've run the latest BSP node
+		    generator on the WAD file, with no change. I've seen 
+		    this effect in other WADs but don't know what to do 
+		    to fix it. Doesn't affect gameplay.
+		  - Second, a wall in the "Happy Room" (believe me, you'll
+		    know what room I'm talking about when you see it) is 
+		    transparent in the sense you can shoot rockets or
+		    plasma through it. I set the linedefs to impassible,
+		    but without success. Don't know why this happens.
+		    Still really doesn't affect gameplay all that much.
+
+And PLEASE email me any comments you have, as I would be receptive to either
+modifying this level or building a new one if people like this one.
+
+			Shane (sboyer@esu.edu)
+
+

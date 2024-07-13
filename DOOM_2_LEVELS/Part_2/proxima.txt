@@ -1,0 +1,58 @@
+================================================================
+Title                   : Proxima Centauri 
+Filename                : PROXIMA.WAD
+Author                  : Scott Lampert
+Email Address           : jumpstile@fortunat.pdial.interpath.net
+
+Description             : This WAD file supports all three modes of play:
+                          Deathmatch, Single, and Co-Op.  Its an 
+                          indoor/outdoor setting with some excellent DM
+                          battle areas.  The cyberdemon can end up helping
+                          you out quite a bit if you know how to manipulate
+                          him. ;)
+
+Additional Credits to   : Jackie Larmay & David Larmay for Beta Testing
+                          Olivier Montanuy for Deutex
+                          Jason Hoffos for Dmapedit
+                          And ID software (this should be a macro :) )
+================================================================
+
+* Play Information *
+
+DOOM Version            : DOOM 2
+Level #                 : MAP01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes (All)
+New Sounds              : Yes
+New Graphics            : Yes (Sky)
+New Music               : Yes
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Dmapedit 4.07 Beta
+Known Bugs              : None
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels (meaning don't lift parts out, make your own); however, 
+authors MAY make this WAD part of a WAD collection as long as 
+it remains unmodified and this text file stays with it.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact and send me a copy of the finished product as you plan to
+release it.
+
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com
+           ftp.idsoftware.com
+           ftp.any.place.else
+

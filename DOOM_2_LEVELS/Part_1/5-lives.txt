@@ -1,0 +1,25 @@
+Hi there......
+
+This is E X O D U S......
+-------------------------
+WARNING!!!!!!
+if you ever want to play doom2 to at its normal difficulty again
+make a copy of your doom2.exe file before doing the rest of this.
+you do this by typing from your doom2 directory.
+copy doom2.exe c:\
+or on to a disk, or in to any other directory that you choose.
+if you dont, you will have to reinstall doom2 to go back to its original
+difficulty level.
+when you want to go back to doom2's original difficulty just copy the 
+doom2.exe file back into the doom2 directory.
+-------------------------
+If your unfamiliar with using dehacked.exe here is how you do it.
+-------------------------
+#1 unzip all the files in the 5-lives.zip to your doom2 directory like this.
+pkunzip 5-lives.zip c:\doom2
+if your doom2 directory is somewhere else then just give the path 
+that your computer uses for doom2.
+#2 go to your doom2 directory and type dehacked -load 5-lives.deh
+#3 to play the level type doom2 -file 5-lives.wad
+--------------------------
+Have fun!!!!!!

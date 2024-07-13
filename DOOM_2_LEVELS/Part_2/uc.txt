@@ -1,0 +1,49 @@
+================================================================
+Title                   : Doom2 Ultimate Challenge  Beta Version (0.5)
+Author                  : Steven J King
+Email Address           : SKing839 on AOL
+Misc. Author Info       : Doom Player                  
+			  
+Description             : The Ultimate Challenge is full of Nasty Monsters.
+			  And for the solo player may prove to much.  You can always
+                          cheat.  There is plenty of weapons and ammo and even a few 
+                          secret areas.  It is possible to win.   At the directory in
+                          which you have doom2 located type doom2 -file UC.wad.
+                          This should replace the regular map1 with the challenge of
+                          a doomer's lifetime.  Good Luck
+			 
+
+Additional Credits      : Id - Creators of DOOM! and Doom2!
+			  EdMap 1.2
+			 
+================================================================
+
+* Play Information *
+
+Map 01                  : MAp01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes 
+Deathmatch 2-4 Player   : Yes. Made for the hard core Deathmatch players
+Difficulty Settings     : As the Name implies
+New Sounds              : No
+New Graphics            : Doom2 Graphics (ID software and EdMap)
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 8 Hours
+Editor(s) used          : EdMap ver 1.2
+Known Bugs              : One of the rooms has disappearing barrels can be dangerous
+                          in battle
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels provide you credit me with creating the original level and 
+that you say the level you've made is a modified version of my 
+original level.
+
+This is not produced by ID Software and therefore no tech support by them is possible.
+Good Luck Let me know if you have any problems or even what you think of my very first
+attempt.

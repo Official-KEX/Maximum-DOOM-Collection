@@ -1,0 +1,47 @@
+Title                   : Arena ][, the first DeathMatch WAD for DOOM ][
+Filename                : ARENA-II.WAD
+Author                  : Chris Howse
+                          Geoff Coovert
+Email Address           : Chris - mrhowse@aol.com, jmhows1@ukcc.uky.edu
+                          Geoff - clcoov0@ukcc.uky.edu
+Description             : After kicking some demonic butt and saving Earth
+                          from a fate worse than hell, it's time for some
+                          R&R.  NOT !!!  It's time to kick some Marine ass
+                          and see how good you *really* are.
+Additional Credits to   : The author of LEDGES.WAD,
+                            which is the base of this level.
+                          Geoff Allen, author of DoomEd,
+                            soon to be the best WAD editor on the 'net.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01
+Single Player           : Yes, for those who can only handle the computer
+Cooperative 2-4 Player  : Yes, for those who can't beat anything alone
+Deathmatch 2-4 Player   : Yes, for those *real* DOOMers
+Difficulty Settings     : Yes (sucky - super)
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : LEDGES.WAD, *the* kickass WAD for DeathMatch
+Editor(s) used          : DoomEd 2.60 Beta 4, with a little hacking
+Known Bugs              : None that we know of, but we
+                          haven't done too much testing
+
+* Copyright / Permissions *
+
+Like what I say will make a diffrence to you, so why bother?
+
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu and mirrors
+
+BBS numbers:
+
+Other: alt.binaries.doom, America Online

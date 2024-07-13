@@ -1,0 +1,69 @@
+                       R  A  V E  N
+================================================================
+Title                   : Raven.WAD   
+Author                  : Jeff  Young
+Email Address           : None
+Misc. Author Info       : Loves Metallica
+Description             : This  is  the house im gonna
+                          Build in the future I like playing
+                          I Deathmatches If  you know all
+                          the secrects...
+Additional Credits to   : Your mama..She was great last night!
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Bout 25 hours...I  had to start over but you dont give a fuck 
+Editor(s) used          : Doom the Real Thing Editor v2.1 Beta
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors (MAY/may NOT) use this level as a base to build additional
+levels. Or I'll rip out your heart and serve it to my dog! 
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+BBS numbers:
+CHaOS in HeLL 414-xxx-xxxx
+Hell on Earth 414-FuckYou
+This Here BBS 414-376-7662
+
+FTP Sites:
+
+Other:
+
+-----=====M‰ÿí¿¿çÄí=====----- 
+
+IKWDW - Insane Kids With Demonic Wads
+c/o Jeff Young
+3127 s66th Apt #2
+Milwaukee Wi 53219-1340
+
+You will then receive the number to our bulletin boards, which has many
+good doom wads on them.
+
+You can find our latest .wads on some bulletin board systems......
+
+        Thanks,
+
+        ı‰üü Yô£•G  &  D‰R‰K P‰ÿ‰RSô•
+

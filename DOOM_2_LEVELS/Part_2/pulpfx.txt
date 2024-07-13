@@ -1,0 +1,72 @@
+================================================================
+Title                   : Pulp Fiction Doom
+Filename                : PULPFX.WAD
+Author                  : Chris Hopkins
+Email Address           : chopkins@peinet.pe.ca
+Misc. Author Info       : Also did swmusfx series, movie sound pwad
+                          On IRC as Lithium-
+Description             : I've seen this film at the theatre three
+                          times and I couldnt let it go without it's
+                          own PWAD.  :) I've replaced quite a few of
+                          the sounds including the addition of the
+                          first 10 seconds of `Miserlou' (the song
+                          in the trailer).  I got all these samples
+                          from the soundtrack so when it comes out on
+                          video I'll probably make a brand new one
+                          with much more to it. :)  But this still
+                          replaces the majority of sounds including
+                          the pistol which i replaced with Jules'
+                          pistol sound (_much_ cooler sounding than
+                          original).  So give it a try and if you havent
+                          already, GO SEE THE MOVIE!  It's my personal
+                          favorite movie of all time. (BTW:  Due to lack
+                          of available sounds, this only replaces sounds
+                          from Doom 1, but will still _work_ in Doom 2.  It
+                          just won't replace doom 2's new sounds, that's all)
+                          And if anybody happens to have some more sounds
+                          (I dont care how you get em, no questions asked :)
+                          feel free to send em to me and I'll include em
+                          in the `finished' version.  Thanks!
+
+Additional Credits to   : Quentin Tarantino for creating the truly
+                          great film these fx came from. :) 
+                          Author of Dmaud
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : N/A             
+Single Player           : N/A   
+Cooperative 2-4 Player  : N/A    
+Deathmatch 2-4 Player   : N/A   
+Difficulty Settings     : N/A                
+New Sounds              : Yes.  
+New Graphics            : No.   
+New Music               : No. (Unless you count Miserlou)
+Demos Replaced          : None.         
+
+* Construction *
+
+Base                    : Pulp Fiction Soundtrack and a .wav recorder. :)
+Editor(s) used          : DMAUD
+Known Bugs              : I know this really cool beetle in Tucson, Arizona.
+
+
+* Copyright / Permissions *
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites: ftp.orst.edu ftp.cdrom.com ftp.uwp.edu infant2.sphs.indiana.edu
+
+BBS numbers: None
+
+Other: IRC
+
+

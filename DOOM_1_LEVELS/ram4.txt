@@ -1,0 +1,86 @@
+================================================================
+Title                   : Rambutt's HERETIC (episode 1: Boot To The Head),   
+                          v2.0
+Date                    : 4/27/1995 (renamed Ram4.wad on 5/5/1995)
+Filename                : RAM4.WAD
+Author                  : Mark Potter
+Email Address           : ljbu20a@prodigy.com
+Misc. Author Info       : I need to test my wads more......
+
+Description             : Converted Rambutt's to Heretic take 2 !
+
+Additional Credits to   : id, Raven, and the makers of DEU2, HEU, 
+                          BSP, & DM2CONV
+================================================================
+
+* Play Information *
+
+Episode and Level #     : HERETIC Levels 1-9
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : 6 modified levels, 2 modified id levels, and 
+                          1 original
+Editor(s) used          : HEU and BSP 1.2
+Known Bugs              : I hope there's none left !
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers: from The Wall (1-214-286-8291), Code Red (1-214-424-4702)
+
+Other: contact me at ljbu20a@prodigy.com
+
+
+------------------------------------------------------------------------------
+ At first, I didn't notice all the textures misaligned and monsters too close
+ to the walls in Rambutt3.wad. I didn't notice'em until after I had released
+ the wad itself ! So, here's take #2, hopefully bug free. (?)
+
+ If you the name of the wad that any of these levels came from or who created
+ them, drop me a line ! I want to credit to the people who did these !
+
+ Also, I've added multi-player starts to all of these levels (deathmatch
+ included !) and I also fixed some problems that I found, as well as fixing
+ some problems that I added! So, if any of these levels are yours, I hope you 
+ like what I did to them.
+
+ The secret exit is in the same place it was in Rambutt1.wad. Where's that ?
+ Let's just say, don't go sneaking around in your parent's room !!
+
+
+Other Wads By Rambutt:
+
+#1.     Wad name = Rambutt1.zip
+        This was the original release. It was a 9 level wad for the first
+        DOOM game. Released on 4/11/95, along with "Rambutt's DOOM FAQ II"
+        v0.04.
+
+#2.     Wad name = Rambutt2.zip
+        After deciding to finish the rest of Rambutt's DOOM for DOOM 2, I
+        converted all of my DOOM I levels to DOOM II. This version has 2 more
+        levels to balance out with the 11 levels in the first part of DOOM 2.
+        Released on 4/19/1995, with v0.05 of "Rambutt's DOOM FAQ II"
+
+#3.     Wad name = Rambutt3.zip
+        Heretic version of Boot To The Head released 4/21/1995, take #1.
+

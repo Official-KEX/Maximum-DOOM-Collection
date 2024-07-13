@@ -1,0 +1,101 @@
+================================================================
+    DEATHMATCH! * OFFICIAL COMPETITION WAD!  Doom II DM Wad!
+================================================================
+    * Brought to you by STONEHENGE BBS & BATTLESTATION 1 *
+================================================================
+
+              UNZIP H2HMUDD1.ZIP INTO DOOM2 DIR 
+
+This wad is not set up for single play - only co-op & deathmatch
+================================================================
+
+Episode Title           : H2HMUDD1 Created 1/24/95
+Files			: H2HMUDD1.WAD - Single level
+			: H2HMUDD1.TXT - This Text File
+Author                  : Dave Swift
+Email Address           : Mud One@Aol.Com
+			  74401,1041@CIS.COM
+			  swift1@powergrid.electriciti.com
+			  Stonehenge BBS (619) 929-6596
+Misc. Author Info       : Author Of The MUD Levels Available Everywhere
+Description             : Deathmatch & Co-Op Only
+Many Thanks To		: Geoff Allen Author of DoomEd, "The Real Thing"
+			: David Bruni Author of DMRETU DoomEd Tutorial
+			: Olivier Montanuy Author of DeuTex
+			: Matt Fell Author Doom Specs
+			: Joe Pantuso Author of RG Doom Edit
+			: Raphael Quinet Author of DEU
+			: ZUHL for the Kuhl graphic work!
+			: All Youse who subject yourself to these levels	
+			  and have given me most excellent feedback!		 
+================================================================
+* Play Information *
+Game                    : Doom II Registered Ver. 1.8
+Episode and Level #     : Map01
+Single Player           : No
+Cooperative 2-4 Player  : Yes! 
+Deathmatch 2-4 Player   : Yes!
+Difficulty Settings     : Yes, some
+New Sounds              : No
+New Graphics            : Yes, lots of them!
+Demos Replaced          : No
+
+* Construction *
+Base                    : New level All from scratch (mudlet base)
+Build Time              : About 20 Hours (mostly Zuhl's gfx time)
+Editor(s) used          : DoomEd "The Real Thing" 
+			: Renegade Graphics Doom Edit 
+			: DEU 
+			: DeuTex 
+Known Bugs              : Please Let me know if you find any.
+
+* Copyright / Permissions *
+Authors may NOT use any of these levels as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+***************** Where to get H2HMUD WADS ******************************
+
+H2H DOOM BBS (619) 426-0073 Home of BATTLESTATION 1 - Multiplayer Gaming
+		  **  The Best Place On Earth To Die  **  ARE YOU WORTHY? 
+                  **  8 lines 28.8 USR  ** Co-Op - Deathmatch - Files **
+
+STONEHENGE BBS (619) 929-6596 - Home Of The MUD Levels!
+		  DOOM  -  DOOM II  -  HERETIC  -  ROTT
+		  DESCENT  -  QUAKE  -  DARK FORCES
+		  24 Hours - 14400
+
+Game Palace BBS   (305) 587-4258  BEST ALL DOOM BBS : DOOM HQ!
+		  Go No Further!  This BBS Has THE BEST & MOST
+		  WADS, HACKS, EDITORS, SOUNDS and LOTS LOTS more!
+		  Download DOOMLIST.ZIP for complete up to date listing.
+
+DOOMania bbs (317)662-8842, (317)662-1447, 48, 49
+                  Home to the DOOMnet conference group. 4 Nodes
+                  24 hours a day!
+
+MetroDOOM bbs (404)590-9375  Another large DOOM & DOOM II BBS 
+
+MORE SOURCES      : America Online
+		  : Compuserve
+		  : Various Internet FTP Sites
+*********************************************************************
+
+iddqd - god
+idclip - no clip
+idkfa - ammo
+idbehold plus letter - s-v-i-r-a-l
+iddt - map enhance
+idclev01 - warp to map01
+
+Thanks & Regards,
+Dave Swift
+swift1@powergrid.electriciti.com
+Stonehenge BBS (619) 929-6596
+		      
+
+

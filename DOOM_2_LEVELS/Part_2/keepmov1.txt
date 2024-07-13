@@ -1,0 +1,59 @@
+=================================================================
+Title                   : Keep Moving I (for DOOM II)
+Filename                : KEEPMOV1.WAD
+Author                  : Joe Liccel
+Email Address           : joe.liccel@idsonline.com
+Description             : Purely deathmatch!  Designed to keep
+                          you and your opponents on your toes.
+                          In deathmatch mode everyone starts with
+                          one of four weapons and you keep that
+                          weapon...  until you die.  Ammo at one
+                          end, health at the other, and plenty of
+                          frags in between.  Watch your back, aim
+                          well, and KEEP MOVING!
+                          After testing several different setup
+                          options, we came to the conclusion that
+                          the best play was with Deathmatch 2.0 and
+                          respawning monsters.  Try it like that!
+                          It really keeps the action going...
+                          The map contains every weapon, most of
+                          of bonuses, and yes, there is an exit.
+Additional Credits to   : John Hendrickson, for pointing things
+                          out and help with playtesting.  Also
+                          one mean deathmatch opponent!
+================================================================
+
+* Play Information *
+
+Level #                 : MAP01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : 3,4 (1 and 2 are the same as 3)
+                          4 is pretty tough!
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes.  If you don't like it, replace it!
+                          That's the beauty of it!
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Build from scratch with a few 'stolen' ideas.
+Editor(s) used          : 1DEU-II, EdMap 1.22, IDBSP 1.0
+Known Bugs              : None that I can find.
+
+* Copyright / Permissions *
+
+Do what you wish with it.  At least give me a tiny bit of the credit if
+you use is as a base for another level.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+BBS numbers: Infinite Data Source (703-642-8801) USA
+
+Other: Mirrors of infant2.sphs.indiana.edu
+
+

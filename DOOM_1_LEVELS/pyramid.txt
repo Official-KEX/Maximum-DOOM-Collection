@@ -1,0 +1,53 @@
+================================================================
+Title                   : PYRAMID.WAD   
+Author                  : Dave Brown: Brain-Dead Eng. Technician
+Email Address           : dbrown@delphi.dasd.honeywell.com
+
+Misc. Author Info       : This is a very large level and may
+                          take a fast machine to really enjoy it.
+                          I pushed many of the level boundaries
+                          when building this WAD, and couldn't
+                          put everything in that I had planned
+                          to.
+
+Description             : Single, Multi-Player, and Deathmatch.
+                          Make it to the Pyramid, get to the
+                          top, and see what happens next.
+
+Additional Credits to   : Steve Hockemeier (Guinea Pig) Level
+                          Tester. Gave me excellent feedback
+                          and ideas which helped make this a
+                          fun and challenging experience!
+                          Also...much Kudo's(?) to the creators
+                          of DOOM, DEU51, and BSP1.1x
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1 
+Single Player           : Yes!
+Cooperative 2-4 Player  : Yes!
+Deathmatch 2-4 Player   : Yes!
+Difficulty Settings     : Yes!
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Exactly...uhm...uhm...WEEKS? 
+                          (One hell of a learning curve but
+                          it was worth it.)
+Editor(s) used          : DEU5.0 and 5.1, BSP1.0 and 1.1x
+Known Bugs              : Some minor MIRROR effects caused by all
+                          of the 2s line Def's needed for the 
+                          pyramid, but it's hardly noticable and
+                          doesn't effect game play.
+
+
+* Copyright / Permissions *
+
+Do what you want and have FUN!
+You may only be able to change THINGS around because it's almost
+impossible to add more to it without it crashing.

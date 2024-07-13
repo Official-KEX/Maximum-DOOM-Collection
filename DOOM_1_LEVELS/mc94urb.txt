@@ -1,0 +1,80 @@
+================================================================
+Title                   : MCmicrocomputer - Urbino '94
+Filename                : MC94URB.WAD
+Authors                 : Corrado Giustozzi
+                          with some help from Valter Di Dio
+Email Address           : mc0006@mclink.it (Corrado)
+                          mc0009@mclink.it (Valter)
+Misc. Author info       : Corrado Giustozzi: senior technical editor
+                          and columnist for MCmicrocomputer magazine.
+                          Valter di Dio: columnist for MCmicrocomputer.
+
+Description             : A deathmatch level originally developed as
+                          the official arena for the 1st Italian Doom
+                          Championship (Urbino, September 11-25, 1994),
+                          sponsored by MCmicrocomputer, the leading italian
+                          microcomputer magazine. (That explains
+                          its name and the presence of the MC logo
+                          in the central hoctagonal hall).
+                          The level is quite wide, very symmetrical,
+                          with 3 rings of long corridors which
+                          surround a central "plaza". 4 carefully designed
+                          special entry points ensure the optimal
+                          deployment of players. All the major weapons
+                          are present, as well as some healing potions,
+                          lots of barrels and a few monsters.
+                          Some nice tricks are played with switches,
+                          lifts and lights (in certain areas the presence
+                          of the light or the lowering of a floor is an
+                          useful warning against a potential ambush).
+                          The level is designed to be played by no less
+                          than 4 players, and with the deathmatch 2.0 rules.
+                          An exit switch (very hidden) is supplied; however,
+                          the level is to be played on a fixed time base as
+                          enforced by the -timer # command line switch (only
+                          in Doom v. 1.666). The suggested time base (adopted
+                          in the Italian Championship) is 25 minutes.
+
+
+Additional Credits to   : The makers of DEU, BSP and REJECT.
+                          And to ID Software, of course!
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes (but not so fun - too big and few monsters)
+Cooperative 2-4 Player  : Yes (same as above)
+Deathmatch 2-4 Player   : Yes, 4 players with Deathmatch 2.0 rules
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21, BSP 1.2, REJECT 1.0
+Known Bugs              : None
+
+* Copyright / Permissions *
+
+This WAD is Copyright (C) 1994, Corrado Giustozzi & Technimedia S.r.l.
+
+Authors MAY use this level as a base to build additional levels, as
+long as credit is given to the original authors and copyright owners.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+ infant2.sphs.indiana.edu
+
+OTHER:
+ MC-link (telnet mclink.mclink.it)
+

@@ -1,0 +1,49 @@
+================================================================
+Title                   : Illusions Of Home
+Filename                : ILLUSORY.WAD
+Author                  : Brett Librandi
+Email Address           : brianl@ilx.com
+Misc. Author Info       : Please send any bugs or ideas to the email
+			  address above.
+
+Description             : A whole new doom game to play
+                          Has both cooperative and deathmatch
+                          ability.  Both are fun to play with
+                          
+Additional Credits to   : Rick Huber and Brian Huber for their additions
+                          and help to the wad.  And my brother Brian for
+                          helping playtest it.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1-E3
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Slight difference in some
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New levels from scratch
+Editor(s) used          : Deu 5.21 and BSP1.21
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels
+provided they mention my name.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites: America On-Line, ftp.cdrom.com, ftp.idsoftware.com

@@ -1,0 +1,55 @@
+================================================================
+Title                   : CYBOFUN2.WAD
+Author                  : Jason Silvio a.k.a. The Eternal One <eternal1>
+Email Address           : Call Jason's BBS @ (713)361-3169 and send mail to 
+                          Jason
+
+Description             : I got the idea for this when a friend of mine said
+                          that Cyber Demons were too easy to kill.. well, he
+                          doesn't say that anymore!!!  :)  5 of the 6 levels
+                          contain 1 or more Cyber Demons, please contact me
+                          if you can pass all 6 levels without cheat codes!!
+
+                          This is CYNOFUN.WAD with an extra challenging level
+                          and music added to all 6 levels...
+                          
+Additional Credits to   : Ben Jordan for saying Cyber Demons were too easy,
+                          Dracos and Stilleto for help with the music
+
+================================================================
+
+* Play Information *
+
+Level #                 : MAP01 through MAP06
+Single Player           : ONLY 
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : No                          
+New Sounds              : Yes
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Scratch 
+Build Time              : About 2 hours
+Editor(s) used          : DoomEd v2.60 áeta, DM2CONV, DEU2, BSP, WADCAT, 
+                          DMMUSIC
+Known Bugs              : None                                               
+
+
+* Copyright / Permissions *
+
+You MAY *NOT* use this level as a base to build additional levels
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  
+
+* Where to get this WAD *
+
+Jason's BBS (713)361-3169 (This is where I put my newest ones as well)
+DWANGO BBS (713)467-9272
+
+--- Jason, The Eternal One

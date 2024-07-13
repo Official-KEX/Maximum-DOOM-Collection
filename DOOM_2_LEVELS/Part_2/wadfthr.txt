@@ -1,0 +1,270 @@
+================================================================
+Title                   : WadFather, Part 1
+Filename                : WADFTHR.WAD
+Author                  : The Wadfather (a nickname my friends gave me)
+Email Address           : delaosa@accessone.com
+Misc. Author Info       : Looking forward to playing my registered
+                          version of Heretic.
+
+Description             : Wadfthr.WAD is a collection of deathmatch
+                          levels for Doom 2.  It was optimized for
+                          the alternate deathmatch rules.  There are
+                          no "network-play only" items, so what you
+                          see is what you get.
+
+Additional Credits to   : ID Software
+                          Matt Tagliaferri for DoomCAD
+                          Colin Reed for BSP
+                          WAD file authors
+                          Greg Lewis (because Dehacked is so cool)
+================================================================
+
+* Play Information *
+
+Game                    : DOOM II
+Episode and Level #     : Maps 1-30, 31 & 32
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes - monsters only
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Modified levels from DOOM, DOOM 2, and
+                          the InterNet
+Editor(s) used          : DoomCAD 5.1, BSP 1.2
+Known Bugs              : None.  Please send any bug reports to
+                          my e-mail address above.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.  
+If you read the text files in AUTHOR.ZIP, you'll see that some of the 
+authors forbid modification of their levels.  I received their permission 
+to modify their WAD files.  I suggest that you do the same if you'd like 
+to modify the restricted levels contained in Wadfthr.WAD.
+
+You MAY distribute this WAD, provided you include this file and the
+original authors' text files, with no modifications.  You may distribute 
+this file in any electronic format (BBS, Diskette, CD, etc) as long as 
+you include this file and the original authors' text files intact. 
+
+These restrictions do not intend to alter any rights held by ID Software, 
+Matt Tagliaferri, Colin Reed, or the WAD file authors.
+
+
+* Where to get this WAD (Original Upload Site) *
+
+FTP sites: ftp.cdrom.com
+
+
+* Other *
+
+Please send compliments/feedback to my E-mail address above. I'd like to 
+know if anybody uses this WAD for tournament play or BBS system usage.  
+  
+I am working on a smaller sequel to this WAD file.  Please feel free 
+to point me towards other neat Deathmatch WADs.  Just tell me the 
+location to download the files from or post the WADs on ftp.cdrom.com.
+
+I think this WAD would work really well with Heretic.  Anybody interested
+in converting it over?
+
+================================================================
+                              
+                              AUTHOR INFO
+                              
+Unzip the file labeled AUTHOR.ZIP for more information about the levels 
+listed below.  The information in the text files may differ from the actual
+level because I've modified the WADs.  My modifications consisted of texture 
+changes, texture alignment, bug fixes, weapon/goodie re-allocation, different 
+monsters, and the addition of exits and/or exit signs.  Each level required
+varying degrees of modification.  You'll have to download each WAD in its 
+original format to view the extent of my changes.  All of these levels can 
+be found at ftp.cdrom.com.
+
+Send E-mail to the authors if you like their work.
+
+
+Lvl #           File name      Author
+
+1               TNCROSS2       Tom Neff / Valis
+2               MAVERICK       Tom Neff
+3               GORE1          Torben Eilskov Leth & Steen Rosendal Steiniche
+4               DOOM E2M1      ID Software (textures by Chris Hopkins)      
+5               COMBAT         Karl R. Peters     
+6               IDMAP01        American McGee
+7               DOOM E3M3      ID Software
+8               FRAGME         Alan J. Post
+9               QUARY11        Dave Matteson
+10              DANZIG11       B. Vannatta
+11              LEDGES         Mark K. Gresbach Jr.   
+12              FRGMEAGN       Alan J. Post
+13              DOOM II M1     ID Software
+14              DOOM II M7     ID Software
+15              DANZIG15       B. Vannatta
+16              TNPLHOME       Steven L. Bareman
+17              DANZIG12       B. Vannatta
+18              DANZIG13       Brandon Weldon
+19              DOOM II M3     ID Software
+20              FRGMEOMT       Alan J. Post
+21              SPUNK          Richard Smol
+22              HITMEINF       iNFiLTRaTor
+23              JHLDTH1        John H. Lawitzke
+24              TNCROSS2       Tom Neff / Valis
+25              LEDGES3        Mark K. Gresbach Jr.
+26              AUGUST         Neil R. Bonner
+27              DIETDOOM       Antti Kuosmanen
+28              RABID          Nick Foster
+29              ZZONE          Ari Koivisto
+30              DOOM E1M1      ID Software (changes inspired by Tim_Jay WAD)
+31              D9-2-2         Mal Blackwell
+32              D9-2-2         Mal Blackwell
+
+================================================================
+                              
+                              LEVEL INFO
+
+Type "IDBEHOLD A" in single player mode if you'd like to see all the secret 
+areas on a particular level.  It will give you a complete automap of the 
+level.  Level 12 has an exception to this rule.
+
+Locked doors requiring keys (and the keys themselves) were removed from
+all the levels except level 16.  Deathmatchers automatically receive all
+the keys, so it didn't make any sense to penalize single players who are
+examining the WAD file.  I kept the keys on level 16 because they add to
+the charm of the level.
+
+
+Level 2
+
+     This level has multiple areas.  Each area features a different challenge.
+     The only weird feature is the maze.  The red and blue lines indicate
+     invisible walls.  You can shoot through blue walls.  Red walls block
+     your fire.  
+
+     Each teleporter in the "temple" is linked to the other pads and itself.
+     Where you end up depends on where you cross on a particular side (left,
+     right, middle, etc).  I don't know the pattern; but who cares?  It would 
+     only spoil the surprise!   :-)
+
+
+Level 4
+
+     This level should look very familiar.  The only major changes are 
+     the option to jump out of the large window by the former blue skull key 
+     and the ability to open the narrow "teleporter tube" more than once.  
+     I love a good footrace!  :-)
+
+
+Level 5
+
+     To exit the arena, pull the levers behind the north and south doors.
+     This will reveal another set of levers in the eastern and western walls.  
+     The levers in the eastern wall will raise a section of floor adjacent 
+     to the arena's center column.  The levers in the western wall will lower 
+     the center column, revealing a plasma gun and a row of buttons on the 
+     raised floor section.  Push the buttons to end the level.
+
+
+Level 7
+
+     This is E3M3 from original Doom.  The secret area lift in the wooden
+     room can now be used multiple times.
+
+
+Level 9
+
+     Jump into the quarry if you've got too many Revenant missles following
+     you.  The missles will slam into the quarry walls when you run through
+     a narrow passageway.
+
+
+Level 10
+
+     There is nothing wrong with the center lift on this level.  The super
+     shotgun is supposed to be difficult to get.
+
+
+Level 12
+
+     There's a concealed ambush point on the right side of the center 'O'
+     which doesn't show up on the automap.  Aren't you glad you read this 
+     file?
+
+
+Level 15
+
+     There's a secret level exit to the right of the regular level exit.  
+     Shoot the wall to open it up.
+
+
+Level 16
+
+     This level was designed to look like a house.  It has a few sneaky
+     secret areas.  Check out the medicine cabinet in the bathroom or step
+     into the fireplace.  Push against the refrigerator to "open" it - just
+     watch out for that hot stove!
+
+     The level has one teleporter.  It's in the 2nd story room with the big
+     bay window.  The teleporter is in the left hand corner of the window. 
+     It's supposed to simulate jumping through the window.
+
+
+Level 24
+     
+     There are three secret areas on this level.  Two on the eastern wall
+     and one on the western wall.  The western wall is easy - just push
+     against the wall in the correct spot.  The first door in the eastern
+     wall (the one closest to the 'TN') will also open if you push on it.  
+     The second door requires you to push the wooden gargoyle head in the 
+     center stockade.  Once you press the button, you only have a few 
+     seconds to get through the door before it closes.
+
+
+Level 29
+
+     Two of the columns on this level can be dropped for 3 seconds.  You
+     can only do this on ONE side of the columns.
+
+     The exit switch is in the Cacodemon house.  There's a "backdoor" into
+     the house.
+
+
+Level 30
+
+     I've eliminated all the nukage areas on E1M1.  You can jump through 
+     the windows to the outside area with the rocket launcher.  I added 
+     a teleporter in the exit room which transports you to the computer 
+     center.  The secret ledge overlooking the former zig-zag nukage room 
+     can now be accessed from the secret room guarded by the imp.  I 
+     eliminated the trigger requiring players to cross a specific linedef 
+     in order to lower the elevator which takes you to the secret ledge.
+
+
+Level 31
+
+     There's a secret snipers nest behind each revenant platform which 
+     can be reached from the top of the platform.  Their relative positions
+     are 10 & 2 o'clock if you're standing in the center of the platform 
+     facing the wall.  Use the cheat code described above if you can't find 
+     the secret areas.  There's a secret teleporter in each snipers nest 
+     which you'll have no difficulty finding once you get into the nest.
+
+
+Level 32
+
+     The secret areas for this level are far too difficult to describe.
+     Use the cheat codes and experiment in single player mode.  The brown
+     wall texture with a lamp and the metal wall texture with a voltage
+     symbol identify secret doors & triggers. 
+
+
+I hope you enjoy playing this WAD file as much as I've enjoyed making it. 
+
+================================================================

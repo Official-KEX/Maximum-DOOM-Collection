@@ -1,0 +1,63 @@
+NAME:	shriek.wad
+MAP:	1
+AUTHOR:	fubar@who.cares.i.wont.get.email.anyway
+DESC:	A deathmatch level. 
+CREDIT: To Mathew (mjcrowe@insane.apana.org.au) for playtesting, and me.
+
+That's about it. Pretty cool level if I must say so myself. This is a level
+which is actually worth the download time and effort. Also may well be the
+first (deathmatch) pwad for DOOM II.
+
+Desgined for 2 player deathmatch, -with monsters-. If you really don't want
+to contend with a few imps etc, play at skill 2, but -with monsters- :)...
+that way the one monster that makes the level will be the only one in the
+game. Don't forget to use -altdeath. 
+
+You may want to add more deathmatch starting points. There are currently
+only four. I didn't realise at the time, but apparently you can have up to
+10 starting points. I can't add them now, as the lmp has already been 
+recorded. 
+
+A note to those familiar with level editing. There was a noticable slowdown
+in the level when looking through the grates in the main area. This wasn't
+noticed earlier, as the level was developed on a iDX4. However, on DX/2's and
+slower, the framerate can drop. The effect can be lessened by removing the
+second sidedef's texture. It wont look as good, but there really isn't
+much difference. Note that this is the -only- part in the level
+that can cause lag during modoom. 
+
+There is an lmp of myself and Matthew playing for a few mintues. Enjoy.
+
+IMHO, the best things about DOOM II are the new monsters and the super
+shotgun. There are now two new attack forms (arch-vile's hellfire and
+the revenant's guided missiles). The super shotgun is a clear winner,
+and has now become the weapon of choice for deathmatches. 
+
+However, as per DOOM, there are scarse pickings for us exclusive deathmatch
+players in the new levels. The best (perhaps only, bar map 7) deathmatch
+level in DOOM II is map 1. This is perhaps the best deathmatch level I've
+seen. Anyways, the reason I wrote this is because there -are- few deathmatch
+levels. Now you have a DM level for DOOM II, with the wonderful super shotgun,
+and even fast doors and an archvile. [cheer]. And new textures [cheer]. 
+And some new linedefs, like turn on/off lights [cheer]. And a well designed
+and playtested map where you don't have to run around for 20 fucking minutes
+to find the other guy only to get splatterd by a stoooopid BFG.
+
+One last thing. For kicks, let the archvile out and play 'Leap Of Death'(tm)
+in the main area. It's shitloads of fun. Try and see how elaborate a death scene
+you can make for the lmp. Hint: try and time it so that the thunder clap
+hits you just as you are running up the recessed area with the super shotgun.
+It's looks way cool to your buddy being flung right across the room in a
+graceful 'Leap Of Death'(tm).
+
+No permissions at all are given to sell this map, or to include it in
+any compilation of any software or utilities. Do not put this level in 
+any shareware or compilation CD's. If I see it anywhere like that, I'll
+come around and thump the shit out of you. The only valid use for this
+map is to play it. DO NOT DISTRIBUTE WITHOUT THIS ASSOCIATED TEXT FILE.
+
+- STAND UP AND BE HEARD IN THE FIGHT AGAINST THAT SUPID .WAD AUTHOR'S TEMPLATE!
+- NO MORE BFG's ! -
+- BETTER DEATHMATCH LEVELS ! -
+
+ps. the lmp is shown from the authors' perspective.... 

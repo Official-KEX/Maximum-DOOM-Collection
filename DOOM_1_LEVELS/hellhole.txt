@@ -1,0 +1,67 @@
+DOOM PWAD
+================================================================
+Title                   : HellHole
+Filename                : HELLHOLE.WAD
+Author                  : Bill Derouin
+Email Address           : b_derouin@ids.net ; bderouin@slip.net
+
+Description             : See below
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None          
+
+* Construction *
+
+Base                    : New level from scratch                      
+Editor(s) used          : DEU 5.2
+Known Bugs              : This one's clean
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+================================================================================
+
+HellHole... The Story.
+	Deep in the Amazon, a small fortress guards a dark secret. It's
+been rumoured that a militant group has found a gateway into the Netherworld.
+For months now we've heard the horrible tales from escaped prisoners telling 
+of human sacrifices and offerings to Hell's GateKeeper at a temple deep within the
+fortress. This group's objective is to gain favor in the eyes of the Dark One,
+in hopes of gaining supernatural powers for themselves so that they can take
+over the world. 
+	Your mission, should you accept it, is to infiltrate this fortress,
+confiscate their weapons, and destroy the GateKeeper. 
+	Good Luck.
+
+
+	HellHole was and still is my first attempt at designing a DOOM
+PWAD. I've started it, restarted it, and made numerous revisions over 
+a time period of about 2 months ( approx 60 hours design time ).
+I wasn't interested in creating a huge bloodfest where you open a door
+and 10 Hell Barons are coming at you and all you have is a shotgun.
+Instead, I wanted to create an "environment" that had detail. I work
+professionally in the CAD/CAM field, so out of habit I spent hours just
+making sure that the seams on the walls lined up just right. HellHole is not a
+PWAD you run through. It's confining and somewhat mazelike, but if take
+a closer look you may find it interesting.
+	All in all, I enjoyed dabbling with DEU and DOOM. In many ways,
+DEU is a better CAD program than what I'm using now professionally. 
+It's short but sweet, and I hope you enjoy it.
+				Bill

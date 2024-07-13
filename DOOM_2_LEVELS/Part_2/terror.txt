@@ -1,0 +1,51 @@
+================================================================
+Title                   : Terror!
+Filename                : TERROR.WAD
+Author                  : Malcom X
+Email Address           : None
+Misc. Author Info       : This is NOT my first WAD, but I finally
+                          decided to release something I've made.
+                          This is my second release of something I
+                          have written, and I'll probably put more out
+                          soon.
+
+Description             : If you like Doom ][ Map 7, you'll LOVE this.
+                          The setting is an old Greek temple, and you've
+                          got a large arena to roam and gather weapons
+                          to blast your opponent away.  There is only
+                          one megasphere, in the center of the map.
+                          Drop the lift and you got it, and stay on
+                          the lift for the ultimate view of the
+                          level. (Just watch your back!)
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes
+Demos Replaced          : None
+
+* Construction *
+
+Editor(s) used          : Deu2C/BSP v1.2
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.  
+
+You may do whatever the hell you want with this file.
+
+* Where to get this WAD *
+
+BBS numbers:
+
+Code Red BBS        (214) 424-4702

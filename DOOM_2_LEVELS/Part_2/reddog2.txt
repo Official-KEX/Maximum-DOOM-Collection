@@ -1,0 +1,70 @@
+===========================================================================
+Title                   : Reddog2.wad
+Date Finished           : 5/3/95
+Author                  : David Parrillo
+Other Files By Author   : reddog1.wad
+Misc. Author Info       : avid doomer....spends WAY too much time deathmatching <g>
+
+Description             : A set of 3 levels that I designed over the course of a 
+                          month or so that are ideal for deathmatch play (especially
+                          4 man deathmatch). There really is no theme cuz IMO wads
+                          built with themes in mind suck when you actually play them...
+                          
+
+Additional Credits to   : The Fighting Eagle BBS
+                          1-317-662-8122
+                          4 way DOOM, DOOM2, Heretic, and soon Descent deathmatch support...
+                          We are DOOMing every night, and we need new meat to fry!
+===========================================================================
+* Type of DOOM or DOOM II file*
+
+(Choose One)
+New level WAD           : Yes
+Sound PWAD Only         : No
+Music PWAD Only         : No
+Graphic Addon Only      : No
+Dehack Patch Only       : No 
+.LMP Only               : No
+Other                   : No 
+Required To Have In Dir : nothing
+
+* Play Information *
+
+Map #                   : Maps 01, 02, and 03
+Episode and Level #     : -
+Single Player           : Yes I suppose but WHY?
+Cooperative 2-4 Player  : Yes but no point cuz there are NO MONSTERS
+Deathmatch 2-4 Player   : YES
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Music               : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : who knows....countless hours, maybe decades 
+Editor(s) used          : DCK v2.2 (only the best....)
+Known Bugs              : none
+May Not Run With...     : N.A.
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com
+
+BBS numbers: The Fighting Eagle BBS
+             1-317-662-8122
+
+Other: not at this time

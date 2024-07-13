@@ -1,0 +1,36 @@
+===============================================================
+Title                   : JED2.WAD   
+Author                  : Original Author is unknown, but I have changed
+                          things around considerably.  
+Email Address           : N/A
+
+Description             : It's mainly a Deathmatch arena.                                
+
+Misc Game Info          : DOOM II WAD. This WAD is error free. It's been play
+                          tested for over 20 hours. It should run fine on a
+                          386 or a 486. It's been played on both.
+
+Additional Credits to   : Chris Rock for his input and play testing.
+================================================================
+
+* Play Information *
+
+Mape Level #            : Map 02            
+Single Player           : Yes - but no monsters.
+Cooperative 2-4 Player  : Yes - but no monsters.
+Deathmatch 2-4 Player   : Yes <- specifically designed for this.
+Difficulty Settings     : Not used.
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : Scratch
+Build Time              : Unknown, been a while though.
+Editor(s) used          : DEU 5.21, BSP 1.0
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels.

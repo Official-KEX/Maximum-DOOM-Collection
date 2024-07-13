@@ -1,0 +1,37 @@
+
+=========================================================================
+Title                   : DEATHRACE      
+Author                  : Jawed Karim               
+                                                       
+Email Address           : jawed@infiniti.org (preferred)
+                          jawed.karim@flight.org 
+
+Description             : This level was made 100% for deathmatch!
+                          DOOM2.
+
+Additional Credits to   : Mike Raiter for testing.
+=========================================================================
+
+* Play Information *
+
+Episode and Level #     : 01
+Single Player           : yes
+Cooperative 2-4 Player  : yes (pointless though)
+Deathmatch 2-4 Player   : yes
+Difficulty Settings     : no
+New Sounds              : no
+New Graphics            : no
+Demos Replaced          : none
+
+* Construction *
+
+Base                    : New level from scratch.
+Build Time              : About 10 hours
+Editor(s) used          : DEU 5.21
+Known Bugs              : none
+
+
+* Copyright / Permissions *
+
+You may use this file and distribute it freely.  However, you may NOT
+modify this level in any way or use it as a base for another level.

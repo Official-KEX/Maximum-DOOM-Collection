@@ -1,0 +1,49 @@
+Title                   : The Garden
+Filename                : GARDEN.WAD
+Author                  : Vu Q. Le
+Email Address           : eabu1144@orion.oac.uci.edu
+
+Description             : Big garden in the middle of castle.  
+                          Find opponents and quash them.
+                          
+Additional Credits to   : ID and the authors of DEU
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes-don't bother
+Cooperative 2-4 Player  : Yes-don't bother
+Deathmatch 2-4 Player   : Yes!!!
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+If you like it, DO NOT SEND MONEY.  Just e-mail me with some constructive
+feedback.
+
+* Where to get this WAD *
+
+FTP sites:infant2.sphs.indiana.edu
+/pub/doom/incoming
+
+

@@ -1,0 +1,58 @@
+The Halls of Death - original PWAD level for DOOM ][
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+Title                   : The Halls of Death
+Filename                : MKHALLS.WAD
+Author                  : Mark Anthony Klem
+Email Address           : mark.klem@swcbbs.com
+Misc. Author Info       : Author of the entire CRINGE! episode except
+                          the Secret Level which was by Eric Sargent.
+
+Your Mission            : Survive.
+
+Additional Credits to   : All of the Authors of DEU and BSP.
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+*  Play Information *
+
+Level #                 : MAP01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes / Original tune written by me that's 
+                                got it goin' own like a chicken bone.
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch.
+Editor used             : MKD2EDIT (Modified version of DEU 5.21)
+Known Bugs              : None
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD * This of course is so you can tell someone 
+* where the most convenient place for them to get it is at, if any.
+
+BBS numbers: 
+ 
+ Software Creations BBS (Home of the Authors)
+  (508) 365-2359
+ 
+ APCi BBS (Multiplayer DOOM and DOOM ][)
+  (618) 632-7664
+ 
+ BitStream (Lots and lots of DOOM stuff!)        
+  (708) 705-7741

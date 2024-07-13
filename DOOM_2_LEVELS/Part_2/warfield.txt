@@ -1,0 +1,59 @@
+================================================================
+Title                   : The War Field
+Filename                : WARFIELD.WAD
+Author                  : Ryan Caine
+Email Address           : caine@teleport.com
+Misc. Author Info       : just a major doom addict
+
+Description             : This is a medium sized level that is
+                          very good for 2 players. It isn't a
+                          big level even though the wad size is
+                          big. It is sort of fast-paced for a 
+                          good amount of frags. There is no BFG.
+                          I don't think it's fun in deathmatch.
+                          This should be a fun level for anyone.
+
+Additional Credits to   : Jeff Rabenhorst for the best ever
+                          editor, Edmap, and Id for doom
+================================================================
+
+* Play Information *
+
+Game                    : DOOM II
+Episode and Level #     : 1
+Single Player           : Yes (for looking around)
+Cooperative 2-4 Player  : No (I am going to upload one soon!)
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes ("Head Like a Hole" by Nine Inch
+                          Nails, very good music for this level)
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Edmap 1.31, NWT 1.02
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites: FTP.CDROM.COM
+
+* Misc *
+
+If you have any comments about this level or have any questions
+about level editing or making invisible floors and walls just 
+e-mail me at caine@teleport.com.

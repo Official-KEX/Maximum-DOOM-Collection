@@ -1,0 +1,26 @@
+A complete distribution of Wadwarp 1.1 should contain the following files:
+
+Volume in drive C is VERY LOUD  
+ Volume Serial Number is 3669-14FF
+ Directory of C:\ZORTECH\SOURCE\DOOM\RELEASE
+
+.            <DIR>         09-04-95   5:59p
+..           <DIR>         09-04-95   5:59p
+COPYRITE TXT           661 15-04-95   4:29p
+DEMOWAD  TXT           497 15-04-95   4:23p
+DEMOWAD  WAD        56,602 15-04-95   4:09p
+DISCLAIM TXT           535 12-04-95   7:51p
+DM1DM2   DMX         1,274 09-04-95   5:56p
+DM1HER   DMX         3,752 09-04-95   5:57p
+DM2DM1   DMX         2,406 09-04-95   5:53p
+DM2HER   DMX         3,966 09-04-95   5:58p
+FILES    TXT         1,091 17-04-95  12:08p
+HERDM1   DMX         4,472 09-04-95   1:39p
+HERDM2   DMX         4,483 09-04-95   5:10p
+IDIOT    HLP         1,495 17-04-95  11:23a
+README   1ST           531 10-04-95   8:38p
+UNIVERSL DMX         1,389 10-04-95  11:49p
+WADWARP  EXE        18,615 15-04-95   4:32p
+WADWARP  DOC         6,613 17-04-95  12:07p
+       18 file(s)        108,376 bytes
+:)                Only 1,007,232 bytes free

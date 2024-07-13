@@ -1,0 +1,105 @@
+=============================================================================
+Title                   : Jumper02 for DOOM ][ Deathmatch 2.0
+Filename                : jumper02.wad + jumper02.txt
+Release Date            : April 28, 1995 - incase of revisions
+Author                  : Andrew Tremblay
+Email Address           : bio2ast@cabell.vcu.edu - might change or
+                        : I might stay for GRAD school..hmmmmm. 
+Misc. Author Info       : 2nd!  What do you think? The automap works!
+Description             : A large central area with huge stairs and
+                        : big passage ways leading away and back.
+                        : A well marked exit prevents accidents.
+                        : Some jumping involved but not a bone breaker like   
+                        : jumper01.wad.  See comment section for additional
+                        : information.
+Additional Credits to   : id Software; Edmap140; Movelev3; Warm13
+=============================================================================
+
+
+* Play Information *
+
+Map #                   : Map23  - cause I like it ;>
+Single Player           : No - You can look around around though
+Cooperative 2-4 Player  : Nope 8(  NO MONSTERS!
+Deathmatch 2-4 Player   : Yahoooooo!
+Difficulty Settings     : Not Implemented - why?  Gripe! I almost did though..
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+
+* Construction *
+
+Base                    : New level from scratch - Does a bear shit in
+                        : woods! Yes yes yes - more coffee! ahhhhhhhh
+Time                    : 25hrs
+Editor(s) used          : Edmap140.zip, movelev3.zip (Hence level 19)
+                        : Warm13.zip - hey it got the automap working!
+Known Bugs              : None so far (except the automap).  Report any to me
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels.  Maybe if you ask me nicely!
+
+You MAY distribute this PWAD (under certain conditons) , provided 
+you include this file, with no modifications.  You may distribute 
+this file in any electronic format (BBS, Diskette, CD, etc) as long 
+as you include this file intact and ask my permission FIRST!  The 
+reason is I want to BRAG!
+        -My home address
+                9036 Rosewall Ct.
+                Springfield, Va
+                22152        (703) 569-5369
+
+
+
+* Where to get this PWAD *
+
+FTP sites:  ftp.cdrom.com and mirrors
+
+
+* Comments *
+
+    8) - Some how the automap is functional 8).  I used warm13 instead of 
+        warm11 and everything maps including the secret walls.
+    8( - After using warm13 the very next time the automap would not 
+        function correctly.  Use a map editor for preview.
+        
+    8) - The following is a list of what candy is in the PWAD:
+        1 BFG                           1 boxes of shells
+        1 Plasma Rifle                  
+        2 Chain Gun                     1 shotgun shells (4 to a pack)
+        1 Rocket launcher               2 boxes of rockets
+        1 Double barrel                 
+        1 Single barrel                 1 energy cells - 100
+        1 Chain saw
+        Everybody gets one pistol 8)
+                                           
+        0 Health bonus +1               
+        1 megasphere (gold)
+        4 medikits 25%                  2 Invisibility spheres
+        1 Backpack                      2 Invulnerability sphere
+        1 Light amp goggles             1 Green Armor
+        8)   - Secret Stuff. hmmm. Like I siad LOOK. I have read most design FAQs.
+          - Hint..I kept it light cause of the faulty automap.
+
+        8) Played with the texture alignments - Somethings just sparkle ;)
+        
+        8) Hope you enjoy as much as I had fun making it
+        
+        8) Lowered the amount of available ammo - should make for quick frags
+
+        8( It may slow down alittle if your atop any of the large staircases
+                and looking into the Big room.  Lower your screen size or 
+                choose low detail. OR don't hangout there!
+
+If you play this WAD in a 2,3, or 4 person deathmatch, record and LMP and send it to
+me!  I'd love to see how others do in this level!  Also, please send any 
+comments/suggestions/gripes/praises that you have.  Happy hunting! and don't
+forget to buckle your seat belt.........
+
+
+

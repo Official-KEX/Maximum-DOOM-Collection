@@ -1,0 +1,63 @@
+===========================================================================
+Title                   : Big Wad.  (igotabig.wad)
+Date Finished           : 4/26/95
+Author                  : Jason Lash
+Email Address           : jalash@mailbox.syr.edu
+
+Misc. Author Info       : Chemical Engineer, like to get naked pictures
+                          of females off the internet, DOOM ADDICT
+Description             : New map for DOOM II
+                        :
+                        : This level has been specifically designed for  
+                          deathmatch(but one player to 
+                          figure the level out).  A lot of secrets(especially
+                          doors).  A few monsters to make it more 
+                          interesting. There's a big outdoor room to fight 
+                          in with windows to shoot out of all around.  Not
+                          too big and just the right amount of ammo to kill.
+                          If you find any mistakes e-mail me, this is my 
+                          first post so tell me what you think! 
+                          ^^^^^
+
+Additional Credits to   : id, The writers of all the FAQ's and level 
+                          editing documents, the authors of DoomCAD
+                          and BSP11w. The Pretzel and the BIG BAD BALD 
+                          CHICKEN and mwflaher. 
+===========================================================================
+* Type of DOOM or DOOM II file*
+
+New level WAD           : Yes
+
+* Play Information *
+
+Map #                   : Map 01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes(But what the hell for! Hence I never tried it.)
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Music               : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 40 hr (A little at a time)
+Editor(s) used          : DoomCad,BSP11w
+Known Bugs              : The open area may be jumpy on slower PC's.
+                           
+      
+
+
+
+* Copyright / Permissions *
+
+I don't give a damn what you do with the level!  If it's cool get in touch 
+with me via e-mail.
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com and its mirror sites.
+
+

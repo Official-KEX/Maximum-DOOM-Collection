@@ -1,0 +1,48 @@
+================================================================
+Title                   : Urban Assault Elite ú November 15, 1994 Ver 1.0
+Filename                : Uae.Wad
+Author                  : Brian D. Cain
+Email Address           : -
+Misc. Author Info       : Other PWAD's written to date: Suburbia 6/94,
+                          Discus 7/94, and Urban Assault II 8/94
+Description             : DOOM II "Elite" version of the DOOM Urban Assault
+                          PWAD. Modified (and glorified) for DOOM II freaks!
+                          Level is based on a generic city w/ several
+                          generic structures. It's specifically made for
+                          multi-player deathmatch, but it does have a few
+                          monsters for single-play.
+                          This is, by far, my *best* level ever created.
+Additional Credits to   : Bill and the gang at KCE Computers in Mesquite, Tx!
+================================================================
+
+Map #                   : Map 02
+Single Player           : No! DeathMatch Suggested Only!
+Cooperative 2-4 Player  : Yes; more or less
+Deathmatch 2-4 Player   : YES! YES! YES!
+Difficulty Settings     : Not implemented
+New Sounds              : Yes (Pistol, doors (up/down), and Plasma)
+New Graphics            : Yes (Cloudy Sky Replacement)
+New Music               : No
+Demos Replaced          : None
+
+Base                    : New level from scratch
+Editor(s) used          : DEU2 5.21/Doom II
+Known Bugs              : Two. There are two known structural problems dealing
+                          with linedef/sector pointing. I made several attempts
+                          at fixing this problem, but DEU2 decided to give me
+                          continual memory problem errors.
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+All I ask if that if you modify it, credit me as the original PWAD
+creator. Other than that, do whatever the hell ya wish...
+
+Other: If you want to get ahold of me, look for either iCE.!, Time of Chaos,
+       or the name Brian D. Cain in the Dallas/214 area. You may also call
+       The iCE Dimension/ToC HQ at 214/641-7805 24 hrs a day.

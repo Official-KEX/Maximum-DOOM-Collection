@@ -1,0 +1,19 @@
+This .WAD is MAP 7 that has been modified. There are different weapons on each
+skill level.
+
+Skill 1-2 -- Super Shotgun, Chaingun, and Shotgun **ONLY**
+
+Skill 3   -- All weapons but BFG
+
+No changes to skill 4 or 5
+
+WAD creators:  Mark "NATAS" Fletcher
+               Travis "EVILGRIN" Wilhite
+               Bobby "DIPPER" Pulley
+               Steve "SADCAT" Taylor
+               Joe "HARDBALL" Vanderbilt
+               Billy "CRAZYMAN" Pulley
+               DAN "Family Dog"
+
+********  IF YOU ARE A MAN WITH HUGE NUTS YOU WILL PLAY SKILL 2 ONLY  *******
+

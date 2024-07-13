@@ -1,0 +1,62 @@
+================================================================
+Title                   : right.wad    
+Filename                : right.zip
+Author                  : Big Tiger
+Email Address           : tman2@oia.net (after 5/1/95)
+                               @smurph.com (before 4/24/95)
+
+Misc. Author Info       : Deathmatch virgin (running 2400 baud 'til
+			  my birthday)
+
+Description             : My first Doom ][ wad.  Play it.  Love
+                          it.  Hate it.  Go play other wads.
+
+Wad Fun Fact            : Called "right.wad" because my first 15
+                          tries at wad-building resulted in Node
+			  building problems.  As in "Yeah, RIGHT, 
+			  like THIS time it's going to work."
+
+Additional Credits to   : ID Software, of course.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map01
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Lots.  Node Problems.
+Editor(s) used          : One with shit for documentation.
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may not use this level as a base to build additional
+levels.  Start from scratch, it's very fulfilling.
+(I did, however, take that sentence from someone else.  Someone whose
+name I've long forgotten.  If it's you, sorry.)
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact. 
+
+
+* Where to get this WAD *
+
+FTP sites:  ftp.cdrom.com
+BBS numbers: (618) 345-6803  SMURPH LAND!!! 
+                             (soon to be OIA.NET)
+
+Other: Whatever

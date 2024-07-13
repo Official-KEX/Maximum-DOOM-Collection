@@ -1,0 +1,42 @@
+Title			: OCTAFRAG.WAD
+Author			: Scott Coleman, ASRE
+Email Address		: tmkk@uiuc.edu
+Additional Credits to	: My officemates for frag testing.
+                          Raphael et. al. for DEU - the BEST DOOM editor!
+
+Description		: This is a DEATHMATCH-only level, designed for
+			  optimal fragging. Although the level is small, the
+			  rooms are multiply and redundantly connected so it
+			  seems larger than it really is and the action
+			  will always be fast and furious. No toxic waste or
+			  barrels, so suicide wussies have no choice but to
+			  duke it out 'till the end. ;-) This also means that
+			  there are no sniper's nests per se; be sure to
+			  watch your back! Other features are a unique central
+			  elevator shaft with four random lifts, as well as
+			  a cooperative exit which requires at least two
+			  players to operare. Happy fragging!!
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player		: No (Exit impossible with only one player)
+Cooperative 2-4 Player	: Yes (Supported, but not recommended)
+Deathmatch 2-4 Player	: Yes!
+Difficulty Settings	: No
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time		: Too many. ;-)
+Editor(s) used		: DEU 5.0, DEU 5.1 (beta), bsp 1.1x
+Known Bugs		: On rare occasions I've had DOOM freeze up while
+			  playing this WAD. It passes all the DEU consistency
+			  checks, and plays fine most of the time. Also, I've
+			  seen similar freeze-ups while playing other PWADs,
+			  so it may be just my machine. If you experience the
+			  problem and can pinpoint the cause, please let
+			  me know.
+

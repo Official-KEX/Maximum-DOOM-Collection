@@ -1,0 +1,58 @@
+================================================================================
+
+Title         : phrag21a
+Filename      : phrag21a.wad
+Author        : Thomas E. Davis
+Email Address : tdavis@garnet.acns.fsu.edu
+
+Description:
+   This is a big, complex, challenging, and interesting deathmatch wad. 
+Every room has an exit! It's not always obvious, but there is always at
+least one way out (and I don't mean by dying). 
+   I wanted a wad with some new scenery.  Something to entertain me
+while I'm falling the the ground, grabbing my throat, or while I'm
+frying my opponent with bright blue bursts of plasma.  Therefore, this
+wad contains *SIX* gray-scale images of *NAKED* women.  None of that
+skank stuff, this is high-class professional photography.  If you are
+offended by this, then DO NOT PLAY IT!
+   This level was designed before version 1.4 came out, so it has an
+abundance of health and ammo.  Thus, there is no need for the -altdeath
+argument.  Using it will not only spoil most of the strategies of the
+level, but will allow one person (whoever gets there first) to dominate
+the entire game (because he/she would never run out of ammo or health,
+and could easily and effectivley guard both entrances). 
+
+================================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : YES!
+Cooperative 2-4 Player  : YES!
+Deathmatch 2-4 Player   : YES!
+Difficulty Settings     : Nope (be a man, use skill 4)
+New Sounds              : Nope
+New Graphics            : YES! (see disclaimer above)
+New Music               : Nope
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch.
+Editor(s) used          : DOOMCAD, DMGRAPH, and BSP.
+Known Bugs              : None.
+
+* Permissions *
+
+Please don't screw with this wad.
+
+* Where to get this WAD *
+
+FTP site: infant2.sphs.indiana.edu
+
+* Acknowledgements *
+
+Special thanks to Mike Webster (mlw2834@gold.acns.fsu.edu), Brian Fink, and
+Doug Stoun (dstoun@garnet.acns.fsu.edu) for helping me test play this wad.
+
+================================================================================

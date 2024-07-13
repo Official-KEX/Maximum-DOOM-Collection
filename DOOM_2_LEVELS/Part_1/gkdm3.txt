@@ -1,0 +1,48 @@
+================================================================
+Filename                : gkdm3.zip
+Author                  : Genesis Krzyzaniak
+Email Address           : Genesisk@Eden.Com
+Date                    : 2/19/95
+
+Description             : 2 player DOOM ][ DeathMatch only wad 
+                          designed with DM 1.0 in mind.
+
+Additional Credits to   : Too many to list...
+
+================================================================
+
+* Play Information *
+
+Game                    : DOOM ][
+Level #                 : MAP01
+Single Player           : No (don't play single player much...)
+Cooperative 2-4 Player  : No (co-op sux (unless of course it's 2 on 2 DM...)
+DeathMatch 2-4 Player   : YES
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : PfMe Alpha 4, BSP 12x
+OS used                 : LiNuX!
+Known Bugs              : No textures are aligned...
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com/pub/idgames/ newstuff | levels/doom2/deathmatch
+

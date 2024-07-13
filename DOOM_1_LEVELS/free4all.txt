@@ -1,0 +1,78 @@
+================================================================
+Title                   : Free for All   
+Filename                : FREE4ALL.WAD
+Author                  : Christian Antkow
+Email Address           : cant@softchoice.com
+Misc. Author Info       : Crazed and devoted DOOM nut in search of the
+                          "perfect" four player deathmatch WAD. Spends more
+                          time doing DOOM related things (writing DOOMLoad,
+                          making WAD's, reading alt.games.doom) than would
+                          like to admit. Thanx to my ever loving significant
+                          other for understanding this crazy obsession of
+                          mine (and for not spending more time with her
+                          after work... :) )
+Description             : In the spirit of LEDGES comes this all out
+                          deathmatch slugfest. All weapons are present, but
+                          are situated in such a place that going for them,
+                          puts the player at a perfect position to be
+                          fragged by other players. GET THE WEAPONS AND RUN!
+                          ALOT of time has been spent figuring out the
+                          layout to be in such a way that it makes for a FAST
+                          paced game and there are minimal "skulking" 
+                          positions. Don't stand around! You'll get fragged!
+                          The exit requires two people to complete the board.
+                          One person to press a switch, and another person to
+                          use the lift. I've added a half-dozen imps around 
+                          the board for a bit of variety but you may wish to
+                          use -nomonsters, or for real fun, use -respawn.
+                          HIGHLY RECOMMENDED FOR -altdeath PLAY!!!
+
+                          (Did I forget to mention that you start off with                          
+                          the chainsaw and shotgun... :)
+                         
+Additional Credits to   : All the SoftChoice DOOM nuts! Thanx for your input.
+                          Nikki for putting up with me :)=
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M9            
+Single Player           : Yes (But why? Not possible to exit)
+Cooperative 2-4 Player  : Yes (But why?)
+Deathmatch 2-4 Player   : Oh Yes! (That's what it's designed for!)  
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes (Composed by yours truly)
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU v5.21, id's DOS port of BSP
+Known Bugs              : One of the warps is misaligned! Damn 64 pixel
+                          blocks... (More work than it's worth...)
+Design Time             : Too much to recall, I'd guess at about 50+ hours
+                          after figuring out how to get my keyboard to work
+                          with the GUS.
+
+* Misc. Notes *
+
+ I'm a bit disapointed with the end result of the music on the GUS. It maps
+ the instruments differently than how I originally had composed it, but all
+ that aside, I hope it's good enough deathmatch mood music :)
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+           (Wherever it goes to after that...)

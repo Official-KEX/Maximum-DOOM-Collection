@@ -1,0 +1,17 @@
+        **************************
+        *Shooting Shadows of DOOM*
+        **************************
+         DOOM deathmatch WAD file
+                  E1M1
+                 made by
+                S.I.&I.S.
+           (Sergey Ishchenko
+                    &
+              Ivan Samarin
+E-mail: math588@edvzbb2.ben-fh.tuwien.ac.at)
+           TechUni of Vienna
+
+PS: This WAD-file was made by 
+using DoomEd for Windows.
+A grrreate Doom Editor.
+(We really like it!)

@@ -1,0 +1,449 @@
+ASDOOM][: The Final Countdown (Part One).  First revision, 10/10/94.
+
+Please read ALL of this file before beginning play, especially the section
+entitled CONDITIONS OF USE as this details what you may and may not do with 
+these files.  There was a certain amount of "confusion" (what a diplomat) 
+with the original ASDOOM levels, with a few odd people doing several of the
+things that I had asked oh-so-nicely for them not to do.  Please don't let
+it happen again.  I have tightened up the wording a little, for the sake of
+clarity, and I apologise to those of you who would never have dreamed of
+doing anything untoward anyway.
+
+"Beware the fury of a patient man."   -   John Dryden.
+
+
+INTRODUCTION
+Welcome to ASDOOM][, a series of completely new levels for id's DOOM ][.
+This archive, ASD2_PT1.ZIP, contains the first three new levels.  There
+will definitely be an ASD2_PT2.ZIP, probably an ASD2_PT3.ZIP and possibly
+even an ASD2_PT4.ZIP.  We'll see.
+
+The files in this archive will allow you to face new dangers and fresh
+challenges once you have finished playing the game itself.  Subsequent
+levels will follow on directly from these, continuing the plot, so keep
+a saved game handy!
+
+All DOOM levels these days seem to have to have individual names (like
+UNDERHALLS or ENTRYWAY), so I decided to give mine names too:
+
+Level one is A WALK IN THE PARK, level two is IN THE HALL OF THE MOUNTAIN
+KINGS and level three is called MOODY.  In each case you'll have to find
+out why the hard way...   ;)
+
+ASDOOM][ assumes that you are a veteran of both DOOM and DOOM ][, and that
+you are therefore a capable player.  If you are new to DOOM it is probably
+a good idea for you to play through DOOM first (because it is relatively 
+easy), then DOOM ][, then ASDOOM][.  If you are a total addict you could
+also get hold of the original ASDOOM as well.  ASDOOM is an extra episode
+for registered DOOM by the same author, and is a worthwhile addition to
+your collection (but then I would say that, wouldn't I?).    :)
+
+To make life as easy as possible for beginners a batch file is included to
+run all of the levels for you.  Simply make sure that all of the files
+from this archive are in your DOOM2 directory then type ASD2 to play (but 
+read the rest of this file first).
+
+For the ultimate experience play these levels in a dark room (the darker
+the better!) on Ultra Violence.  If you do this I can guarantee you one of 
+your best games ever (assuming that you live long enough to enjoy it).   :)
+
+
+DEDICATIONS
+These levels are dedicated to the people who made them possible:
+
+Thanks firstly to all at id for giving us DOOM and DOOM ][.  I can't think
+of any other game that has given me such long term entertainment!
+
+Thanks also to Geoff Allan, the person responsible for writing the DOOM
+editor used in the production of these levels.  For reference, I am now
+using version 3.0 alpha 1 of Geoff's DoomEd for Windows, available from 
+good BBS's everywhere.  And yes, I know that it isn't compatible with
+DOOM ][.
+
+Credit also goes to Colin Reed, author of the BSP DOOM nodebuilder (this 
+useful program "repairs" dodgy wad files and is REALLY handy if you are 
+designing levels yourself).  I currently use version 1.1.  It probably
+isn't compatible with DOOM ][ either, but I'm not sure?
+
+I also need to thank Raphael Quinet and co. for DEU, which I have used on
+occasion for things like grouping my wads together.  Although I principally 
+use DoomEd for level design, DEU has been invaluable.
+
+Thanks to Steven and Rand Phares for providing DSHRINK.  This program
+strips redundant sidedefs out of your wad files, which means that they
+should run faster, and because they are smaller they take less time to
+download.  Lucky you!
+
+I am very grateful to Ian Trevena for playtesting these wads, and for the
+assistance that he gave me during development.
+
+Thanks also to all of those people who mailed me feedback on the ASDOOM
+levels.  I have listened carefully to everything that you said and asked
+for, and you may just find it here!  Mail me again and let me know.
+
+Finally thanks to my wife, Christina.  She's very patient.  Still.
+
+
+MONEY, MONEY, MONEY...
+You thought that I was going to demand some cash, right?  Well calm down, 
+I'm not going to.  No need to part with anything that you don't want to.
+I'm going to go on designing levels of this quality (or better) until
+I get fed up, so you might as well have 'em for nothing.  Anyone who is
+filled with a wild, uncontrollable urge to send me money can though.
+I wouldn't want you to think that I'll get upset if you do, I just won't
+get upset if you don't.   :)
+
+
+INSTRUCTIONS
+Decompress this archive if you haven't already.  Place all files in your 
+DOOM2 directory.  None of your existing files will be altered by playing 
+these levels, but if you feel nervous make sure you back up your DOOM2 
+files first.
+
+Once all of the files are in your DOOM2 directory simply change to that
+directory and type ASD2.BAT to play the new levels.  This batch file is
+designed to get you straight in to the new levels without the need to set
+anything up first.  A message will appear telling you that you are playing
+modified levels - this is no cause for alarm.  Press Enter to continue.
+
+Once DOOM2 has loaded choose a difficulty level and play as normal.
+
+
+BEST GET READY TO RUMBLE...
+These new levels will test your DOOM skills to the limit.  ASDOOM][ does 
+support different skill levels and life will be harder or easier based on 
+your choice.  If you select Ultra Violence, EXPECT Ultra Violence.  Note 
+that ASDOOM][ is not designed to be playable on Nightmare skill level - it 
+will savagely kill you and kick sand in the face of your corpse if you're 
+daft enough to try!  Whatever level you choose, make sure that you save 
+fairly frequently (or don't come crying to me about it).    :)
+
+Also, don't cheat.  Pretty much everyone knows the cheat codes for DOOM, but
+surely you're just spoiling your own fun?  If you cheat at these levels you
+miss the challenge, the tension, the excitement, the fear.  You might just
+as well not bother playing!  It's your choice, I just want you to get as
+much fun out of my work as possible.  If you cheat, you are only cheating
+yourself.
+
+Oh, and I know that some areas are a bit dark, but don't give yourself the
+light amplification goggles.  If I had wanted you to see everything all
+the time I would have made the light level 255 in every room, wouldn't I?
+If you need a little extra light to help you spot the little "blighters"
+(this is a family TXT file) try letting rip with the chaingun.  Much more
+atmospheric.
+
+
+-------------------------------*IMPORTANT*-----------------------------------
+
+CONDITIONS OF USE                            
+Copyright for these levels remains with the author.  You are welcome (even
+encouraged!) to have fun with these levels yourself, and to pass them on to
+as many other people as possible so that they can have fun with them too,
+SUBJECT TO THE FOLLOWING CONDITIONS:
+* This compressed file (zip or arj or whatever) must be passed on in its 
+  entirety with all files present and unaltered in any way.  You may not
+  add to or detract from what is here, just pass it on exactly as it is.
+* You may not use these levels as a basis for alterations to produce levels.
+* You may not sell any of the ASDOOM or ASDOOM][ levels or include them 
+  (or a derivative of them) on any compilation which will passed on for 
+  profit (e.g. sold), or given away (e.g. strapped to the cover of a
+  magazine) WITHOUT THE EXPRESS PRIOR PERMISSION OF THE AUTHOR IN WRITING.
+Use, decompression or duplication of this software indicates total and
+unquestionable acceptance of these conditions.
+
+I am not trying to be difficult here, but I've worked long and hard on
+these levels (over forty hours EACH) to enhance and extend your enjoyment
+of a great game.  All I ask in return is that you respect my labour, please.
+
+I have extensively playtested these levels and plenty of other people have
+tested them too, but please note that I cannot be held responsible for the
+use of, or inability to use, these files.
+
+---------------------------IMPORTANT - SEE ABOVE------------------------------
+
+
+BACKGROUND
+You walk wearily towards the deserted military checkpoint.  It is almost
+an hour since you emerged victorious from Hell itself and you have yet to
+see another living being.
+
+Bodies litter the checkpoint.  Some of them appear to have died at least
+twice, judging by the number of wounds.  You give one of the zombie cadavers 
+a hefty kick, just to remind it who's boss.
+
+One of the human corpses has a communicator.  He doesn't have a head any
+more, but he does have a communicator.  Unlucky for him, lucky for you.
+Time to find out where everybody is.  You fire up the communicator and tune
+to a military frequency.
+
+"Hello, this is the saviour of all humanity, can anybody read me?"  A wry
+smile touches your lips as you wait for a response.
+
+The screen clears almost immediately and a man's face appears.  He looks
+tired, and angry.
+
+"I'm Admiral Raben.  Over twenty-four hours has elapsed since you freed us. 
+Where the hell have you been?"
+
+Yup, he's angry alright.
+
+"Hell is exactly where I've been, Admiral.  And twenty-four hours may well
+have elapsed since I toasted that Demon, but the bus service doesn't seem
+to run any routes out that far so I've had to walk back.  Did you miss me?"
+
+"You're damn right we missed you.  We're in all kinds of trouble and you are
+the only one who can help us now."
+
+"Sounds familiar.  What's your problem though?  The Demon is dead, brains
+splashed all over the place, very messy.  Hell is very quiet at the moment."
+You smile again, but Raben just seems to get angrier.
+
+"Just shut up and listen, marine.  We don't have much time.  When you killed
+the Demon all of the remaining humans were liberated and reappeared here.
+Unfortunately during the time that everyone was being held hostage and you 
+were fighting to free them it seems that other demons were still swarming
+through the dimensional gateways to Earth itself.  When we arrived back here
+the dimensional gateways snapped shut behind us, trapping the demons on
+Earth.  All hell broke loose, with demons attacking the survivors on sight.
+We were too divided and disorientated to offer proper resistance, so we had
+to do something drastic.  We voted to evacuate the remnants of humanity to
+the lunar bases."
+
+"Take everyone to the moon?  Why?"
+
+"Because we were getting massacred down on Earth.  We didn't have a choice.
+The moon has been unaffected by the demon attacks and we thought that we 
+could use it to regroup and reequip.  Once we were properly armed and 
+organised the remaining demons would not have been able to withstand us."
+
+"So what went wrong?"
+
+"We managed to get everyone aboard a fleet of starships and out into orbit,
+but something is pulling us back down.  We are applying maximum power just
+to hold our position now, but I'm told that our orbit is gradually decaying.
+Whatever it is, it has got the whole fleet - every known surviving human 
+being apart from you.  It is slowly pulling us back out of the sky.  We'll
+be destroyed if you don't do something."
+
+You know that you are going to regret this.  "What do you want me to do?"
+
+"Find it, kill it.  Nice and simple.  I'm going to hand you over to Colonel
+Diaz.  She is the finest military tactician that we have aboard, and she
+has a plan for you.  Listen to her.  You are our only hope."
+
+Admiral Raben begins to turn away.
+
+"Hey, Admiral.  If I pull this off AGAIN you'd better make damn sure that
+I get a reward this time."
+
+Raben's face is stern.  "You can have a reward right now.  I'm giving you
+a field promotion to Major.  Congratulations.  If you stop whatever this is
+you can even have my job.  Now shut up and listen to Colonel Diaz."
+
+The Admiral's face is gone, replaced by a woman's.  She doesn't look very
+happy either.
+
+"Okay, marine, listen up!"
+
+"It's Major now, Colonel."
+
+"Okay, MAJOR, listen carefully.  Time is ticking away.  For the last twelve
+hours I've had teams up here scanning for whatever it is that is holding us, 
+but they couldn't find any trace of it until a little over an hour ago."
+
+"What happened an hour ago?"
+
+"All of a sudden it appeared on just about every sensor we have, even those
+that weren't particularly looking for it.  It is almost broadcasting its
+location now."
+
+"Why?"
+
+"Good question, and I'll answer it in a minute.  Let me tell you the plan
+first.  Aboard this ship we have an experimental version of a new matter
+transporter, based on the dimensional gateway research.  I want to use it
+to beam you across to the grid reference provided by our sensors."
+
+"But the demons control the dimensional gateways!  They won't let you use
+them to attack them."
+
+"I think that they will allow us to beam you in.  We were unable to locate
+them for over half a day, but the moment you emerged back on Earth they
+made sure that we could not miss them even if we wanted to.  Why do you
+think that is, Major?"
+
+You mull that one over.  Perhaps you are expected to be smarter now that you
+are an officer.
+
+Diaz isn't waiting.  "My theory is that they WANT you there.  They know that
+we have the capability to put you there, and I think that they will let us.
+They will realise that you are our last hope, and they must know that you are
+responsible for trapping them on Earth.  There is probably nothing that
+they want more in the entire world than for us to deliver you to them."
+
+"Great.  Assuming that I agree, what will I be going into?"
+
+"I was afraid that you would ask that.  Intelligence here is scarce..."
+
+"Well, that's the military for you, Colonel."
+
+"Don't be flippant with me, Major.  My job is to help you to stay alive for
+long enough to save humanity.  You are going to need all of the help that
+you can get, so I would advise you not to aggravate me any further."
+
+Diaz's expression conveys a very clear message.  You decide to listen.
+
+"Sorry.  Go on."
+
+"The demonic force is pulling us back down directly towards it.  My guess
+is that it either intends to enslave or destroy us.  You must prevent this.
+I have no way of telling exactly WHAT it is, but I do know where it is:
+southern Italy."
+
+"Wonderful, I've never been to Italy."
+
+"I seem to recall that you were not going to be flippant, Major."
+
+"I seem to recall that too.  Sorry."
+
+"There is an underground complex there, dating back from late in the last
+century.  As far as I can tell from our records it was originally designed 
+and built as a shelter for politicians in the event of a nuclear conflict.
+When nuclear weapons became obsolete it was apparently abandoned and sealed."
+
+"And now it's full of demons.  Plus something capable of overpowering a
+fleet of starships."
+
+"I am not convinced that it is one particular entity exerting all of this
+power.  It may be a sum of the power of many lesser demons.  We will not
+know for certain until you begin eliminating a few of them."
+
+"Well the clock is ticking, Colonel.  I'm as ready as I'll ever be."  You
+heft the BFG9000 that has seen you through so much recently.  "Any chance
+that you can beam me some more ammunition for my toys before I go in?"
+
+Diaz looks distressed.  "I am sorry to have to inform you of this, Major,
+but you cannot take any heavy weaponry with you.  The matter transporter
+consumes vast amounts of energy in direct proportion to the mass of the
+item being transported.  We are going to have to divert substantial power
+from the ship's engines just to transport you, sacrificing vital minutes
+of our survival time.  Extra weaponry is out of the question.  Retain your
+pistol in case you face a hostile reception."
+
+"Are you NUTS?  What do you mean, IN CASE I face a hostile reception!  You
+want to beam me in to demon-central with only a PISTOL?  I'd be dead in
+a matter of minutes.  There is no way that I can penetrate a fortified
+bunker armed with a PISTOL!"
+
+"It will not help any of us if you become hysterical, Major.  I have given
+careful thought to this situation.  There is a small garrison directly
+adjacent to the entrance to the subterranean complex.  At one time it
+provided security for the bunker.  It should now be almost deserted, and
+you should be able to improve your armaments and armour by exploring there
+first.  When you are done, enter the underground base.  We are trying to
+get more detailed scans for you now.  All we know so far is that there are
+supposed to be a series of catacombs directly under the garrison, then a
+level designed to allow the occupants of the bunker to defend easily against
+assault.  Beneath that you will enter the bunker itself.  We have no life
+signs from either the garrison or the catacombs, but we are picking up
+occasional readings on the long ranged motion trackers...  I feel certain
+that you will know what to make of that."
+
+"Yeah, thanks, Colonel.  Any last tips for me?"
+
+"Avoid getting killed.  Do not take too long in finding and eliminating
+whatever is down there, unless you feel confident that you can start the
+human race again on your own."
+
+"I thought that we weren't going to be flippant."
+
+"Sorry, Major.  Kill whatever is there quickly, or we are going to be
+landing right on top of you.  Hard."
+
+"How long do I have?"
+
+"We estimate approximately five hours, depending on whether their grip on
+us starts to weaken once they have to contend with you."  She flashes you
+a very brief smile.  "Good luck, Major.  We do not have any more time for
+idle chat.  Shed all armour and weapons other than your pistol and prepare
+for beaming.  And remember, we are on a countdown."
+
+"Understood.  And for what its worth, thanks."
+
+"If I gather anything else I'll be in touch.  Diaz out."
+
+You stand staring at the blank screen for a second, then quickly begin
+stripping off your battle gear.  You are still gazing fondly at the 
+discarded BFG when you are beamed away.
+
+Your vision refocusses.  You have arrived.  The pistol leaps into your hand 
+almost unbidden.  Looking around it seems that you are just inside the
+old garrison.  Everything seems peaceful enough - it certainly doesn't look 
+like a trap.  But then the best traps never do...
+
+
+
+CONTACTING THE AUTHOR
+If you can give me frank, open, honest, constructive feedback on ASDOOM][
+(without leaving any noticeable bruises) I'd love to hear from you.  If you
+have access to comms post a message to Andy Sheppard in the UK DOOM echo of 
+Fidonet (it should find me) or e-mail me at the address below.  If I don't 
+reply it means that I haven't received your marvellous missive!  Send it
+again.  As an absolute last resort you can contact me via snail-mail at:
+
+Andy Sheppard
+89 Gordon Road
+Corringham
+Stanford-le-hope
+Essex
+SS17 7QZ
+England.
+
+I don't actually live there (so keep it clean please) but I'll get your mail 
+(eventually)!
+
+I do listen to the feedback that I receive, and use what I'm given to try
+to enrich the later levels as I create them.  Don't be shy!
+
+
+
+KNOWN PROBLEMS WITH ASDOOM][
+None - yet!  These levels need a fairly powerful machine to get the very 
+best from them - 486DX and 8Mb RAM recommended, but it'll run on less. 
+If your PC is struggling a bit please either reduce the size of the playing 
+window (by pressing "-") or decrease the detail level (by pressing "F5").
+If you encounter a problem please let me know.  I'll try to fix it ASAP.
+
+
+I hope you enjoy these levels.  I enjoyed creating them.
+
+
+There will be an ASD2_PT2.ZIP.  Get it, before it gets you...
+
+
+
+andyshep@sound.demon.co.uk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;)
+
+
+

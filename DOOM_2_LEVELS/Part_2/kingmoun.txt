@@ -1,0 +1,18 @@
+Name         : King of Mountain
+Author       : GraphicFX (graphfx@cyber.net.gate)
+Machine      : 486dx2 20 meg of ram 
+Software     : Waded 1.42, TBSB
+Hours        : 8
+Single Play  : YES
+Deathmatch   : Hell Yes!
+Level        : Map01 from scratch
+New Sounds   : No
+New Graphics : No
+
+ Remeber Playing King of the mountain ? Well this is the wad for you
+ this wad was specific for Deathmatch II it is playable in other modes
+ (but why?) Hint: There are switches with no markings and there are 2
+ ways to get to the center(mountain).
+                                           GraphicFX
+
+ Thanks to Id Software for making such a great game.

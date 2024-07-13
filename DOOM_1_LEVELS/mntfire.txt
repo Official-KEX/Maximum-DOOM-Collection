@@ -1,0 +1,274 @@
+WASTELAND: MOUNTAIN OF FIRE (version 0.9) (position E2L2)
+
+
+IMPORTANT NOTICE
+
+This level is the sequel of `Dead Base' and MUST be played after that
+level, otherwise you will never have enough ammo to complete `Mountain
+of Fire'. The best thing would be to download `Dead Base' immediately
+(filename DEADBSxx.ZIP, xx = version number), but there is an alternative:
+in order to allow you to play this level as a stand-alone WAD file
+I placed the ammo needed to play the level near the start point.
+You simply need to turn around 180 degrees and walk back 'outside':
+you will find all the equipment you need......
+
+ANYWAY, the *REAL* player will play Dead Base and WON'T NEED to pick up
+any more ammo to play this level.... :-)
+
+(The required ammo is something like 400/100/43/560, this means to play
+Dead Base without wasting too many rockets....)
+
+
+INTRODUCTION
+
+Maj. Barowsky slowly advanced in the dark cavern, sneaking carefully
+towards the dimly lit room where the cave guided him. He stood still for
+a moment, to let his eyes adjust to the reduced lighting, then pulled his
+out the chainsaw and started it. `Whatever lurks in here will have to come
+close to attack' were his thoughts as he approached the flickering torches.
+As soon as he entered the large cavern a growl emanating from the right
+made him shift quickly towards the left corner of the cavern.
+He turned towards the source of the growl. Nothing moved in the dark, but
+still inhuman growlings emanated from some point closeby.
+`Damn! Those bastard spectre-like beasts are invisible
+in this low light.' he thought as he placed the chainsaw in a defensive
+position. He had the impression of a moving shadow when something
+hit his weapon. Firmly grasping the chainsaw he let the gas go. The
+machine changed from an ill coughing to a frightening roar, its
+steel teeth biting the ghostly flesh of the abomination and ripping
+it apart. The horror's attack ended abruptly as the roaring blade
+cut through its brain, sending the hellspawn back where it came from.
+Then, still holding the chainsaw in position, he examined the room
+carefully and saw several dead bodies lying around. He walked towards
+one of them and knelt down to investigate it closely.
+The corpse lay face down in a pool of blood, its smell that of burnt flesh;
+he turned it on its back with his foot and noticed a large burnt area
+in the chest, clearly the result of a direct hit from a plasma gun.
+`This is the work of Lt. Morrison' he thought `I wonder why he didn't
+report his findings to the starship.'
+He pulled out the transmitter.
+
+``Maj. Barowsky to Wanderer starship'' he said into the microphone.
+
+``Computer ready to receive transmission'' replied the metallic voice
+of the starship's on-board computer.
+
+``The Prometeus Base is clear from the unknown hostile force which
+had taken it. The force seems to be composed of semi-human beings
+and unknown monsters which look like they have come directly from hell.
+I have located the source of the evil to be in the volcano near the base,
+I will explore the mountain and then report again. You should contact
+Gen. Vitesse, send him this report and ask for support.'' Barowsky said.
+
+``Affirmative'' replied the machine.
+
+``Up to now I have been unable to find out where the population of the
+
+base is, nearly six hundred people can't just have vanished
+into thin air. Over and out.'' and switched the transmitter off.
+
+He advanced towards the partly open hi-tech door, a strange object
+to find within a volcano, and pressed the switch. Nothing happened.
+`Damn! The mechanism is jammed. Let's see if this helps...' he thought
+as he stepped back and aimed his shotgun at the door.
+The shot shook the door, partly freeing the mechanism and making the
+door slide up just enough to let a man pass. Nothing moved in the
+dark corridor beyond the door. No sound came from the cave.
+`I feel like I'm walking straight into a trap....' he thought.
+He pulled out the map he had found in the Secondary Control Room
+of the Prometeus Base and examined it.
+
+                           |
+                           |
+Their                      |
+Area                       |   PROMETEUS                Our
+                           /   UNDERGROUND COMPLEX      Area
+             CRATER       /
+               /---\     /       --------\
+              /     \   /      /---\/  \ |/--\ 2ndary
+              |     |--/       \---/|  | |   | Ctrl Room
+              \      \     Stores   \--/ |\--/
+               \----\ \-\          Ctrl  |
+                 |   \  /------\   Room  ( BRIDGE OVER CHASM
+                 |    \/        \        |
+                 |   Observ.     \-------|
+                 |   Area                |
+                 |             /-\      |
+                 \-------\     | |     |
+                         |     \ /    |
+   CITY?                 |      |-----/
+                         |      \__
+                         |         \
+                         |      ENTRANCE
+
+`Ok. First of all I will visit the underground complex and have a look
+at the computers. Hmmm. First tunnel on the right. Ok.
+Another promising place is the Observation area....
+Let me see, it can be reached directly from the tunnel near the bridge,
+good. What I can't understand are this `our area' and `their area',
+maybe the population of the base has split in two groups.
+I must also check what this city is. According to the starship computer
+the Prometeus Base never received the order to build an underground city
+in the volcano. Maybe the Complex's computer contains some more info.
+Well, time to go...'
+He placed the map back into his pocket and, holding the plasma gun in
+attack position, sneaked inside, towards the underground complex.
+
+
+WELCOME!
+
+Welcome to the second mission in the Wasteland series: Mountain of Fire.
+In this mission you play the role of Maj. Barowsky as he proceeds
+towards the source of evil which destroyed the Prometeus Base.
+You will wander through the strange places which lies within the volcano,
+fighting nameless evil to reach the underground complex.
+Eventually, you will escape from the volcano and emerge in an eerie and
+deadly place.
+
+
+WAD INFO
+================================================================
+Title                   : MNTFIRE.WAD - `Wasteland: Mountain of Fire'
+Author                  : Alberto BARSELLA
+Email Address           : alberto@astrpi.difi.unipi.it
+Misc. Author Info       :
+
+Description:
+the setting is inside a volcano: there are corridors, rooms and
+some larger areas. Overall the level should run smoothly on all machines.
+
+The creation of this WAD was made possible by the two great programs
+called DEU 5.1 and BSP 1.1 (dmgraph and wt helped, too).
+In this WAD I continued my work in the creation of realistic
+lighting effects. When you walk through corridors you will find
+areas lit by torches. Don't expect any torch in natural cracks.....
+Some of the rooms have objects (pillars, etc) which
+cast shadows onto the floor and on the walls.
+This level takes place in a volcano, volcanoes contain lava, and
+lava is deadly. If you fall into the lava YOU ARE DEAD. There's
+no way to get out of it. If you see dangerous ledges then SAVE YOUR GAME.
+Special effects include: waterfall with sound, a couple of attempts to
+recreate cave-ins, a fallen bridge and computer messages!
+The difficulty is higher than Dead Base.
+
+Additional Credits to   : Ben Jos Walbeehm for beta testing the
+                          first version of this level (and preventing
+                          me from releasing it) and for several corrections
+                          in the English text.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M2
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes - not at its best
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes (Only 'hurt me plenty' and 'Ultra Violence')
+                          The difference is only in the number of monsters.
+New Sounds              : No
+New Graphics            : Yes (5 128x128 patches)
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 100+ hours
+Editor(s) used          : DEU 5.1/5.2, BSP 1.1, dmgraph, ART for the marble
+                          texture.
+Known Bugs              : 'Standing on a linedef' problems near sectors
+                          which have very high floor/ceiling heights
+                          (the crater, the lava-filled cracks and the
+                           outside area)
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels. You MAY use the new textures I created in your levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+BBS numbers: //
+
+Other: my hard drive
+
+
+SENDING FEEDBACK
+
+I would like to know what you think of this level, what did you like,
+what you disliked, suggestions, ideas, multiplayer/deathmatch comments,
+anything else. E-mail me at
+
+alberto@astrpi.difi.unipi.it
+
+
+
+EPILOGUE (read after you completed the level)
+
+
+(scroll down one page)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EPILOGUE
+
+Maj. Barowsky walked to the mysterious door, now open, and examined the
+bare room which lay behind it. No sound came from the area. He stepped
+inside, noticing a hollow sound as his feet hit the room's floor.
+`An elevator' he thought looking at the switch on the right wall.
+He operated the switch, making the room slide slowly down
+with the sound of complex machinery.
+`Three and a half hour ago' he thought, the message of Lt. Morrison still
+in his mind. `Three and a half hours ago Morrison recorded that message.
+If I want to reach him I must move faster than this.
+If we can meet and combine our firepower we'll have much more chance
+to get out of here alive. I wonder where the monsters are coming from,
+if Morrison was here three hours ago he must have cleaned both the corridor
+and the complex, but still I found the places filled with horrors.
+And the complex was empty, not a single men from the base was there.
+Where are the six-hundred people? Did they get away? Why didn't they
+communicate anything to the command?
+I wonder if the semi-human monsters could be.....
+...no, no, it can't be. This is no stupid videogame, this is real life,
+and in real life people can't just become blood-thirsty monsters.'
+While he was thinking the elevator reached the bottom of the pit and
+stopped; a dark corridor, dug into the volcanic rock, departed from
+the elevator, leading north towards a very lit area.
+`Look like this leads back outside this cursed mountain, good.'
+He walked towards the light, his shotgun ready to deal with whatever
+might lie between him and his freedom.
+
+
+
+Here ends Mountain of Fire, with Maj. Barowsky walking into the third
+mission: Sands of Death.
+
+Prepare yourself for the third mission!
+
+Alberto

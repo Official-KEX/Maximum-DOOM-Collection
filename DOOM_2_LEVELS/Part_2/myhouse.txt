@@ -1,0 +1,69 @@
+================================================================
+Title                   : MyHouse.wad (DOOM ][)
+Author                  : Noah Haskell
+Email Address           : noah@seas.ucla.edu
+
+Description             : This is a completely blueprint accurate WAD of my 
+                          house. I designed the level so my friends who don't
+                          have doom can come over to play Doom via modem would 
+                          know the level without having to ask me which way to 
+                          turn all the time. I also added a few underground
+                          tunnels and secret passageways that my house 
+                          obviously doesn't have. There are hidden teleporters, 
+                          detailed furniture, and a couple great hiding places. 
+                          Even though the size of the file is large, the level
+                          itself is not that big.  It is because of the 
+                          furniture.  Be sure to check out the fireplace and
+                          Bathroom's with moving toxic waste!!!
+                          This is my first attempt at creating a WAD so please
+                          be kind. 
+                               Enjoy!!! (please tell my what you think!!!)
+                                              noah@seas.ucla.edu
+                                              
+
+Additional Credits to   : My girlfriend for helping to pick out the textures.
+                          and my friends for play testing the thing to death!
+================================================================
+
+* Play Information *
+
+Episode                 : MAP01
+Single Player           : Yes, (but designed with deathmatch in mind)
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes!!!
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch, based on blueprints of 
+                          my house.
+Build Time              : At least twenty hours, 
+                          (plus unmeasurable testing time!) 
+Editor(s) used          : DoomCAD 4.3 and BSP 1.2
+Known Bugs              : NO known bugs, but when you go upstairs instead of 
+                          being able to walk all the way up you are instantly 
+                          teleported to the upstairs level. I had to do this 
+                          because DOOM is not really 3-D. It still has to have 
+                          a 2-D map so levels cannot be piled on top of each 
+                          other. Just remember, there is more than one way 
+                          into almost every room! 
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels. (Just send me what you make!) 
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+Other: America Online

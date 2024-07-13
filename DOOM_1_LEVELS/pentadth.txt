@@ -1,0 +1,48 @@
+================================================================
+Title                   : Penta-Death
+Filename                : PENTADTH.WAD
+Author                  : Scott Starks
+Email Address           : Starks@cs.ucdavis.edu
+Misc. Author Info       : Post-Graduate Researcher
+
+Description             : A Deathmatch level.  Small enough for
+			  a fast paced 2 player dm.  Plenty of
+			  hidden triggers that you must find.  
+			  E-mail me for hints.
+
+Additional Credits to   : The guys at Id.  Scott Bessler and all
+			  the gang from #doom for beta testing.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Deu 5.21
+Known Bugs              : 
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact and are not charging more than $10 for said product.
+
+*Where to get this wad*
+
+FTP sites: infant2.sphs.indiana.edu

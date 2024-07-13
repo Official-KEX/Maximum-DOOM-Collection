@@ -1,0 +1,70 @@
+=============================================================================
+Title                   :PLEASURE.WAD
+Author                  :Shawn Holmstead
+Email Address           :sholmste@novell.com
+Misc. Author Info       :Send Comments!
+
+Description             :Welcome to the Pleasure Dome!  This is where all of
+			the posessed soldiers and sargents come to watch
+			those marines die who will not succumb to posession
+			by the demons infesting the world.  This level is
+			like the Roman Coloseums of old, except that you are
+			the poor slob about to be fed to the beasts.  
+			  They do give you a shotgun to try to duke it out
+			with, but they don't expect you to last long.  They
+			just hope that your death will be entertaining.
+
+Notes			:The level has been designed so you can play it
+			in single player, multiplayer, and deathmatch.
+			Deathmatch is especially good because everything is
+			interconnected and there are several good sniper
+			spots.  I have not included any big nasties (such
+			as the Cyber-Demon or Spider-Demon), but this would
+			make a perfect setting for them if you want to modify
+			the level.
+			  I spent a lot of time trying to make the level look
+			good, so tell me if you find something that makes you
+			just puke.  I also only used natural light everywhere.
+			There are only 2 dark areas, but you never fight in
+			those areas -- just collect goodies.  I even put in
+			some light-amp goggels in those areas.
+			  The only time you will appreciate these things is
+			when the level is empty because you don't have time
+			to sit and enjoy the scenery.
+
+Additional Credits to   :Tim Schmanski and Ron McClellan for playtesting.
+=============================================================================
+* Play Information *
+
+Episode and Level #     :E1M1 (but meant for somewhere in episode 3 -- This
+				level looks great with the red sky!)
+Single Player           :Yes
+Cooperative 2-4 Player  :Yes
+Deathmatch 2-4 Player   :Yes
+Difficulty Settings     :Yes
+
+* Construction *
+
+Base                    :New Level
+Build Time              :Far too much...around 50+ hours
+Editors used            :DEU v5.0, v5.1 and BSP v1.0, v1.1x
+Known Bugs              :The dreaded HOM shows up occasionally in the arena
+			when there are lots of monsters roaming around.  I've
+			removed as many of the 2-sided linedefs as I can
+			without getting rid of the stands, but the HOM still
+			shows up in the sky.  It is not very distracting, and
+			only shows up in 1 or 2 spots.
+
+* Copyrights / Permissions *
+
+You may do whatever you want with this wad, just give me some credit for
+building the base level.  I would be interested in how people modify this
+level. Drop me a line.
+
+* Where to get this WAD *
+
+ocf.unt.edu (and its mirrors)
+infant2.sph.indiana.edu
+alt.binaries.doom
+
+

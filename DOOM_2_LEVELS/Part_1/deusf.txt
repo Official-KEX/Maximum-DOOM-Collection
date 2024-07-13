@@ -1,0 +1,227 @@
+            DeuSF version 2.1	 10/94
+
+	 Copyright (C) Olivier Montanuy 1994. 
+
+
+
+
+Legal Stuff: see the end of this file.
+
+  
+
+**************** EXECUTIVE SUMMARY ******************
+
+ DeuSF stands for DEU Sprite and Flats
+ (DEU is a DOOM level editor by Bendon Wyber and Raphael Quinet.)
+ (Heck, I know the DeuSF name is lame.)
+
+ DeuSF is an alternative to DMADDS and DMADDF.
+
+ DeuSF will enable you to distribute PWADS with only
+ those SPRITES or FLATS that you wish to replace.
+
+ To play you PWAD, people will have 3 solutions:
+ - use DMADDS/DMADDF (do they still work?)
+ - use DeuSF to regenerate another PWAD containing
+   all the SPRITES and FLATS of DOOM which you can't
+   distribute (illegal...and about 3 meg total :-)
+ - use DeuTex (mergewad command) to merge the PWAD
+  within their IWAD. This solution saves disk space,
+  but modify the IWAD (though safely and reversibly).
+
+ DeuSF will work with PWADs composed for DMADDS and
+ probably DMADDF also.
+ But DeuSF prefered PWAD composer is of course DeuTex.
+
+
+************** Distribution *******************
+
+ See legal stuff at the end.
+ Basically, if you distribute for free, there is no restriction.
+
+ DeuSF is derived directly from DeuTex, and edited
+ for higher speed and smaller executable size. 
+ 
+
+********************* THANKS **********************
+
+DeuSF would not have existed without the help of those people:
+	Bern Kreimeier		(bernd@nero.uni-bonn.de)
+		(original DMADDS/DMADDF idea)
+	Dewi Morgan		(D.Morgan@bradford.ac.uk)
+		(unashamed flattery that lead me to consider
+		 write DeuSF from DeuTex code)
+ 	Raphael Quinet 		(quinet@montefiore.ulg.ac.be)
+		(for DEU code and general moral support)
+ 	Matt Fell 		(matt.burnet@acebbs.com)					
+		(Doom specs version 1.3)
+	ID software (help@idsoftware.com)
+		(for the DeuSF test bench, also known as 'DOOM')
+
+********************* SHAMES ***********************
+
+DeuSF would not have existed if there was not a stupid bug
+in the DOOM code for loading FLATS and SPRITES, that locks up
+DOOM when you try to replace existing entries.
+
+ 
+***************** CONVIVIALITY ************************ 
+
+ DeuSF has NO human interface. I will seriously frown upon complaints
+ about the lack of human interface. DeuSF IS MEAN TO BE RUN IN BATCH.
+
+ You shall provide a batch file with all the PWADS you distribute.
+
+ example:
+ DeuSF -doom c:\doom -sprite -add ALIENGFX.WAD ALINGRFX.WAD
+ 
+ 
+****************** DISCLAIMER ************************
+
+	This program is an ordinary DOS executable, compiled in HUGE memory model,
+	with 386 instructions. It might not run under a 286.
+
+	Anyway, If all goes wrong I'll be very sorry but I will not 
+	be liable for any damages consecutive to the use of this 
+	program, including severe damage to your nerves or brain.
+ 
+
+******************* Known problems **********************
+
+-	DeuSF is not able to recognise SPRITES and FLATS just
+		by the names in the PWAD directory.
+		I refuse to program this because it would cause trouble
+		if DOOM changes.
+-	DeuSF was *not* tested under DOOM ][.
+		There is no reason why it shouldn't work, but I would
+		bet that damn program will find a bl**dy reason.
+-	DeuSF will consider all the srites of DOOM. you cannot exclude
+		some, i.e. to replace a one-viewpoint sprite by a 
+		multi-viewpoint sprite, 0 terminated sprite must 
+		be deleted. (this is for the future...)
+-	Source is NOT included.
+		not yet.
+
+**************** Hardware Requirements **********************
+
+ Compiled for 386. Does not make use of coporcessor.
+ Should run with about 500k or less of free base memory.
+
+
+********************  DeuSF Commands  ****************************
+
+
+
+ All the optionnal commands must appear before the non optional ones
+ else they will be ignored. (talk about commandline parsing!) 
+
+* Help commands
+
+DEUSF -help
+	won't help you a lot, but will give you the parameters.
+DEUSF -format
+	will print the format of PWAD that DeuSF can recognise
+
+* Optionnal commands
+
+DEUSF  -doom <doom directory>
+	OPTIONAL COMMAND
+	DEFAULT IS: CURRENT DIRECTORY or \DOOM or \DOOM2
+	use that command to indicate the directory where you put your DOOM.WAD and DOOM.EX
+	example:        -doom C:\DOOM
+
+
+
+DEUSF -sprite
+DEUSF -flat
+ 	OPTIONAL COMMANDS
+	to be use with -add, to add only sprites or only flats.
+ 
+* Mandatory Commands
+
+ 
+DEUSF -add  <myown.wad> <allsf.wad>
+
+	Will put in ALLSF.WAD all the sprites and flats of DOOM.WAD
+	together with those contained in MYOWN.WAD, provided they
+	are recognised as SPRITES or FLATS.
+	(S_START or SS_START,  F_START or FF_START are needed)
+
+ 
+
+
+********************* Legal Stuff *********************
+
+
+
+ *********************************************************************** 
+ *  I have no relations with IDsoftware (except as a registred user)   *
+ *	They don't care about this program, and certainly never will!  *
+ *  I have good relations with Raphael Quinet and Bendon Wyber but     *
+ *	they are NOT supposed to answer questions about this program.  *	
+ * so please:							       *
+ *  Direct all comments to me, don't bother them.                      *
+ ***********************************************************************
+
+
+
+DeuSF is Copyright (C) Olivier Montanuy 1994.
+DeuTex is Freeware but NOT public domain.
+
+Why is DeuSF Copyrighted? so that I can make the following
+requirement, which would be impossible with Public Domain status:
+
+
+YOU ARE NOT ALLOWED TO MAKE ANY MODIFICATIONS TO THIS PROGRAM
+AND TO ALL THE INCLUDED FILES. ALL THE FILES INCLUDED IN THIS
+PACKAGE SHALL BE RELEASED TOGETHER.
+	If you want modifications, ask me, I'll do my best. 
+	Later on I'll release the source, when stabilised.
+
+USE AT YOUR OWN RISKS. NO LIABILITY.
+	It runs under DOS, so behaviour is unpredictable .
+ 
+YOU ARE NOT ALLOWED TO MAKE ANY KIND OF PERSONNAL PROFIT BY
+SELLING, RENTING, LEASING, OR USING THIS PROGRAM, WITHOUT MY
+EXPLICT WRITTEN CONSENT.
+
+	You are allowed to distribute this program on a CD or any
+	other commercial media provided I get a free and fully
+	functionnal copy of your product by snail mail.
+	Thanx for your enthousiasm.
+	Ignore this and I might find it very funny to sue you.
+
+SPECIAL EXCEPTION: CompuServe is allowed to distribute this program 
+for a fee, provided I only receive (by e-mail) a monthly report of 
+the total number of uploads.
+
+
+* Alright folks, it was a shame, but it had to be stated somewhere...
+
+
+
+
+
+************** LAST WORDS   (AT LEAST!)  **************
+
+
+Thanx for using DeuSF.
+
+It's only a small derivative from my PWAD composer, DeuTex. 
+If you enjoyed that program and want to create cool PWADS,
+(and you're not too bored with my bugs) I'll suggest to
+get hold of that DeuTex tool of mine.
+
+
+	Olivier Montanuy,
+
+E-Mail:
+	montanuy@lannion.cnet.fr	Work time mailbox
+	montanuy@dmi.ens.fr		Leasure time mailbox
+	montanuy@idsoftware.com		Dream time mailbox
+Address:
+	Manoir de Keringant, St Quay Perros, 22700 Perros Guirec, FRANCE
+	This is in Bretagne (Brittany), the westernmost part of France.
+Phone:
+	+33 96482047 (time: UTC+1)
+	modem: 1 bit of usable information per second (vocal emulation)

@@ -1,0 +1,72 @@
+   
+ ::================================================================::
+
+Filename                : Death17.zip
+Author                  : Mike Muir
+Email Address           : Mmuir@dunedin.es.co.nz
+Misc Author Info        :  Razor.wad, Rage.wad. If you liked these wads
+                           get this, if you didnt, get this because 4 months 
+                           separates them and they are COMPLETLY Different!
+                           I have pretty much mastered level designing.
+
+Date                    : 24/04/95
+                         (DD/MM/YY)
+
+Description             : Intense 2/3 player DeathMatch, lots of space to 
+                          move in, not cramp for room. Skill needed to get 
+                          the plasma gun (cause i think its too much of 
+                          a kainer to be obtained easily :) Aligned textures,
+                          support for just about any kind of play, multiple
+                          heights/rooms. GET IT!
+
+                        
+Additional Credits to   : ID software, The creators of DEU 5.2 for WINDOWS
+                          Raphael? anyway, BSP dude, thats about it. Oh 
+                          Brian Vannatta for having a look at it for me.
+
+================================================================
+
+* Play Information *
+
+Game                    : DOOM ][
+Level #                 : MAP08 (i like its music)
+Single Player           : Yeah, if you want a look.
+Cooperative 2-4 Player  : Yep, dunno why?
+DeathMatch 2-4 Player   : What do you think?
+Difficulty Settings     : Well, in a way, only diff between difficulty levels
+                          is that on Hurt me Plenty theres a Caco and on UV
+                          theres a Pain Elemental.
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 20 - 25 hours
+Editor(s) used          : DEU 5.2 (win) 
+OS used                 : My PC (??)
+Known Bugs              : Some textures arn't aligned, but it isn't a  
+                          Life & Death situation, now, is it?
+                          
+
+
+* Copyright / Permissions *
+
+Do WHAT YOU WANT with it, BUT INCLUDE MY NAME! (and all above credits)
+
+Authors MAY use this level as a base to build additional
+levels. Although it isnt much of a base level :)  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com/pub/idgames/newstuff (or after) 
+           /levels/doom2/deathmatch
+Me??
+

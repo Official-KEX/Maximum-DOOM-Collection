@@ -1,0 +1,40 @@
+Title                   : THE QUAD. 4 WAY DEATHMATCH ONLY
+Filename                : THE_QUAD.WAD
+Author                  : Jeff Di donato
+
+Description             : Wide open, zig zag and have good aim,low hit
+                          architecture. plenty of defense mechanisms
+                          built in for weapons hoards.
+Additional Credits to   : Mike Davis of Auburn California for sound
+                          design.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP12
+Single Player           : NO
+Cooperative 2-4 Player  : NO
+Deathmatch 3-4 Player   : Yes, for those *real* DOOMers
+Difficulty Settings     : NO
+New Sounds              : YES
+New Graphics            : No
+New Music               : YES
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Map 12 DOOM ][
+Editor(s) used          : DEU2
+Known Bugs              : None 
+                          
+
+* Copyright / Permissions *
+
+Like what I say will make a diffrence to you, so why bother?
+
+
+* Where to get this WAD *
+
+BBS numbers:
+
+Other: 

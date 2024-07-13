@@ -1,0 +1,46 @@
+================================================================
+Title                   : FRAG_YOU
+Filename                : FRAG_YOU.WAD
+Author                  : David Davidson
+Misc. Author Info       : YO ASS!
+Description             : Great DEATHMATCH level!!!  ALL the
+                          weapons are here, lots of teleporters,
+                          small hidey-holes, and lots of dark!!
+                          Very intimate and cozy...in a deadly way!
+                          
+
+Additional Credits to   : Dug (Chicken Bone) Myers, For dying so much...
+                                ================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01
+Single Player           : Yes (But Why?)
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Depends on who you are trying to frag...
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : Maybe one day?
+
+* Construction *
+
+Base                    : New level from scratch  (6 hours)
+Editor(s) used          : DEU 5.21 (GCC version),IDBSP 1.01
+Known Bugs              : If your playing against me you get your ass kicked!
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+Software Creations
+

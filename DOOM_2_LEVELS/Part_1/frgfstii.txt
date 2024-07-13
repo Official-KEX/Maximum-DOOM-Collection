@@ -1,0 +1,68 @@
+===========================================================================
+Title                   : FrgFstII.WAD
+Date Finished           : The date of your file (eliminates same file name)
+Author                  : Your name here
+Email Address           :
+Other Files By Author   :
+Misc. Author Info       : 
+
+Description             : Set the mood here.
+
+Additional Credits to   : 
+===========================================================================
+* Type of DOOM or DOOM II file*
+
+(Choose One)
+New level WAD           : Yes/No
+Sound PWAD Only         : Yes/No
+Music PWAD Only         : Yes/No
+Graphic Addon Only      : Yes/No
+Dehack Patch Only       : Yes/No (version required)
+.LMP Only               : Yes/No
+Other                   : Yes/No (describe)
+Required To Have In Dir : (dmgraph, dehack, dmadds, etc.)
+
+* Play Information *
+
+Map #                   : Map 19-26
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes/Not implemented
+New Sounds              : Yes/No
+New Music               : Yes/No
+New Graphics            : Yes/No
+Demos Replaced          : None/1/2/3
+
+* Construction *
+
+Base                    : New level from scratch/Modified ExMx/xxx.WAD
+Build Time              :  
+Editor(s) used          : 
+Known Bugs              : 
+May Not Run With...     :
+
+* Copyright / Permissions *
+
+Authors (MAY/may NOT) use this level as a base to build additional
+levels.  
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+You MAY not distribute this WAD file in any format.
+
+You may do whatever you want with this file.
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other:

@@ -1,0 +1,50 @@
+================================================================
+Title                   : LED78.WAD
+Author                  : John F. Harris
+Email Address           : jfharr01@homer.louisville.edu
+Misc. Author Info       : Zoology major
+
+
+Description             : Deathmatch WAD.
+                          A production plant inhabited by monsters.
+                          Plenty of weapons, ambush points, and
+                          everything that makes a good deahtmatch
+                          WAD good.
+
+Additional Credits to   : Id, Creators of: DEU521GCC and BSP12X
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes (Not bad single player WAD)
+Cooperative 2-4 Player  : Yes (However not too fun)
+Deathmatch 2-4 Player   : Yes (You bet your fraggin' ass!)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : On and off, 3 weeks
+Editor(s) used          : DEU
+Known Bugs              : None (E-mail me if you find one)
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels if they want.
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.
+
+* Where to get this WAD *
+
+FTP site:infant2.sphs.indiana.edu
+
+
+

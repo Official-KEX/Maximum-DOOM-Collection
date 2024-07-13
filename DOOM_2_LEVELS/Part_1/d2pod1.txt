@@ -1,0 +1,45 @@
+================================================================
+Title                   : Plains of Death 1   
+Filename                : D2POD1.WAD
+Author                  : Rob Graham
+Email Address           : 
+Misc. Author Info       : 
+
+Description             : DOOM II Wad featuring fast paced action 
+                          spanning a large plain with several 
+                          terrain features. Tough, especially at
+                          difficulty settings 3-5.
+Additional Credits to   : ID for creating DOOM II
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None included
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Waded 1.42
+Known Bugs              : In one very small section of the canyon,
+                          a thin HOM line appears above the canyon
+                          rim. Does not affect play.
+                       
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels, as long as credit is given to me for creating the base
+level.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.

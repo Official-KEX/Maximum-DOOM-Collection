@@ -1,0 +1,9 @@
+This is a new E1M1 level, made with NewDEU 4.2.  Try it at "Ultra-Violence"...
+It should work with the registered and shareware versions (I haven't tried
+the latter - tell me if you tried it with a shareware version).
+
+You don't know how to use this file?  It's easy:
+	DOOM -FILE E1L1RQ.WAD
+Have a nice DOOM!
+                                                Raphael Quinet
+                                          quinet@montefiore.ulg.ac.be

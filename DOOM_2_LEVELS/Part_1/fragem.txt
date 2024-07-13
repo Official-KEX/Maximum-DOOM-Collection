@@ -1,0 +1,60 @@
+================================================================
+Title                   : FRAGEM.WAD, a DeathMatch wad for DOOM II
+Author                  : Russ Ringer
+Email Address           : Compuserve 75410,1116 FIDONET 1:343/64
+                          internet: fnork@u.washington.edu
+
+Description             : This is a wad designed for deathmatch 2
+(-Altdeath)
+   Carefully tuned with feedback from deathmatch fanatics through hours of
+   play testing. Eight towers in a large arena provide a variety of weapons
+   and great sniping. Slots and windows in the towers allow for shooting
+   into all other towers, but watch out! "Random" transporters and sneak 
+   doors make for surprise entrances. One imp and chaingunner in level.
+   Use -respawn for a little extra fun. Cooperative exit.
+
+Additional Credits to   : The Avtech Doomheads: Paul, Charlie, Jim,
+                          Chuck and Ken for play testing.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01, DOOM II
+Single Player           : No
+Cooperative 2-4 Player  : Yes, but why bother
+Deathmatch 2-4 Player   : Yes!
+Difficulty Settings     : Yes, Shotguns and chainguns replace plasma gun
+                          and BFG at 4-5
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : MAP01 New level from scratch
+Build Time              : 6+ hours to build, 40 hrs tuning and re-tuning
+                          to player suggestions.
+Editor(s) used          : DEU 5.21gcc, Waded for textures only and 
+                          DEU 2 (sorry, but it's still better than anything
+                          else)
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors MAY modify this level or use this level as a base to build
+additional levels, as long as I get proper credit.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ftp.uwp.edu
+
+BBS numbers: BETTER WORLD (206) 634-0671
+
+Other: Compuserve GAMER forum
+

@@ -1,0 +1,83 @@
+
+Doom Version            : Doom ][
+Title                   : TOWER OF RURQTA!!!
+Filename                : RURQTA.WAD
+Author                  : Brent Dearth
+Email Address           : <Available Through> DavidEddy@aol.com
+			  (Yes, i know...AOL) Address to Brent.
+
+Snail Mail              : Brent Dearth                         
+			  1511 Brentwood Rd.
+			  Charleston, WV 25314
+
+
+Misc. Author Info       : Really Hip Guy!
+			 
+
+Description             : My second released DOOM ][ Level...
+			  
+			  On the planet Pascala on top of  
+			  Mt. Integer, off the second coast of
+			  Firspro, dwells an awesome power known 
+			  as...        R U R Q T A ! ! !
+			  Known to take the form of a CyberDemon,
+			  Rurqta rules the land under his iron hoof,
+			  and presides on top of a huge tower guarded
+			  by many of his finest soliders. Only the
+			  most experienced fighters have been known to
+			  even make it to the halfway point before being
+			  destroyed in an udderly painful way. 
+			  
+			  You have been dumped on the mountain by the
+			  Legion of Bastards for their initiation
+			  ceremony. Survive, and you're inducted.
+			  Die, and you'll be...dead. (WOW!)
+							
+			  <RURQTA can only been seen on Ultra-Violence
+				     or Nightmare mode.>
+			  
+
+Additional Notes        : Tell me what you think...This is my second P-Wad
+			  worthy (or, at least i hope so) to be released.
+			  Please send any comments or suggestions for 
+			  improvements or modifications. There are a 
+			  couple of walls that appear as normal, but
+			  really aren't solid. LOOK FOR THESE. Also,
+			  This level has been playtested for Detahmatch,
+			  many a time...IT REIGNS SUPREME....i think.
+
+
+========================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 01
+Single Player           : YESSIREEEEE
+Cooperative 2-4 Player  : Why not?
+Deathmatch 2-4 Player   : YESSIREEEEE
+			  <Meant to be played WITH monsters.>
+Difficulty Settings     : Yes
+New Sounds              : None
+New Graphics            : None
+Demos Replaced          : No <For some reason, the .lmp would
+			      not correctly patch.>
+
+
+* Construction *
+
+Base                    : New from Scratch!!
+Build Time              : Many a moon. 
+Editor(s) used          : DEU2 (Modified DEU521), DEU2C, EdMap
+Known Bugs              : None
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels, if they really want. Please contact me first, or
+I'll beat you with a wet noodle.
+
+
+* Where to get this WAD *
+
+You got it...why bother to ask.
+

@@ -1,0 +1,54 @@
+================================================================
+Title                   : Rest In Pieces part VI
+Filename                : RIP6.WAD
+Author                  : Jeremy Drye and Nick Tucker
+Email Address           : forwarded from nickwt@aol.com
+Misc. Author Info       : HS Student
+                          MK II wanna-be
+Description             : If you are familiar with RIP4, you'll notice
+                          that this is just a remake of E3M1, and the
+                          2 of them are connected in several places.  You
+                          can have some interesting battles on this board
+                          if you are playing side by side and try to watch
+                          each others screen from time to time.
+                          
+Additional Credits to   : DEU and BSP authors
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Modified E3M1
+Editor(s) used          : DEU
+Build Time              : Less than an hour
+Known Bugs              : None Known
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:  Infant2
+
+BBS numbers:  Bills Graphics BBS  (704) 932-4739 19.2K V.32Terbo
+              Carolina Forum BBS  (704) 563-5857 28.8K V.FC
+              
+Other:  America Online PC Games Forum

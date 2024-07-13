@@ -1,0 +1,101 @@
+================================================================
+Title                   : Pond of the Deathmatch Crater
+Filename                : DETHPOND.WAD
+Author                  : Michael Lundy
+Email Address           : Rememer what I said in the CLP text file?
+Misc. Author Info       : Check out my other works of art;
+                          Houses 1.2 (1.3 coming soon),
+                          Another Heretic Cathedral,
+                          and The Dark Forces Rifle Patch
+                          Cargo Landing Pad
+
+                          I'm also thinking of uploading my Super Shotgun
+                          patch, because it does so well in Deathmatch.
+
+Some Things I'd like to : Here are two files uploaded with a ZIP error                        
+Say                       MUSICAL1.ZIP
+                          MOVIE1.ZIP
+
+                          I still hate the word KEWL. It sucks!
+
+                          The Innocent Crew forgot to upload their level WAD
+                          within OBTIC2.ZIP. They uploaded a text file a few
+                          days ago to the incoming directory, but the FTP
+                          operators deleted it (I think).
+
+Description             : This outside arena is so complicated that I had to
+                          block some areas from visplane areas that happened
+                          in corners of the level. I mean "complicated"
+                          as in there are a lot of 2 sided linedef around.
+                          DEU's node builder could barely handle it. 
+                          
+                          This level includes a giant pond
+                          with a "storm drain" room adjacent to it. It also
+                          has a drop hole with an invisibility sphere in
+                          of it, so you can drop down in surprise and shoot
+                          something.
+
+                          I know you may have seen other "pool" or "pond"
+                          levels, but this one is way different.
+
+                          Expect this WAD to be in Houses 1.3 and to look
+                          much better in that DOOM 2 WAD.
+
+                          One other thing; EVERYTHING TEXTURE IS ALIGNED!!
+
+Additional Credits to   : Raphael Quinet and Brendon Wyber for DEU 5.21
+                          Oliver Montanuy foe DeuTex 3.4
+                          Zink the Dink for ENDOOMER 1.0.1
+                          The author if VS3.WAD (I used the waterfall gfx.)
+                          The author is MASSACRE.WAD (I used the music.)
+                          I forgot to give credit to the author of ZWIEBACK
+                          on my last level: Cargo Landing Pad (I used the
+                          music).
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : DOOM 1 E1M1 (Hey, the walls still look good for
+                          such a limited choice of textures.)
+Single Player           : Yes, but I wouldn't recommend it.
+Cooperative 2-4 Player  : Yes, but why?
+Deathmatch 2-4 Player   : Yes!
+Difficulty Settings     : There aren't any monsters to set diffuculties on.
+New Sounds              : No
+New Graphics            : Yes. I stole the waterfall graphics from VS3.WAD
+                          I also made a new ending screen, which is sort of
+                          a graphics piece. It appears that I'm the only one
+                          who can make an ending screen that gives you a dos
+                          prompt in the correct color: gray
+New Music               : Yes, but DeuTex keeps thinking that it is a lump 
+                          of data. It's a Nirvana song.
+Demos Replaced          : None. Sorry, I don't know anyone who has a 14,400
+                          baud modem and DOOM 1.
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21, DEUTEX 3.4, ENDOOMER 1.0.1
+Known Bugs              : No. Every texture is aligned!! While running
+                          my level, I got kicked out because of visplane
+                          errors. I fixed them, but I am still a little
+                          curios to look for new ones. I havent foud any
+                          on my copy of DOOM v1.9
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels, but only 
+if it improves deathmatch play. You may also take the music from my WAD 
+because I didn't write or re-record the song.
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com (You may find this on a CD, because that FTP site
+           says their DOOM stuff will be put on a CD. It sucks that they're
+           making money off of my stuff!)
+
+BBS numbers: No.
+
+Other: Nothing here either.

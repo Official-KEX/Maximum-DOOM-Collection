@@ -1,0 +1,186 @@
+J_ROOM4.WAD - 14 fun levels for DOOM II DeathMatch!
+by Jordan Russell
+
+This is the fifth release of my level collection. It includes 15 levels,
+DOOM 1 sky, and DOOM 1 music. See below for descriptions of each level.
+
+Most levels have monsters (if you enable them) and are meant for DeathMatch.
+
+=============
+= Whats New =
+=============
+
+Version 0: 2 new levels, sky from DOOM I episode 1.
+Version 1: 2 more new levels, bug fixes.
+Version 2: 1 more new level, bug fixes, different music. Made level 1
+           brighter.
+Version 3: 5 more new levels, bug fixes. Added monsters to most levels.
+Version 4: 4 more new levels, bug fixes. More new music. New plasma sound!
+
+=====================
+= How to contact me =
+=====================
+
+DWANGO (Dallas): jordanr
+Chrysalis:       Jordan Russell
+Internet:        jordan.russell@chrysalis.org
+
+======================
+= Level 1 - Big Room =
+======================
+
+Description:    This is a large dark room with many weird structures, a
+                raiseable ledge surrounding the room, and an outside part.
+Meant for:      4 player DeathMatch 2.0. No teams.
+
+Written by:     jordanr
+Editors used:   DEU 5.21, DEUII 1.0.
+Time spent:     70+ hours.
+
+========================
+= Level 2 - Small Room =
+========================
+
+Description:    This is similar to level 1 but smaller and brighter.
+Meant for:      3 or 4 player DeathMatch 2.0. Teams would be fun.
+
+Written by:     jordanr
+Editors used:   DEU 5.21, DEUII 1.0.
+Time spent:     20+ hours.
+
+==================
+= Level 3 - Acid =
+==================
+
+Description:    This is a small arena level with most weapons.
+Meant for:      3 or 4 player DeathMatch 2.0. Teams.
+
+Written by:     jordanr
+Editors used:   DEUII 1.0, DCK 2.0.
+Time spent:     5+ hours.
+
+===================
+= Level 4 - Arena =
+===================
+
+Description:    This is an inside arena level with a "pyramid" structure.
+Meant for:      4 player DeathMatch 2.0. Excellent for teams.
+
+Written by:     jordanr
+Editors used:   DEUII 1.0.
+Time spent:     5+ hours.
+
+=====================
+= Level 5 - Arena 2 =
+=====================
+
+Description:    This is another inside arena level with a huge step structure
+                leading to weapons. Many bonus items including armor.
+                NEW! Fixed the ceiling because people were complaining that
+                     it looked "goofy".
+Meant for:      4 player DeathMatch 1.0 or 2.0. Teams.
+
+Written by:     jordanr
+Editors used:   DEU 5.21, DEUII 1.0.
+Time spent:     10+ hours.
+
+======================
+= Level 6 - Carnage! =
+======================
+
+Description:    This is the ultimate "carnage" level. 
+Meant for:      2 to 4 player DeathMatch 1.0 or 2.0. Excellent for teams.
+
+Written by:     jordanr
+Editors used:   DEUII 1.0, DCK 2.0.
+Time spent:     5+ hours.
+
+======================
+= Level 7 - The Pits =
+======================
+
+Description:    This is a huge level with many "pits". Great for BFG wars.
+Meant for:      4 player DeathMatch 2.0. No teams.
+
+Written by:     hawker, jordanr
+Editors used:   WADED, DEUII 1.0.
+Time spent:     20+ hours.
+
+=====================
+= Level 8 - Sandbox =
+=====================
+
+Description:    This is a large "diamond" shaped level. No plasma rifle.
+Meant for:      3 or 4 player DeathMatch 2.0.
+
+Written by:     jordanr
+Editors used:   DEUII 1.0.
+Time spent:     2+ hours.
+
+=======================
+= Level 9 - Sandbox 2 =
+=======================
+
+Description:    This is a larger version of map 8. Less rockets.
+                Same as J_SANDS.WAD.
+Meant for:      3 or 4 player DeathMatch 2.0.
+
+Written by:     jordanr
+Editors used:   DEUII 1.0.
+Time spent:     5+ hours.
+
+====================
+= Level 10 - Steps =
+====================
+
+Description:    This is a small level with steps. No plasma rifle.
+Meant for:      4 player DeathMatch 1.0 or 2.0. Teams.
+
+Written by:     jordanr
+Editors used:   DEUII 1.0.
+Time spent:     1+ hours.
+
+========================
+= Level 11 - Carnage 2 =
+========================
+
+Description:    This is a modified version of level 6.
+Meant for:      4 player DeathMatch 1.0 or 2.0. Teams.
+
+Written by:     jordanr
+Editors used:   DEUII 1.0, DCK 2.0.
+Time spent:     5+ hours.
+
+=========================
+= Level 12 - Rocket War =
+=========================
+
+Description:    This is a large arena with rockets only.
+Meant for:      3 or 4 player DeathMatch 1.0 or 2.0. Teams.
+
+Written by:     jordanr
+Editors used:   DEUII 1.0.
+Time spent:     3+ hours.
+
+==========================
+= Level 13 - Shotgun War =
+==========================
+
+Description:    This is a large arena with shotgun only.
+Meant for:      3 or 4 player DeathMatch 1.0 or 2.0. Teams.
+
+Written by:     jordanr
+Editors used:   DEUII 1.0.
+Time spent:     3+ hours.
+
+=====================
+= Level 14 - Blocks =
+=====================
+
+Description:    Small level with blocks. Similar to KCE.WAD but smaller,
+                and outside.
+Meant for:      3 or 4 player DeathMatch 1.0 or 2.0. Teams.
+
+Written by:     jordanr
+Editors used:   DEUII 1.0.
+Time spent:     1+ hours.

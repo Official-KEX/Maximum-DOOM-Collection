@@ -1,0 +1,52 @@
+================================================================
+Title                   : METRO.WAD
+Author                  : Peter Porai-Koshits
+Email Address           : peter@softjoys.spb.su   2:5030/133.8
+Misc. Author Info       : New Wad For DOOM II...Hell On Earth
+
+Description             : Model of Subway station in St.Petersburg
+
+Additional Credits to   : ID Software (The crew)
+                        : DOOM Editor PM  v1.06
+                        : DEU2 v1.0
+----------------------------------------------------------------
+  **To play this level, put the .WAD in your DoomII directory**
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes 
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level 
+Build Time              : Two weeks - 1-2 hour every day
+Editor(s) used          : DOOM Editor PM v1.06, bsp12x
+Known Bugs              : Light level of objects in several darkness sectors.
+                         
+                          
+                          
+                          
+* Copyright / Permissions *
+
+Authors (MAY) use this level as a base to build additional
+levels.  
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+
+
+

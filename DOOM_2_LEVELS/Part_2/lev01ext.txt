@@ -1,0 +1,55 @@
+
+-- Also check out BATTLE.WAD and PRISON.WAD --
+
+
+About LEV01EXT.WAD
+
+================================================================
+Title                   : "Level 01, The extended version"
+Filename                : LEV01EXT.WAD
+Author                  : Sander Dee
+Email Address           : dee@cistron.nl
+Misc. Author Info       : I also made PRISON.WAD and BATTLE.WAD
+                          for doom2, they're really cool, try to
+                          get them!
+                                                               
+Description             : A modification of map01 of doom2. I 
+                          just made it a little bigger...
+                          ...and more difficult!
+                          
+
+Additional Credits to   : I did it all by myself!
+================================================================
+
+* Play Information *
+
+Game                    : DOOM II
+Episode and Level #     : Map01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes 
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Modification of map01
+Editor(s) used          : WADED 1.42 and DEU2 v1.00 
+Known Bugs              : Bugs in MY wads? Are you crazy?
+                          
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+You may do anything you want with this WAD. 
+
+
+* Where to get this WAD *
+
+I think you already have it when reading this file.
+

@@ -1,0 +1,72 @@
+
+================================================================
+Title                   : SIMPSONS DOOM
+Authors                 : "Spooky" Steve Blauwkamp &
+                          "Decapitated" Chuck Fuoco
+Email Address           : cfuoco@uxa.cso.uiuc.edu
+Misc. Author Info       : Creators of Kickass.wad sound replacements
+
+Description             : Simpsons sprites and sounds replacements
+
+Additional Credits to   : Matt "Hell" Greoning
+                          the creator of HOMER.WAD for a few sounds
+================================================================
+
+* Play Information *
+
+Episode and Level #     : N/A
+Single Player           : N/A
+Cooperative 2-4 Player  : N/A
+Deathmatch 2-4 Player   : N/A
+Difficulty Settings     : N/A
+New Sounds              : Yes (many)
+New Graphics            : Yes (all the characters)
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New sounds personally recorded, and pictures
+                          hand drawn and scanned and colored
+Build Time              : About 20 hours
+Editor(s) used          : DMGRAPH and DMAUD, NEOPAINT, Dehacked 1.3
+Known Bugs              : None (that I know of)
+
+
+* Copyright / Permissions *
+
+You may use these files and distribute it freely.  But I would require
+consultation before usage of any of the pictures in other distributed
+files.  Sounds may be re-distributed with author information or credit
+given.
+
+* Additional Description *
+
+Every character has been replaced with a simpsons character, including
+you as Homer.  Additional sprites have been changed as well, although
+all the weapons remain the same along with most other flashy but useless
+sprites.  Sound for these characters have been replaced as well to
+coordinate with the pictures.  I must give some credit to the original
+creator of HOMER.WAD for the idea and a few sounds.
+
+        You -----------------------> Homer
+        Rifle Soldiers ------------> Moe, the bartender
+        Shotgun Soldiers ----------> Police Chief Wiggam
+        Imps ----------------------> Abu, the Kwik-E-Mart clerk
+        Demons --------------------> Barney
+        Barons --------------------> Flanders
+        Skulls --------------------> Krusty the Clown
+        Cacodemons ----------------> Side-show Bob
+        Spider Demon --------------> Smithers
+        Cyber Demon ---------------> Mr. Burns
+
+Also, I included a batch file to automate running doom (along with your
+favorite arguments).  One snag, though.  The dead body pictures is the
+same as the last frame of Homer's death.  So rather than having lots
+of dead homer's lying around, I changed the frame table to make the
+last frame of player's death to 132 (on Doom 1.2) rather than 133.  And
+then I just kept the green guy dead picture for those dead bodies.
+Without this hack (using Dehacked), the player death will initially
+start as Homer, and he will turn into the green guy for the final dead
+body (not the end of the world).
+
+Have some fun, and kick some Simpsons ass!

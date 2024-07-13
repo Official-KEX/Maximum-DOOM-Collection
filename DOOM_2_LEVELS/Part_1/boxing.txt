@@ -1,0 +1,57 @@
+================================================================
+Title                   : BOXING.WAD   
+Author                  : Mal Blackwell
+Email Address           : HarpPlayer@aol.com
+Misc. Author Info       : 
+
+Description             : This wad really isn' a big deal. I pretty much
+                          just made it for fun. Dont expect alot of replay
+                          value from this one. (sorry) But I do hope you
+                          enjoy it all the same! OK heres the description,
+                          This is a Deathmatch boxing game (please no guns
+                          allowed) You can either duke it out or have a
+                          chainsaw match! And please don't disturbe the
+                          spectators, as they have only come to see the
+                          match and you could instigate a riot!
+
+Additional Credits to   : Mat Diamond, playtesting.
+================================================================
+
+* Play Information *
+
+Map #                   : Map1
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 2 hours 
+Editor(s) used          : DEU2 and BSP1.2x
+Known Bugs              : none
+
+
+* Copyright / Permissions *
+
+Authors (MAY) use this level as a base to build additional
+levels.  
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+You may do whatever you want with this file.
+
+
+* Where to get this WAD *
+
+   where ever it may be.
+

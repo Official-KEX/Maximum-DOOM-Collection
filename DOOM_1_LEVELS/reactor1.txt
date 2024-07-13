@@ -1,0 +1,56 @@
+================================================================
+Title                   : REACTOR1.WAD   
+Author                  : Russ Walsh
+Email Address           : russ@issi.com
+Misc. Author Info       : I *AM* root, so don't even think about it!
+
+Description             : Your team has been called in to clean out
+                          one of UAC's power plants, but in the first
+                          hallway, the ceiling behind you collapses,
+                          burying almost all of your soldiers.  Looks
+                          like the only way out now is to use the
+                          facility's transporter pad on the other side
+                          of the building.
+
+Additional Credits to   : The Id team.
+                          The authors of the editors I used(see below)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (but not tested)
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes, but not much
+New Sounds              : No
+New Graphics            : Yes (Wall Textures: SP_DUDE3, SKINSYMB)
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 1.680035E+39 
+Editor(s) used          : DoomCAD 4.0/4.2, BSP1.0, DMGraph
+Known Bugs              : A couple of spots that may slowdown cheap machines.
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+FTP sites: infant2.sphs.indiana.edu
+
+BBS numbers:
+
+Other:
+
+==============================================================
+

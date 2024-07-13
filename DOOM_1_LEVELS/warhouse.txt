@@ -1,0 +1,42 @@
+=============================================================================
+Title                   :WARHOUSE.WAD
+Author                  :Mike Barker
+Email Address           :s19788@hp.rmc.ca
+Misc. Author Info       :Send Comments!
+
+Description             :Imagine that a large, abandoned, warehouse in your 
+                        home town has been overrun by nasties.  It is up to
+                        you to save the day!  You must first fight your way
+                        in from outside, make it through the outer offices,
+                        and then finally into the warehouse itself.
+                          Although difficulty levels are implemented, it is
+                        always pretty tough!  Good Luck!
+                          The level itself is pretty large, and may be a little
+                        slow on some machines if all the nasties are running
+                        around at the same time.  On a 486 it is fine.  
+
+Additional Credits to   :Chad Smith for play-testing.
+=============================================================================
+* Play Information *
+
+Episode and Level #     :E1M1
+Single Player           :Yes
+Cooperative 2-4 Player  :Yes
+Deathmatch 2-4 Player   :Yes
+Difficulty Settings     :Yes
+
+* Construction *
+
+Base                    :New Level
+Build Time              :Far too much...
+Editors used            :DEU v5 and BSP v1
+Known Bugs              :Some monsters seem to ignore the "deaf" bit & kill
+                        one another before you get there.
+
+*Copyrights / Permissions *
+
+I'm not too fussy about what people do with this level.  I want credit 
+anywhere that it is used/altered.  It may be combined with other levels in a 
+complete episode WAD file.  It may be distributed in any manner.  It will
+not be played by those who do not enjoy it.
+

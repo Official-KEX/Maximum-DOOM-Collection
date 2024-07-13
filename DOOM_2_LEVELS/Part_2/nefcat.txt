@@ -1,0 +1,56 @@
+...................DOOM.][.WAD.Information......................
+================================================================
+Title                   : Nefarious Chateau
+Filename                : NEFCAT.WAD
+Author                  : Denver J. Curtis
+Email Address           : denver.j..curtis@swcbbs.com or
+                          denver.j#.curtis@swcbbs.com
+Misc. Author Info       : Final Q.A. inspector/tester at American Meter
+                          West Virgina.  Attending collage at West Virgina
+                          State.
+Description             : Well you enter in the kings land, but rumours have 
+                          it that the king is dead.  Well your in his castle
+                          why don't you check for yourself if you can........
+
+Additional Credits to   : 
+Greg Hively for suggestions, ideas, testing, and giving me a home
+at Blue Powder Enterprises. :)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU2 5.2, DEUC, BSP 1.2
+Known Bugs              : Not a one. (KNOWN)
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels.  
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+BBS numbers:  Blue Powder Enterprises, WV
+              (304) 727-6733
+              Software Creations, MA
+              (508) 365-9352
+
+Have fun with this level everyone.  
+P.S. Would someone please give me some feedback on this level,
+I put over 50 hours in it.
+-Thank you for purchasing this WAD-

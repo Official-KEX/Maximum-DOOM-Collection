@@ -1,0 +1,58 @@
+MAVERICK - A DOOM Level for Deathmatch Play
+===========================================
+
+Replaces E2M1.  Uses existing graphics.
+
+----------
+
+I recently asked DOOM players what they liked in a Deathmatch level.
+A lot of people made suggestions.  After listening and thinking, I have
+designed a Deathmatch level that should be challenging and fun!
+
+MAVERICK is divided into five zones:
+ * The Maze
+ * The Shrine
+ * The Gallery
+ * The Computer Room
+ * The Arena
+
+Each has a different theme, feel or "gimmick."  You can play transporter
+games, sneak up on sniper nests, play peek-a-boo behind walls (visible
+and invisible!), play run-and-gun in a cloud of baddies, or just duke it
+out in the ring.
+
+It should be almost impossible to commit suicide EXCEPT at "Easy" level,
+where I do include a rocket launcher in the Gallery.  Some people enjoy
+using the rockets, in which case suicide is a side effect.  Shotgun,
+chaingun, bullets and shells are supplied.  There is a chainsaw
+somewhere
+
+There are no mega monsters, the worst is some Cacos in the Arena at UV
+difficulty.  Troopers, sarges, imps and Lost Souls are it.  Oh, and one
+demon, don't worry, he'll find you. :-)
+
+Deathmatch exit is cooperative, requiring two players.  (A single player
+exit switch in the Computer Room is blocked off in multiplayer mode.)
+To exit, press the Satyr switch in the Arena, then press the same kind
+of switch in the far corner (that person is stuck), then walk into the
+central rotating Beacon.
+
+A note on the Maze - opinions were mixed on mazes, with some hating them
+and some loving them.  All rooms connect directly to the central Arena
+so you don't need the Maze, but if you want it there it is.  My little
+twist is this: Some walls are opaque, others are transparent but block
+shots, and others are transparent but shoot through!  Try to outsmart
+each other in the passageways.
+
+The Gallery was just built around a visual idea I had that I thought
+would look neat.  Watch the enemy go light-dark-light-dark as he
+walks toward you...
+
+----------
+
+Done in 56 hours :-) with DEU 5.2, the professional WAD editor.
+
+Have fun and send me any comments!
+
+-- 
+Tom Neff       tneff@panix.com      ...!uunet!panix!tneff

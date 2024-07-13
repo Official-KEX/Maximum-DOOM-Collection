@@ -1,0 +1,46 @@
+============================================================================
+Title           : J.C. Herhous: DeathMatch Wad 
+Filename        : HERHOUS.WAD
+Author          : joey cato
+Internet        : joey.cato@1starnet.com
+
+Description     : This is my old house. If you make a mess, clean it up.
+                  I love playing house wads the best. There aren't
+                  that many i've found so i made my own. I apologize for
+                  the on/off light switches that don't work. You'll have
+                  to play JCHOUSE.WAD, which is the original Doom ][ 
+                  version. Please e-mail me w/ any comments!
+
+Recommended Options: AltDeath,DeathMatch
+
+Additional Credits to:    DEU 2 creators
+                          id software programmers
+                          DM2CONV author
+
+BetaTesting - Ron Dicken, David Cato, Michael Ricketts, Dirk Melvin, 
+              Greg Moore
+================================================================
+
+* Play Information *
+
+Level #                 : E1M1
+Single Player           : Yes, but just to explore
+Cooperative 2-4 Player  : Yes, but no monsters/exit
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : easy - nightmare
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+
+* Construction *
+
+Base                    : None
+Editor(s) used          : Deu 2
+Known Bugs              : None
+
+BBS numbers:
+
+        Mach II BBS       (903)-785-5553
+        FarPoint BBS      (903)-785-8820
+        Wayne's World BBS (903)-784-7838
+

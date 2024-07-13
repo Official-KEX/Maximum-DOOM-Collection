@@ -1,0 +1,41 @@
+================================================================
+Title                           : Spank me, Spank me, Spank me!!!
+Date                            :  24 / 10 /94
+Author                          : Andrew J. Hulme,      
+Email Address                   : Andrew@metnov1.bham.ac.uk
+Misc. Author Info               : Spends far too much time playing Doom 
+			  
+Description                     : This is an update of spankme to run with DooM II, I've changed the wall textures and moved some of the weapons about. This level is designed for DEATHMATCH. There is no real theme to theis level and its fairly simple, just a whole heap of good clean fraggin' fun. 
+
+Additional Credits to           : Adam Gilchrist and Andy Banks for playtesting. ID software, you make it worthwhile buying a PC.
+
+Additional Notes                : There are monsters in this level if you want to do single player. But then you must be sad and lonely with no freinds to frag.
+================================================================
+
+* Play Information *
+
+Episode and Level #             : 1
+Single Player                   : Not worth it really. 
+Cooperative 2-4 Player          : No, not at all, most definitely not. 
+Deathmatch 2-4 Player           : Yes
+Difficulty Settings             : yes, well sort of.
+New Sounds                      : No
+New Graphics                    : No
+
+* Construction *
+
+Base                            : New level from scratch
+Build Time                      : Valuable time in which I should be writing my thesis. 
+Editor(s) used                  : DEU 5.21 & BSP 1.2 for original design, edmap 1.21b for DooM II modifications.
+Known Bugs                      : None Known
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels. You may do whatever you want with this file. Please
+give credit to author if used to create other levels from this one. 
+Thanks.
+
+* Where to get this WAD *
+
+infant2.sphs.indiana.edu and mirrors.

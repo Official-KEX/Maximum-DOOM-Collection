@@ -1,0 +1,76 @@
+================================================================
+Title                   : COMBAT.WAD   
+Author                  : Karl R. Peters
+Email Address           : kp2084@atlas.ccm.edu (currently unreachable)
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1, E1M2, E1M3
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (not tested)
+Deathmatch 2-4 Player   : Yes (not tested)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None (LMP's of each, but seperate from pwad)
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Deu5.0, BSP1.1
+Known Bugs              : none
+
+
+* Copyright / Permissions *
+
+Authors may do whatever the hell they want to with this package.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+                \pub\doom\newwads
+==================================================================
+
+Combat.wad is a package of 3 wads a created a while ago when deu5.0
+first came out.  They're all pretty simple wads - basically the standard,
+"You're in a big room with a lot of monsters. Go kill."   Nonetheless,
+I think they can be a lot of fun.  Also, they're very good for developing
+and practicing good DOOM combat skills.
+
+I'd advise starting on 'Hurt Me Plenty' or even 'Not Too Rough'.
+Ultra Violence is pretty nasty, and I don't even want to imagine what
+playing these on 'Nightmare' would be like.
+
+========= SPOILERS FOLLOW ============ 
+(read if you get sick of getting slaughtered)
+
+
+
+
+
+
+OK, so you're getting roughed up mercilessly, and you want to know 
+how to survive.
+
+On E1M1, it's you and your fist vs. Demons.  My advice: don't use
+the chainsaw (unless you enjoy getting surrounded and crushed).
+Instead, use the berserk packs.  Then run around the demons in circles,
+occasionally striking at the lead demon chasing you. The shift (run)
+key is vital here.
+
+E1M2: Without armor, you're dead meat. So, the first thing you need to
+do is get some.  A suit of green armor is in the northern corridor
+of the first chamber.  At the start, run North as fast as you can!
+After you get the armor, keep moving, picking off monsters when
+you get the chance.
+In the second chamber, let the sargents and imps kill each other.  Just
+keep running up and down the hall until nothing is left but the Baron.
+Then go fight him.
+
+E1M3: For people who know how to fight cyberdemons, this is actually
+the easiest of the three.  Just remember that when you get surrounded
+by hordes of spectres, you can blast your way out - BUT ONLY IF YOU'RE
+RUNNING!  Not using the shift key is a sure way to die.
+Also, don't forget to get the blue armor at the start.

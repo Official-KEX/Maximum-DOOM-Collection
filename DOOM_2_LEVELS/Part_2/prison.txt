@@ -1,0 +1,37 @@
+=============================================================================
+Title                   : Prison
+Filename                : Prison.wad
+Author                  : Patrick M. Fry
+Email Address           : cooker@ix.netcom.com (not my actual, a friends)
+Misc. Author Info       : I do stuff
+Description             : You are in a prison with no hope of escape, the only  
+                          thing you can do is kill other people, i.e. Denny.
+Additional Credits to   : Apollo for stuff
+=============================================================================
+
+* Play Information *
+
+Game                    : DOOM2
+Map                     : 1
+Single Player           : Yes to look
+Cooperative 2-4 Player  : Hell No
+Deathmatch 2-4 Player   : Hell Ye
+Difficulty Settings     : WHY PEE WEE HERMAN????
+New Sounds              : Yes
+New Graphics            : Yes
+New Music               : Yes
+
+* Construction *
+
+Base                    : New level from scratch
+Editors used            : WADED, DEU, BSP
+Known Bugs              : None
+
+* copyright *
+
+Use it for fun and profit...
+
+* Where to get this wad *
+
+internet, donkey molester, don't you know that!??!?!?!?!?!?!??!!?!??!?! (parm)
+

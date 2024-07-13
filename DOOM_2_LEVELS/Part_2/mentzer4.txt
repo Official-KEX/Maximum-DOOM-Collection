@@ -1,0 +1,67 @@
+================================================================
+Title                   : Mentzer4.WAD  (For Doom 2) 
+Author                  : David J. Hill   
+Email Address           : Mentzer@aol.com
+
+Description             : Also know as Carnage City!
+
+			  Another Deathmatch wad in the Mentzer series.  
+			  Grab a firm grip on your rocket launcher and get 
+			  ready for the fire fight.  There is an outside open area
+			  surrounded by other rooms.  A couple of hidden ambush
+		   	  areas accompany all weapons and most powerups.
+
+			  New to the Mentzer series:  MONSTERS!  Due to demand
+			  from a few loyalist, Monsters have been included.  
+			  This wad can be played solo play too.  
+			  
+Additional Credits to   : My wife Anna for here patience.
+
+			  My brother Chuck Hill (74063.2315@Cis.Com) for beta testing.
+
+			  Gregg Hicks (from Orion bbs) for beta testing.
+			
+			  And the authors of DoomCad and ID software.  
+ 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 1
+Single Player           : Yes.
+Cooperative 2-4 Player  : yes. 
+Deathmatch 2-4 Player   : yes!!!  Go kick some ass!  
+Difficulty Settings     : yes.
+New Sounds              : NO
+New music               : NO
+Demos Replaced          : None
+Date Finished		: Jan. 29, 1995  
+
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Around 20 hours.
+Editor(s) used          : DoomCad 5.0 and 5.1
+Known Bugs              : None
+
+===============================================================
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, just give me credit for my effort.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+If you find any bugs or have question or comments, write to Mentzer@aol.com.
+
+* Where to get this WAD *
+
+Other: America On-Line, Compuserve, Ftp.cdrom.com and mirrors
+
+Also:  The Unofficial Doom site of Western Kentucky  
+Orion BBs 502-898-7541 - user of MediaHost software.

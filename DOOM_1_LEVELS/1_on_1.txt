@@ -1,0 +1,54 @@
+================================================================
+Title                   : 1_on_1.WAD
+Author                  : Rob (Cisco) Sarsorito
+
+Email Addresses         : cisco@mhv.net
+
+Description             : Just one of a thousand PWAD's out there.
+                          Hope you enjoy it.
+                          
+Additional Credits to   : Brendon Wyber (DEU 5.1)
+                          Rapha‰l Quinet (DEU 5.1)                       
+                          Joe Wilcox (DEUH), (yep, it's a hack of DEU)
+                          Colin Reed (BSP1.1X)
+                          and of course, the great id Software team.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M4
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : No (don't be a wuss)
+New Sounds              : Yes (Musical Background)
+New Graphics            : Yes (sky)
+
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 'bout 25 hours
+Editor(s) used          : DEU 5.1, DEUH, BSP1.1X
+Known Bugs              : There's one spot that gives the HOM. Live with
+                          it.
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Disclaimers *
+
+We shall not be responsible for any explosions or malfunctions
+caused by using these files. If your HD gets formatted or your
+system crashes, we will not be responsible.  Add the usual 
+additional disclaimers here... :)
+
+* Where to get this WAD *
+
+Duh, looks like you already have it. <g>

@@ -1,0 +1,66 @@
+================================================================
+Title                   : M A X I M U M    P S Y C H O S I S
+Filename                : PSYCHO.WAD
+Author                  : Steve Mooradian
+Email Address           : mooras@rpi.edu
+Description             : 
+                          WARNING:  This wad is FAST-PACED! You will die!
+                          If you do not like high intensity, total carnage,
+                          absolute psychotic action.... then don't play
+                          this wad and try PUSSY.WAD instead....  >:)
+                          
+
+Additional Credits to   : Edgar Roman for writing the totally awesome
+                               CARNAGE.WAD that this wad was derived from.
+                          My practice dummies!:
+                           Brian Craig      -Always hiding.... WIMP!
+                           Mike Metz        -I'm still the king, bud!
+                           Ki Lee           -broke-dick.
+                           John Hare        -silent(?) observer
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP1            
+Single Player           : Yes (The calm before the storm)
+Cooperative 2-4 Player  : Yes (can you say... gay?)
+Deathmatch 2-4 Player   : YES!!!!!
+Difficulty Settings     : Not implemented
+New Sounds              : Yes (only one.... but oh so appropriate)
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : CARNAGE.WAD  by Edgar Roman
+Editor(s) used          : DEU v5.21, EdMap v1.21
+Known Bugs              : All previous bugs have been fixed.
+Design Time             : About 30 hours of re-building
+                          About 55 hours of frag testing!
+
+* Misc. Notes *
+
+        This level is a revamped version of Carnage.wad.... it has been
+converted to DOOM ][ format and is perfect for net deathmatch play.
+
+        An obvious exit has been added to this wad.  It is in one of the
+main rooms and you CAN'T MISS IT!  It has been added in order to allow
+the players to exit when they are done and get a run-down of the frag counts.
+This should eliminate liars and lamers.... I like to make sure there is NO
+DOUBT that I rule when I play!
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.  
+Please email me if you do.... I like to see how psychotic other people
+are too.
+
+You MAY distribute this WAD, provided you include this file, with no 
+modifications.  You may distribute this file in any electronic format
+(BBS, Diskette, CD, etc) as long as you include this file intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+

@@ -1,0 +1,164 @@
+   NNNNN        NNN   NNNNN        NNN   HHH          HHH     SSSSSSSSSSSSSS
+   NNNNNN       NNN   NNNNNN       NNN   HHH          HHH    SSSSSSSSSSSSSSS
+   NNN NNN      NNN   NNN NNN      NNN   HHH          HHH   SSS             
+   NNN  NNN     NNN   NNN  NNN     NNN   HHH          HHH   SSS             
+   NNN   NNN    NNN   NNN   NNN    NNN   HHHHHHHHHHHHHHHH    SSSSSSSSSSSSS  
+   NNN    NNN   NNN   NNN    NNN   NNN   HHHHHHHHHHHHHHHH     SSSSSSSSSSSSS 
+   NNN     NNN  NNN   NNN     NNN  NNN   HHH          HHH                SSS
+   NNN      NNN NNN   NNN      NNN NNN   HHH          HHH                SSS
+   NNN       NNNNNN   NNN       NNNNNN   HHH          HHH    SSSSSSSSSSSSSS 
+   NNN        NNNNN   NNN        NNNNN   HHH          HHH    SSSSSSSSSSSSS  
+
+  _____________        __________           _________            ________
+ /____________ |      |  ______  |         |  _____  |          |  _____ |
+|            | |      | |     |  |         | |     | |          | |    | |
+|            | | ____/  |     |   \_______/  |     |  \________/  |    |  \
+|            |_||__  __ |     |  __________  \     / __________  _|   / /  |
+|            |    | |  \ \_   / /          | |    | |          | /    | ||_|
+|============|    |_|   |  /  | |          | |    | |          | \    | |
+|            |          | |   | |          | |    | |          | |    \ |
+|            | actually | |__/_ |          | |____|_|          |_|____/_|
+|____________| longer  /  =====  \        /   ====   \        /  =====   \
+|________    |   ||   /  --       \      /   =====    \      / __------   \
+       _|     \  \/  /    /  \     \    / |    /\  \ \ \    /      /\   || \
+ _____|        \____/   /  R   \    \__/ ||| /    \ \ \ \__/     /    \ ||| \
+|_____________________/__________\_________/________\__________/________\____|
+                                                 
+I know that map sucks, but it's hard to do.  The humps are where the lockers 
+are.  The gym is on the left, and the science corridors are at the top.  The
+"R" is the Riley tree.  Keep reading.
+______________________________________________________________________________
+It may be big, but it's all graphics and demos!  This isn't a humongoid level!
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Actual level size: ÷84,000 bytes
+
+=============================================================================
+Title                   : Newton North High School for DOOM ][ Deathmatch
+Filename                : nnhs.wad
+Author                  : Owen Williams
+Email Address           : owenguy@world.std.com
+Misc. Author Info       : Maker of NETdoom, EZ-load (soon to be released),
+                          and I go to this school
+Description             : NNHS is the main hallway, gym, and back corridors
+                          of Newton North High School.  I started making 
+                          just to make fun of the school, (which is always 
+                          nice), but then I read Brian Kidby's deathmatch 
+                          "FAQ."  It said that the best Deathmatch levels can 
+                          have long hallways, open areas, and twisty mazes.  
+                          NNHS has all.  The main hall is called Main Street.  
+                          The gym is also pretty open, and the science 
+                          corridors are nice 'n twisty.  NNHS may be a bit big 
+                          for deathmatch, but it's still fun.          ^^^
+                                   
+                          Try it anyway. Please? :-}
+
+
+Additional Credits to   : ID, of course.
+                          Everyone who made cool programs that I used.
+                          My dad fer getting me this nice computer.
+                          Brian Vanatta for giving me the idea of different
+                          play styles.
+                          My brother 'cause he'd try to kill me if he weren't 
+                          mentioned. (Not that he'd succeed, of course.)
+
+
+=============================================================================
+
+
+* Play Information *
+
+Map #                   : Map 02  (for everyone that hates map 1ers)
+Single Player           : Just to see what it's like
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : YES
+Difficulty Settings     : Yes, sort of like in the DANZIG levels (keep
+                          reading).
+New Sounds              : No
+New Graphics            : Oh yes!  I slaved for countless seconds making the
+                          walls, ceilings (that's why it's so big byte-wise)
+                          and other stuff.  Everything except what's 
+                          obvously not new (I.E. the doors) are NEW.
+New Music               : Yup.  It's the awesomest deathmatch music there is.
+Demos Replaced          : You can get NNHSDEMO.ZIP to see some of our two-
+                          player deathmatch demos.  
+                          
+==============================================================================
+
+* Construction *
+
+Base                    : New level from nothin'.
+Editor(s) used          : DEU hacked, RMB, NWT, EDMAP 1.31(edmap 1.4 has bugs)
+                          Autodesk Animator PRO (to make textures)
+Known Bugs              : Shouldn't be any, but E-mail me if so.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, AS LONG AS I'M MENTIONED!  (hey! even Non-AOLers can use 
+caps-lock!)
+
+You MAY distribute this PWAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.  
+
+* Where to get this PWAD *
+
+FTP sites:  wcarchive.cdrom.com
+
+
+* Important Notes *
+
+This wad is set up so that you can play in three modes.  Two player deathmatch,
+three or more Deathmatch, and Death 2.0.  
+
+****How to envoke the modes****
+
+For two player, use skills 1 and 2.  For original deathmatch, play on 
+difficulty 3.  For deathmatch 2, use difficulty 4 or 5.  For three or more 
+players, use the -nomonsters.  And of course, with two players, use
+-respawn!
+
+
+****differences****
+
+The only real differences between modes are in how much health/ammo there is.  
+In two player original mode, there is a little more of everything so all the stuff
+doesn't get used up.  
+
+In normal (original mode), there is more ammo to keep the game going.  DON'T
+TAKE IT ALL AT ONCE!
+
+In 2.0 mode, there is much less, because it respawns.
+
+
+*******More notes********
+
+Lastly, there are a few things that need explaining.  The tree in the middle
+actually exists.  It's called the Riley Tree.  The goodies on top CAN be 
+reached from a secret teleporter.  
+
+The gym does have that divider, but it actually moves sideways (too bad DOOM 
+can't do that.  Maybe quake will fix it).  The divider is opened and closed 
+with the two switches at the bottom.  It is possible to trap someone in there, 
+so I added seargents so someone can kill themselves if they should be so 
+unlucky.  The bleachers can be raised with the switch at the top, but can't be 
+lowered.  Wait as long as you can to raise them, and watch some idiot jump 
+down.  It's impossible to get back up.  
+
+There is also one hidden goodie, a less obvious invisiblility.         
+
+To exit, have a guy in the gym hit the switch, and another guy (or gal) at 
+the end of the hallway where the rocket is.  When the switch is hit, the 
+wall will open, revealing what I think is a really cool exit.
+
+If anyone records a three or four player deathmatch (attention TIMinator), I'd 
+love to see it!
+
+Anybody that's ever been to Newton North High School in Newton, MA, tell me 
+what you think!
+(To anyone that remembers Common Rooms, they're gone.)
+
+
+email (again):  owenguy@world.std.com

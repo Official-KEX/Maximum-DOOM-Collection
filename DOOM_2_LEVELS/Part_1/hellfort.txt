@@ -1,0 +1,53 @@
+================================================================
+Title                   :HELLFORT    
+Filename                :HELLFORT.WAD
+Author                  :Joe (Mad Dog) Gryglik
+Email Address           :MadDogJ9@aol.com 
+Description             :This wad was first made for Doom but then DoomII
+                         came out. I got the wad changer which switches Doom
+                         wads into DoomII wads. Then I changed most things 
+                         and textures.
+                           
+                         This is a 3 level episode designed for multiplayer
+                         (either DM or Cooperative). The end level has Bosses
+                         so be prepared.PLEASE E-MAIL ME ON IF YOU THINK
+                         IT IS A GOOD DEATHMATCH WAD
+
+                         I made a deathmatch demo with my friend on this wad.
+                         Watch this and see what it is like if you do not play
+                         deathmatch. I think that you should all take a look at
+                         this.It is really cool.
+                         To play this demo go into the doom2 directory and type
+                         demo. I made a .bat file to make it easier 
+
+Additional Credits to   :To my beta multiplaying testers Alan,Adam and Pat 
+                         Also to all the programs I used to make these levels
+================================================================
+
+* Play Information *
+
+Episode and Level #     : DoomII Map 1,2,and 3
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+Demos Recorded          : Yes, DM in 3rd level (Helf2.lmp) just use demo.bat
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Waded 1.42 
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+

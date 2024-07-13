@@ -1,0 +1,64 @@
+===========================================================================
+Title                   : ROCKETS.WAD
+Date Finished           : May 15, 1995
+Author                  : Pouge (That's all I'm gonna tell ya!
+Email Address           : Not Yet
+Misc. Author Info       : Finnally Figured out how to use Deu!  
+Description             : Yeah, Yeah, I know what you're thinkin "Its just another
+                        : shameless rip off of J_ROOM4.WAD!" But, I accually didn't just switch the 
+                        : wepons, I opened the wall's so you wouldn't keep Fragin youself.
+                        : (By the way this is rockets only) :)
+Additional Credits to   : I give all credits to Jordan Russel, maker of the J_ROOM series.
+===========================================================================
+* Type of DOOM or DOOM II file*
+
+(Choose One)
+New level WAD           : Sorta
+Sound PWAD Only         : No
+Music PWAD Only         : No
+Graphic Addon Only      : No
+Dehack Patch Only       : No
+.LMP Only               : No
+Other                   : No
+
+* Play Information *
+
+Map #                   : Map 8 For DOOM ][ (Dunno if the Versions matters)
+Single Player           : No way
+Cooperative 2-4 Player  : Noppers
+Deathmatch 2 Player     : Yeah, but I wouldn't recomind it
+Deatmatch 3-4 Player    : <----- YES!!!
+Difficulty Settings     : I took out the Monsters, they got in my way
+New Sounds              : No
+New Music               : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Modified J_ROOM4.WAD
+Build Time              :  10 minutes
+Editor(s) used          :  Deu
+Known Bugs              : I doubt it
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+I don't give a Flying Fuck what you do with this level, although   
+I doubt you would want to do anything to it.
+
+
+
+
+* Where to get this WAD *
+
+If this wad didn't come with this txt. file... 
+
+
+
+
+
+
+
+
+crash worship!

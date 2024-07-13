@@ -1,0 +1,51 @@
+================================================================
+Title                   : Mentzer3.WAD  (For Doom 2) 
+Author                  : David J. Hill   
+Email Address           : Mentzer@aol.com
+
+Description             : Number 3 in a series of Deathmatch wads for Doom 2.
+			  There are three Ledges type pit areas connected by
+			  halls, rooms, stairs and lifts.  All weapons are 
+			  available.
+			  
+Additional Credits to   : The authors of DoomCad and ID software.  
+ 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 1
+Single Player           : Yes, If you want to check things out.
+Cooperative 2-4 Player  : yes, If more than one of you wants to check things out.
+Deathmatch 2-4 Player   : yes!!! The more that play the better.
+Difficulty Settings     : NO
+New Sounds              : NO
+New music               : NO
+Demos Replaced          : None
+Date Finished		: Jan. 16, 1995  
+
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Around 20 hours.
+Editor(s) used          : DoomCad 5.0
+Known Bugs              : None
+
+===============================================================
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, just give me credit for my effort.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+If you find any bugs or have question or comments, write to Mentzer@aol.com.
+
+* Where to get this WAD *
+
+Other: America On-Line, Compuserve, Ftp.cdrom.com and mirrors

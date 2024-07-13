@@ -1,0 +1,107 @@
+================================================================
+               An * OFFICIAL WAD* for the 
+          H2HMUD INTERNATIONAL DOOMERS COMPETITION
+================================================================
+* Brought to you by STONEHENGE BBS & BATTLESTATION 1
+================================================================
+DOOM II - MAP02 - H2HMUD02.WAD - Benchmark Wad... Where Are You?
+UNZIP H2HMUD02.ZIP INTO DOOM2 DIR TYPE H2HMUD02 to Play Single Mode
+================================================================
+**  CHALLENGE ** CHALLENGE ** CHALLENGE ** CHALLENGE ** CHALLENGE **
+
+         Are you one of the BEST DOOMERS ON EARTH?
+
+    To prove it to the world, you will have to enter the
+
+         H2HMud International Doomers Competition
+
+All the necessary wads, forms, and information are containted in 
+H2H-pack.zip.  The competition ends on June 30, 1995.  Enter today.
+***********************************************************************
+
+Episode Title           : H2HMUD02 Created 1/16/95
+Files			: H2HMUD02.WAD - Single level
+			: H2HMUD02.TXT - This Text File
+Author                  : Dave Swift
+Email Address           : SwiftDave@Aol.Com
+			  74401,1041@CIS.COM
+			  swift1@powergrid.electriciti.com
+			  Stonehenge BBS (619) 929-6596
+Misc. Author Info       : Author Of The MUD Levels Available Everywhere
+Description             : This is an Offical wad for the 
+                          H2HMud International Doomers Competition.
+Many Thanks To		: Geoff Allen Author of DoomEd, "The Real Thing"
+			: David Bruni Author of DMRETU DoomEd Tutorial
+			: Olivier Montanuy Author of DeuTex
+			: Matt Fell Author Doom Specs
+			: Joe Pantuso Author of RG Doom Edit
+			: Raphael Quinet Author of DEU
+			: ZUHL for the Kuhl graphic work!
+			: All Youse who subject yourself to these levels	
+			  and have given me most excellent feedback!		 
+================================================================
+* Play Information *
+Game                    : Doom II Registered Ver. 1.7a
+Episode and Level #     : Map02
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes! You'll Need Help!
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes, 1 - 3 - 4  
+New Sounds              : No
+New Graphics            : Yes, lots of them!
+Demos Replaced          : None
+
+* Construction *
+Base                    : New level All from scratch
+Build Time              : About 20 Hours (mostly Zuhl's gfx time)
+Editor(s) used          : DoomEd "The Real Thing" 
+			: Renegade Graphics Doom Edit 
+			: DEU 
+			: DeuTex 
+Known Bugs              : Please Let me know if you find any.
+
+* Copyright / Permissions *
+Authors may NOT use any of these levels as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+***************** Where to get H2HMUD WADS ******************************
+
+H2H DOOM BBS (619) 426-0073 Home of BATTLESTATION 1 - Multiplayer Gaming
+		  **  The Best Place On Earth To Die  **  ARE YOU WORTHY? 
+                  **  8 lines 28.8 USR  ** Co-Op - Deathmatch - Files **
+
+STONEHENGE BBS (619) 929-6596 - Home Of The MUD Levels!
+		  DOOM  -  DOOM II  -  HERETIC  -  ROTT
+		  DESCENT  -  QUAKE  -  DARK FORCES
+		  24 Hours - 14400
+
+DOOMania bbs (317)662-8842, (317)662-1447, 48, 49
+                  Home to the DOOMnet conference group. 4 Nodes
+                  24 hours a day!
+
+MetroDOOM bbs (404)590-9375  Another large DOOM & DOOM II BBS 
+
+MORE SOURCES      : ftp.cdrom.com and its mirrors
+		  : America Online
+		  : Compuserve
+*********************************************************************
+
+iddqd - god
+idclip - no clip
+idkfa - ammo
+idbehold plus letter - s-v-i-r-a-l
+iddt - map enhance
+idclev01 - warp to map01
+
+Thanks & Regards,
+Dave Swift
+swiftdave@aol.com
+Stonehenge BBS (619) 929-6596
+		      
+
+

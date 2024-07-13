@@ -1,0 +1,65 @@
+
+================================================================
+Title                   : Shogun
+
+Filename                : shogun.WAD
+
+Author                  : Dan Lefebvre
+
+Description:		: Basically, a circular design with connecting
+			: hallways through the middle, and a few side
+			: hallways.  All the weapons are here, and 
+			: unlike some deathmatch wads, there are many
+			: areas where fighting is common.  Lots of 
+			: ways to back door your targets!
+
+Suggestions for Play	: The start points are raised up from the
+			: main play area, and are considered to be
+			: "safe zones".  So, you're not supposed
+			: to shoot anyone when you are in the start
+			: areas.  Once the players jump down to the
+			: floor, they are fair game.  This is the
+			: way we play, and it keeps the "cheap" frags
+			: to a minimum.
+
+Additional Credits to   : Bennet Deliduka for providing the network
+			: that sucked our lives away
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : shogun.wad - E1M1
+Single Player           : Yes, but no monsters
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Doomed, BSP
+Known Bugs              : Some HOM at the start points, but
+			: you don't notice when playing.
+
+
+
+* Copyright / Permissions *
+
+If you use it as a base, just let me know, so I can check out the
+new one, and credit me in your .txt file.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites:
+         ftp.cdrom.com://pub/idgames/levels/doom/deathmatch

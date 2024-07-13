@@ -1,0 +1,56 @@
+================================================================
+Title                   : Tele_Me.WAD   
+Author                  : Ron Pollard 
+Email Address           : rpollard@iquest.net
+Misc. Author Info       : I'm too old to be playing DOOM.
+			  That's why I play DOOM ][!  ;-P
+Description             : My first DeathMatch-Only WAD.  I
+			  just jumped into DCK v 2.2 and started
+			  building it.  There are several tele-
+			  porters in this level, but only 3 main
+			  rooms.  It's not hard to learn where
+			  you are going and the fastest way to
+			  get there.  (Meaning your buddy is
+			  dead meat quick!)
+Additional Credits to   : id, for making DOOM, DOOM ][ and Heretic
+			  and to Ben Morris for the incredible
+			  editor, DCK (DOOM Construction Kit).
+			  Also, thanks to my Beta Testers, Dave
+			  Clark and Marc Howell.
+================================================================
+
+* Play Information *
+
+Game                    : DOOM ][
+Map #                   : 1
+Single Player           : NO!
+Cooperative 2-4 Player  : NO!
+Deathmatch 2-4 Player   : Most Definitely!
+Difficulty Settings     : Not Implemented
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : A total of about 6 hours
+Editor(s) used          : DCK v 2.2, one awesome editor!
+Known Bugs              : None
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+     ftp.cdrom.com and mirrors
+     Software Creations BBS - (508) 368-7036
+     Cobra BBS - (317) 898-0274
+     Loading Zone BBS - (317) 831-3498

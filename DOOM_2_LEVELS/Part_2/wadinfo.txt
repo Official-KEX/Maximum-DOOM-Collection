@@ -1,0 +1,50 @@
+#
+# PWAD creation directives
+#
+#
+#
+Begin: SOUNDS
+d_runnin
+End: SOUNDS
+#
+#
+#
+#
+Begin:  GRAPHICS
+titlepic
+rsky1
+End:  GRAPHICS
+#
+#
+#
+Begin:  SPRITES
+ammoa0
+sgn2a0
+sargn0
+col2a0
+brs1a0
+tre2a0
+troom0
+ceyea0
+ceyeb0
+ceyec0
+misla1
+misla5
+misla6a4
+misla7a3
+misla8a2
+rocka0
+End:  SPRITES
+#
+#
+Begin: FLATS
+flat17
+flat5_3
+flat5_6
+flat5_7
+flat5_8
+End: FLATS
+#
+#
+#
+#

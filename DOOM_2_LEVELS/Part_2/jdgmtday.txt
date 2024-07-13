@@ -1,0 +1,62 @@
+================================================================
+Title                   : Judgement Day: The Chamber of DOOM 
+Filename                : JDGMTDAY.WAD (JDGMTDAY.ZIP)
+Author                  : Bill Derouin
+Email Address           : b_derouin@ids.net
+
+Description             : The Ultimate Deathmatch WAD, Judgment Day brings some new
+			  and very interesting concepts into the world of Deathmatch.
+			  Set in a futuristic arena with one goal in mind... To determine
+			  the Ultimate DOOM Warrior!
+
+Additional Credits to   : All the great people at id Software for creating
+			  the greatest PC/Video game EVER, and Ben Morris for his
+			  "most excellent" Doom Construction Kit.
+
+Other WADS		: HELLHOLE.WAD for DOOM. More an exercise in WAD construction
+			  Than a really "playable" level, but very interesting to look at.
+
+Misc Author info.	: I'm a 35 year old father of two living in Providence, RI
+			  with a mortgage and two car payments. How I ever find time to do
+			  all this DOOM stuff is beyond me. I'm also a BIG fan of X-Wing/
+			  TIE Fighter and Transport Tycoon.
+			  
+================================================================
+
+* Play Information *
+
+Game                    : DOOM ][
+Episode and Level #     : MAP01, MAP02, MAP04  ( see section 3 )
+Single Player           : Yes ( see section 3 )
+Cooperative 2-4 Player  : Yes ( see section 3 )
+Deathmatch 2-4 Player   : Oh My God Yes!
+Difficulty Settings     : Yes ( see section 2 )
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New levels from scratch.
+Editor(s) used          : Doom Construction Kit v2.2 ( DCK22 )
+Known Bugs              : None. 
+
+
+* Copyright / Permissions *
+
+
+Authors *MAY NOT* use this level as a base to build additional levels.
+
+You *MAY* distribute this PWAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+* Where to get this PWAD *
+
+FTP sites: ftp.cdrom.com and mirrors
+
+
+======================================================================================

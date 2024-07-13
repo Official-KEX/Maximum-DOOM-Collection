@@ -1,0 +1,74 @@
+
+================================================================
+Title                   : The Pot-O-Boilin' Frags
+
+Filename                : POT.WAD - Doom one version
+                          POT-2.WAD - Doom two version
+Author                  : Unknown, modified by Ross Carlson
+Email Address           : setc@together.net
+Web Page for wad project: http://together.net/~setc/thewad.html
+
+Misc. Author Info       : Hardcore, hopeless, terminal Doom
+                        : Deathmatch addict.  Author of a few Wads
+                        : Co-co-ordinator of Trials & Tribulations
+                        : Superwad project (see Web page, or Doom
+                        : Editing maliing list
+
+
+Description             : Large room in the middle, where all the
+                        : action is.  Several raised ledges around
+                        : the perimeter of this room, where the start
+                        : points, and the weapons are.  Also some
+                        : connecting passages around the outside.
+                        : We have literally hundreds of hours on this
+                        : level.  It's fast.  IT ROCKS.  Nuff said.
+
+NOTICE!!		: THIS LEVEL IS NOT MY OWN CREATION!  I FOUND IT
+			: ON A BBS SOMEWHERE, AND MADE IT INTO A 
+			: DEATHMATCH-WORTHY WAD.  I PLACED THE WEAPONS
+			: AND THE START POINTS.  I ALSO ADDED ONE OF
+			: THE ROCKET LAUNCHER PLATFORMS, AND A SECRET
+			: BACKDOOR PASSAGEWAY :)  YOU MAY RECOGNIZE THIS
+			: FROM TECHBASE.WAD.  THAT AUTHOR DOESN'T KNOW
+			: WHO MADE THE BASE EITHER.	
+
+Additional Credits to   : Whoever designed the layout
+================================================================
+
+* Play Information *
+
+Episode and Level #     : POT.WAD - E1M1
+			: POT-2.WAD - Map01
+Single Player           : Yes, but no monsters
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Some unsigned wad I found on a BBS somewhere
+Editor(s) used          : Doomed - Waded -  BSP
+Known Bugs              : None Known Of
+
+
+
+* Copyright / Permissions *
+
+Authors may print this file, and put it in your bird cage.  Oh, you mean
+the wad, oh hell I don't care.  I didn't write it, I just made it into a 
+kick ass deathmatch level.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites:
+         ftp.cdrom.com://pub/idgames/incoming

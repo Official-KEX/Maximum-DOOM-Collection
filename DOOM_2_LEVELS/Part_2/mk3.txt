@@ -1,0 +1,72 @@
+The Lost Mines - original PWAD level for DOOM ][
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+Title                   : The Lost Mines
+Filename                : MKMINES.WAD
+Author                  : Mark Anthony Klem
+Email Address           : mark.klem@swcbbs.com
+Misc. Author Info       : Author of the entire CRINGE! episode except
+                          the Secret Level which was by Eric Sargent.
+
+Your Mission            : The CyberDemon Lord and his minions have slain
+                          all of the miners and claimed the territory for
+                          their own.  The demon carpenters have just started 
+                          reconstructing the mines into the rich surroundings 
+                          that the CyberDemon Lord enjoys the most.  It will
+                          take two keys to end this madness and one to leave.
+                          The mine shafts are now watched over by groups of
+                          imps with their guard dog spectres, while the demons
+                          get to do all the actual work.  Several stronger
+                          creatures have been recruited as guardians of the 
+                          keys.  Few former humans have been summoned here by 
+                          the CyberDemon Lord as their services are not yet 
+                          required; however, if the Lord feels any threat, 
+                          like from you, then he is likely to dispatch them to 
+                          his disposal.  Don't let nuthin bite cha!
+
+Additional Credits to   : All of the Authors of DEU and BSP.
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+*  Play Information *
+
+Level #                 : MAP03
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes / Original tune written by me 
+                                to keep ya on ya toes.
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch.
+Editor used             : MKD2EDIT (Modified version of DEU 5.21)
+Known Bugs              : None
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD * This of course is so you can tell someone 
+* where the most convenient place for them to get it is at, if any.
+
+BBS numbers: 
+ 
+ Software Creations BBS (Home of the Authors)
+  (508) 365-2359
+ 
+ APCi BBS (Multiplayer DOOM and DOOM ][)
+  (618) 632-7664
+ 
+ BitStream (Lots and lots of DOOM stuff!)        
+  (708) 705-7741

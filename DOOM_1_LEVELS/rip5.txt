@@ -1,0 +1,55 @@
+================================================================
+Title                   : Rest In Pieces part V
+Filename                : RIP5.WAD
+Author                  : Jeremy Drye and Nick Tucker
+Email Address           : forwarded from nickwt@aol.com
+Misc. Author Info       : HS Student
+                          Alien vs Predator wanna-be
+Description             : Pretty much a straightforward deathmatch level.
+                          Not really a whole lot to it, some dark rooms which
+                          is where you will find most of the guns.  Shells
+                          are scattered everywhere, so you will not run out
+                          of them.  All weapons visible.  Designed for
+                          deathmatch, and pretty much covers the purpose
+                          rather well.  You can run though with 1 player
+                          to check out the level if you want.
+
+Additional Credits to   : DEU and BSP Authors 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M3
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes (use a Gravis UltraSound for best results)
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU
+Build Time              : About 4 Hours
+Known Bugs              : Not that we know of
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+FTP sites:  Infant2
+
+BBS numbers:   Bills Graphics BBS  (704) 932-4739 19.2K V.32Terbo
+               Carolina Forum BBS  (704) 563-5857 28.8K V.FC
+
+Other:  America Online PC Games Forum
+

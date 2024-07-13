@@ -1,0 +1,46 @@
+================================================================
+Title                   : Enterprise DeathMatch!   
+Filename                : Enterprz.WAD
+Author                  : Paul Gregory
+Email Address           : Gavagai0@aol.com
+Misc. Author Info       : first WAD upload
+
+Description             : Kill your buddies on the Starship Enterprise.  This is a loose
+			  interpretation of the Enterprise D, complte with bridge,
+			  10 forward, cargo bay, engineering, transporter room, sick bay,
+			  and captain's ready room, doors that swish open as you approach.
+
+Additional Credits to   : 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map01
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU, DeeP
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Do as you please, but give me some credit.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+
+

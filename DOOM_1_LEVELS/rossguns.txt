@@ -1,0 +1,6 @@
+This is a hack I made to speed up the doom 2 guns.  It was made
+with dehacked 2.0 for doom 1.666
+
+Ross Carlson
+setc@together.net
+

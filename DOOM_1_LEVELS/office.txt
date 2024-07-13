@@ -1,0 +1,45 @@
+================================================================
+Title                   : Office
+Filename                : OFFICE.WAD
+Author                  : Gary Marsh / Genesis (my PWAD group)
+Email Address           : gmarsh@ultratel.com
+Misc. Author Info       : GaRyMaN on IRC
+Description             : An office building, with a few weapons added
+Additional Credits to   : The World
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : But of course. Okay with 2, best with four
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : Yes
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Time                    : Around 4 hours
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21gcc, BSP 1.2x, DMGRAPH, Wad Master,
+                          Windows Paintbrush (yay), Paint Shop Pro
+Known Bugs              : Find one.
+
+* Copyright / Permissions *
+
+I don't suggest that other people use this level as a base for others.
+You can if you want (contact me first though), but we'd all like more
+variety in levels (not all clones of this wad...)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+ftp.cdrom.com
+ftp.idsoftware.com

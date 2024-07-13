@@ -1,0 +1,52 @@
+================================================================
+Title                   : SWEET.WAD
+Author                  : James Bearden
+Email Address           : bearden.1@osu.edu
+Misc. Author Info       : Ohio State University Student
+Description             : Short and sweet. Watch your back!
+                        : Conserve rockets. Started as tutor
+                        : level, and grew. May need tweaking.
+                        : Will improve/add to it as time permits.
+Additional Credits to   : Mark Spaeth, DEU provider.
+================================================================
+
+* Play Information *
+
+To play, unzip into DOOM directory, then enter
+doom -file sweet.wad!
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 18 Hours (Hey! This was my first level!)
+Editor(s) used          : DEU 5.1, BSP 1.1
+Known Bugs              : Last rising stair lowers. Help!
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels. I accept no responsibility for how this wad behaves.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+E-mail me and ask nicely.
+
+* Hint *
+
+Since you've read this far, here's a hint: Don't go jumping off
+any high ledges if you don't see a way out.

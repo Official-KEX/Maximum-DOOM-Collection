@@ -1,0 +1,74 @@
+Title                   : The Mega Maze
+Filename                : megamaze.WAD
+Author                  : Justin "J.T." Ward
+Email Address           : ward@escape.com
+Misc. Author Info       : I in New York. "dunno" on IRC. "J.T." stands
+                          for nothing at all. It just looks good. 
+                          I like email. Please send me some. And for those
+                          who say to leave computers to the adults,
+                          I'm 13 and can DEU, program, and surf the net just
+                          as well as anybody else.
+                          
+Description             : really big maze. A few good sniper points, and
+                          a pretty good secret area. First level is really
+                          just a "signature". You'll see what I mean. I put
+                          it first rather than second so people actually see
+                          it. Also, be warned that there are exactly 4 d-match
+                          starts in e1m1, right next to each other. Like I
+                          said, it's really just a sig level. Agree not to
+                          shoot until e1m2.
+
+additional Credits to   : Martin Hylerstedt-- ad92mh@pt.hk-r.se
+                          I used his sounds. doomsday.zip is where I found 'em
+                          Rick Kelly-- accolade@netcom.com
+                          I used his music, in rikmusic.zip
+
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1, E1M2
+Single Player           : Yes, but not really made for it
+Cooperative 2-4 Player  : Yes, but not really made for it
+Deathmatch 2-4 Player   : That's what it was made for
+Difficulty Settings     : No enemies. It's a deathmatch wad
+New Sounds              : Yes
+New Graphics            : Wanted to put 'em in, but I couldn't get it to work 
+New Music               : Yes
+Demos Replaced          : 1-- and yes, it DOES pertain to this pwad.
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21 gcc, bsp 1.1w, bsp 1.2x
+Known Bugs              : I hate bugs. There aren't any. At all.
+Build time              : A few months to develop on paper. under 2 hours
+                          to actually DEU it.
+
+* Copyright / Permissions *
+
+Authors MAY use this level to create other levels. HOWEVER, if you do, 
+send me email before you pass it around, and give me proper credits.
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact. But if you want to sell it for a profit (including so called "copying
+charges"), email me before doing so. And be warned that Id does NOT want
+people charging for pwads, sounds, mus files, or any other type of patch,
+hack, or information on Doom being sold for a profit.
+
+Actually, about the above, I have no copyright on it. Legally, you can do
+whatever you want to with it. But I appreciate that you pay attention to
+my feelings. I do what other authors request, as I hope you do, too.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu://pub/doom/wads/something_err_other
+
+BBS numbers: It'll probably end up on a few. I don't really know, I don't
+             really care. BBS's bother me. The 'Net is soooo much better.
+
+Other: email me. I'll uuencode it and send it to you.

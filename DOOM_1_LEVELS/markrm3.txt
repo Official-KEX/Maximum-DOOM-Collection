@@ -1,0 +1,78 @@
+================================================================
+Title                   : MarkRoom 3   (Deathmatch)
+Filename                : markrm3.wad
+Author                  : Mark Griswold
+Email Address           : mgriswol@synapse.npa.uiuc.edu
+Misc. Author Info       : I spend WAY too much time doing this.
+
+Description             : This is another in the arena-like series
+                          of my wads.  (There are now 3 and more on
+                          the way.)  Markroom3 is becoming my favorite.
+                          The wad is one room, but it has many sub-parts.
+                          The 2 main parts are the Stair Sections and the 
+                          Floor Sections.  The Stairs are elevated above
+                          the Floor sections and contain mostly ammo and
+                          armor.  The Floor sections contain the weapons
+                          and the teleport Ladder.  The Ladder can be used
+                          to traverse the room instead of the Stair sections.
+                          There is a Green Ladder which runs north and a
+                          Blue Ladder that runs south.  Remember this.
+                          The Ladder can create some great teleporter races.  \
+                          Now, since you're probably confused and don't know 
+                          what the hell I'm talking about.... 
+                          Play the damn level and see for yourself!
+
+                          It's visually appealing in itself, but I think 
+                          you'll find this to be a challenging level for
+                          even the best doom-gods.  Plenty of good hiding
+                          places and plenty of good hunting ground.
+                          
+                          There is a non-coop exit located in the SE corner.
+                          It's not obviously labelled... sorry.  It's the
+                          only switch on the whole level.
+
+
+Additional Credits to   : Bill Childers, Aaron Humphreys, and Xinbo Wang for 
+                          testing all of my levels.
+                          Chainsaw Jim, Daniel and all who distrubuted the 
+                          great press and reviews of the first markroom wad. 
+                          You guys are cool. 
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 (Sorry, I had to switch back)  ;-)
+Single Player           : Yes   zzzzzzzzz  boring!
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21 & BSP 1.1  (cool programs!)
+Known Bugs              : Little bit of HOM when looking down entire length
+                          of room.  Hardly noticable and *should* be fixed
+                          in 1.4 .
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels as long as they mention the god-awful amount of time I spent 
+doing this level AND maybe pat me on the back a few times.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact and at least consider giving me a little of the money you're
+making off of my work.
+
+* Where to get this WAD *
+
+FTP sites:  infant2.sphs.indiana.edu

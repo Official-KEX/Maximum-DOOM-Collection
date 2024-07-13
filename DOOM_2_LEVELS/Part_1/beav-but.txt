@@ -1,0 +1,24 @@
+******************************************************************************
+************************  Beavis & Butthead sounds  **************************
+******************************************************************************
+
+Finally the sounds everyone has been waiting for are finally here (HUH HUH HUH HUH)
+This is a collection of the best sounds for doom (Thats cool man!)and are 
+(un)officially approved by Beavis & Butthead (are not assmunch!)
+ Anyways load it up and 
+		Happy Huntings
+
+and remember --- as Beavis always says to those nasty cacodemons
+
+		FIRE!! FIRE!!!
+				HUH HUH HUH HUH HUH
+
+-->Knightmare
+   (Doug Dziedzic)
+
+To use -- 
+		doom -file beav&but.wad
+
+
+ e-mail
+dziedzic@ecst.csuchico.edu

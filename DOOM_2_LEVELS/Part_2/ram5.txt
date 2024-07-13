@@ -1,0 +1,102 @@
+================================================================
+Title                   : Rambutt's DOOM (episode 2: Mushfest '95)
+Date                    : 4/29/1995 (renamed Ram5.wad on 5/5/1995)
+Filename                : RAM5.WAD
+Author                  : Mark Potter
+Email Address           : ljbu20a@prodigy.com
+Misc. Author Info       : Are you gonna eat that ?
+
+Description             : 2nd of 3 Rambutt's DOOM episodes
+
+Additional Credits to   : id and the makers of DEU2, BSP, & DM2CONV
+================================================================
+
+* Play Information *
+
+Episode and Level #     : DOOM II Levels 12-20
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : 4 modified levels, 2 modified id levels, and 
+                          3 originals
+Editor(s) used          : DEU2 and BSP 1.2
+Known Bugs              : you must be kidding!
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers: from The Wall (1-214-286-8291), Code Red (1-214-424-4702),
+Jackalope Junction (1-501-785-5381)
+
+Other: contact me at ljbu20a@prodigy.com
+
+
+------------------------------------------------------------------------------
+ This is the second episode in Rambutt's DOOM. It has more modified levels 
+ and original levels just like the first episode. 
+
+ If you know the name of the wad that any of these levels came from or who 
+ created them, drop me a line ! I want to credit to the people who did these !
+
+ Also, I've added multi-player starts to all of these levels (deathmatch
+ included !) and I also fixed some problems that I found, as well as fixing
+ some problems that I added! So, if any of these levels are yours, I hope you 
+ like what I did to them.
+
+ Level        Wad        Description
+  12        unknown      Confusing level with lots of twisty tunnels that 
+                         lead to a HUGE area right before you exit.
+  13         NEW!        Telefrags for fun!!
+  14        unknown      The exit is right behind you at the beginning, but
+                         you'll have to explore the whole level to find out
+                         how to open it!
+  15         NEW!        Modified e1m1 from the original DOOM!
+  16         NEW!        This is a slightly modified e3m1 from DOOM I!
+  17        unknown      Catch a movie before continuing the adventure.
+  18        J_HTIC       Heretic e1m1 for DOOM 2 now with monsters!
+  19         NEW!        Lots of open space and weapons. Check out those
+                         L-shaped doors at the end.
+  20         NEW!        Small level, but very deadly.
+
+
+Other Wads By Rambutt:
+
+#1.     Wad name = Rambutt1.zip
+        This was the original release. It was a 9 level wad for the first
+        DOOM game. Released on 4/11/95, along with "Rambutt's DOOM FAQ II"
+        v0.04.
+
+#2.     Wad name = Rambutt2.zip
+        After deciding to finish the rest of Rambutt's DOOM for DOOM 2, I
+        converted all of my DOOM I levels to DOOM II. This version has 2 more
+        levels to balance out with the 11 levels in the first part of DOOM 2.
+        Released on 4/19/1995, with v0.05 of "Rambutt's DOOM FAQ II"
+
+#3.     Wad name = Rambutt3.zip
+        Heretic version of Boot To The Head released 4/21/1995, take #1.
+
+#4.     Wad name = Rambutt4.zip
+        Bug-free version of Rambutt3.zip spawned on 4/27/1995.
+
+Note: There will NOT be Heretic versions of the 2nd and 3rd episodes of
+      Rambutt's Doom. (at least, not that I'm doing)
+

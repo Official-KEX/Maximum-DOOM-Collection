@@ -1,0 +1,308 @@
+December 8, 1994
+
+
+DragonRook Presents:    Terror Mall!    v2.0  for Doom II
+
+ 
+  *See installation and play instructions below description.
+  
+  Story is below play information.
+============================================================================
+Title                   : Terror Mall   
+Filename                : TMALL2.WAD
+Zip name                : tmall2.zip
+Author                  : David G Shrock
+Email Address           : DragonRook@aol.com
+Misc. Author Info       : Creator of Castle Phobos (cphobos 1-3)
+                          And Castle Phobos for Doom II. (cphobos5)
+                          Currently looking for work.
+
+Description             : A 4 level episode in a mall. 
+                          Unlike CPHOBOS, all of the secrets here
+                          have better hints to their existance. This episode
+                          has extensive new graphics and is built to look
+                          just like a mall with a new monster. Uses DeHackEd
+                          for new effects such as shooting computers and 
+                          windows, the new monster and new text.  
+                         
+                          For you deathmatch players, I have put in a button
+                          on level 3 that will take you back to level 2. This 
+                          is a 2 level infinite cycle in the Doom version,
+                          but does not work for Doom2, just goes to level 2 
+                          then on to the last.
+
+                          Unless people insist, this is probably my last
+                          episode/levels for Doom. Let me know what you
+                          think.
+
+Files in tmall.zip      : tmall2.wad, tmall2.bat, tmall2.deh, dehacked.exe,
+                          setuptm2.bat, deusf.exe, tmall17.ini
+
+Additional Credits to   : Ryan A. Warren for a few ideas.
+                          Ross A. Warren for music on level 3.
+
+Special Thanks to       : id Software for Doom
+                          Bill Nesius for DmAud, DmGraph
+                          Greg Lewis for DeHackEd v2.0
+                          Rapha‰l Quinet and Brendon J. Wyber for DEU 5.2
+                          Olivier Montanuy for DeuSF
+=============================================================================
+* Instructions for playing *
+
+Unzip these files into your Doom2 directory to install the new monsters.
+
+To play, you must have Doom II.  Run SETUPTM2 in the same
+directory as your Doom2 files so it can expand the sprite graphics. The
+episode will take a total of 6 megs when SETUPTM2 is finished.
+
+**Note you must run SETUPTM2 before playing or else Doom2 will crash!
+
+Then enter TMALL2 to play single player. Since you will be warping, you may
+wish to add your skill level by entering, TMALL2 -SKILL 4.
+
+If everything is working correctly, then you should see a message on the
+red bar after the DOOM 2 sign stating that Terror Mall is loading.
+
+Remember that this episode requires that the doom.exe file be edited. When 
+you execute TMALL2, it will auto-backup your doom.exe.  But, you may also 
+want to keep a permanent backup ready for safety.
+
+-----------------------------------------------------------------------------
+** Special instructions for Doom2 v1.7a users ONLY! **
+
+To get the patch to work for version 1.7a of Doom2, you will need to 
+rename the tmall17.ini to dehacked.ini   
+Enter this at the DOS prompt:
+
+           rename tmall17.ini dehacked.ini
+
+Then run SETUPTM and TMALL2 like normal. You will get a message in a 
+cyan box, just press the spacebar to continue. 
+The new special effects and monsters should be there, but no new text 
+messages. You will have to skip through the normal Doom2 story messages 
+instead of the Terror Mall ones. To check to see if the new effects are 
+working, you should be able to shoot the PC Monitors on the tables and it 
+should only take 3 to 4 shotgun shots to take out the Sniper. 
+---------------------------------------------------------------------------
+
+If you are playing multi-player: You can either edit the tmall2.bat file
+to load sersetup or ipxsetup instead of Doom2. OR you can load the new 
+Doom2.exe information by yourself. To load the new information, enter the
+following:
+
+        copy doom2.exe doom2exe.bak    <this will back up your doom2.exe>
+        dehacked -load tmall2.deh      <installs new information>
+          <play the game by warping to map 14>
+        copy doom2exe.bak doom2.exe    <gets your normal game back!>
+
+This hack is important to produce new effects like shootable walls and new
+monsters.  
+
+Note: Doom II v1.666 has a sound bug for some of the sound card owners. If
+you have problems playing this level, try turning the Sound FX to "None" in
+Doom II SETUP.
+=============================================================================
+
+* Play Information *
+
+Doom II Map #           : 14, 15, 31, 16, and 32 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes 
+Deathmatch 2-4 Player   : Yes (If you want less monsters, play skill 2)
+Difficulty Settings     : Yes (skill 3 has same monsters as 4, but less decor)
+New Sounds              : Yes
+New Graphics            : Yes
+New Music               : Yes, 1 (Written for General MIDI pleasure)
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New levels from scratch.
+Build Time              : 160+ hours.
+Editors used            : DEU 5.2gcc, DMAud, DMGraph, midi2mus, DeHackEd 2.0
+Other Tools             : Paintbrush 5+, Cakewalk Professional
+Known Bugs              : A node problem that shows up in Doom 2 version
+                          only. Bar on right side of red-key van.
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels or pack it with others.  You may use any of the new graphics/monsters 
+as long as you give credit to me, David Shrock, and that you found them in 
+tmall2. 
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact and the other files in an unaltered tmall2.zip
+
+* Where to get this WAD *
+
+BBS numbers:  Game Palace BBS (305) 587-4258
+              America Online
+
+Other:        Myself.
+
+=============================================================================
+* Level Details *
+
+Most of the levels are quite bright with good lighting. But a few small areas
+are extremely dark. Don't turn on your lights, please! Don't use F11 or
+give yourself Light Amp Visors, you will ruin the mood and break the nice
+artistic light effects. For best results, play in dim room with no light 
+reflecting off of monitor.
+-----------------------------------------------------------------------------
+The Story:
+
+The local police commissioner has reported to the military that there are
+strange happenings at Central Mall.  Investigations have uncovered a 
+take-over by a group of horrible demons who are attacking from beneath the
+mall! These demons have been destroying this mall and stealing just about
+everything and blockading many stores with large demonic structures.
+
+Your job is to find out the source of their invasion and stop it while
+destroying any demon that gets in your way!
+
+-----------------------------------------------------------------------------
+Level 1:  Central Mall
+-----------------------------------------------------------------------------
+You start out in the back of your Weapons Van which has backed up directly
+into the mall doors breaking them in the process. Players 2 and 4 are in a 
+different van at the other end of the mall.  Each pair of players start
+out with a different key to their van so that the other players will have
+to use co-operation if they want to let you in their van for their ammo.
+
+This level isn't large but is heavily detailed, and it is also open so you 
+Deathmatch Players should find each other very quickly. You can also
+hear just about anything that happens in the mall.
+Originally, the level was planned to be a little larger, but I scaled it 
+down so the game play won't slow down when going down the main hall. (Yes,
+it was even slowing down on Pentiums!)  I try to make my levels play 
+smoothly at full screen on a 486DX2-66 or greater. Play skill 3 if you are
+bothered by slow down on your machine. It has the same monsters as UV, but
+has very little decoration objects. I don't know how much it actually helps,
+but give it a try. The point for making this level was for story and 
+architecture.
+
+Once you get the chainsaw, use it wisely!  You don't want to run low on 
+ammo!
+
+**Hint:
+You will need to find one secret in order to exit. If you can't figure out 
+how to grab the yellow keycard, the hint lies next to it.
+
+=============================================================================
+Level 2:  Parking Garage
+-----------------------------------------------------------------------------
+Here you are on the bottom level of the mall in the partially underground
+parking garage. This is basically a fast action battle that should be
+fun for you Deathmatch Players.  There are a few stores for you to browse
+on this bottom story. Your job is to find out how the demons are getting
+in and go after them! Blow away the windows to get through!  By the way,
+where did the key card to your van go?
+
+This level is 100% fair for Deathmatch. Each player starts with a shotgun and
+equal ammo. You will never reappear next to an opponent. (You can't get shot 
+at the start locations) The opponents will not be able to gaurd any 
+deathmatch starting areas very easily since there is more than one way into 
+the fighting area for every starting position. You also get 6 Deathmatch 
+starts!  Half the level is open for arena style play and half is tight 
+corners for surprises!
+
+=============================================================================
+Level 3:  The Underworld
+-----------------------------------------------------------------------------
+You seem to be on the edge of Hell itself! Your job is to destroy the monster
+teleporter! (Close the door to block the generator's power.)  This level also 
+uses the fair deathmatch starts.
+
+There is just one puzzle involving two elevators. Takes a little time to
+get through this, so don't try it when monsters are hot on your tail!
+
+Deathmatch Players:  To go back to level 2, use the red button near the
+the normal exit.  This is an infinite cycle on Doom version, but doesn't
+work in Doom II, so you will go back to level 2 just once then on to the end.
+There is a sign next to the button that reads, "Deathmatch. To level 2" To 
+find it, drop down the narrow pit before the normal end room.
+It is a double button, so you will be sure to recognize that this is not the
+normal exit. Yes, you crazy single players could use it too.
+
+
+Music: "Demon Horde"  copyright 1994, Ross Warren
+=============================================================================
+Level 4:  Terror Mall!
+-----------------------------------------------------------------------------
+You're back in the main floor of the mall and things have changed!  It
+looks like Hell is erupting through the ground itself!  Now it is time to
+put an end to those demons that you trapped on our side of the door!
+
+Your crew has stocked your Weapons Van up with goodies, but you will have to 
+find the key card you dropped!
+
+Hopefully, this level should take a few tries. First, try to find where and
+how to get the goodies, then go for it! There should be more ammo than 
+you need here.
+
+============================================================================
+Level 2b: Parking Garage
+----------------------------------------------------------------------------
+For Doom, deathmatch players can cycle between levels 2 and 3 for as long
+as they want. (So can singles!) It doesn't work in Doom II, so I put this
+level in if you take the deathmatch exit on level 3. It is the same map,
+but with different monsters. You single or co-operative players can come
+here if you want to play an additional level.  To fit the story, now you
+will travel through the level backwards.  This means if you fail to close
+the portal, you must go back through the parking garage.
+
+
+***************************************************************************
+What graphics/sounds I inserted for this episode
+-----------------------------------------------------------------------------
+
+All graphics are hand drawn by me, except where noted.
+
+Checkerboard Floor and Checkerboard with Rook Floor.
+Main Mall Floor
+Road and sidewalk textures
+Counter Top texture
+Chess Board
+Wood Bench, edited from wood wall.
+
+Stool sprite
+Monitor Exploding sprites
+Entertainment Center sprites with new "popping" sound (light bulb breaking)
+Red Swirl Light sprites
+Big Tree sprite, from a scanned photo
+Sniper, edited player sprite and scanned photo. 
+     New sounds for the sniper.   
+Teddy Bear sprite
+Rocket Ship sprite
+Mickey Hat sprite
+Window Shatter sprites  with window shatter sounds (7 yrs bad luck!)
+new pistol/chain gun sound
+crickets in the background sounds
+
+Portland, Oregon sky background. Edited from a scan photo of downtown at night
+Game Palace Ad (flashes)
+Hand Rail
+Edge of Bench and Chess board  (edited Wood graphic)
+Software & More/DragonRook sign
+Mickey in Fantasia, from 640x480 hand drawing by me in 1989
+Sonic Poster, from 640x480 hand drawing by me in 1991
+Dee's Dance Designs sign (A real place, not a real sign)
+Pink Wall
+Pink Wall with Elvis picture and clock
+Broken Window 
+Weapons Van inside,outside,with tailights
+Bath Tile and Bath Tile with hole
+Wood wall with hole, from edited wood texture
+Restroom symbols
+Bun's on the Run sign
+Player in battle murals  (edited sprites)
+PJ's sign
+KJ Dime sign
+Deathmatch Special Exit sign (flashes)
+
+
+Thanks for playing!
+

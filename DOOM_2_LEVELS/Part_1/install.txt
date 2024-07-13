@@ -1,0 +1,234 @@
+
+NOTES:
+T.wad is a compilation of the sound patch predator.wad, the techbar.wad, arn.wad (some extra sounds I threw in from terminator2), aliengfx.wad from aliensdoom,  and the theme14 and theme16.wads. It has been designed to work with any version of either doom or doom2!  If your doom wad is in a different directory than c:\doom2, you must edit the dehacked.ini text file to reflect the path to your doom directory. 
+
+Credit goes to the authors of these great pwads, deutex, nwt, and of course id software. Type termin from your doom directory every time you reboot your computer and want to play t.wad. T.wad is great to use with other wads and regular doom play to spice up the action! After typing termin, just run t.wad like any other wad: doom2 (or doom depending) -file t.wad or if you are using sirdoom, just add the -file t.wad to the extra arguements section. BE SURE YOU TYPE TERMIN from your doom directory FIRST!! 
+
+I threw in a blowem up level map 01 (don't bother with it if you are using doom). to try it type tryit from the doom2 directory.
+
+Have fun!! Here are the some of the text files from the wads used to create t.wad:
+
+                    THEME DOOM PATCH 1.6 !!!
+                 
+Do you ever wanted to see ALIEN vs PREDATOR vs TERMINATOR in Doom? 
+Now it is possible!  The Theme Doom Patch modifies Doom and Doom 2
+to feature the deadly monsters from your favorite action movies: 
+
+- Pillars with skulls and hearts are turned into Alien eggs and 
+  Hugger tubes (shoot them to release the Facehuggers).
+
+- Lost Souls and Revenants are turned into Facehuggers (mostly
+  harmless but quite annoying).
+
+- Sargeants and Chaingunners are turned into Aliens (beware of the 
+  acid and don't kill them on short distance).
+
+- Demons and Knights of Hell are turned into young Alien queens 
+  (a little bit harder than normal Aliens).
+
+- Spectres and Mancubuses are turned into Predators (hunting you 
+  down invisible until their cloaking gives in).
+
+- Imps and Baby Spiders are turned into T40 Terminators (early 
+  battle models armed with plasma rifles).
+
+- Cacodemons and Pain Elementals are turned into T800 Terminators 
+  (try to prevent them from standing up again).
+
+- Barons of Hell and Arch Viles are turned into T1000 Terminators 
+  (looking like policemen but able to morph injuries away).
+
+- Troopers are still Troopers (so there are some easy killable 
+  moving targets around).
+
+- Spiderdemons and Cyberdemons are turned into chaingun and plasma 
+  rifle Troopers (for use in battle scenarios).
+
+- Potions and Helmets are turned into fellow Marines (bullet fangs
+  with shotguns and plasma rifles).
+
+- Berserk packs are turned into fellow Marines with Pulse rifles
+  (more bullet fangs with motion trackers).
+
+- Invulnerability spheres are turned into T800 Terminators repro-
+  grammed as bodyguards (who will only attack on defense).
+
+Players, weapons and some objects have been modified as well:
+
+- all player graphics are turned to the same uniform colour but
+  different helmet colour (so deathmatches will be more fair).
+
+- punch and pistol graphics are turned to right handed usage (just 
+  for fun).
+
+- the rocket launcher has got more power (BFG like hit radius using
+  rocket fuel units).
+
+- the plasma rifle has sligthly changed (to match the T2 plasma 
+  rifles).
+
+- the BFG 9000 is turned into a flame thrower (limited range weapon
+  using rocket fuel units).
+
+- all ammunition has been increased (you will need it).
+
+- blood splats will remain some time and tortured bodies can be shot
+  (thanks to the originators of these ideas).
+
+- poles with skulls and skewered heads are turned into open Alien 
+  eggs and sucessful dead Facehuggers (just some decorations).
+
+- eyes in symbols and flaming skulls are turned into Terminator arms
+  and Predator skull trophies (just some more decorations).
+
+- soul spheres and blur spheres have changed to look more technical
+  (but you will recognize them).
+
+- yellow keys are turned into data boards (use them together with
+  door textures for information exchange).
+
+- red keys are turned into hostages (which need to be rescued to 
+  open red doors, so don't get them killed).
+
+- electrical lamp columns can be shot (to turn the lights off).
+
+Usage (important!): 
+
+1. DEUTEX -APPEND THEME16.WAD             (DeuTex >3.1 needed)
+   creates the complete wad file (about 2/4 MB large)
+2. DEHACKED -LOAD THEME16.DEH             (DeHackEd 2.3 needed)
+   patches the doom.exe file (reload to original first)
+3. DOOM -FILE THEME16.WAD                 (Doom/HOE >1.6 needed)
+
+(actual deutex and dhe versions can be found on ftp.cdrom.com in pub
+/idgames/utils/graphics_edit and exe_edit. DeuSF and NWT may be used 
+instead of DeuTex, but no longer Dmadds.  Thanks go to Bill Neisius, 
+Bernd Kreimeier, Denis M”ller, Olivier Montanuy, Greg Lewis and id!)
+
+Most graphics are just modified originals to keep the feeling right!
+The sound effects were taken from various sound wads  (thanks to the
+creators) or direct from the movies (special thanks to Pete Nilson).
+Sorry, but different coloured blood splats were not possible, please
+change the  graphics for dedicated  Alien or Predator scenarios. Due 
+to some necessary tricks, the patch will only work when the dehacked 
+file and the wad file are used together.
+
+This patch is freeware! You may distribute it on any media, provided 
+you include all files without modifications.  Feel free to use it to 
+create special theme levels (preverably name them th(level).wad). To 
+experience  a completely different  Doom environment right now, just
+play  thopost.zip  (on ftp.cdrom.com in pub/idgames/levels/doom/s-u) 
+or any normal level and die!
+
+Werner Spahl (spahl@work2.ch-cip.uni-koeln.de)             16.3.1995
+ "The reason of my life is to make me crazy!"
+
+                      Predator Sound FX
+                                      by
+                              -- Dream Warrior --
+                              -- Time Traveler --
+                  -- "I don't want my handle on it." - ??? --
+
+Ok, so here are the Predator sounds for Doom, tested with Doom v1.2.  We
+wasted the better part of a night's rest to put them together.  A few notes
+regarding some of the sounds in Predator:
+
+The sound of the BFG is a spliced sound of the Predator's laser.  It has two
+parts, three beeps and a whoosh.  In the movie the beeps come after the whoosh
+but in the BFG, well, the beeps come first.
+
+Many lines in the movie were "chopped" for clarity.
+"I'll bleed you (2 second pause) real quiet."
+becomes
+"I'll bleed you real quiet." (no pause)
+
+The chaingun sound was a total compromise.  We would have loved to have used
+Blane's minigun, but when sampled and run with doom, instead of a chaingun it
+sounded like industrial machinery, no matter how many times we tried.  So
+instead we settled for the sound of normal machine gun fire.  In pistol mode
+it sounds terrible and even in chaingun we found the sound to be mediocre.
+But oh well.  What can we say.  T2.WAD and ALIENS2.WAD are two instances
+where the chaingun sounds good for different reasons.  T2 just looped a single
+pistol shot.  In ALIENS2 the compromise is that the pistol sounds cheesy while
+the chaingun sounds at least halfway decent.  The same could not be said about
+Predator.
+(Ultimately a gunshot from a Doom audio package was selected.  Not my
+idea, but D.W.'s - T.T.)
+
+Questions or comments may be addressed to: 
+Jin H. Kim aka "Time Traveler," xjinkim@fullerton.edu
+
+For those curious enough to want to know which sounds were replaced,
+
+A WHOLE BUNCH.
+
+01 Single machine gun shot
+03 Blane cocking his chaingun (I think it's unused)
+08 M203 fired from Dutch's M16
+10 Predator's laser sound
+14 Door opens, and then "Knock Knock" - Dutch
+19 "I ain't got time to bleed." - Blane
+20 Misc death sound
+21 Misc death sound
+22 Predator pulls out Billy's spine (gross)
+23 "I'm gonna have me some fun" - Mac
+24 Blane cocks his chaingun, followed by "Payback time!"
+25 "Get to the chopper" - Dutch
+27 "Anytime" - Mac
+28 "Overhere" - Mac
+29 "Showtime, kid" - Dillon
+30 "I see you" - Mac
+31 "You're in a world of hurt" - Blane
+32 Squeal of the pig
+33 Billy's laugh recorded by Predator
+34 The predator pins down Dutch's head with razor claws
+36 "I can make it...I can make it." - Poncho
+37 Misc death sound
+38 "Stick around." - Dutch
+39 Misc death sound
+40 "If it bleeds..we can kill it" - Dutch
+41 Misc death sound
+42 "Jesus-you killed a pig!" - Poncho
+43 Predator scream (removing bullet)
+44 "I'll bleed you..real quiet" - Mac
+45 Predator sound
+46 Predator sound
+48 Combat explosion sound
+49 Predator punches Dutch
+50 Predator laser sound
+51 Edited Predator laser sound
+52 "You are one ugly mother fucker" - Dutch
+53 Predator roars at Dutch (after removing helmet)
+54 "Kill me I'm here" - Dutch
+55 Predator sound
+56 Billy's death scream
+58 Predator scream (removing bullet)
+59 Predator scream (removing bullet)
+
+"Every day is Doomsday." - T.T.
+
+This is a graphic patch file to alter the status bar.  It is in a 
+PWAD so that the 10 meg file won't be altered.   It changes
+your standard status bar to one with LED readouts on a circuit board type
+of display.  The patches altered are the status bar itself, the numbers that
+are displayed on it, and the small numbers in the ammo area to prevent 
+multicolor effect. 
+        I spent a bit of time ensuring that all graphics were inserted 
+correctly to ensure a good match.  If you wish to use this new status bar in
+YOUR wad, please contact me.  I'll be happy to let you do it, I just would 
+like to know what wads its in so I can grab them. ;)
+        Also, if you can't contact me at the address below, feel free to 
+include it but give me some credit somewhere. Thanks.
+
+Blue Skies!
+Josh aka Phallus
+
+        Fallonjb95%cs14@cadetmail.usafa.af.mil
+
+To use:     
+                1) Put the wad file in your doom dir.
+                2) Doom -file techbar.wad
+
+
+
+

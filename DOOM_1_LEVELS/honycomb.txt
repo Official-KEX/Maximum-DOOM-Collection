@@ -1,0 +1,51 @@
+================================================================
+Title                   : HONYCOMB.WAD   
+Author                  : Maurice van Mil ('The Aceman')
+Email Address           : 
+Misc. Author Info       : 
+
+Description             : Deathmatch for four in a giant honeycomb like
+                          'maze'. Shoot'm or be shot!!
+
+Additional Credits to   : 
+================================================================
+
+* Play Information *
+
+Game			: Doom 1
+Episode and Level #     : E1M1
+Single Player           : Yes, but not designed for it.
+Cooperative 2-4 Player  : Yes, but not really designed for it.
+Deathmatch 2-4 Player   : Yes!!
+Difficulty Settings     : Yes and no. Yes: At different skills the weapons
+                          are not at the same place. (1,2 : 2 rocket launchers
+                          and 2 plasma guns; 3 : Plasma guns; 4,5 : rocket
+                          launchers and a Cyber Demon in the big Arena.
+                          (And a plasma gun, but no energy cells.)                          
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch.
+Build Time              : I don't know, but at least 30 + hours. 
+Editor(s) used          : Deu 5.1, Doomcad (I don't know which version.)
+Known Bugs              : None (I have taken real care there wouldn't be any).
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, but give me some credit. Name my name, for example in your text file.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+FTP sites:????(Fill in yourself)
+
+BBS numbers:????(Fill in yourself)
+
+Other:????(Fill in yourself)

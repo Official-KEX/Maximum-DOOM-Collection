@@ -1,0 +1,59 @@
+Title                   : Dark World I
+Filename                : drkwrld1.wad
+Author                  : Stephen Holste
+Email Address           : Stephen.Holste@spectre.com
+                          (a.k.a. doomite@spectre.com)
+
+Author Notes            : This is my first real level.  My Dad has helped
+                          fix textures and the way it works.  I am going
+                          to be 11 in July.  I hope to work on Doom II 
+                          levels as soon as I find and learn a new editor.
+
+Dad's Notes             : This kid really did this all himself, I only 
+                          helped debug and help with a few times the safety
+                          copies got all hosed up.  It is really cool
+                          having so much in common with a son.
+
+Description             : This level has a lot of maze like halls and
+                          requires all the key cards to pass.  There are
+                          eight secrets.
+
+Hints                   : Need blue card first, then red, then yellow.
+
+Special Thanks to       : ID for this great game.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2/4 Player  : Yes 
+Deathmatch 2/4  Player  : Yes 
+Difficulty Settings     : Yes 
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : New level from scratch
+Construction time       : Forever
+Editor(s) used          : DCK 1.1 (Great Program!)
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Users may use this level as a base to build additional
+levels.  Users may alter or play or do with this level pretty much
+anything they want, 
+
+You may distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+

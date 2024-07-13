@@ -1,0 +1,56 @@
+================================================================
+Title                   : Return to Castle Wolfenstein (doom2 ver)  
+Filename                : r2wolfII.zip
+Author                  : Norman Scott/Tim Scott
+Email Address           : tscott@plains.nodak.edu
+
+Description             : Replaces first 10 maps of Doom][ with
+                          new maps.  This is a revision of the doom1
+                          Episode 1 replacement. The maps contain 
+                          some levels previously released by
+                          authors, modified levels, and completely
+                          new levels.   Contains characters and
+                          textures from Wolfenstein.  There is 
+                          also a new weapon to add to your pack.
+
+Additional Credits to   * The creators of Wolfenstein
+                        * The creators of Doom
+                        * The creator of Deusf to handle all the sprites.
+                        * Bill Neisius for his audio and graphic
+                          editors for both Doom and Wolfenstein
+                        * The creator dehacked2.0
+                        * The creators of Trinity for use of graphics
+================================================================
+
+* Play Information *
+
+Doom][ Level #          : MAP01, MAP02, MAP03, MAP04, MAP05
+                          MAP06, MAP07, MAP08, MAP09, MAP10
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Graphics            : Yes
+New Music               : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : Contains the following previously released
+                          single level wads by same authors - Afro, 
+                          Thekeep2, Lookout and Hooter (Stepper) wads.
+
+Editor(s) used          : Dmgraph * Dmaud * BSP11x * Deu521 * Neopaint
+                          Norton Utilities * Dehacked * DeuSF * Waded
+* Copyright / Permissions *
+
+Authors MAY use these maps as a base to build additional
+maps.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+

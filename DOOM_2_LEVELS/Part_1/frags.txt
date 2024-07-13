@@ -1,0 +1,119 @@
+================================================================
+Title                   : The Frag Rooms
+Date                    : 5/16/95
+Filename                : FRAGS.WAD
+Author                  : Mark Potter
+Email Address           : ljbu20a@prodigy.com
+Misc. Author Info       : I won't stop until Quake comes....
+
+Description             : Different versions of map 08 from J_room4
+
+Additional Credits to   : id and the makers of DEU2, BSP, and to Jordan 
+                          Russell for creating the the original map 8 from
+                          J_room4.wad.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : DOOM II Levels 1-6
+Single Player           : What for ?
+Cooperative 2-4 Player  : uhhh..what ? I guess so if you're stupid
+Deathmatch 2-4 Player   : YES, YES, YES !!!!!
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : map 8 from J_room4 by Jordan Russell
+Editor(s) used          : DEU2 and BSP 1.2
+Known Bugs              : Only if you don't get plenty of frags !
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers: from The Wall (1-214-286-8291), Code Red (1-214-424-4702),
+Jackalope Junction (1-501-785-5381)
+
+Other: contact me at ljbu20a@prodigy.com
+
+==============================================================================
+Level 1
+==============================================================================
+
+Title     : S_room
+Author    : Erick Gammom
+New Level : No
+
+This is Erick's super shotgun-only version of J_room. What can I say ? Let
+the frags begin !
+
+==============================================================================
+Level 2
+==============================================================================
+
+Title     : C_room
+Author    : Mark Potter
+New Level : Modified map 8 from J_room4, otherwise YES !
+
+This one has a new look with only one weapon, the chaingun !
+
+==============================================================================
+Level 3
+==============================================================================
+
+Title     : R_room
+Author    : Mark Potter
+New Level : Another modified map 8 from J_room
+
+The only weapon you'll find here is the rocket launcher ! See who gets to the
+invulnerability sphere first !!
+
+
+==============================================================================
+Level 4
+==============================================================================
+
+Title     : P_room
+Author    : Mark Potter
+New Level : Still yet another twisted version of J_room's map 8
+
+No this isn't the bathroom level ! P_room means that on this level the only
+weapon is the plasma rifle !
+
+==============================================================================
+Level 5
+==============================================================================
+
+Title     : M_room
+Author    : Kevin Searle
+New Level : No
+
+Only weapon here is the good old BFG !! Hehe.
+
+==============================================================================
+Level 6
+==============================================================================
+
+Title     : map 8 from J_room4
+Author    : Jordan Russell
+New Level : No
+
+Here it is, the one that started this whole thing ! Complete and uncensored,
+the difference between is now it's map 6 instead of map 8.
+
+
+

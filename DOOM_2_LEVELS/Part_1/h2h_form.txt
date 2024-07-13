@@ -1,0 +1,222 @@
+*********************** Official ENTRY FORM for the ************************
+*                                                                          *
+*                H2HMud International Doomers Competition                  *
+*                                                                          *
+*                  "Where is the Home of the DoomGods?"                    *
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -*
+*                              Sponsored  by                               *
+*                                                                          *
+*                             ADVANCED GRAVIS                              *
+*                                                                          *
+*                          BRADYGAMES PUBLISHING                           *
+*                                                                          *
+*                            CONQUEST SOFTWARE                             *
+*                                                                          *
+*                           H2H BATTLESTATION 1                            *
+*                                                                          *
+*                             SAMS PUBLISHING                              *
+*                                                                          *
+*                             SIRIUS SOFTWARE                              *
+*                                                                          *
+*                            WALNUT CREEK CDROM                            *
+*                                                                          *
+*                            and STONEHENGE BBS                            *
+*==========================================================================*
+
+I. Entry Information
+
+Entry Filename : MMmSSiii.zip (solo) / MMmSSx#T.zip (co-op)
+Lmp Filename   : MMmSSiii.lmp (solo) / MMmSSx#T.lmp (co-op)
+Finish Time    : MM minutes SS sec
+% Kills        : ___%
+Date of lmp    : 1995/MM/DD/
+Wad File Name  : h2hmud__.wad (01 or 02 or 03 or DX)
+Level          : Map__        (01 or 02 or 03 or 01)
+Skill Setting  : I'm Too Young to Die/Hurt Me Plenty/Ultra Violence
+Style          : Solo/Co-Op
+Game Engine    : Doom II
+Lmp version    : 1.9 [All lmps entered must be version 1.9 demos]
+
+II. Player Information
+
+Challenge       : (pick a state/country) (e.g., California Doomers Rule!)
+Team Name       : (Sponsor, BBS, Club, or whatever)
+
+Contestant 1    : (Name, "player color", and Handle, if any.)
+ e-mail address :
+ other info     :
+
+Contestant 2    : (Name, "player color", Handle, if any.)
+ e-mail address :
+ other info     :
+
+Contestant 3    : (Name, "player color", and Handle, if any.)
+ e-mail address :
+ other info     :
+
+Contestant 4    : (Name, "player color" , and Handle, if any.)
+ e-mail address :
+ other info     :
+
+
+III.  OTHER INFORMATION
+
+Player #       :       (1)           (2)          (3)           (4)
+System Used    : (Solo/Modem/Serial/Network)
+CPU Specs      : (486DX2-66)
+Installed RAM  : (8 Meg)
+HD Seek Time   : (11.17ms)
+Video Card     : (ATI Graphics Expression 2 Meg VLB)
+Controller     : (mouse+keyboard/joystick/keyboard)
+
+IV.   YOUR COMMENTS (Pleeze)
+
+        - We appreciate your thoughts on the competition
+        - Team strategies / epithets uttered / epitaphs issued
+        - Suggestions and critiques are welcome!
+        - If you think these wads are too easy, you are not human.
+
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+
+V.  CHECK LIST!
+
+    __ Did you use the proper naming scheme for your entry?
+          [solo:  MM = min, SS = sec, iii = initials]
+          [co-op: MM = min, SS = sec, # = no. of players, T = team initial]
+          [If min. and/or sec. are less than 10, like 9, use 09, not 9]
+          [Example: 3 min 2 sec ==> 03m02iii.lmp]
+          [More examples are given in the "Rules", Section I.J.]
+
+    __ Did you pick a state/country for your "Challenge"?  Remember, only
+          one country or state will win the "Home of the DoomGods" title!
+
+    __ Did you include your e-mail address? (Be sure there's an e-mail
+          address for everyone even if some of you share an address!
+          You can't receive any prizes without an e-mail address)
+
+    __ Are you sure that your lmp conforms to all the rules?
+
+    __ Is your lmp in version 1.9 format?
+
+    __ Have you completely filled out this entry form and renamed it?
+          [Be sure to give it the same name as your lmp.]
+
+    __ Have you filled out and are you ready to e-mail the Notify.txt?
+
+    __ Have you filled out file_id.txt and renamed it file_id.diz?
+
+    __ Remember, the competition ends July 4, 1995 (1995/07/04).
+
+    __ Have you zipped your entry with a program that is compatible
+          with PKware's PKUnZip 2.04g unzipping program?
+          [Be sure to give it the same name as your lmp & entry form.]
+
+     - Have you read and do you understand the rules of the competition?
+          By submitting an entry, you and all your team mates, if entry is
+          for "co-op"--whoever submits the entry is acting as an agent for
+          all of an entry's contestants--affirm that all of you have done so
+          and that all of you agree to all the rules, terms and conditions
+          specified in the "Official Rules" file: rules.txt.
+
+
+                            We Wish You Luck,
+
+                                Mark Gundy
+                 H2H BBS - BattleStation 1 (619) 426-0073
+                               mag8@aol.com
+
+                                Dave Swift
+                    Stonehenge BBS SoCal (619) 929-6596
+                            swiftdave@aol.com
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+                           ABOUT THE SPONSORS
+
+
+Walnut Creek CDROM is the premier Internet ftp site.  Walnut Creek CDROM is
+   famous for hosting the DOOM add-on collection (available, not
+   coincidentally, on CDROM), and is providing copies of the Doom ToolKit
+   CDROM as prizes.  This disc, which was updated in February, 1995,
+   contains 6000 files, 3500 news articles from the alt.games.doom
+   newsgroup, and more than 500 ready to run add on levels, this disc will
+   surely provide you with hours of enjoyment.  The disc is set up so you
+   can run the wads directly off the CDROM using our handy shell and *your*
+   copy of the *registered* version of DOOM I or II. Ftp to ftp.cdrom.com
+   for all the latest files or order them on CDROM at +1 510 674 0783, 1 800
+   786 9907 or e-mail info@cdrom.com.
+
+
+Sirius Software, Inc. is providing copies of registered SirDescent, the
+     terminal program that allows you to play multi-player Descent with up
+     to seven other people on a BBS that offers Game Connection.
+   Home of Game Connection -- the only software that allows you to play
+     multi-player Descent, DOOM, Heretic, Sprectre VR and many more games
+     over your local BBS.
+   1049 CARDIFF ST., CASPER, WY,  82609,  (307) 237-0065
+
+
+Sams Publishing has provided, as prizes, copies of "Tricks of the DOOM
+   Programming Gurus." This book, due in bookstores May 15, explains how to
+   create your own carnage using the most popular editors and tools
+   available. Tutorials are written by the software authors themselves.
+   Learn from pros like Raphael Quinet and Olivier Montanuy. This is a must-
+   have for anyone interested in creating wads.  The companion CD-ROM
+   includes registered tools and hundreds of example WADs applying
+   techniques taught in the book. Look for "Tricks of the DOOM Programming
+   Gurus" in your local bookstore, or order by calling (800) 428-5331. Order
+   ISBN #0-672-30717-0. For information about Sams Publishing, visit our web
+   page at www.mcp.com.
+
+
+H2H BattleStation 1 is "The Best Place On Earth To Die."  Designed primarily
+     as a gaming system, H2H offers the fastest DOOM game play in the world.
+   No other server even comes close.
+   H2H is also a full service BBS with all the latest DOOM files. To join
+     the battle call 619-426-0073.  (Heretic & Descent now playing too.)
+
+
+Conquest Software: makers of UltraLaunch 1.05, The ULTIMATE Launcher for
+   DOOM(II) & HERETIC!  Menu-driven access to All game options!  Fully
+   supports multi-player games!  WADs Are zipped until needed!  Built-in Map
+   Viewer!  And  MUCH MUCH MORE!  Available for downloading (ul105.zip) at
+   ftp.cdrom.com, its mirrors around the world, and many BBSs.  You can
+   contact us by e-mail at conquest@mercury.interpath.net or visit our Web
+   page (http://www.interpath.net/conquest/).
+
+///BradyGAMES Publishing
+   The leading electronic entertainment publisher.
+   To order "Totally Unauthorized Guide to Doom II" (includes the Doom
+     Editor which converts Doom wads to Doom II wad, finds secret doors,
+     prints level maps and more) or the #1 best-selling "Doom: Totally
+     Unauthorized Tips or Secrets", both by Robert Waring, call toll-free
+     1-800-428-5331, or plug into the the Macmillan Information SuperLibrary
+     on the World Wide Web: http://www.mcp.com.
+   After all, to get into the game, you gotta have the books.
+
+
+Advanced Gravis Computer Technology Ltd. is a recognized leader in sound
+   card and game controller technology.  They have released the new Gravis
+   UltraSound ACE add-on card which allows to upgrade your existing 8-bit or
+   16-bit sound card to wave-table synthesis and digital audio ability
+   without any special cables or connectors.  It offers 32 wave-table voices
+   and 16-bit multichannel digital sound.  It has 512K of onboard memory and
+   has been certified as compatible with 21 different sound cards.  It's
+   available at computers stores everywhere.  You can contact Gravis on
+   CompuServe's PCVENB forum (Area #14; 71333,350), by calling their BBS:
+   (609) 431-5927, 14400, 8/N/1, or at sales@gravis.com.
+      
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    Disclaimers and Notices:
+
+DOOM is a registered trademark of id Software Inc, this CONTEST is not
+   affiliated with nor will be supported by id Software Inc.
+
+All trademarks, registered trademarks, and copyrights are the property of
+   their respective owners and are hypothetically acknowledged.
+
+The rules, terms and/or conditions of the H2HMud International Doomers
+   Competition are subject to change without prior notice.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+

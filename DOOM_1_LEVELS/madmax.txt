@@ -1,0 +1,50 @@
+================================================================
+Title                   : MADMAX
+Filename                : MADMAX.WAD
+Author                  : Ryan Feltrin
+Email Address           : 9307923j@levels.unisa.edu.au
+Misc. Author Info       : 
+
+Description             : This level was designed solely for deathmatch
+                          play. It is based around the MadMax style
+                          chainsaw battle, with couple of other
+                          weapons thrown in. Lots of warps for "The
+                          Fly" effect, together with fast-paced play
+                          makes this one a must for all deathmatch fans!
+                          
+Additional Credits to   : ID Software.. (enough said already)
+                          The DEU Team.
+                          Boden, for his pacients as a playtester!
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : YESSS!!
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21
+Known Bugs              : A small one in there.. :(
+
+
+* Copyright / Permissions *
+
+Authors may not modify, change or in any way alter this level without
+written permission from the author. But share it around.. PLEASE!
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+Now, go play it!!

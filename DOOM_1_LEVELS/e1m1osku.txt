@@ -1,0 +1,12 @@
+Osku Salerma
+09/03/94
+osku@muncca.fi
+
+  This is a level meant for Deathmatch games. It's a modification of
+level 1,1. It was made using Newdeu 4.31, which is a fantastic doom
+editor. Beats the hell out of everything else now available. If you have
+any comments about the level please mail them to me, my email address is
+osku@muncca.fi.
+
+                                                -Osku Salerma
+

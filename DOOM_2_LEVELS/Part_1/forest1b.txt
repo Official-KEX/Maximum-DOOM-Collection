@@ -1,0 +1,78 @@
+================================================================
+Title                   : Forest BBS Level V.1b
+Filename                : FOREST1B.WAD
+Author                  : Daniel Moggridge (SilverFist)
+Email Address           : 100543,1707 on Compuserve (Not now!!)
+Misc. Author Info       : I have been an avid Doom and Deu user
+			  for ages. 
+
+Description             : Three levels for the Forest BBS as a special
+			  set for DOOM 2 !!
+			  Strictly Deathmatch only, but can be played
+			  single-player or Co-op. But let's face it.
+			  If you can download this file, then surely
+			  you have access to Multi-player DOOM!!!!!!
+
+Additional Credits to   : Everyone; iD, DEU guys, blah blah
+			  Oh, and the people I beat at the Christmas
+			  Computer Shopper Show on 4-player Doom (On
+			  Sunday).
+			  Especially Smurf and Fluffy for being the 
+			  best Sysops ever!! (Thanks again Rob! For 
+			  everything!)
+==========================================================================
+
+* Play Information *
+
+Level #                 : MAP01, 02, 03
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : Yes (Also a Smurf graphic when I get it to work)
+New Music               : Yes 
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch (I always do!)
+Editor(s) used          : Deu2 and BSP 1.2x and VNB (I forget which version)
+Known Bugs              : Mostly fixed, tell Smurf if there is anything
+    			  wrong, he'll tell me.
+
+			  HINT: When playing 2-player serial link,
+			  use this parameter; -38400 to enable the 
+			  link to run at 38400 baud. It allows the
+			  machines to run that tiny bit faster  :)
+
+
+* Copyright / Permissions *
+
+Authors may not use this level as a base to build additional
+levels. (Because I like it too much, and I want all the credit!)
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+
+* Where to get this WAD *
+
+You've already got it! 
+But seriously...
+
+UK BBS numbers: 0621 893320 
+		Man over Baud
+
+		01425 629629
+		Forest BBS
+
+	I doubt it very much, but;
+		01222 362361
+		Games Net Server
+
+Other: Compuserve in Gamer's Forum or Modem Gamers (No chance!)

@@ -1,0 +1,77 @@
+=========================================================================
+Title                   : The Tunnels         
+Filename                : TUNNELS11.WAD
+Author                  : Dominique Lavergne
+Email Addresses         : Dominique_Lavergne@email.francenet.fr
+                          100424.3626@compuserve.com
+                          lavergne@dialup.francenet.fr
+
+Description             :   Same as previous Tunnels.txt
+
+
+==========================================================================
+
+Installation            :   Quite easy. Unzip the file in your Doom2 
+                            directory and type TUNNEL11.
+
+Additional Credits to   : Id Software for creating such great games
+                          All of you who create such great tools
+                          Jean Michel Jarre for the music
+==========================================================================
+
+* Play Information *
+
+Game Type               : Doom 2
+Episode, Level #        : MAP01  
+Single Player           : Yes   
+Cooperative 2-4 Player  : Yes (Untested)
+Deathmatch 2-4 Player   : No, sorry
+Difficulty Settings     : Yes, all 5.
+New Sounds              : Yes
+New Graphics            : Yes
+New Music               : Yes
+Demos Replaced          : None
+
+  This 1.1 release corrects a rather big bug reported. Coop is now available
+because I forget players 2,3 and 4 starting point.
+
+  Sorry for this bug.
+  Graphic wad doesn't change, the same can be used.
+
+==========================================================================
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : WADED, DEUTEX, MIDI2MUS
+Build time              : About 3 weeks.
+Known Bugs              : None that I know of
+                          
+
+==========================================================================
+
+* Misclaneous *
+
+  Send me your reactions and comments about this Wad, using one of the
+above Email adresses.
+
+
+==========================================================================
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites:
+        ftp.cdrom.com
+        ftp.luth.se
+
+

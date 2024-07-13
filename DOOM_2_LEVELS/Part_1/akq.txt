@@ -1,0 +1,68 @@
+================================================================
+Title                   :Kick an imp and he gets pissed!
+Filename                : AKQ5.WAD & Dehacked patch AKQ.DEH
+Author                  : Paul Noble
+Email Address           : editor@elbon.demon.co.uk
+Misc. Author Info       : Creator of the Akm series of wads of 
+			which two updated levels are available 
+			at ftp.cdrom.com. The others must be 
+			requested.
+
+Description             : This is a little level which I made 
+			soon after my first couple of deathmatches
+			it originally was intended to mimic the 
+			mood and feel of the first doom2 level,
+			but soon after putting half of it down on
+			paper, I had a stunning idea, although
+			it will hoepfully be good for deathmatch
+			it also has a severe sting in the tail for
+			single and coop play. I do not advise coop
+			play as there is really only enough ammo
+			for 1 player and 4 deathmatchers, even then
+			the DMers may come up short. The Dehacked patch
+			is essential for play as single play and coop.
+			It's not so important for DM but it will be
+			annoying for them if the patch isn't implimented.
+
+Additional Credits to   : Thanks to Ben Morris who made it possible
+			with dck 2.2 to finish this level in under 3
+			hours. Also big thanks to the Dehacked author.
+			Tar youz for trying this level.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : map01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : no
+New Graphics            : no
+New Music               : no
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          :DCK 2.2
+Known Bugs              :none.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com
+
+BBS numbers:
+
+Other: Email me at the above address.

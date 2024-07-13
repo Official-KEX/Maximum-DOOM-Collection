@@ -1,0 +1,44 @@
+===========================================================================
+Title                   : FIGHT.WAD
+Date Finished           : 4/14/95 
+Author                  : Jeff W. Wirz
+EMAIL                   : jeff.wirz.chrysalis.org
+Other Files By Author   : YODA-DM2.WAD, NWANGO.WAD, FETT.WAD, OTHERS
+Description             : This level is a remake of level 1 of DOOM ][ 
+                                and a remake of my level, fett.wad 
+Additional Credits to   : John Davidson, KM, and Jay Watson for playing it
+                          with me in deathmatch testing.
+===========================================================================
+
+Map #                   : Map 01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes Of course!
+Difficulty Settings     : No
+New Sounds              : YES!!
+New Music               : yes
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : level 1 of doom2
+Build Time              : Bout 15 hours or so.
+Editor(s) used          : Deu2, BSP 1.0
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.   
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+BBS numbers:                          
+KCE: (214) 613-0992
+Code Red: (214) 424-4702
+The Wall: (214) 286-8291

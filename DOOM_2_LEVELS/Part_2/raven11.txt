@@ -1,0 +1,51 @@
+DOOM 2
+
+Part eleven of the RAVEN SERIES Map 11
+
+This is part 11 in the premier Doom 2 RAVEN series.  
+This .wad will challenge all Doom players regardless 
+of skill level.
+
+Also included is Raven 11b, a smaller level that
+works great for deathmatch on slower machines.  If
+Raven 11 is too slow, play Raven 11b.  Both wads
+support single and deathmatch play.
+
+
+Features:
+- support for all 5 skill levels
+- Great DEATHMATCH level 11 or 11b
+- Great outdoor settings
+- well placed monsters
+- use of all three keys 11 only
+- can be completed with out cheating
+- excellent texture alignment
+- great windows for sniping
+- Tall buildings
+- HINT: The bridge could be more than it looks.
+
+
+Use doom2 -file raven11.wad -warp 11 -skill 1  
+to play or idclev11   during the game. 
+     
+      ** OR  **
+
+Use doom2 -file raven11b.wad -warp 11 -skill 1 
+to play or idclev11   during the game. 
+
+
+If you  liked this level or any of the RAVEN levels
+please drop me an E-mail note.  Any suggestions or
+comments will be greatly appreciated.
+
+** Please contact me if you wish to include this level 
+(or any RAVEN levels) in a commercial package. 
+(i.e. MEGA-WAD pack, etc)
+
+Level creator:     Tim Willits 
+		   (will0057@mermaid.itlabs.umn.edu)
+		   63 N. Ruth St.
+		   St. Paul MN 55119
+		       
+Level Tester:      Theresa Chasar
+

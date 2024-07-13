@@ -1,0 +1,104 @@
+================================================================
+Title                   : American Gludiators Assault - DeathMatch
+Filename                : AGMax.wad
+Author                  : Max Smolens
+Email Address           : -----------
+Misc. Author Info       : -----------
+
+Description             : Like AG Assault, one guy on platform, 
+                          other guy hides behind barriers, lotsa
+                          weapons and stuff.  Nice cool music to
+                          set the tone.  Sometimes both guys end
+                          up on the same level.  This is really
+                          fun - chasing the other guy around the
+                          'arena', like a wild goose hunt. 
+                          
+                          TIP: click on that pillar on the top 
+                          level... neato!  You really have to 
+                          see what's in that neato pillar!  
+                                
+                             -=-  Play AGMax.wad NOW!  -=-
+
+Additional Credits to   : Id software, NWT guy (NWT was helpful),
+                          DoomCAD guy...
+================================================================
+                              
+* Play Information *     
+                           
+Map #                   : MAP32, that means it's for Doom ][.
+                            /^\
+                             |
+                          Hope you read that! It's MAP32.
+
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes, made for 2 players, I guess you 
+                          could play with more... that would 
+                          be cool! Tested 2-player by null-modem 
+                          cable.
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : Oh yeah! Click on that pillar!
+New Music               : No,  but the music sounds cool.
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DoomCAD 5.0, NewWadTool 1.1, PC Paintbrush(r).
+Known Bugs              : None
+
+* How this WAD was made *
+
+This level started off as a big room with a platform at one end.  
+I added The thingy's in the middle when I thought to make it look 
+like the American Gludiators Assault field.  I continued making 
+improvements and changes to the level, including making it 
+drastically smaller at one time.  Once the things were in place, 
+I tested out my new Doom ][ editor by putting in all sorts of 
+monsters.  Unfortunately, I saved over the wad without monsters -
+and I'm too lazy to remove the monsters (that's why you use the 
+-nomonsters switch for this level!).  I asked someone whether to 
+make the wad for Doom I or Doom ][.  They said to make it for 
+Doom ][.  So I redid all the textures with some thought in mind 
+this time.  I added some super shotguns and put in the really cool 
+stuff around the BFG (you know... in the column).  I then had to 
+make the map MAP32, because I liked the music in that level. I 
+would have been simple and plain and made the level MAP01, but 
+I lack an editor to extract/import music for Doom ][.  P.S. If you 
+think this level is any good, go to the #hockey on the irc and 
+tell them to tell me that you think it's good.  :-]  By the way:  
+my nick is MaCkS.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites:  ftp.cdrom.com
+
+BBS numbers:  ---------
+
+Other:  --------
+
+* Miscellaneous Stuff *
+
+Remember to use "-devparm -nomonsters -warp 32 -deathmatch 
+(actually, the level is better using -altdeath [DeathMatch 
+2.0])" and the switches like -com# for serial play or the 
+-net switch for net play.
+
+    /- Playing without the -nomonsters 
+---<-> switch will give you a 
+    \- BiG surprise... :-]
+
+* DISTRIBUTE LIKE HELL *

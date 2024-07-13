@@ -1,0 +1,54 @@
+******************************************************************
+                             ATRIUM.WAD
+                                             
+      A DOOM pwad file with a really sneaky barrel puzzle
+
+                     Designed by Steve Taylor
+
+taylor@physics.carleton.ca         (constructive comments welcome)
+******************************************************************
+
+Atrium.wad is a fairly short DOOM level (completion times on
+the order of 5 to 10 minutes).  The level is stored as E1M1.  In
+particular, it contains a barrel puzzle which I think you may find
+quite challenging.  You'll know what part I mean when you get to
+it.  The rest of the level involves some tricky monster
+confrontations.  It is not set up for multi-player currently.
+
+The "atrium" part of the level involves lots of tree decorations
+and may slow down the game unacceptably on anything but a fast 486.
+If you're having problems just cheat to get past it.
+
+The level was designed with DEU 5.0.  Congrats to the authors for
+a great piece of public domain programming.
+
+To invoke the level, copy atrium.wad into your DOOM directory and
+type:
+
+     doom -file atrium.wad
+
+at the dos prompt.
+
+
+***********  The Barrel Trick  **************
+
+Ok, so you've tried the level once, and you've got to the barrel
+part, and now you're saying to yourself "This guy's nuts! There's
+no way to get past this without getting blown all to hell!"
+
+Well, in fact there is a way to get by the barrels without taking
+any damage at all!!!  It involves the use of a brilliant little
+feature of the game (I don't mean the cheat mode ;-) ).  It's
+really sneaky, but once you know what to do, it's quite repeatable,
+with a little practice.  And yes, all the barrels explode in the
+process.
+
+I would love to give a little hint in this readme file but I'm
+afraid even the smallest hint would give it away.  So here's what
+I'll do... if you're completely stuck, and you really care, post a
+message in alt.games.doom and I'll start with the hints.  If on the
+other hand, you're the first in net-land to figure it out, post
+you're own hints to alt.games.doom and save me the trouble. :-) 
+
+Steve T.
+

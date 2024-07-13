@@ -1,0 +1,40 @@
+================================================================
+Title                   : Spiral Zippy!
+Filename                : spiral1.zip
+Doom Version            : Doom 2 (1.9)
+Author                  : Perry Smith a.k.a Peri
+Email Address           : what's the point. 
+Description             : Several spirals to climb, a tunnel
+                        : section designed to cause heart
+                        : failure; wide open section with
+                        : spider, arch-vile & Tubby. Keep that
+                        : BFG for the big guys..
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Medium, Hard
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+Editor(s) used          : Deu2 & Deep 6.21 & BSP 11
+                          
+Known Bugs              : Nothing that will cause the hideous
+                        : Hall of mirrors effect to exact
+                        : its revenge
+
+Thanks to Tim MIddleton & Terence Sin
+
+* Copyright / Permissions *  NO ONE  change it unless a member
+at your local Beckers group therapy
+
+* Where to get this WAD *
+
+Well, if you're reading this you got it, so ....

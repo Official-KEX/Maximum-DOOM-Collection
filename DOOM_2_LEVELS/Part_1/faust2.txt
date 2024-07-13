@@ -1,0 +1,191 @@
+===========================================================================
+Title                   : Faust2.wad
+Author                  : Faust
+Email Address           : None
+Other Files By Author   : room3-1.wad, room4-1.wad, room2.wad, room2-1.wad, 
+			  Psycho1.wad, room6.wad, room2-2.wad, & Zone1.wad
+			  Faust1.wad
+Misc. Author Info       : See you on Dallas DWANGO
+			  
+
+
+
+Description             : Compilation of 10 levels which include:
+			map1 - room7.wad
+			map2 - room8.wad
+			map3 - room9.wad
+			map4 - room10.wad
+			map5 - room13.wad
+			map6 - room14.wad
+			map7 - room16.wad
+			map8 - e1m8.wad
+			map9 - room15.wad
+			map10 - here1m8.wad
+
+		
+Additional Credits to   : Id, bullyboy, monolith, snotboy & rambutt 
+			  for play-testing some levels - ideas & criticism
+			  & talon for the use of some sounds
+
+===========================================================================
+
+DIFFICULTY LEVELS ARE AS FOLLOWS:
+
+1ST & 2ND DO NOT!! HAVE THE ROCKET LAUCHER OR THE PLASMA RIFLE
+3RD HAS THE ROCKET LAUNCHER BUT NOT! THE PLASMA RIFLE
+4TH & 5TH HAS BOTH!! THE ROCKET LAUNCHER AND THE PLASMA RIFLE
+4TH & 5TH ALSO HAVE THE SOUL SPHERES AND/OR MEGA SPHERE
+
+* Play Information *
+
+All the following apply to all the maps
+
+Difficulty Settings     : YES
+New Sounds              : YES
+New Music               : YES
+New Graphics            : jus the status bar
+Demos Replaced          : no
+
+* Construction *
+
+Base                    : new
+Build Time              : between 5 and 15 hrs per map
+Editor(s) used          : dck & waded 181
+Known Bugs              : don't think so 
+
+*****************************************************************************
+
+Description             : Large square level - find the hidden switches to
+			  lower the lifts to the upper levels - also to lower
+			  the center piece
+
+Wad Name                : Room7.wad
+Map #                   : Map #01
+Single Player           : no
+Cooperative 2-4 Player  : no
+Deathmatch 2-4 Player   : HELL YEAH
+
+*****************************************************************************
+
+Description             : Square map - the blood splattered walls are lifts
+			  there's only one way out of the trenches
+
+Wad Name                : Room8.wad
+Map #                   : Map #02
+Single Player           : no
+Cooperative 2-4 Player  : no
+Deathmatch 2-4 Player   : HELL YEAH
+
+*****************************************************************************
+
+Description             : i was bored so i made this map - you have to jump
+			  from the high wall onto the lower part on the right
+			  side
+
+Wad Name                : Room9.wad
+Map #                   : Map #03
+Single Player           : no
+Cooperative 2-4 Player  : no
+Deathmatch 2-4 Player   : HELL YEAH
+
+*****************************************************************************
+
+Description             : My pentagram wad - each point is a lift back up to
+			  the main upper part - the center wall is a lift - 
+			  and the very center part is a teleporter
+
+Wad Name                : Room10.wad
+Map #                   : Map #04
+Single Player           : no
+Cooperative 2-4 Player  : no
+Deathmatch 2-4 Player   : HELL YEAH
+
+*****************************************************************************
+
+Description             : room with three towers - hit the three switches to
+			  lower the ?arms? of the towers - find the hidden
+			  room also
+
+Wad Name                : Room13.wad
+Map #                   : Map #05
+Single Player           : no
+Cooperative 2-4 Player  : no
+Deathmatch 2-4 Player   : HELL YEAH
+
+*****************************************************************************
+
+Description             : square room with 8 outstretched hallways - the 
+			  center switch raises the floor to the next higher
+			  hallway - the switchs in the rooms lower the floor
+			  back down to it's lowest point
+
+Wad Name                : Room14.wad
+Map #                   : Map #06
+Single Player           : no
+Cooperative 2-4 Player  : no
+Deathmatch 2-4 Player   : HELL YEAH
+
+*****************************************************************************
+
+Description             : large level - there are no ways to get up to the
+			  upper platforms but there are deathmatch starts
+			  on them though
+
+Wad Name                : Room16.wad
+Map #                   : Map #07
+Single Player           : yes
+Cooperative 2-4 Player  : yes
+Deathmatch 2-4 Player   : HELL YEAH
+
+*****************************************************************************
+
+Description             : remake of doom1 ep.1 map 1 - the exit is in the
+			  north part of the courtyard - the switch to lower
+			  the wall is in the middle part of the star behind
+			  a lift in the left wall of the left pillar
+
+Wad Name                : E1m8.wad
+Map #                   : Map #08
+Single Player           : yes
+Cooperative 2-4 Player  : yes
+Deathmatch 2-4 Player   : HELL YEAH
+
+*****************************************************************************
+
+Description             : long twisted hallways that wrap around a center 
+			  courtyard
+
+Wad Name                : Room15.wad
+Map #                   : Map #09
+Single Player           : no
+Cooperative 2-4 Player  : no
+Deathmatch 2-4 Player   : HELL YEAH
+
+*****************************************************************************
+
+Description             : remake of heretic ep.1 map 8
+
+Wad Name                : Here1m8.wad
+Map #                   : Map #10
+Single Player           : yes
+Cooperative 2-4 Player  : yes
+Deathmatch 2-4 Player   : HELL YEAH
+
+=============================================================================
+
+* Copyright / Permissions *
+
+Authors MAY (please do!) use this level as a base to build additional
+levels - jus give me some credit :). 
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+BBS numbers:                          
+Code Red: (214) 424-4702
+The Wall: (214) 286-8291
+Doom's Day(214) 317-3852

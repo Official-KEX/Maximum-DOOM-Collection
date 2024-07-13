@@ -1,0 +1,54 @@
+	I just posted a new deathmatch level to infant.  It is based on 
+the idea that a good deathmatch level should not let anyone have a big 
+advantage while playing, and that you shouldn't be able to frag yourself.
+This room is a small square with a few moving pillars and a transporter 
+in the center of the room.  I got the idea from paintball, where the two 
+opposing teams play in a small arena with little cover and no advantages.
+The name of the game is Speed Ball, or in this case Speed DOOM.
+================================================================
+Title                   : SPEEDOOM.WAD
+Author                  : Thomas Blackman (Faceman)
+Email Address           : gblackm@uxa.ecn.bgu.edu
+Description             : This is a small (3K) deathmatch wad that  
+			  allows no-one to have a distinct advantage
+			  when playing.
+			 
+Additional Credits to   : Jay and Hanover for testing it with me. 
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : YES!
+Difficulty Settings     : No 
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None 
+
+* Construction *
+Base                    : New level from scratch
+Build Time              : 1.5 hours (Its small!)
+Editor(s) used          : Doomed 2.6 beta (Checks in the mail Geoff!)
+Known Bugs              : Texture on the transporter is off.
+			  No exit to the next level.
+
+* Copyright / Permissions *
+
+Do with it what you want, its not like I can stop you.  If you do make 
+changes, just gimme some credit.
+
+
+Lemme know if you like it, I am considering more levels similar to it 
+with different tricks and obstacles.
+
+TB
+
+-----------------------------Thomas Blackman--------------------------------
+* "Impressive,  		       The Phantom - "1 shot, 1 'kill'"    *
+*      Most Impressive....."	       The AutoCocker - "Ugly but Awesome" * 
+*          -Darth Vader                           The "Faceman"            *
+**Team ForestFire********glbackma@uxa.ecn.bgu.edu********TIP #238***********
+

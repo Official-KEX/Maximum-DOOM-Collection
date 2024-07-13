@@ -1,0 +1,82 @@
+* General Information *
+==============================================================================
+
+Title                   : Purple Death 2 ( PURPDTH2.ZIP )
+Description             : Original Deathmatch PWAD for Heretic (Registered)
+
+Author                  : Chris Villarreal
+Email Address           : chris.villarreal@iotp.com
+Additional Credits to   : Ron Anthony - Creative Consultant/Beta Tester/
+					Victim/
+			  Dan Bowen   - Beta Tester/Drumstick
+			  
+Points of Interest      : This is my second level that I have ever made. After
+			  spending several weeks playing Heretic and several 
+			  months playing Doom I grew bored.  Deathmatch 
+			  revived my love for these two games.  Good 
+			  deathmatch levels are few and far between.
+			  Thus my quest began.  The ultimate deathmatch
+			  levels were born.  I had the luxury to have these
+			  levels beta tested at the Incredible Universe in
+			  Phoenix Az.  I was honored when they made my levels  
+			  the official Death in a Purple Shirt contest WAD. 
+			  That is where the name came from these are the 
+			  Purple Death levels. So far I am very pleased with 
+			  the reviews and encourage any comments you may have.
+			  Thanks for trying these levels and I promise to 
+			  release more in the near future.
+
+			  Notes of interest: Since you have read this far I will                               
+			  give you some hints.  The ONLY place to get the wings
+			  and 200+ armor is in the graveyard.  One of the tombstones
+			  triggers a lift in the courtyard.
+
+			  There is also a secondary egg located near one of the 
+			  waterfalls in a hidden room.   
+			  
+			  Lastly the exit is located by the dead end of the river.
+
+* Play Information *
+==============================================================================
+
+Episode and Level #     : E1M1 
+Single Player           : If you must
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes (bosses appear in level 4 only)
+New Sounds              : No
+New Graphics            : No
+
+
+* Construction *
+============================================================================
+
+Base                    : New level from scratch
+Build Time              : 20+ hours! Ok, so I was learning how to do it! 
+			  It was worth it, now if I can only find where 
+			  my wife went........
+Editor(s) used          : EDMAP 1.31 and BSP 1.2x
+Known Bugs              : No, a few graphics glitches but that is all.
+
+			 There is a slight graphic glitch in the sector by the egg on the
+			 blue pillar. If you know how to fix it please e-mail me.
+			 I'd like to hear any comments also.
+
+Special Thanks          :First and foremost I would like to thank my wife
+			 for putting up with my late nights, and her friend
+			 Michele for keeping her occupied and keeping the 
+			 heat off of me.  I would also like to thank the  
+			 guys at the Incredible Universe for continuing
+			 to supply me with fresh victims.
+
+
+* Copyright / Permissions *
+============================================================================
+
+Authors may use this level as a base to build additional levels.
+You may distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file.
+
+You can find this PWAD on: Official DOOM Site-of-the-Month: ftp.cdrom.com, 
+			   CI$, and any BBS with class!

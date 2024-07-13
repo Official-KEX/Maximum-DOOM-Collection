@@ -1,0 +1,41 @@
+=================================================================
+Title                   : Deathmatch: THE KEEP, for Doom II
+Filename                : THE_KEEP.WAD
+Author                  : Talon
+Email Address           : CEWessel@aol.com
+Description             : New level from scratch. Tried to get the feel of a
+                          fortress, but still keep it small enought to have
+                          a high frag count.
+Additional Credits to   : Bryant Fong (San Jose) - AWESOME music dude!
+                          All the guys at ID for making this AWESOME game.
+                          
+================================================================
+
+* Play Information *
+
+Level #                 : MAP01
+Single Player           : Yes, to check out the level.
+Cooperative 2-4 Player  : NO..no 2,3,4 player starts
+Deathmatch 2-4 Player   : YEAH!
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : Yes - EXITSTON replaced by new patch
+New Music               : Yes - Written by Bryant Fong
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Map 1 from Doom II
+Editor(s) used          : Edmap 1.31 
+Build Time              : 4 hours
+Known Bugs              : None  
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+* Where to get this WAD *
+
+Code Red BBS 214-424-4702
+KCE BBS      214-613-0992
+DWANGO BBS   214-286-8291

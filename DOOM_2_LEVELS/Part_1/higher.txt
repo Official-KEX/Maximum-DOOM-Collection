@@ -1,0 +1,129 @@
+================================================================
+Title                   : Higher  (latest)
+Filename                : HIGHER.WAD
+Author                  : Me. (Oh, Paul)
+Email Address           : q9110419@helios.usq.edu.au (till end '95)
+Misc. Author Info       : Bored shitless student of info tech
+
+Description             : The best thing about these levels is they're fairly
+                                straight-forward.  That is there's no find 
+                                the key, spend 20 minutes looking for where
+                                to use it, 20 seconds of death-dealing, find 
+                                a secret switch and so on.  That's not to say 
+                                that this kind of level doesn't have its 
+                                place, it does, but i don't design that.  
+                                I've had enough of that from DOOM II.
+                          These levels (i think) are original.  I haven't 
+                                really played anything like them.  Anyway, 
+                                please see what you think, and let me know.
+                                NOTE:  The above email address is mine only
+                                until the end of '95.
+
+                             -------
+                             P L O T
+                             -------
+
+                          OK.  You were one of the unlucky ones, you weren't
+                                killed.  Trying to rid that sector of Caco-
+                                demons was useless, and you knew it.  Command
+                                HQ knew better and sent you in at the head of
+                                a bunch of inexperienced soldiers, most of 
+                                them useless.  All are dead. Except one who
+                                was captured. You.
+
+                          They've got you bricked up in a small room.  You      
+                                thought you had an idea why.  After you found 
+                                the pistol there you knew why.  Rumors had
+                                infiltrated back to base that the Cacodemons
+                                liked to play soldier bating with any captured
+                                soldiers.  You know what's in store.
+
+                          A feeling wells up in your gut you know to be fear.
+                                You look at the tiny weapon in your hand and
+                                groan.  You'll be lucky to take out one. All 
+                                is lost.  You wait for death.
+
+                          Visions of those red bastards killing killing killing
+                                roar through your mind, slowly enraging you to
+                                accept the inevitable.  Surfacing through 
+                                these thoughts of death, however, is another 
+                                thought, revenge.  Not with a pistol.  You'd
+                                walk through hell for a shotgun.  Maybe you
+                                will...
+                  
+                          NOTE:-  Level 3 is a bit more unprofessional than
+                                  the rest.  It originally was a DOOM level.
+                                  It's good however.  SO PLAY IT!!  Play them
+                                  all.  You'll feel better.
+
+                          HINTS:- (1) Play at least skill 3
+                                  (2) DON'T CHEAT!!!!
+                                  (3) There is no third hint
+                                  (4) Or fourth
+
+
+Additional Credits to   :   Queen, liFe, tHE UniVerSE ANd EverYthiNg
+1+1================================================================2
+
+* Play Information *
+
+Game                    : DOOM II
+Level #                 : 1, 2, 3 ,4
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes, 4 players, but i haven't tested it
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Kind of, settings 1 & 2 i used for playtesting so 
+                                there ain't much there in some parts. Boring
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : Err, i didn't have time to find something to let me 
+                                replace the demos, i have however included a
+                                separate demo of level 1 if you get stuck. To 
+                                run it get in your DOOM2 directory and type:
+                                
+          doom2 -file <path of WAD dir>\higher.wad -playdemo level1.lmp
+
+                                at the prompt.  If you keep your WADs in the 
+                                DOOM2 directory, then u can omit the WAD path.
+                                I think you have to have the lmp's (demos) in
+                                your DOOM2 directory.
+
+                                If any1 would be so good as to let me know 
+                                how to add lmp's to a wad i'd be very happy
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DoomCad 5.1
+Known Bugs              : Level 4 rarely crashes with a RMapPlane<?> error. 
+                                Dunno why. Maybe its cos i have ceiling 
+                                heights of over 10000.
+
+
+* Copyright / Permissions *
+
+Authors MAY use these levels as a base to build additional
+levels.  Dunno why you'd wanna do that.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.  Oh Yeah!
+
+* Where to get this WAD *   -> you may already know                
+                                
+FTP sites:      ftp.cdrom.com    
+                ftp.idsoftware.com
+
+NOTE:-  The one at ftp.cdrom.com is slightly older, and the multiplayer option
+        won't work
+
+BBS numbers:
+
+Other: my place
+
+Time: 2:09 am and 9 seco...   Hang on its 2:09 am and 23 secon.. No it's not 
+        it's 2:10 am and 52 seco...  STUPID WATCH!!!  It keeps changing!
+        2:11 and 23 seconds.  DOH!!
+

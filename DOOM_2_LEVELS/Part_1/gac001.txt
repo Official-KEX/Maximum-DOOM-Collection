@@ -1,0 +1,78 @@
+This wad is not set up for single play - only co-op & deathmatch
+================================================================
+
+Episode Title           : GAC001 Created 2/26/95
+Files                   : GAC001.WAD - Single level
+			: GAC001.TXT - This Text File
+Author                  : General Atwater
+Email Address           : Code Red BBS (214)424-4702 (DFW Unoficial Doom Site)
+Misc. Author Info       : A fellow Doomatic
+Description             : So, you have played all those Deathmatch wads over
+			  Dwango. Well aren't you kind of getting bored of 
+			  Deathmatch? Here's the sollution! A co-op level
+			  of nightmareish proportions. 
+Many Thanks To          : Raphael Quinet Author of DEU,
+			  Those wonderful Beta testers,
+			  Those people who made suggestions,
+			  And you the general Audience for playing it            
+================================================================
+* Play Information *
+Game                    : Doom II 
+Episode and Level #     : Map01
+Single Player           : No!
+Cooperative 2-4 Player  : Yes! (ONLY 2 AND 4 PLAYER) See note at bottom 
+Deathmatch 2-4 Player   : Yes! (4 PLAYER) See note at bottom
+Difficulty Settings     : Yes! (I DARE YOU TO PLAY IT UV!!!!)
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : No
+
+* Construction *
+Base                    : New level All from scratch 
+Build Time              : Too bloody long!
+Editor(s) used          : DEU 
+Known Bugs              : A few Hom's, One bug that James Elson caught quite
+			  well I might add, was that he was blasted through
+			  a wall into oblivion. Sometimes this will happen
+			  and it will get you stuck. If so just restart and
+			  all will be back to normal. Thanks James for your
+			  being blasted! :)
+
+* Copyright / Permissions *
+Authors may NOT use any of these levels as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+Gac001.wad???? : Let me explain. The first letters are for General Atwater : 
+		 The creator of this great and wonderful wad :) The next 
+ 		 letter is either C or D, standing for Co-op or Dmatch stlye. 
+		 And then the number is the number of the wad that it is. 
+		 As you can tell this is my very first one :)
+
+
+***************** Where to get all the greatest WADS ***********************
+
+Code Red BBS: (214) 424-4702 - An unoficial Doom & Dwango site. Also home of
+			       of the Dwango.wad series. 
+
+*********************************************************************
+
+	If you play single player you are going to need the 'idclip' code
+
+iddqd - god
+idclip - no clip
+idkfa - ammo
+idbehold plus letter - s-v-i-r-a-l
+iddt - map enhance
+idclev01 - warp to map01
+
+
+2 And 4 Player only note : This level was designed to run over a modem, network,
+			   or dwango either 2 or 4 players. If you run it 1 or 
+			   3 players, one person will not be able to move. Also
+			   due to the same restraints on Co-operative, you must
+			   have 4 players for deathmatch. 

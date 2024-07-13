@@ -1,0 +1,68 @@
+
+Here's another Heretic PWAD!
+
+================================================================
+Title                   : Trapped in the Castle Dungeon
+
+                          You and your buddies have been captured by
+                          d'Sparils forces, where you await certain
+                          death.  Early one morning, you discover a
+                          secret escape panel leading out of your
+                          cells!  Find your way out of the dungeon
+                          and get out of the castle!
+
+Filename                : DUNGEON.ZIP
+Description             : Single/Multiplayer level for HERETIC
+Author                  : Kevin Haley   
+E-mail Address          : khaley@nova.gmi.edu
+
+Misc. Author Info       : Other PWADS by Kevin Haley:
+                          For Doom-
+                             ELEVATOR.ZIP
+                             TOWN.ZIP
+                          For Heretic-
+                             LAVA_PIT.ZIP
+                          Coming soon for Heretic-
+                             MAZE.ZIP    [working title]
+
+Additional Credits to   : Id, Raven, and the author of DCK!
+
+================================================================
+
+* Play Information *
+
+This level was designed especially for multiplayer co-operative mode.
+Level automatically finishes when you find a way out of the castle.
+
+Episode and Level #     : E2M1
+Single Player           : Yes 
+Cooperative 2-4 Player  : YES  Designed for co-op play
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : From Scratch
+Editors used            : DCK 2.0
+Build Time              : Approx. 25 hours
+Known Bugs              : None!
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels, provided they give proper credit if they plan to distribute
+the modification.
+
+You may distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.  Upload DUNGEON.ZIP everywhere!  :-)
+
+* Where to get this WAD *
+
+FTP: ftp.cdrom.com, ftp.idsoftware.com
+

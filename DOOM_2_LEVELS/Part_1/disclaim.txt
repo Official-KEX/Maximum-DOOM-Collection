@@ -1,0 +1,13 @@
+Wad Warp ver 1.1 Disclaimer
+---------------------------
+Use of this software is solely the responsibility of the user.
+The author of the software will not be held responsible for any illegal
+activity that relates directly or indirectly to this software.
+
+This software is the work of one individual and is unconnected to any other
+person or limited company.
+ID Software and Raven have no connection with this software and will
+not offer support for it.
+No user support can be made available for this version of WadWarp.
+
+

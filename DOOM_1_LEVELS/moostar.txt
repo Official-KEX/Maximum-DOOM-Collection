@@ -1,0 +1,52 @@
+================================================================
+Title                   : Stairway's of MOO!!!   
+Filename                : moostar.WAD
+Author                  : Matthew Pickford
+Email Address           : mspic1@pfs01.cc.monash.edu.au
+
+Description             : Very fast spiral stairway DEATHMATCH wad for itchy
+                          fragers. No 7 GUN!!!
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes, but not really, no monsters, so it would be 
+                          very boring!!!!!!
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : FUCKING OATH!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Difficulty Settings     : How good are your opponents?
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21 , BSP 1.1
+Construction time       : 7 hours, probably 5 productive hours!!!!!!!
+Known Bugs              : NONE, well none that I have noticed anyway!
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, as long I am mentioned! 
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+Other: ME!
+
+        Matthew Pickford
+        98 Cook st
+        Flinders, Victoria
+        Australia, 3929

@@ -1,0 +1,7 @@
+This was made by Mark Cooke (apollo) Pat Fry (hyena)
+we are too lazy to do a real text file.
+
+game doom2
+map : map1 and map2
+New Everything : Yes (music, sound, graphic)
+Deathmatch : YEs

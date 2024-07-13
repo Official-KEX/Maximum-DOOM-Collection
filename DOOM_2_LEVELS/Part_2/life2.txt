@@ -1,0 +1,184 @@
+		      oOoOoOoOoOo LIFE-SAVER oOoOoOoOoOo
+			  --Chapter one:  The House--
+
+Title                   : LIFE2.ZIP
+Filename                : LIFE2.WAD
+Author                  : Life-Saver
+Email Address           : max.pelletier@farnham.jrv.qc.ca
+Description             : It is the EXACT reply of my house 
+			  and furniture. (of course there are 
+			  some exeptions but... do you REALLY
+			  care? DO YOU?)
+
+Additional Credits to   : Matt Ayres (WADED), Snyper,
+			  ID Software (for creating this exeptionnal game)
+=============================================================================
+
+* Play Information *
+
+Doom Version            : DOOM2 v1.666 or greater only!
+Level #                 : Level1
+Single Player           : Yes
+Cooperative 2-4 Player  : Sure!
+Deathmatch 2-4 Player   : Why not?
+Difficulty Settings     : Yep!
+New Sounds              : Not Yet
+New Graphics            : any
+New Music               : naa!
+Demos Replaced          : maybe one day
+
+* Construction *
+
+Base                    : Waded...Just trying it out!
+Build Time              : Two weeks.
+Editor(s) used          : WADED v1.42 & v1.81á
+Known Bugs              : Those little box in my room...
+			  there is a little problem with them.
+			  and if you broke the barrier of the road
+			  in front of the house (witch is impassable)
+			  and you place your-self on the side looking
+			  the house, you will apear in the DOS with a 
+			  little ERROR signal. So, i made the place 
+			  inaccesible.  ok there is the sky that is 
+			  lookin like a wall (all around the map) with
+			  WADED, I couln'd make it like a real sky. 
+			  Maybe one day!
+					 -sorry-
+
+-------------------------------------and-now:--------------------------------
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=THE=-=STORY=-=SO-=-FAR-=-=-=-=-=-=-=-=-=-=-=-=-=
+-----------------------------------------------------------------------------
+
+-7:13am- As you're comming back from a party, you're thinking:
+
+-  BOY! my parents will KILL me when ill be back home! I was supposed to come 
+   back BEFORE 10:00pm YESTERDAY!
+
+Entering in the drive way, you remark a red glowing light comming from the 
+ditch.
+
+-  WHAT IS THIS?!? LAVA? HERE?
+
+If it couldn't be only this! worst was to come,... So you decide to get in
+the house.  The car is not in the driveway.
+
+-  WHY? they don't work today!
+
+You get to the front door, and turn the handle. You ear a little "click" and
+notice that the door is locked.
+
+-  GREAT! I forgot my keys at the party...  Now i must find another way to 
+   get in.
+
+As you go all around the house, looking for a unlocked window, you see somthing
+move in the basement.  Who is that guy?  you have no idea.  you see him 
+disapear behind the wall, in a passageway that leave upstair.  
+
+-  Well, i can see that i'm not alone!
+
+So you grab a nearby rock, and smash the window.  You carefully slide yourself
+into the house and start looking for a weapon.  
+
+-  OH! right.  My dad's gun. In that little box up here!
+
+You get a stool, and climb on it...  open the box, and grab the gun.
+
+-  This will help me blasting out the intruder.  But, it is shure that if I
+   can get to my room and take my Hunt weapon, it will REALLY help!
+
+You think to yourself:  "LET THE CHASE BEGIN!"
+
+And then, you get to the stairs.  You close the door behind you. Creaking like
+hell, it close and a little noisy "click" confirm that it is closed, and   
+locked.
+
+You get the stairs and as you turn to get the other set of stairs, you 
+see two dead body.  The two body of your mom and dad.  They are there, lying 
+at your feet.  A tear slide on your face... and then, another... and after, 
+you burst into tears on ther immobiles bodys.  Just a few second later, you 
+hear a growling noise.  You turn quickly, and start screaming: 
+
+-  Why!?! ...WHY??!?! ... and WHAT are you...??!?!? 
+
+You point the gun in his direction, and start shooting with a blasting revenge
+feeling.  As the first bullet of your gun run out trow the beast stomac, you 
+hear MANY others beast starting growling they're way to you...  
+
+Now you know what happened to your parents.  But you have NO idea of what will 
+hapend next and WHAT was going on...
+
+		  >|- Now you go on all by yourself -|<
+
+
+-----------------------------------------------------------------------------
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-SOME=-=FEW=-=TIPS-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-----------------------------------------------------------------------------
+
+YOU CAN READ IT! IT DOES NOT REVEAL ALL THE SECRETS AND ALL THE BEST PARTS!
+
+OK for you, it will be harder than for me because this is the exact reply of
+my house!  So I know where is my room, and I know where are the monsters.
+(I build the level... remember?)  
+Ok so... the caracter (YOU) is a hunter. So he have a hunt arsenal in his 
+room.  And if you are hurt, normally... where do you heal yourself?
+IN THE BATHROOM! so there is ONE Midpack... (it appear  like) but i placed
+many of them right at the same place... so it appear that there is only one,
+but in fact, there are many of them. (enough for the level, but not unlimited)
+same for the ammos.  ONLY in is room and all at the same place!  There is no
+other ammo source in the level.  Same for the Midkit... Oh sure... there is 
+a blue sphere in a secret closet! but... where? just at TùƒÈ”ÛÞ¹| <“[ä...
+oops... sorry! hehe! And if you want to open the kittchen outdoor, the tips 
+is:  RUN LIKE HELL!  it is really hard to get there... but you must!  cause
+there is your way out! ... and the ComputerMap on the table is not easy to get
+but... just sit somewhere and think of it...(hint hint HINT!)
+OK... BEWARE when you get the red keycard... you MUST have a healt upper than
+80% cause if you don't, ... bye bye...
+
+ok and the ultimate tips,:  DON'T USE THOSE STUPID CHEAT CODES!!!!!
+It IS possible to get through the level... I can permitt you to use ONLY
+the IDCLIP code if you are trap in the lava ditch... BUT NOWHERE ELSE THAN
+THERE! OK? DID I MAKED MYSELF CLEAR? 
+
+Oh... and when you still dont have the hunt guns, DONT explore the house!
+when you killed the first IMP, there will be a Lost Soul near you... kill it,
+and get in your room. you'll have two others IMPs to kill (Ultra-Violence) 
+and the shotguns are yours! AFTER go every where else in the house!
+
+The key of the front door is in my parents room! the room JUST before mine
+...Oh! the caracter know where is his room... So you should know it too.
+My room is at the end of the passageway (up the stairs). you'll see my
+computer, and ... some IMPs!
+
+...That should be all... By the way... I Know that in this file, there is many
+syntax error!... sorry! I'm FRENCH (Quebec)... but I'm good enough in english
+to be able to write this... So Don't care of all those errors!
+
+			       THANKS
+
+P.S.: My next level will be the EXACT REPLY on my SCHOOL! hehe... killing those
+teachers will be fun!  WILL IT? 
+
+
+-------------------------------=-=-=-=-=-=-=----------------------------------
+
+* Where to get this WAD *
+
+... by onzipping the LIFE2.ZIP file! 
+
+or at:
+
+RED OXYDE BBS node#3 (514) 293-8216
+
+Contact the author:
+
+max.pelletier@farnham.jrv.qc.ca
+
+or:
+
+RED OXYDE BBS node#1, #2, #3. My alias is Life-Saver
+
+or:
+
+Max Pelletier
+(514) 263-2628
+

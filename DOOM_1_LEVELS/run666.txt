@@ -1,0 +1,68 @@
+============================================================================
+Title				: RUN666.ZIP (run666.wad + run666.txt) 
+Author				: Eric C. Reuter 
+Email Address			: reuter@merck.com
+				  (All comments, suggestions and criticisms greatly appreciated)
+
+Misc. Author Info		: I'm SYSADMIN and SYSPGMR for supercomputing
+				  with no time on my hands, but make time for
+				  the most important thing: DOOM!
+
+Description			: A hunting deathmatch / single player wad, designed (deathmatch) 
+				  to encourage chasing  your opponent, while posing the risk that 
+				  he/she may turn the tables on you if you aren't careful. 
+				  Single player requires a little thought, hopefully not to little
+			                thougth, and there are no nasty tricks or unsolvable traps.  
+				  This wad designed for use under version 1.666. Has fair ammount 
+				  of ammo,  so you may or may not want to use -altdeath for 						  respawning.  Difficulty levels fully implemented. 
+				  
+ 				   
+
+Additional Credits to		: Geoff Allan for Doom Editor for Windows
+				   (de_260b2 and b4 and version 3 alpha.)
+				   Walt Woerner   (regular deathmatch opponent)
+				  id Software 
+			  ============================================================================
+
+*  Play Information  *
+
+Episode and Level #		: E1M1
+Single Player			: Yes
+Cooperative 2-4 Player		: Yes
+Deathmatch 2-4 Player		: Yes
+Difficulty Settings		: Yes
+New Sounds			: No
+New Graphics			: No
+New Demos			: No
+
+*  Construction  *
+
+Base				: New level from scratch 
+Build Time			: Rediculously long, but who cares.
+Editor(s) Used			: Doom Editor - The Real Thing (for windows)
+				  by Geoff Allan V 2.60b2 and 2.60b4  and 3.0 alpha.
+				  Doom Construction Kit 1.1 (DCK11)
+				   idbsp 1.02
+
+Known Bugs			: None Known or Discovered. 
+				  Please e-mail if you have any trouble.
+	
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels.
+Authors/ Users MAY add or remove weapons, monsters and ammo
+to suit taste for playability.
+
+You MAY distribute this WAD provided you include this file with no 
+modifications. You may distribute this file in any electronic format
+(BBS, Diskette CD, etc.) as long as you include this file intact.
+
+* Where to get this WAD *
+
+FTP sites : 	infant2.sphs.indiana.edu
+		ftp.uwp.edu
+		
+
+
+  
+

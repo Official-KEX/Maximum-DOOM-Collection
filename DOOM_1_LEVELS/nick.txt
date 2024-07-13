@@ -1,0 +1,56 @@
+
+================================================================
+Title                   : Nick.zip   
+Filename                : Nick.wad
+Author                  : NDS
+Email Address           : Don't worry about it.
+Misc. Author Info       : Loser.
+
+Description             : Great dark tunnels with dark, dark, rooms to hide
+                          in. Deathmatch only.
+
+Additional Credits to   :  No one.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : e1m1
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Doomcad
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+
+
+* Where to get this WAD *
+
+FTP sites: ftp ftp.uwp.edu
+
+BBS numbers:
+
+Other:

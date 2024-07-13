@@ -1,0 +1,99 @@
+
+****************************************************************************
+*   Fill out this form completely, and then e-mail it to mag8@aol.com,     *
+*     and to jelson@conline.com as well, with the following Subject        *
+*     line: "__m_____.ENF" (fill the name of your entry in the blanks.)    *
+*                                                                          *
+*     (Cut off this top part, where it say "CUT HERE", and mail the rest)  *
+*     (Also, if entry is solo or 2-player, remove unneeded sections.)      *
+*                                                                          *
+*   Make sure that an e-mail address and a shipping address is listed for  *
+*      on each team member!                                                *
+*                                                                          *
+*   Also, it is a good idea to e-mail this BEFORE you send your entry      *
+*      to ftp.cdrom.com since the first "entry notification form" Mark     *
+*      Gundy receives for an entry will be the only one that is considered *
+*      authentic.                                                          *
+*                                                                          *
+*/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\ CUT HERE /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*
+
+********************* ENTRY NOTIFICATION FORM for the **********************
+*                                                                          *
+*                H2HMud International Doomers Competition                  *
+*                                                                          *
+*  Filename of entry : __m_____.zip                                        *
+*  Date of lmp       : 1995/MM/DD                                          *
+*  Name of wad       : H2HMud__.wad                                        *
+*  Skill level       : (1 or 3 or 4)                                       *
+*  "% Kills"         : ___%                                                *
+*  Style of play     : (solo or co-op)                                     *
+*  "Challenge"       : (state or country)                                  *
+*  Submission site   : (where you are sending your entry)                  *
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -*
+*  CONTESTANT # 1                                                          *
+*   Full name        :                                                     *
+*   E-Mail address   :                                                     *
+*   Shipping address :                                                     *
+*                    ;                                                     *
+*                    ;                                                     *
+*                    ;                                                     *
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -*
+*  CONTESTANT # 2                                                          *
+*   Full name        :                                                     *
+*   E-Mail address   :                                                     *
+*   Shipping address :                                                     *
+*                    ;                                                     *
+*                    ;                                                     *
+*                    ;                                                     *
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -*
+*  CONTESTANT # 3                                                          *
+*   Full name        :                                                     *
+*   E-Mail address   :                                                     *
+*   Shipping address :                                                     *
+*                    ;                                                     *
+*                    ;                                                     *
+*                    ;                                                     *
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -*
+*  CONTESTANT # 4                                                          *
+*   Full name        :                                                     *
+*   E-Mail address   :                                                     *
+*   Shipping address :                                                     *
+*                    ;                                                     *
+*                    ;                                                     *
+*                    ;                                                     *
+* = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =*
+*  Prize Preference Section  (applicable only for solo entries)            *
+*                                                                          *
+*  If I'm eligible for more than 1 solo prize set, I prefer to be awarded  *
+*  the one with the highest market value that includes:                    *
+*                                                                          *
+* [ ] __________________________________________________________________.  *
+*                                                                          *
+*        {To select this option, put an X in the box and fill              *
+*           in the blank with the name of one of the prizes.}              *
+* = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =*
+*  I affirm that I have read and understood the rules of this competition, *
+*    and that I agree to all its rules, terms and conditions.  I further   *
+*    affirm and represent that the information about all the contestants   *
+*    listed above is correct and that I am acting as an agent for said     *
+*    contestants with their full knowledge and consent.                    *
+*                                                                          *
+*  (Your full name)      :                                                 *
+*  (Your E-Mail address) :                                                 *
+*  (Date of affirmation) : 1995/MM/DD                                      *
+*                                                                          *
+*!!!!!!!!!!!!!!!!!!!!! Do not write below this line !!!!!!!!!!!!!!!!!!!!!!!*
+*                                                                          *
+*  Entry validation and check-list:                                        *
+*                                                                          *
+*    Uses correct naming scheme for all files?            __ Yes  __ NO    *
+*    Is entry form correct and complete?                  __ Yes  __ NO    *
+*    Is file_id.diz correct and complete?                 __ Yes  __ NO    *
+*    Was the entry zipped & did it unzip correctly?       __ Yes  __ NO    *
+*    LMP compiles with all the rules?                     __ Yes  __ NO    *
+*      If NO, what are the violations?  __________________________________ *
+*      ___________________________________________________________________ *
+*                                                                          *
+*    Name of Validator:                                 Date: 1995/MM/DD   *
+****************************************************************************
+

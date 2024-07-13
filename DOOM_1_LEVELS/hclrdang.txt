@@ -1,0 +1,83 @@
+===========================================================================
+Title                   : HCLRDANG.WAD    Requires registered HERETIC
+Date Finished           : Apr. 20, 1995
+Author                  : Steve Huskisson & Vinnie Valentin
+Email Address           : gamepal@gate.net
+Other Files By Author   : Clerdang.wad, nonstop.wad, DOOM How To I & II
+Misc. Author Info       : I used to run Game Palace bbs
+Description             : This is a conversion of CLERDANG.WAD for DOOM II.
+                          Excellent Deathmatch wad for HERETIC!  Very
+                          percise and to the point with nonstop action
+                          and excellent sniper spots!  All the weapons and
+                          items are scattered about.
+
+                          *Requires registered HERETIC from id Software/Raven
+
+Additional Credits To   : Raven Software and id Software
+                          Robert Wong and Paul Bettner of The Playing Fields
+                          bbs in Miami, Florida! (305)819-9925  It offers
+                          the best in DOOM, DOOM II, Heretic, Descent, &
+                          ROTT multiplayer games with 14 lines!
+                          Cyberpunk (Bobby Goetz) for assisting me in learning
+                          how to make a WAD.  Connor (The True DOOM GOD)
+                          someone come here and beat him, please :-).
+                          Lestat, Gioffa, Nomad, Fz-1, Ska, and all the other
+                          players at The Playing Fields bbs who keep me battling
+                          into the wee hours of the morning.
+
+===========================================================================
+HERETIC WAD
+
+New Level WAD
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : YES!!!!
+Difficulty Settings     : n/a
+New Sounds              : Yes
+New Music               : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Build Time              : The original Clerdang.wad for DOOM II (6 hours)
+                          Conversion of Hclrdang.wad for Heretic (2 hours)
+Editor(s) used          : WADED 1.49 & EdMap
+Known Bugs              : The exit in original clerdang.wad works, the one
+                          in Hclrdang.wad does not, but it is not really a
+                          bug, but just left out since it is Deathmatch.
+                          (No One Leaves!)
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels. Just give us some credit
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:  ftp.idsoftware.com   /tonsmore
+            wcarchive.cdrom.com  /newstuff (then in appropriate wad dir.)
+
+
+BBS numbers: The Playing Fields bbs (305)819-9925  The #1 Multiplayer
+             bbs where all the pros play!  Free trial membership and
+             very inexpensive rates!  $10 per month unlimited for long
+             distance callers!
+
+             Game Palace bbs (305)587-4258  YES it is back up!  Formerly
+                             The WORLD'S Largest DOOM bbs!  We are building
+                             back up since our shutdown in Feb. 1995.  Soon
+                             we will move all our files to Playing Fields
+                             where we have 14 lines!
+Other:

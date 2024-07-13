@@ -1,0 +1,40 @@
+=================================================================
+Title                   : YAPPER1.WAD for MAP01  DOOM ][
+Filename                : TAPPER1.WAD
+Author                  : Eric Buchanan
+
+Email Address           : AOL:SALTYDOG4
+
+Description             : My first DOOM ][ wad and a good one at that!!
+
+================================================================
+
+* Play Information *
+
+Level #                 : MAP01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Of course!
+Difficulty Settings     : Definitely (ALL)
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : NONE!!!
+Editor(s) used          : DEU2
+Known Bugs              : ONLY 1 H.O.M. on room by yellow key
+                          tried BSP without luck!! oh well not much of a
+                          bug!!!!!!!
+* Copyright / Permissions *
+
+Play it to your harts content..........no Copyright...freeware!!!
+
+
+
+* Where to get this WAD *
+
+AOL
+Game Palace BBS 1-305-587-4258

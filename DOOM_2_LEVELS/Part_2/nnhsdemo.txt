@@ -1,0 +1,33 @@
+*********************** DOOM 2 Deathmatch Recording *************************
+
+Level:          PWAD nnhs.wad
+Skill:          2
+Version:        1.9
+Mode:           Deathmatch
+Lengths:         
+   Game 1: 12:38
+   Game 2: 11:25
+
+Players:        Owen Williams           - Indigo -DX2/50 - Mouse/kbd/no turbo
+                Peter Williams          - Green  -DX2/33 - Mouse/kbd/no turbo
+
+Final Score:    
+   Game 1: 
+      Owen:  15    Deathmatch
+      Peter: 10
+   Game 2:
+      Owen:  14    Deathmatch 2.0
+      Peter: 4    (Proves that DEATH 2 gives the advantage to the better
+                  player!)
+
+Description:    A two-way deathmatch/playtest of my new level, NNHS.wad,
+                to see how well it worked (pretty damn well, too!)
+
+Credits:        
+               Owen Williams (owenguy@world.std.com) -- I made this deathmatch
+               wad, and I thought it would be best to include some demos
+               to show it off.
+
+               Peter Williams (no address) -- My 11 year old brother.  He's
+               only been using the mouse for a week, so he's still over
+               compensating (sp?).

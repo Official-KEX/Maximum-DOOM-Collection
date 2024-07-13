@@ -1,0 +1,38 @@
+=================================================================
+Title                   : Deathmatch: SS! (super shotgun), for Doom II
+Filename                : SS!.WAD
+Author                  : Jeff W. Wirz, The Highlander!
+Email Address           : jeff.wirz@chrysalis.com
+Description             : converted map 8 of 214.wad from rockets to shotguns
+Additional Credits to   : All the guys at ID for making this AWESOME game.
+                          
+================================================================
+
+* Play Information *
+
+Level #                 : MAP01
+Single Player           : Yes, to check out the level.
+Cooperative 2-4 Player  : yes: 2,3,4 player starts
+Deathmatch 2-4 Player   : YEAH!
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes - Written by Bryant Fong
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : made from map 8 of 214.wad
+Editor(s) used          : DEU ][ 
+Build Time              : 1 hour
+Known Bugs              : None  
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.
+
+* Where to get this WAD *
+
+Code Red BBS 214-424-4702
+KCE BBS      214-613-0992
+DWANGO BBS   214-286-8291

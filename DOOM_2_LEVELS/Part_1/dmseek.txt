@@ -1,0 +1,79 @@
+================================================================
+Title			: "Hide and Seek"  DMSEEK.WAD
+Author			: Bob Polmanter
+Email Address		: CIS 73537,3127
+Misc. Author Info	: Previous DOOM2 levels:  None
+			: Previous DOOM levels:
+			  "Training Facility" DMTRAIN.WAD
+
+Description		: This level was designed for deathmatch play.
+			  No monsters.	Deathmatch 2.0 (-altdeath)
+			  rules are recommended.  Features an open
+			  play area, rooms for hiding, and elevated
+			  perches for long distance spotting/shooting.
+			  See special notes below.
+
+Special Thanks to     : BRENDON WYBER AND RAPHAEL QUINET for DEU/DEU2
+			COLIN REED for BSP
+
+==============================================================================
+
+* Play Information *
+
+DOOM Engine		: DOOM2 1.666 and above.
+Map number		: MAP15
+Start-up Instructions	: Use SERSETUP specifying the appropriate parms
+			  to initiate DOOM2 deathmatch play. For example:
+			  sersetup -file dmseek.wad -skill 4 -warp 15
+			   -deathmatch -altdeath -com2 -dial 555-xxxx
+
+Single Player		: Yes, but no monsters.
+Cooperative 2-4 Player	: Yes, but not much to do.
+Deathmatch 2-4 Player	: Yes.
+Difficulty Settings	: No.  Basically all skill levels are the same.
+			  Level was designed at Ultraviolence (skill 4).
+New Sounds		: No
+New Graphics		: No
+Demos Replaced		: None
+
+* Construction *
+
+Base			: New level from scratch.
+Build Time		: 85 hours.
+Editor(s) used		: DEU 5.21 hacked for DOOM2, BSP 1.2
+Known Bugs		: None known.  This level has been play tested
+			  in actual deathmatch play via modem using
+			  DOOM2 1.666, 1.7, and 1.7a.  Network play has
+			  been tested, but only with two players.
+
+* Special Notes *
+
+1).  This level provides an exit room (denoted by the standard DOOM type
+     exit door texture).  This allows players to view their final
+     FRAG statistics at the end of the level.
+
+2).  A special armory area is provided where one can stock up on all
+     ammo and other supplies in quantity.  The weapons on top of the
+     pedestal in the center of the armory cannot be reached by any
+     normal method during the course of game play.  There is a deathmatch
+     starting point in that location for specifically for that purpose
+     and is designed to be a "special treat".
+
+3).  Due to the complexity of the "view" across the play area from
+     certain windows/perches, the game can be a bit sluggish if you are
+     limited to a 9600 bps connection.	In this instance, adding the
+     parameter	  -turbo 125   to the SERSETUP line is recommended.
+     This is not necessary at speeds above 9600 bps or on a network.
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+

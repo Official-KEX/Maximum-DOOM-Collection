@@ -1,0 +1,125 @@
+================================================================
+
+Title                   : rmh19.wad (revised demos for Doom 1.9) 
+Author                  : Ryan Hare
+Email Address           : rhare@scs.unr.edu
+
+================================================================
+
+* Play Information *
+
+Episode and Level #s    : Episode 1, Missions 1-9
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes!
+Difficulty Settings     : Yes (all)
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : Yes, all three (for Doom 1.9)
+
+Description:              These wads are designed to be primarily
+                          for Deathmatch play, but the author
+                          intended for them to be still useful
+                          and enjoyable for play by individuals 
+                          (or even cooperative mode).  The designs
+                          are most conducive towards exciting
+                          Deathmatches, and all levels are relatively 
+                          compact, but they are set up in such a 
+                          way so that the other modes of play are
+                          still fun and fast-moving.  
+
+
+================================================================
+
+
+Mission 1:                This wad uses only light weapons (pistol,
+                          shotgun, and chainsaw).  Deathmatch mode
+                          games will end up with a lot of chainsaw
+                          fights.
+                          This particular level replaces the original
+                          rmh1_1.wad which has been renamed granite.wad
+                          and now stands alone.
+                          
+Mission 2:                The setting is a secret base in a crater,
+                          and features trenches, nooks, and much
+                          rugged terrain for sneaking, hiding, and
+                          sniping.
+
+Mission 3:                This is a toxic waste facility, just as in 
+                          the original e1m3.
+
+Mission 4:                This outdoor area features a swimming pool
+                          and a sort of garden. Sled's garden. It is 
+                          clearly a recreation area for some UAC bigwigs. 
+                          Things are somehwat different now...
+                          Don't flip the switch that creates the 
+                          stairs up to the well more than once! 
+                          However, if you do, another switch behind 
+                          the well resets the step.
+
+Mission 5:                This wad is designed to be a station
+                          hovering in the sky over Phobos.  One
+                          can look down at the surface through 
+                          the loading bay in the center. The north
+                          end is where the very audible engines
+                          are located.
+                         
+Mission 6:                A gloomy cavern, where UAC miners have
+                          broken into volcanic activity, not to
+                          mention other sorts of evil.
+
+Mission 7:                As was the original e1m7, this is a
+                          computer station.  It is especially
+                          designed to really keep Deathmatches
+                          moving.  The first appearance of the
+                          famed BFG9000.
+
+Mission 8:                The final confrontation against 
+                          Sled the Impaler.  This is a pretty
+                          nasty level, especially on ultra-
+                          violence.
+
+Mission 9:                This is an arena, with many pink, 
+                          slobbering beasts and belligerent
+                          sporting fans. Considerable chainsaw
+                          action is essential.
+
+================================================================
+
+* Construction *
+
+Base                    : New levels from scratch
+Build Time              : For all these wads? A lot!
+Editor(s) used          : DEU 5.21 and BSP 1.2x (mostly), DoomEd the
+                          Real Thing 2.6b4
+Known Bugs              : These levels were made for Doom version 1.666. 
+                          On earlier versions there may be "hall-of
+                          -mirrors" effects that are a result of a maximum 
+                          number of line-defs deficiency that existed 
+                          in the earlier versions and which was improved 
+                          in version 1.666.  Not all the levels will
+                          have this problem, if it occurs.  Players
+                          with Doom 1.666 should have no trouble.
+
+
+* Copyright / Permissions *
+
+Authors may NOT use these levels as a bases to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this wad * 
+
+ftp sites:  ftp.orst.edu
+            ftp.cdrom.com
+
+BBS:
+in Reno,NV: InterComm BBS (702-359-2666)
+            MegaSystem BBS (702-849-2207)
+
+
+

@@ -1,0 +1,64 @@
+   
+ ::================================================================::
+
+Filename                : Death16.zip
+Author                  : Mike Muir
+Email Address           : Mmuir@dunedin.es.co.nz
+Misc Author Info        :  Part of My new DEATH series
+
+Date                    : 20/04/95
+                         (DD/MM/YY)
+
+Description             : Intense 2/3 player DeathMatch, Cool architecture 
+                          Lots of surprises, including a Moving staircase!
+                          Good fun :) 
+
+                        
+Additional Credits to   : ID software, The creators of DEU 5.2 for WINDOWS
+                          Raphael? anyway, BSP dude, thats about it. 
+                  
+
+================================================================
+
+* Play Information *
+
+Game                    : DOOM ][
+Level #                 : MAP16 (i like its music)
+Single Player           : Yeah, if you want a look.
+Cooperative 2-4 Player  : No
+DeathMatch 2-4 Player   : What do you think?
+Difficulty Settings     : Not Implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 15 - 20 hours
+Editor(s) used          : DEU 5.2 (win) 
+OS used                 : My PC (??)
+Known Bugs              : Some textures arn't aligned, but it isn't a  
+                          Life & Death situation, now, is it?
+                          
+
+
+* Copyright / Permissions *
+
+Do WHAT YOU WANT with it, BUT INCLUDE MY NAME! (and all above credits)
+
+Authors MAY use this level as a base to build additional
+levels. Although it isnt much of a base level :)  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com/pub/idgames/newstuff (or after) 
+           /levels/doom2/deathmatch
+Me??
+

@@ -1,0 +1,57 @@
+================================================================
+Title  : Joe's Deathmatch (Joe's.WAD)
+Author : Joe (Duh) - Joe's Garage BBS (206) 639-4370   (shameless plug)
+                     
+This DOOM II level is kind of a rip-off of a Doom I level that I realy 
+enjoyed playing. I say "kind of" because I haven't played the original 
+for a few months and created this wad from scratch, based on my memory
+of it. Anyway, it was designed as a deathmatch but has monsters and will 
+play as a single player level as well, all wepons are there and it 
+requires two players to exit (no fair jumping to the next level while 
+your opponent has his BFG down). there are only slight changes through 
+the difficulty levels, but they're there. Good luck finding the pumping 
+station and watch out for trip wires!
+
+================================================================
+
+>> Play Information.
+
+This DOOM level will ONLY work with the DOOM II
+
+Episode                 : 1
+Skill levels            : 1,2,3,4 
+Single Player           : Yes
+2-4 Multiplayer         : Yes - really designed for this.
+New Demos               : No
+New Sounds              : No
+New Graphics            : No
+
+
+>> Construction
+
+Base                    : New level from memory/scratch
+Build Time              : About 3 nights (yawn)
+Editor used             : DEU2 (DEU 5.21 modified to work with doom 2)
+
+
+>> Joe's.WAD level details
+
+Things          : 116
+Linedef         : 445
+Sidedef         : 648
+Vertexes        : 388
+Sectors         : 71
+Weapons         :ALL!
+
+
+>> Copyright / Permissions
+
+Authors MAY do what they like with this level, ONLY if they mention the 
+original level by NAME in the main text file of credits.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute  this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+

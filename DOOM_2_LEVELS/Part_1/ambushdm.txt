@@ -1,0 +1,47 @@
+===============================================================
+Title                   : AMBUSHDM.WAD (Ambush Deathmatch)   
+Author                  : Moto
+Email Address           : FLAGG@DEEPTHT.ARMORY.COM
+                          
+Description             : This level was designed to be used in deathmatch
+                          mode mainly, but I did throw a few monsters in to
+                          allow a user to lump up someone other then a 
+                          human opponent. This WAD has some real nice 
+                          defense features that I have not seen in any
+                          other WAD to date.
+
+Misc Game Info          : DOOM II WAD. This WAD is error free. It's been play
+                          tested for over 20 hours. It should run fine on a
+                          386 or a 486. It's been played on both.
+
+Additional Credits to   : Special thanks goes to GUNSLINGER for all the play
+                          testing and help with new ideas to make the WAD
+                          what it is. Thanks to CHAPMAN & SLUGO for playtest-
+                          ing development.                          
+================================================================
+
+* Play Information *
+
+Mape Level #            : Map 01            
+Single Player           : Yes  
+Cooperative 2-4 Player  : Yes 
+Deathmatch 2-4 Player   : Yes <-- Most Definitely
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : Scratch
+Build Time              : Phat Amount of time.
+Editor(s) used          : EDMAP 1.23 Best editor I have used to date.
+Known Bugs              : Completely Bug Free
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels.
+
+You may distribute this level only as it is, no modifications can be made
+to the WAD or the TXT file you are reading.
+

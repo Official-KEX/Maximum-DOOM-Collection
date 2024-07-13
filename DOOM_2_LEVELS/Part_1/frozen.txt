@@ -1,0 +1,98 @@
+================================================================
+Title                   : The Day Hell Froze Over...  
+Filename                : FROZEN.WAD
+Author                  : Zink The Dink
+Email Address           : Zink TD@aol.com, jeffcarr@fox.nstn.ca
+Misc. Author Info       : I am myself. I think...
+
+Description             : Well, the cows have come home, pigs are flying, the 
+                          fat lady has sung her tune, and now, yes, hell has 
+                          frozen over! Just in time for the holiday season,
+                          you can frag some bad-asses over satan's now icy
+                          domain!!!
+
+                          This wad is meant for deathmatch, though sadly I
+                          have not been able to test it out for myself!! 
+                          If someone would be so kind as to try it out and
+                          then tell me if it's any good, I'd really be 
+                          greatful!!!
+
+                          NOTE: Run the wad from the batch file (frozen)
+                          `cause the new floor texture has to be added.
+                          Don't worry, it'll replace it after it's done,
+                          just run the batch file.
+
+Additional Credits to   : Brendon J. Wyber and Raphael Quinet for DEU.                       
+                          id for their great game and node builder. 
+                          Bill Neisius for those lovely DOOM music and 
+                          graphics programs. 
+                          Steve McCrea for doomtex.
+                          The author of icesky.zip.
+                          And most of all, Fifi Fart Face, the first fascist
+                          bunny rabbit in the universe!!!!
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (but you'll get bored of it pretty quickly...)
+Deathmatch 2-4 Player   : Yes (especially meant for though not tested)
+Difficulty Settings     : No. Play at UV or forget this game and play Blake
+                          Stone or Ken's Labyrinth or some other Wolfenstein
+                          wanna-be.
+New Sounds              : No
+New Graphics            : Yes. A nice snowy wall and floor texture, plus
+                          a beautiful sky.
+New Music               : Yes. That guitar part of Innuendo by Queen.
+Demos Replaced          : 1. Make sure you're using v1.666 if you want to
+                          view it
+
+* Construction *
+
+Base                    : New level from scratch 
+Editors used            : DEU 5.2 gcc, IDBSP 1.0, ENDOOMER v1.0.2 (made by
+                          me, of course) DMMUSIC 1.0, DMGRAPH 1.1, DMTEX 1.0c
+                          (none of that wussy deutex crap...)
+Known Bugs              : If you're playing this with DOOM version 1.2, you
+                          may experience some slight HOM due to the size of
+                          the level and the number of two-sided linedefs.
+                          Hey! Don't blame it on me! It was id that made it
+                          so you could only see 16 2-sided linedefs at once,
+                          not me!!!
+
+
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels if they lack the creativity to create their own.  
+But please tell me if you're going to try to rip off one
+of my textures, since you'll probably have trouble getting
+it to work with your wad
+
+You may do whatever you want with this file. See if I care.
+
+* Where to get this WAD *
+
+FTP sites:
+ftp.orst.edu (or wherever the doom stuff goes now..)
+
+BBS numbers:
+Game Palace!!!! (305) 587 4258
+(the best damn BBS around...)
+
+Other:
+AOL, of course
+alt.binaries.doom (usenet)
+
+* Zen Koans *
+
+______________________________________________________________________________
+         __                                                     __
+        __|__|    The Mind Is Fifi : Fifi  Is Not The Mind.    __|__|
+        | |__                                                  | |__ 
+______________________________________________________________________________
+
+

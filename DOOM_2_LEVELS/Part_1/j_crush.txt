@@ -1,0 +1,24 @@
+J_CRUSH.WAD - Large arena with 5 crushers & sniper room.
+by Jordan Russell
+
+This includes 1 level, 2 new sound effects, and music from DOOM 1.
+
+=====================
+= How to contact me =
+=====================
+
+DWANGO (Dallas): jordanr
+Chrysalis:       Jordan Russell
+Internet:        jordan.russell@chrysalis.org
+
+===================
+= Level 1 - Crush =
+===================
+
+Description:    Large arena with 5 crushers & sniper room. Includes BFG that
+                can be barred up. Also has a long, dark sniper room.
+Meant for:      3 or 4 player DeathMatch 2.0.
+
+Written by:     jordanr
+Editors used:   DEUII 1.0.
+Time spent:     10+ hours.

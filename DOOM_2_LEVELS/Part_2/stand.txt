@@ -1,0 +1,70 @@
+================================================================
+Title                   : The Stand 
+Filename                : STAND.WAD
+Author                  : Chris Hopkins
+Email Address           : chopkins@peinet.pe.ca
+Misc. Author Info       : A doomer since Dec 10th, I can usually be found 
+                          on the irc channel #doom. I'm also the author of
+                          swmusfx4 and headlong.wad.
+
+Description             : BTW:  THIS WAD IS FOR DOOM 2 
+                          This wad is based on HEADLONG.WAD but I made many
+                          improvements and I think you'll find it's quite
+                          different.  It's got (as far as I know) every 
+                          weapon in the game and is intended for deathmatch
+                          with no monsters (only way to play!).  I did add
+                          co-op starts and some monsters but I didn't spend
+                          much time on that.  I took advantage of some of the
+                          new textures from Doom 2 such as the panelling and
+                          bookshelves.  The exit is easy to reach and very
+                          visible because I expect in deathmatch it will make
+                          it easier for you.  (why bother with co-op exits? :)
+                          Anyway, I can't think of anything else to say, except
+                          maybe that if you're wondering where I got the name
+                          , it's from the best book of all time, `The Stand'
+                          by Stephen King and it seemed as good a name as
+                          any! :)  
+
+Additional Credits to   : Jeff Rabenhorst for making _the_ best editor out
+                          there, edmap.              
+                          
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP1            
+Single Player           : Yes.
+Cooperative 2-4 Player  : Yes.  
+Deathmatch 2-4 Player   : Yes.   
+Difficulty Settings     : Yes. 
+New Sounds              : No.
+New Graphics            : No. 
+New Music               : No. (I tried like hell but didn't work)
+Demos Replaced          : None.    
+
+* Construction *
+
+Base                    : New level from scratch.  Based loosely on Headlong.
+Editor(s) used          : Edmap 1.20 beta and BSP12TC
+Known Bugs              : There is one spot where I just could not get the 
+                          door to work both ways.  I tried every possible
+                          linedef action but that sucker wants to stay closed.
+                          :).  Looking at it, it might be better that way
+                          anyway but you'll have to decide.  (it's the door
+                          by the exit)
+
+* Copyyright / Permissions *
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+           cs.uwp.edu
+
+BBS numbers:
+
+Other:

@@ -1,0 +1,48 @@
+================================================================
+Title                   : Condo.WAD
+Author                  : Rick Kelly
+Email Address           : ryngblud@svpal.org
+Misc. Author Info       : Founder of DoomaHolics Anonymous
+
+Description             : A compact, fast-action deathmatch wad.
+                          Good ambush and sniping spots, but don't
+                          stay in one spot too long.  This is a frag-
+                          a-second style wad.  With 4 players on a net
+                          you will always be fragged or fraggin'someone.
+                          Not much "dead" time..ha ha ..
+
+Additional Credits to   : All those fabulous people at Id who made this
+                          possible.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Doom II level 1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes 
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 12 hours.
+Editor(s) used          : Deu2?, BSP 1.2
+Known Bugs              : None I know of.
+
+
+* Copyright / Permissions *
+
+You MAY use this level as a base to build additional levels.
+But do not claim you created this level.  If you create a new
+level based on this one, please credit the original author.
+You may do whatever you want with this file.  The author
+will not accept any responsibility for problems caused with it.
+
+* Where to get this WAD *
+
+Compuserve GO ACTION
+ftp ftp.cdrom.com 
+

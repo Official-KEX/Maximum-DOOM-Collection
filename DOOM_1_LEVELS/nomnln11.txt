@@ -1,0 +1,66 @@
+================================================================
+Title                   : No Man's Land 1.1
+Filename                : NOMNLN11.WAD
+Author                  : Matt Manint
+Email Address           : manint@ux5.cso.uiuc.edu
+Misc. Author Info       : Freshman at University of Illinois, C-U,
+			  first attempt at a WAD (modified)
+
+Description             : Well, this is it!  The best DeathMatch arena that my
+twisted mind could contrive.  Not very maze-like, but full of spots to hide
+and ambush, this arena is good for any size DeathMatch!  The central area, 
+known as No Man's Land (especially in network games) is full of danger, not
+only from the six sniper holes, but from crushing pillars and a funky-looking
+bridge out to the BFG and rocket launcher that is guarded from below by 
+Barons, Imps, and nukage that is, literally, irresistable!  Dark, ALIENS-like
+passages connect the few rooms, and platforms take you up to the sniper areas.
+But beware!  Those in No Man's Land can see you quite clearly, due to the 
+brilliant and flashing lighting, and can defend themselves with some success!  
+I have found that experience, suprisingly, does little to aid players in this 
+arena!  If you use your brain, it is easy for a novice to take down a pro with 
+some very sneaky traps.
+
+Additional Credits to   : Tod Jebe and Jeremy Look, for doing some outstanding
+work in finding problem areas and suggesting changes.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M*--* (music is cool :)
+Single Player           : Yes (very limited, though)
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DoomCAD 4.3
+Known Bugs              : None!
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.
+
+You may do whatever you want with this file.
+
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+BBS numbers: The Backdoor BBS (Monticello, IL)
+		Node 1: 217-762-2847
+		Node 2:     762-8349
+		Node 3:     762-8681
+
+Other: You may E-mail me at the above address, and I will UUENCODE it for you.
+
+

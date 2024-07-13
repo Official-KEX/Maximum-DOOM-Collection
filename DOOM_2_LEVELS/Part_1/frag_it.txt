@@ -1,0 +1,89 @@
+WAD Authoring Template V1.4   (Clip this line)
+================================================================
+Title                   : Hit it! Shoot it! Saw it! FRAG IT!
+Filename                : FRAG_IT.WAD
+Author                  : Michiel Rutting
+Email Address           : m.p.m.rutting@student.utwente.nl
+Misc. Author Info       : Computer Science student at university
+                          of Twente (Enschede, The Netherlands).
+                          ifrag nick: Strezz
+
+Description             : Deathmatch level designed for 3-4 players,
+                          but some testplayers thought it was also 
+                          playable with only 2 players. Is it good? 
+                          Well, we sure had fun testing it! The first 
+                          test game lasted quite a while (2 of the 4 
+                          players over 100 frags). Textures etc. are
+                          aligned (this level is not one of those that 
+                          consists of 4 rooms glued together with random 
+                          textures on the walls). 
+                          Furthermore: You won't find a plasma or BFG in 
+                          here, my friends and I prefer conventional 
+                          weapons. :)
+                          The rest of the weapons are available as well
+                          as a soul sphere, an armor and some extra 
+                          ammo and goodies.
+                          My recommendation is that this level be played
+                          at alt-death (respawning weapons) because the
+                          amount and placement of weapons comes out best
+                          in that mode.
+                          If you have any comment or find any bugs please
+                          send mail to the e-mail adress above.
+                          If you like it tell me! if you don't, also tell
+                          me, but be sure to mention what you don't like
+                          and why, so I can use the feedback in my later
+                          trials at wad-editing.
+                          Have a blast!
+                          
+Additional Credits to   : testplayers:
+                          Yaxmir, Gabber and Viper (ifrag nicks)
+                          All are students at the same university.
+
+                          And of course to Annet my great girlfriend, 
+                          who had to go to bed alone every night, 
+                          because I was up editing. (This is probably
+                          the reason why she hates the game so much).
+                         
+================================================================
+
+* Play Information *
+
+MAP #                   : DOOM ][, MAP 01
+Single Player           : To look around, nothing to do really.
+Cooperative 2-4 Player  : See above
+Deathmatch 2-4 Player   : Well, that is what it was made for.
+Difficulty Settings     : Same weapons at all skill levels.
+New Sounds              : No (I was tempted to put in the "fatality" that
+                                I ripped from Mortal Kombat 2 but I left
+                                it out)
+New Graphics            : Yes (put my name etc. in there in case this
+                                file gets lost, this is also why the
+                                wad is somewhat bigger than normal)
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Deu2 (it's pirate, I know, sorry guys), 
+                          DCK v2.1 beta, BSP v1.2X, DeuTex v3.4
+Known Bugs              : None found yet.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, as long as credit is given where it is due.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com
+
+BBS numbers: got no modem, sorry
+
+Other: Well, everywhere it goes from cdrom.com and the ifrag tracker :)

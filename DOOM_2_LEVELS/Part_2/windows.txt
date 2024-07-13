@@ -1,0 +1,59 @@
+ 
+================================================================
+Title                   : Windows (A view to a kill :) )   
+Filename                : Windows.Wad
+Author                  : Joe Curry
+Email Address           : hfeet@cris.com 
+
+Description             : 
+        Another octagon-shaped pwad for Doom2. Designed mainly 
+        for deathmatch but playable in solo and cooperative modes
+        Have tested in solo and deathmatch, works well in both
+        modes and should work great in a four person network match!
+
+Note!:  To get best deathmatch results, set diffilculty to ultraviolence.
+        This turns on all weapons (including BFG in center of arena!)
+                         
+================================================================
+
+* Play Information *
+
+Map #                   : Map 01
+Single Player           : Yes 
+Cooperative 2-4 Player  : Yes, It helps, especially at ultraviolence level
+Deathmatch 2-4 Player   : Yes, designed for 4 player fast and furious action
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None, but a solo-play demo is included in zip file
+                          for hints.
+
+* Construction *
+
+Base                    : New level from scratch 
+Editor(s) used          : various
+Known Bugs              : Minor Texture Misalignments.
+                          Please report others to hfeet@cris.com.
+                          Other comments, recordings, etc. are also welcome.
+
+        
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD in any electronic format, as long as you
+include this file intact.
+
+You may do whatever you want with this WAD, as long as you distribute 
+your modified file under a different name.
+
+* Where to get this WAD *
+
+ FTP sites: wcarchive.cdrom.com ftp.cdrom.com
+
+
+
+
+

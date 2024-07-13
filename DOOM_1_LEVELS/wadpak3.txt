@@ -1,0 +1,27 @@
+WADPAK3.WAD by Gary Karnik (g.karnik@att.com)
+
+This is my third attempt to take some of the best shareware PWADs for
+DOOM available and combine them together into reasonable new episodes.
+Each episode should be playable by a single player or deathmatch as in
+ID's own levels.
+
+This is the source for this new wad pak:
+
+EPISODE1:              EPISODE2:               EPISODE3:
+
+E1M1 COMBAT.WAD        E2M1 MAVERICK.WAD       E3M1 TECHBASE.WAD
+E1M2 COMBAT.WAD        E2M2 WOODHALL.WAD       E3M2 THEKEEP2.WAD
+E1M3 COMBAT.WAD        E2M3 STORAGE.WAD        E3M3 CORE.WAD
+E1M9 NM0001.WAD        E2M4 CYKE.WAD           E3M4 OPOST21.WAD
+E1M4 MEMPHIS.WAD       E2M5 YOUNG1.WAD         E3M5 CROSFR01.WAD
+E1M5 AFRO.WAD          E2M9 DIOPATRA.WAD       E3M6 SPORTS.WAD
+E1M6 UCA.WAD           E2M6 SYMBOLIC.WAD       E3M9 E1M1SAS.WAD
+E1M7 RUNLKHL2.WAD      E2M7 PROCESSR.WAD       E3M7 H_HOTEL.WAD
+E1M8 NGS1.WAD          E2M8 REALM10.WAD        E3M8 OFFICE.WAD
+
+My highest regard to all WAD authors, you did a fantastic job guys!
+
+If anyone has any problems playing these episodes, please let me know.
+
+Enjoy.
+

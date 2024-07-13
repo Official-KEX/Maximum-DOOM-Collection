@@ -1,0 +1,47 @@
+===============================================================
+Title                   : THE-ZONE.WAD   
+Author                  : Claude Phillips
+Email Address           : Software Creations
+                          
+Description             : I Built this level with the serious DOOMER in
+                          mind.  Not to say that this is one of those
+                          LAMER levels with 1000 Demons in 1 room. You
+                          will have to really THINK in order to make it
+                          through "THE-ZONE".  Great Puzzles and new
+                          Techniques used throughout this HUGE level. 
+
+Misc Game Info          : DOOM II WAD. This WAD is error free. It's been play
+                          tested for over 20 hours. It should run fine on a
+                          386 or a 486. It's been played on both.
+
+Additional Credits to   : CHAPMAN, for his input, play testing and
+                          pointing out ALL texture Misalignments :)
+                          Special thanks goes to SLUG, for all the play
+                          testing, 100's of times.
+================================================================
+
+* Play Information *
+
+Mape Level #            : Map 01            
+Single Player           : Yes  
+Cooperative 2-4 Player  : Yes 
+Deathmatch 2-4 Player   : Yes 
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : Scratch
+Build Time              : Looked at this level so long I can't remember.
+Editor(s) used          : EDMAP 1.20 Best editor I have used to date.
+Known Bugs              : Completely Bug Free
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels.
+
+You may distribute this level only as it is, no modifications can be made
+to the WAD or the TXT file you are reading.
+

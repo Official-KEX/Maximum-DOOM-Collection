@@ -1,0 +1,58 @@
+================================================================
+Title                   : NET10.WAD   
+Author                  : Jason Silvio a.k.a. The Eternal One
+Email Address           : Call Jason's BBS @ (713)361-3169 and send mail to 
+                          Jason
+
+Description             : This one is the 10th in a continuing series of maps 
+                          that are perfect for net play.  This one has a LOT to
+                          offer in the way of secret areas, LOTS of guns/ammo 
+                          (Every gun is in the level at least twice), and WIDE 
+                          open areas for shooting each other.  This map may 
+                          appear to be sort of small, but that's because I 
+                          opened it up (After trying it w/ all the doors, it
+                          was boring because there was no way to sneak up on 
+                          anyone.)  
+
+Additional Credits to   : Taleisin Journe for helping me test and for being a 
+                          great target  :).  And King Rich (a.k.a. Nazi Eskimo) 
+                          for being Taleisin's great target.
+                          
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP02
+Single Player           : No - ALMOST done though..              
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes! This is the ONLY way this level is fun!
+Difficulty Settings     : No
+New Sounds              : Yes
+New Graphics            : Yes
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : NET1.WAD through NET9.WAD, all created by myself.
+Build Time              : under 12 hours...(Including resetting to test each new 
+                          addition :)...)
+Editor(s) used          : DoomEd v2.60 áeta, DM2CONV, BSP, DMMUSIC, DEU2, and 
+                          DMGRAPH
+Known Bugs              : None
+
+* Copyright / Permissions *
+
+You MAY **NOT** use this level as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  
+
+* Where to get this WAD *
+
+Jason's BBS (713)361-3169 (This is where I put my newest ones as well)
+DWANGO BBS  (713)467-9272
+...And other fine BBS's in Houston
+
+--- Jason, The Eternal One

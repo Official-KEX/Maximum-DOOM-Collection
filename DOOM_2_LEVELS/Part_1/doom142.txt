@@ -1,0 +1,65 @@
+================================================================
+Title                   : Doom 1 4 Doom 2
+Date                    : 5/9/1995
+Filename                : DOOM142.WAD
+Author                  : Mark Potter
+Email Address           : ljbu20a@prodigy.com
+Misc. Author Info       : Did you say something ?
+
+Description             : All 3 episodes of Doom 1 for Doom 2 !
+
+Additional Credits to   : id and the makers of DEU, DEU2, and DM2CONV
+================================================================
+
+* Play Information *
+
+Episode and Level #     : DOOM II Levels 1-27
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : The original Doom by id
+Editor(s) used          : DEU 5.21, DEU2 1.0, and DM2CONV
+Known Bugs              : WHAT ?
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers: from The Wall (1-214-286-8291), Code Red (1-214-424-4702),
+Jackalope Junction (1-501-785-5381)
+
+Other: contact me at ljbu20a@prodigy.com
+
+
+------------------------------------------------------------------------------
+This is the complete original Doom converted for Doom 2 ! All 3 episodes with
+the super shotgun, new objects, textures, and monsters added !
+
+The following levels were done by :
+
+   levels            author
+    1-9              Jamaica Joe (Doom_1b.wad)
+10-15,17,18          Doom (Doom_2b.wad, except for level 16)
+ 16,19-27            Rambutt (Doom_3b.wad, plus new level 16)
+
+Note : Level 16 in Doom's Doom_2b.wad would crash the game because of an
+       unknown sprite. I just extracted e2m7 from Doom 1, added some new
+       stuff, and that problem was fixed !

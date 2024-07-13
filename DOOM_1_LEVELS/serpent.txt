@@ -1,0 +1,105 @@
+================================================================
+Title                   : SERPENT.WAD
+Author                  : Matt Hutaff
+Email Address           : toddm@rahul.net  (A friend's address)
+Misc. Author Info       : Recently expelled from high school.
+
+Description             : Designed specifically for a DEATHMATCH,
+                          because it's the only way I like to play
+                          DOOM.
+
+Additional Credits to   : Todd McLaughlin, who inspired me into
+                          making me waste time making DOOM levels!
+                          =D
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 / E1M2
+Single Player           : Yes, but it's not recommended / Yes
+Cooperative 2-4 Player  : Well, yeah, but who plays cooperatively? /
+                          Yes
+Deathmatch 2-4 Player   : Yes / Yes
+Difficulty Settings     : Not implemented / Original DOOM settings
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : 2
+
+* Construction *
+
+Base                    : New level from scratch / Modified E1M1 moved to
+                          E1M2
+Build Time              : WAY too long to even write down. / 1 hr.
+Editor(s) used          : DEU 5.x / DEU 4.x
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may not use this level as a base to build additional levels.
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+Where to get this WAD: Wherever it may be floating around.
+
+**AUTHOR'S NOTE!!**
+
+When you give this to your friend to play over the serial port/modem
+with, make sure you get a good look at the WAD with DEU or your editor
+of choice. There are five to ten hidden areas chock full of special
+items to give him a pounding. However, even with this advantage, playing
+with RESPAWN (or NIGHTMARE) is difficult no matter what you do. Lastly,
+even your opponent has equal footing, as there are weapons all over the
+place.
+
+**TECHNOLOGIES IMPLEMENTED**
+
+I have used lifts and teleportations extensively, especially in the
+teleport room. The teleport room is a bunch of pads, and you need the right
+sequence to get through. The sequence is pretty easy to figure out, just
+by trial and error. If RESPAWN is activated, the Sarge's have real fun with
+the transports.
+
+One last note involves the "Missile Silo," as I call it. It's the only area
+where you can stock up for your rocket launcher, and you need to activate
+it with a special switch or with a red key. It was a great idea until I
+remembered that with DEATHMATCH you get all of the keys. The switch still
+works, though. It's on top of the connector area with all of the weapons.
+
+                \     |        |    |  |
+                 |XX__|        |____|  |
+                 |                  |  |
+    Room w/      |                  |  |  Lava/Starting Room
+ Plasma Gun on   |                  |  |
+ lift            |                  |  |
+                 |____          ____|  |
+                 |    |        |     \ |
+                      |        |      \|
+                      |________|
+                      |________|
+                      |        |
+                      |________|
+
+If the "XX" is pushed, the floor in the adjoining room lowers, opening
+a staircase. The floor is raised to its original height by walking into
+the secret area and push the wall labeled:
+                            ________
+           _____ __________|________|____________
+          /     :
+          /     :
+         /___XXX:
+                |
+                |______________
+
+This only works once, but that is because DOOM won't let you do it twice.
+If you need to get in there again the lava pit has access for you IF you
+have a red key.
+
+**SECOND LEVEL**
+
+Just a modified E1M1 with an absolute crapload of armor, weapons, backpacks,
+teleporters, and enough changes to make this a welcome update to the
+original.

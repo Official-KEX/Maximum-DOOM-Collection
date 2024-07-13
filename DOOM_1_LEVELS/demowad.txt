@@ -1,0 +1,11 @@
+DEMOWAD.WAD was thrown together using DoomCad 4.3 and DoomEd 4.2.
+It's map E1M1 and it can only be made to work with registered IWADs with
+the released version of WadWarp.
+
+It uses textures and bits of maps from both Doom1 and Heretic.
+To play this one, you will need to use Wadwarp to patch the Heretic textures
+into the Doom Main Wad.  (See WADWARP.DOC)
+
+If you want to play it under Heretic, run a map extract through DM1HER.DMX
+and you'll get the same level with Heretic Monsters.
+

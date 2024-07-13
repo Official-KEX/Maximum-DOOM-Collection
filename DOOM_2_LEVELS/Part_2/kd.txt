@@ -1,0 +1,49 @@
+================================================================
+Title                   : Knee Deep in the Dead
+Filename                : KD.WAD
+Author                  : id Software/Brian D. Cain
+Email Address           : 
+Misc. Author Info       : Urban Assault, Urban Assault II, and
+                          Urban Assault Elite (DOOM2)
+Description             : The *Entire* Knee Deep Episode from DOOM 1
+                          (minus the Military Base Secret Level)
+                          PLUS a few goodies! No extra or modified
+                          structures or monsters. Everything left as
+                          original.
+Additional Credits to   : Brian Atwood, Bret Orrell, and Arthur Guajardo
+================================================================
+
+* Play Information *
+
+Map #                   : Maps 1 through 8
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Copied, converted, and tweeked Knee Deep Episode
+Editor(s) used          : DEU 5.22/DEU2 5.21
+Known Bugs              : Nada.
+
+
+* Copyright / Permissions *
+
+Authors (MAY/may NOT) use this level as a base to build additional
+levels.  
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+FTP sites:
+
+BBS numbers: 214/641-7805. The iCE Dimension. 24 hrs a day!

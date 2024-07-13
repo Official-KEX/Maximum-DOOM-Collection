@@ -1,0 +1,56 @@
+================================================================
+Title                   : PUEBLO.WAD
+Author                  : Tom Neff
+Email Address           : tneff@panix.com
+
+Description             : This was a "contract WAD" for a well known
+                          Deathmatch tournament organizer who ultimately 
+                          couldn't use it for business reasons.  The 
+                          client's requirements were that it run on 1.2, be
+                          pretty fast, have no nukage or other non-combat
+                          hazards, and have the exit clearly marked but
+                          hard to abuse.  My goals were that it look
+                          memorable, play well, and have graded difficulty.
+                          The result was influenced by my travels in Taos 
+                          and the High Southwest.  I hope you like it.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 (but requires Registered WAD)
+Single Player           : By all means look around.
+Cooperative 2-4 Player  : Ditto
+Deathmatch 2-4 Player   : Yes - all 10 start points are there.
+Difficulty Settings     : Yes.  Easy has more ammo and health and easier
+                          access to the rocket launcher.  Hard is fairly
+                          stingy but everyone gets a decent weapon.  You
+                          can get a launcher on Hard but you make yourself
+                          pretty obvious when you do... you'll see!
+New Demos               : No
+New Graphics            : Yes -- do you like the oven?
+New Sounds              : No
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU, BSP, RMB10 for REJECT, Corel PHOTO-PAINT 5.0 
+                          and DMGRAPH for graphics
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact, and you distribute it free of any charge.
+
+* Where to get this WAD *
+
+FTP sites:  infant2.sphs.indiana.edu
+            wuarchive.wustl.edu
+
+

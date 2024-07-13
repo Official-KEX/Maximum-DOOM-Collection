@@ -1,0 +1,50 @@
+================================================================
+Title                   : ROT.WAD
+Author                  : Josh Eckels
+Email Address           : joshtgf@execpc.com
+
+Description             : No stupid story line. Just a good deathmatch 
+                          level for four player net play.
+
+Additional Credits to   : id, DEU, BSP, and my beta-testers:
+                              John and Gavin (really good at testing the
+                              deathmatch starting spots), and Paul
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes.  What fun!
+Cooperative 2-4 Player  : If you really want to.
+Deathmatch 2-4 Player   : YES!
+Difficulty Settings     : Not implemented
+New Demos               : No
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Don't even ask :)
+Editor(s) used          : DEU 5.21 and BSP
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact, and you distribute it free of any charge.
+
+* Where to get this WAD *
+
+FTP sites:    infant2.sphs.indiana.edu
+
+Exec-PC BBS:  28.8k     (414)-789-4500
+              14.4k     (414)-789-4360
+              2400      (414)-789-4210
+              Can be found in the the FREE DOOM file area.

@@ -1,0 +1,48 @@
+===============================================================
+
+Title                   : RIDER01.WAD
+Author                  : Ryan Feltrin
+Email Address           : 9307923J@levels.unisa.edu.au
+
+Description             : Actually my fourth DeathMatch WAD, but I kinda
+                          like it as a warm-up level. Pretty small, looks
+                          good (we'll I like it anyway ;)) and increase the
+                          frag count somewhat.
+
+Misc Game Info          : I would suggest you play it by yourself first, and
+                          figure out how to get the MEGA-SPHERE. If you
+                          can do this, you have a big advantage.
+
+Additional Credits to   : My DeathMatch partner, he knows who he is!  8-)
+                          ID Software. Keep 'em comin guys!
+                          Ben Morris, author of DCK. It saved hours of
+                          work on this level. Thanks Ben!
+
+================================================================
+
+* Play Information *
+
+Map  Level #            : Map 01
+Single Player           : <yawn>
+Cooperative 2-4 Player  : yeah, right.. fool.
+Deathmatch 2-4 Player   : What's DeathMatch?
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : From the first node up!
+Build Time              : A couple of hours i guess. Or was it days?
+Editor(s) used          : DCK 2.2 (what else is there?)
+Known Bugs              : Uh uh, no way! I hate buggy levels!
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels, if they
+have a spare PC to donate !!
+
+Have FUN!
+ 
+úJRú

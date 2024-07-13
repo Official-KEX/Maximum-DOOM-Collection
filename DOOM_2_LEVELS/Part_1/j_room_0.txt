@@ -1,0 +1,37 @@
+J_ROOM_0.WAD - 2 new room-style levels for DOOM II DeathMatch
+by Jordan Russell
+
+This is a "pre-release" of a 6 level set I'm working on. I still haven't
+finished aligning textures and fixing other minor bugs in levels 1 and 2 yet.
+
+One of the changes you'll probably notice first is the sky. When you load
+DOOM II with this WAD, the sky is changed to the sky used in DOOM I episode
+1. I just can't stand playing with that depressing dark sky in DOOM II :)
+
+= Level 1 =
+
+Description:    This is a large dark room with many weird structures, a
+                raiseable ledge surrounding the room, and an outside part.
+                This was originally created using DEU and was made for
+                DOOM I, but I converted it to DOOM II format and included
+                it in this pack.
+Level replaced: MAP01.
+Meant for:      4 player DeathMatch.
+Monsters:       Only there if you enable monsters and set skill to 4 or 5.
+Time spent:     70+ hours.
+
+= Level 2 =
+
+Description:    This is similar to level 1 but smaller and brighter. You can
+                easily get 15 frags or more in a few minutes with this one.
+Level replaced: MAP02
+Meant for:      3 or 4 player DeathMatch.
+Monsters:       Only there if you enable monsters and set skill to 4 or 5.
+Time spent:     20+ hours.
+
+= How to contact me =
+
+Chrysalis:       Jordan Russell
+DWANGO (Dallas): jordanr
+Internet:        jordan.russell@chrysalis.org
+America Online:  JordanR7

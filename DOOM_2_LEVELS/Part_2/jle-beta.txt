@@ -1,0 +1,91 @@
+===========================================================================
+Title                   : jle-beta.wad
+Date Finished           :  03/15/95
+Author                  : Jim "Bowman" Elson
+Email Address           : jlelson@utdallas.edu
+Other Files By Author   : 
+Misc. Author Info       : who cares. :)
+
+Description             : Welcome to the slaughter house.  This is a BETA.
+                            Please don't distribute.
+Additional Credits to   : Mike Muir, whose rage.wad served as the base for
+                            this level; Dave Swift and Mark Gundy for some
+                            textures from their H2HMud wads and id Software,
+                            of course.
+===========================================================================
+* Type of DOOM or DOOM II file*
+
+(Choose One)
+New level WAD           : Yes
+Sound PWAD Only         : No
+Music PWAD Only         : No
+Graphic Addon Only      : No
+Dehack Patch Only       : No
+.LMP Only               : No
+Other                   : No
+Required To Have In Dir : N/A
+
+* Play Information *
+
+Map #                   : Map 01 (For DOOM II only)
+Single Player           : Yes/No (no monsters)
+Cooperative 2-4 Player  : Yes/No (no monsters)
+Deathmatch 2-4 Player   : YES!!!
+Difficulty Settings     : Yes (See note.)
+New Sounds              : No
+New Music               : No
+New Graphics            : Yes
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Based upon rage.wad
+Build Time              : A couple of weeks
+Editor(s) used          : Edmap 1.31, Deutex 3.2
+Known Bugs              : Hopefully none.
+May Not Run With...     : Anything other than Doom II
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  If you like the design, get rage.wad which this was
+based upon.  If you like the textures, contact Dave Swift and
+Mark Gundy for permission.
+
+You MAY not distribute this WAD file in any format. (This is a BETA.)
+
+
+
+* Where to get this WAD *
+
+Other: directly from me until the beta testing is completed.  Afterwards
+it will be found on ftp.cdrom.com and its mirrors as well as Dallas BBSs.
+
+****************************************************************************
+                           N  O  T  E  S
+
+Thanks for beta testing this wad.  It's greatly appreciated.
+
+Please send feedback via e-mail to jlelson@utdallas.edu by March 30th.
+All those who response will be credited upon release of the final version.
+Please feel free to offer any comments/criticisms/suggestions.  Also, please
+send some multiplayer lmps!  Thanks.
+
+This is a deathmatch only wad.  There are 3 different configurations
+based upon the difficulty level:
+
+1 or 2: a boxing fight.  Only armor and health bonus.  No weapons given.
+
+3: the slaughter house.  Combatants are also furnished with chainsaws.
+
+4 or 5: gore fest.  Two berserk packs and 1 pump shotgun are also provided,
+      but there's precious little ammo. Make it count. :)
+
+There are only 4 deathmatch starts, but each one is protected by a one-way
+      door.  No cheap frags.  Every one starts out with a pistol and a green
+      armor, and, on skill 3 - 5, a chainsaw.  
+
+BTW, there is a megasphere, but it's gonna cost ya to get it.  Also, the
+exit is cooperative: the switch is in the room where the megasphere is.
+
+ 

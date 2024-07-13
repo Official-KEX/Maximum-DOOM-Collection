@@ -1,0 +1,62 @@
+
+================================================================
+Title                   : Hell's Hall
+Filename                : Helshall.wad
+Author                  : Joe King
+			  75322.2466@COMPUSERVE.COM
+
+Description             : FOR REGISTERED VERSION OF HERETIC ONLY!!
+                          It's a Hall.  It's in Hell.  You should
+			  play it.
+                          
+Additional Credits to   : Jon Messer - Beta testing
+
+Addtional Wads by Author: "Castle Kingfish" (cking.zip)
+			  "Die Young" (dieyoung.zip)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes!
+Cooperative 2-4 Player  : Yes!
+Deathmatch 2-4 Player   : Yes!
+Difficulty Settings     : Yes!
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : From Scratch
+Editors used            : Waded 1.83b
+Build Time              : Who cares
+Known Bugs              : None 
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+Compuserve Action Games
+
+
+** READ FURTHER FOR LEVEL INFO **
+
+This is my third Wad for Heretic.  It is however my first "stab" at a
+single player level.  There are however some significant features that
+should provide for an enjoyable DeathMatch.  When playing DeathMatch,
+there are differences in Item placement.  This level also contains its
+share of special line defs to open and close doors and operate lifts, but
+you will have to figure these out for yourself.
+
+Don't forget to try higher difficulty settings!  More monsters and items
+are in the level when you play "Black Plague" and "Smite Meister" modes.

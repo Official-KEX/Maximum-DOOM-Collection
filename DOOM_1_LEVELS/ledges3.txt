@@ -1,0 +1,57 @@
+================================================================
+Title                   : LEDGES3.WAD   
+Author                  : Mark K. Gresbach Jr.
+Email Address           : Mark.Gresbach@mixcom.com    
+Misc. Author Info       : 
+
+Description             : This patch file is for E1M1. This is the
+                          next DEATHMATCH WAD in the LEDGES series.
+                          Improved placement of weapons and items to
+                          insure optimum "fragging". This level is
+                          designed primarily for DEATHMATCH. 
+
+Additional Credits to   : Steve Burg, Douglas Hay, Bill Nowicki, 
+                          Phil Katz
+
+Additional Notes        : If you have any suggestions or ideas, please
+                          email, Im always looking for new ideas for
+                          the ledges episodes.
+
+                          Hopefully, when the LEDGES series is completed
+                          you will be able to have 9 LEDGES episodes that
+                          will allow you to play from LEDGE to LEDGE and
+                          have hours of fun. At least, thats my goal. :)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : No 
+Cooperative 2-4 Player  : No 
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 25+ hours 
+Editor(s) used          : DEU 5.1 & BSP 1.1
+Known Bugs              : None
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You may do whatever you want with this file. Please give credit to
+author if used to create other levels from this one. Thanks.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+BBS numbers: PKWARE BBS (414) 354-8670
+
+Other: DOOM BBS (615) 337-9198

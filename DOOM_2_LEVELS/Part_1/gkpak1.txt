@@ -1,0 +1,74 @@
+================================================================
+Filename              : gkpak1.zip
+Author                : Genesis Krzyzaniak
+Email Address         : Genesisk@Eden.Com
+Date                  : 4/8/95
+Misc. Author Info     : An avid doomer in the Austin Texas area (512)
+                        Want to deathmatch me?  Email!
+
+Description           : DOOM ][ DeathMatch only level series.
+                        This Wad contains the first 10 gkdm wads 
+                        which are all designed for a fast paced Frag Fest!
+                          
+                        Made primarily for DM 1.0 (skill 3) 
+                        but added some stuff for DM 2.0 (all other skills)
+
+                        All weapons are in interesting places, all
+                        deathmatch starts are by weapons (to avoid
+                        looking for a weapon frags), the big weapons
+                        (BFG, plasma) are harder to get than other weapons 
+                        and some thought actually went into the design, 
+                        it was NOT just thrown together.
+                          
+                        There are NO monsters, if ya want 'em add your own...
+
+Additional Credits to : Robert Forsman - PFME
+                        Robert Fenske, Jr - Warm
+                        
+                        _Carl_, Kronos, Dnormlguy, Jason, Walter 
+                                        - Beta testing
+                                        
+                        id - DOOM
+                        Linus Torvalds - Linux
+                        God - the Earth
+                        etc...
+
+================================================================
+
+* Play Information *
+
+Game                    : DOOM ][
+Level #                 : 1-10
+Single Player           : No (don't play single player much...)
+Cooperative 2-4 Player  : No (co-op sux (unless of course it's 2 on 2 DM...)
+DeathMatch 2-4 Player   : YES!
+Difficulty Settings     : 3 (default) - DM 1.0, everything else - DM 2.0
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New levels from scratch
+Editor(s) used          : PFME Alpha 4 through Beta 1, Warm 1.1
+OS used                 : LiNuX!
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors MAY use these levels as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+Ftp sites: ftp.cdrom.com/pub/idgames/ newstuff | levels/doom2/deathmatch
+
+Web sites: http://www.eden.com/~genesisk
+

@@ -1,0 +1,135 @@
+================================================================
+Title                   : Semi-Mini DeathMatch Level 
+File Name               : MEDIDETH.WAD
+For                     : DOOM -and- DOOM II
+
+Author                  : Scott Smith 
+Email Addresses         : scottallyn@aol.com
+                          scotta@cris.com
+
+Other works             : MINIDETH.WAD, CYBRDTH2.WAD,
+                          CYBRDETH.WAD, E1M1SAS.WAD,
+                          E2M1SAS.WAD, LMP10.EXE
+
+In progress             : MAXIDETH.WAD (Part III in the series)
+================================================================
+* Play Information *
+
+Episode and Level #     : E1M1 for DOOM, Map 1 for DOOM II. 
+Single Player           : No, though there -is- a plyr 1 start.
+Cooperative 2-4 Player  : Cooperative play is for old ladies.
+Deathmatch 2-4 Player   : Yes. Intended for 3 or 4 plyrs, but
+                          works very well with just two.
+================================================================
+* Description *
+
+This level is the successor to MINIDETH.WAD (Miniature Death-
+Match) and shares a similar theme. Those of you who have played 
+MINIDETH may recognize a few things in MEDIDETH. It has been 
+designed with more than two players in mind, though it works 
+well with just two. It is roughly four times larger than its 
+predecessor but still not very large and high frag counts can be 
+achieved in a short period of time. 
+
+The level is based around a large central room that is broken up 
+by stacks of various sized crates that can be climbed and used 
+to block incoming gun fire. There are many nooks and crannies to 
+ambush from as well as a few easily defended sniper ledges that 
+offer a good view of much of the level. There are numerous 
+teleporters (located inside of certain crates) that give access 
+to the more powerful weapons and a lift that leads to one of the
+sniper ledges, all of which are marked by small white arrows 
+upon the floor. 
+
+The plasma rifle is easy to get to but getting away with it is 
+another matter; one misstep and you'll find yourself in an 
+inescapable Archvile trap, much to the enjoyment of the other 
+players, who can watch you getting tossed around like a ragdoll 
+from the safety of the main room. This trap will only trigger in 
+Multi-Player mode. Getting to the BFG requires the use of a 
+hidden teleporter, a couple of jumps, and a stationary 180 
+degree turn (not necessarily in that order). 
+
+The level has a few monsters (besides the archviles in the trap) 
+that have been thrown in to keep everyone on their toes. You can 
+choose which ones you'd like to have in the level by choosing 
+the approprate skill setting:
+
+Skills 1 & 2 - A few roaming baby spiders, 
+               Chaingunners at the sniping 
+               windows, and the Archies in 
+               the trap.
+
+Skill 3      - Only the Archies in the trap.
+
+Skills 4 & 5 - A roaming Archvile (heheh...
+               watch your buddies literally 
+               fly over the crates!) and
+               the Archies in the trap.
+
+Obviously, in order to take full advantage of the Archvile
+trap, you need to play without the -NOMONSTERS parameter.
+When playing with 3 or 4 players, use -DEATHMATCH instead of
+-ALTDEATH; this will ensure that everyone has immediate
+access to a weapon. If you play the level with roaming
+monsters, you may want to add the -RESPAWN parameter so that
+the monsters will keep coming back.
+
+This level also works with the original DOOM. When played in
+DOOM, all of the DOOM II monsters and power-ups are replaced 
+with original DOOM monsters and power-ups; the Archvile trap 
+becomes a Baron trap. The level has the same new music for 
+Both DOOM and DOOM II. Making this level compatible with both 
+games meant a larger file size, but it's not overly large and 
+should only take a minute or two to download.
+
+I'd like to thank all of the regular DOOMers at CRIS, who have 
+done lots of Multi-Player playtesting in both this level and 
+it's predecessor. Sje deserves special mention for being the 
+first to entertain us by getting caught in the Archvile trap. 
+Heheh... I looked up and saw the bottom of your feet, Sje!
+Thanks also to Mike Stevens (I TOLD you that you couldn't 
+get any frags on me using that steering wheel, FOOL!) for the
+idea of raising the player's height in front of the sniper's 
+windows to allow better clearance for rockets (the result of 
+which is those small stone bricks at each window). Finally,
+I'd like to thank Jazz411@aol.com, whose VERYTINY.WAD gave me
+the idea for MINIDETH (baby brother to MEDIDETH).
+
+I'd appreciate any feedback that you have to offer and I'd love 
+to see some of your recorded games in this level (mail 'em to 
+the CRIS address, since the AOL address doesn't handle attached
+files via the INET very well... unless you're on AOL or CRIS, 
+then just e-mail them to ScottAllyn).
+================================================================
+* How To Play *
+
+To load MEDIDETH into the game, copy MEDIDETH.WAD to your DOOM
+or DOOM II directory and enter:
+
+   doom -file MEDIDETH.WAD
+or
+   doom2 -file MEDIDETH.WAD
+
+To play it over the modem or on a network, consult the game docs
+and the FAQ. If you still need help, e-mail me.
+================================================================
+* Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels without giving me credit for the original version, as
+well as stating the changes made within a text file. Also, 
+please don't recycle the MEDIDETH name with your modified 
+version. I've found a few modified versions of my other levels 
+being passed around with no mention that I created the original 
+version, and that SUCKS! Please have a little respect for the 
+time involved in creating this WAD by at least mentioning the 
+original author!
+
+You may distribute MEDIDETH.WAD in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this text file INTACT. 
+If MEDIDETH.WAD is to be distributed under the MEDIDETH name,
+the embedded ENDOOM directory entry MUST be included (that's the 
+credits that get displayed after quitting the game. If MEDIDETH 
+is not mentioned there, someone has been screwing with the 
+level! Contact me and I'll send you a new copy).

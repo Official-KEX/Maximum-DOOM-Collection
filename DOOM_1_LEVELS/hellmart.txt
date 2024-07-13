@@ -1,0 +1,55 @@
+Here's our first PWAD (actually two PWADS). It is a collaborative effort
+between my friend from work and myself. Let me know how you like it or if you
+have any suggestions for improvement...
+
+=============================================================================
+Title             :HELLMART.WAD
+Author            :Jim Higgins & Paul Romiti
+Email Address     :veggie@nando.net (Jim Higgins)
+
+Description       :This level replace Episode 1, Map 1. It is a stand-alone
+                  level and is not meant to blend in with the standard DOOM 
+                  levels. It is modeled after the grocery store that we work
+                  in...hence the name hellmart. We tried to duplicate the 
+                  store as closely as possible. We even included a cardboard 
+                  baler and meat cooler. The wad plays well in a deathmatch. 
+                  You never know what aisle your opponent is hiding in.
+
+=============================================================================
+* Play Information *
+
+Episode and Level #    :E1M1
+Single Player          :Yes
+Cooperative 2-4 Player :2 Players only...
+Deathmatch 2-4 Player  :2 Player deathmatch
+Difficulty Settings    :Yes
+New Sounds             :Yes
+New Graphics           :No
+Demos Replaced         :No
+
+* Construction *  
+
+Base                   :New level from scratch
+Build Time             :Ask my wife
+Editor(s) used         :WinDEU 5.23 for the level PWAD
+                        WinTex 3.4 for the sound PWAD
+Known Bugs             :A little slow in the beginning due to large # of
+                        enemies. After they are dead it speeds up quite a bit.
+                        We had an HOM problem in one area of the game during 
+                        deathmatch play but I think we fixed it.
+
+* Copyright/Permissions *
+
+We hereby release our wad into cyberspace for all to play with. You may do with
+it what you wish, just include this text file, unedited and unabridged, with 
+the two PWADs. 
+
+* Where to get this WAD *
+
+I'm uploading it to FTP.CDROM.COM  and  FTP.IDSOFTWARE.COM. Who knows where it 
+will end up. Enjoy.
+
+* Running Instructions *
+
+Just unzip the four parts (hellmart.txt, hellmart.wad, hmartsnd.wad, hm.bat) into your doom
+directory and type HM and hit enter.

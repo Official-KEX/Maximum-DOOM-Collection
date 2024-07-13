@@ -1,0 +1,18 @@
+Title:       Omega
+File name:   omega.zip
+Auther:      Stone
+email :      kverstee@blue.weeg.uiowa.edu
+Discription: A deathmatch wad for doom 2
+=============================================================================
+
+Notes:
+ This wad is designed primarily for deathmatch games, but I included monsters
+ etc. for those of you with no friends.  I highly reccomend playing this with
+ the -altdeath and -nomonsters flags, as I designed the level with these in
+ mind.  The switch to open the door concealing the end level switch is well
+ hidden, look for it in a place that hurts....
+ There are many ambush sights, one in particular is really mean.  Check it 
+ out.
+=============================================================================
+Omega.wad may be distributed freely as long as this text file (omega.txt) is 
+distributed unaltered.  Give credit where credit is due.

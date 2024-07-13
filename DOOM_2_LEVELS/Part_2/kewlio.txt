@@ -1,0 +1,48 @@
+=============================================================================
+Title                   : Kewlio, sequel to kewl
+Filename                : Kewlio.wad
+Author                  : Mark Cooke (Apollo on DWANGO)
+Email Address           : cooker@ix.netcom.com
+Misc. Author Info       : 13 year old WAD making genius. Send questions and
+                          comments via e-mail. Love DWANGO and lazer is cool.
+                          Remember, if you go on DWANGO, e40 is weird....
+Description             : This is the sequel to kewl, if you liked it, you
+                          will love kewlio, if you hated kewl, because of
+                          dead ends and no ammo, those are no longer problems.
+                          With no dead-ends, and lots of ammo, comes kewlio.
+                          This is a deathmatch wad.
+Additional Credits To   : Hyena - testing, the 4 sounds I got from you
+                          Lazer - testing, punch sound
+                          e40   - sucking ( just kidding denny ;D )
+                          Shaft - teaching
+=============================================================================
+
+* Play Information *
+
+Game                    : Doom 2
+Map                     : 1
+Single Player           : Yes, to look
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes, that is what this was is for
+Difficulty Settings     : Not implemented
+New Sounds              : Yes
+New Graphics            : Yes
+New Music               : Yes
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Level from scratch
+Editors used            : DEU2, BSP
+Known Bugs              : None
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels. You MAY
+distribute this WAD as long as this file is intact.
+
+* Where to get this WAD *
+
+FTP sites : ftp.cdrom.com
+            ftp.idsoftware.com
+

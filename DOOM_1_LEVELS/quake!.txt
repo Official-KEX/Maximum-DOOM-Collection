@@ -1,0 +1,69 @@
+================================================================
+Title                   : QUAKE! for DOOM   
+Filename                : QUAKE!.ZIP
+Author                  : Jonas Andersson
+Email Address           : su94-jan@nada.kth.se
+Misc. Author Info       : Doom 1 Master
+                          Doom 1 Speedy Gonzales
+                          Doom 1 Grand Master
+                          Doom 1 Tyson
+                          Doom 1 Incubus
+                          If you haven't tried for one the
+                          Doom Honorific Titles the you've
+                          missed something. The rules are
+                          available at ftp.cdrom.com. In the
+                          directory pub/doom/lmps/dht-exams,
+                          the filename is dht5-txt.zip.
+                           Or you can visit the Doom
+                          Honorific Title homepage at
+                          www.cam-orl.co.uk/~fms/dht.html.
+
+Description             : 4 excellent deathmatch levels for DOOM.
+                          Me and my friends use nothing else when
+                          we run a deathmatch-weekend.
+                           There were supposed to be one more level
+                          but a major bug was discoverd during 
+                          playtesting. Perhaps I'll include it in
+                          the sequel to QUAKE!, if I ever make one.
+
+Additional Credits to   : To id Software for the game. And to my
+                          friends Richard Milland, Magnus Hansson
+                          and Roger Berglund and to my brother
+                          Kristoffer Andersson for playtesting and
+                          for dying so satisfying during playtesting.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1-E1M4
+Single Player           : Yes (Why?)
+Cooperative 2-4 Player  : Yes (No point!)
+Deathmatch 2-4 Player   : Yes (YES!!!!)
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Graphics            : Yes
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : With playtestings and fine-tunings included
+                          about 6 months.
+Editor(s) used          : DEU 5.21, BSP 1.2x and DCK 2.2
+Known Bugs              : None (if you find any let me know)
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com
+
+BBS numbers: GoDFLeSH bbs - +46-8-youwish

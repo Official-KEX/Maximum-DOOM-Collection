@@ -1,0 +1,57 @@
+           ________                            .__    .___
+          /  _____/  ____   ____   ____   ____ |__| __| _/____           
+  ______ /   \  ____/ __ \ /    \ /  _ \_/ ___\|  |/ __ |/ __ \   ______ 
+ /_____/ \    \_\  \  ___/|   |  (  <_> )  \___|  / /_/ \  ___/  /_____/ 
+          \______  /\___  >___|  /\____/ \___  >__\____ |\___  >         
+                 \/     \/     \/            \/        \/    \/          
+=================================================================
+Title                   : Deathmatch: Genocide, for Doom II
+Filename                : GENOCIDE.WAD
+Author                  : Bryant Fong
+Email Address           : bryant@netcom.com
+Description             : I edited map 1 from Doom II to make it even better
+                          suited for deathmatch play (specifically, dm 2.0).
+                          View the included GENOCIDE.LMP file, then try it
+                          out in single player.
+Additional Credits to   : All the guys at ID for making this AWESOME game.
+                          Greets go out to all the guys at the San Jose
+                               DWANGO server.
+================================================================
+
+* Play Information *
+
+Level #                 : MAP01
+Single Player           : Yes, to check out the level.
+Cooperative 2-4 Player  : Yes, but there aren't any monsters.
+Deathmatch 2-4 Player   : YEAH!
+Difficulty Settings     : Skills 4-5 switch the BFG to a shotgun
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Map 1 from Doom II
+Editor(s) used          : Edmap 1.4 (caused me a lot of problems, but atleast
+                              it didn't treat you like a beginner).
+Build Time              : 20+ hours
+Known Bugs              : None (unless non-matching textures count) 
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com and mirrors
+           ftp.netcom.com /pub/br/bryant
+           ftp.best.com /pub/serpent/wads
+
+FSP sites: ftp.idsoftware.com 21
+
+BBS numbers: Your neighborhood Doom BBS (that carries all of the best
+             pwads like this one :) ).
+
+Other: alt.binaries.doom, or email me at bryant@netcom.com and specify
+       how you want it sent (uuencode, mime, etc).

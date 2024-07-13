@@ -1,0 +1,57 @@
+* General Information *
+==============================================================================
+
+Title                   : The Gate #1  (Gate1.zip)
+Description             : Original Deathmatch PWAD for Doom II
+
+Author                  : Chris Villarreal
+Email Address           : chris.villarreal@iotp.com
+Additional Credits to   : Ron 'Elevator' Anthony - Beta Tester/Victim
+			  
+			  
+Points of Interest      : This level is designed with 4 player deathmatch 
+                          in mind and will be one of the official levels 
+                          used by The Gate for its contests.  I will probably
+                          make more as soon as my wife starts talking to me 
+                          again.  Nothing magor attempted here, just a good 
+                          clean level with lots of snipe/ambush points and
+                          more than one way to get to each area.  If you live
+                          in Phoenix stop and say hi to me at IU in the 
+                          software scene.  ( We are running some contests 
+                          with this wad, hence the logos ). 
+
+* Play Information *
+==============================================================================
+
+Episode and Level #     : Map 01
+Single Player           : If you must
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Nothing special, fewer monsters at lower levels.
+New Sounds              : No
+New Graphics            : A couple of signs....
+
+
+
+* Construction *
+============================================================================
+
+Base                    : New level from scratch
+Build Time              : 25+ I really tried to get ALL the textures 
+                          properly aligned.
+Editor(s) used          : EDMAP 1.31, BSP 1.2x, Wintex and DCK 2.1
+Known Bugs              : None known
+
+			 
+
+* Copyright / Permissions *
+============================================================================
+
+Authors may use this level as a base to build additional levels.
+You may distribute this WAD, provided you include this file, with
+no modifications.  You may NOT distribute this file on any sort of
+CD/diskette compilation without my permission.
+
+
+You can find this PWAD on: Official DOOM Site-of-the-Month: ftp.cdrom.com, CI$, and
+			   any BBS with class!

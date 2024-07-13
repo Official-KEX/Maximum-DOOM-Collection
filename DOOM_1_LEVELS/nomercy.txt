@@ -1,0 +1,40 @@
+================================================================
+Title                   : NOMERCY.WAD   
+Author                  : Jim Plewa
+Email Address           :     
+Misc. Author Info       : 
+
+Description             : This patch file is for E1M1. To designed
+                          for only deathmatch play. It works best 
+                          with 3 or 4 players but can be played with
+                          2 players. All weapons are evenly 
+                          spaced to insure a good deathmatch.
+
+Additional Credits to   : Jim Ihrke
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : No 
+Cooperative 2-4 Player  : No 
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 20+ hours 
+Editor(s) used          : DEU 5.21 & BSP 1.1 
+Known Bugs              : None
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You may do whatever you want with this file.
+
+

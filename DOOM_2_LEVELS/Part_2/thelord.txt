@@ -1,0 +1,123 @@
+DOOM2 - HOE :)
+
+================================================================
+
+Title                   : The Lord                   
+
+Filename                : thelord.WAD  
+                          
+                          D2PENDPP.WAD  (DOOM 2)
+Author                  : 
+Jeff Corr  
+
+Email Address           : JCRAIDEN@AOL.COM      
+
+Description             : Hey, I didn't include the .EXE files with the
+                          ZIPFILE for nothing! Check them out!
+
+Additional Credits to   : SySop James Shane. My monitor sucks so much I 
+                          can't even find a program that lets me edit 
+                          resolutions of 320x200x256 colors. 
+                          Without James' help, I wouldn't have been able 
+                          to use new graphics. James is also the sysop 
+                          of Porky Piggin' BBS. Look for the number 
+                          of the BBS levels.
+
+
+================================================================
+
+
+* Play Information *
+
+
+Episode and Level #     : MAP01-MAP06
+
+Single Player           : Yes
+
+Cooperative 2-4 Player  : Yes, but slow on anything below a 486DX2/66
+                          on level 2 and 4, even though the levels
+                          were designed for co-op.
+
+Deathmatch 2-4 Player   : Yes
+
+Difficulty Settings     : I was to lazy to do that:)
+
+New Sounds              : No.
+
+New Graphics            : Hell YES, about 50 new graphics.
+
+New Music               : Ya, except for level 6
+
+Demos Replaced          : 1-2-3, I guess that makes 3 ?!
+                          
+                          Demo 1 - Level 1; Single player  
+                          Demo 2 - Level 6; Finishing the final enemy!
+                          Demo 3 - Level 5; Long demo to prove it can be 
+                                            done...
+                                                                
+
+                          NOTE: The demos were recorded with
+                                DOOM2 v1.7a. They will not work
+                                with any other version.
+                                To get an update to version 1.7a
+                                call The Roadrunner BBS (number
+                                in the levels:)!  You can play the
+                                levels without version 1.7a, you
+                                just can't watch the demos.
+
+
+*** Construction ***
+
+
+Base                    : New levels from scratch
+
+Time                    : 3 hours to make demos perfect
+                          75 hours to make the levels
+                          5 hours to get graphics to work perfectly
+                       +  2 hours to assemble it
+                       -----
+                          85 hours
+
+
+Editor(s) used          : 3 different versions of DEU
+
+Known Bugs              : Surgeon Generals Warning:
+                          These levels cause epileptic seizures 
+                          in small dogs and cats.
+
+
+
+
+*** Copyright / Permissions ***
+
+
+Authors MAY NOT use this level as a base to build additional
+levels.  
+
+
+You MAY distribute these WADs, provided you include this file, with
+no modifications.  What the hell is this stuff for anyway? As if you
+I can stop you! :) You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.... blah blah blah blah........
+
+
+
+*** Where to get these WADs ***
+
+
+FTP sites: What does FTP mean anyway?
+
+
+BBS numbers: The Roadrunner BBS - (405)-???-???? >
+             Porky Piggin BBS   - (405)-???-???? >
+             Software Creations - (508)-368-7036
+             Anywhere else that has a cool sysop.
+
+
+
+             > The numbers are in the levels! :)
+
+
+
+C U ALL

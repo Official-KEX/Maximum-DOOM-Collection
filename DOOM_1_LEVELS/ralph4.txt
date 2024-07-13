@@ -1,0 +1,21 @@
+Ralph6.wad collected by Ralph Evans (revans@kaiwan.com)
+
+This is my sixth Deathmatch collection and replaces episode 1.
+
+Play using "doom -file ralph6.wad" (you must have the registered version).
+
+This is the source for this new wad pak:
+
+EPISODE1:        
+
+E1M1 Warzone4       
+E1M2 Amadeus     
+E1M3 Dan3    
+E1M4 23Castle     
+E1M5 Towers    
+E1M6 DmKeep
+E1M7 Stardeth   
+E1M7 Hitmeinf  
+                                                              
+
+My highest regard to all WAD authors, you did a fantastic job guys!

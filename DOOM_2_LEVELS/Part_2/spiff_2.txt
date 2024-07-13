@@ -1,0 +1,154 @@
+================================================================
+Title                   : SPIFF2
+Filename                : SPIFF_2.WAD
+Author               :Spiff-     The wad master. He was the coauthor of the
+				original spiffwad (worked with his brother)
+				and is the creator of spiffwad 2 (actually 
+				making the wad work and coming up with ideas).  
+				He worked with and created many of the textures 
+				,sounds, music, and basically everything else                  
+				in the wad. 
+
+CoAuthors            :C.C.C-     Spiff's brother he is the coauthor of the
+				original spiffwad.  He played no part in the
+				creation of spiff_2 but he deserves credit
+				for all the work he did with the original
+				spiffwad which was the basis for this wad.
+		     
+		     :DSTALKER-  Did not actually work with waded but he
+				deserves credit because of the work he 
+				did in three areas.  First of all many of
+				the ideas in spiff_2.wad were Dstalker's.
+				Second he found and modified many of the
+				sounds in spiff_2.wad and third many of the
+				kick ass textures were either found or created
+				by him including the texture right in front
+				of the exit.  
+
+Email Address           : 75563,1521@compuserve.com (Spiff) 
+			: Cory16m@aol.com (Dstalker)
+Misc. Author Info       : We all completely KICK ASS
+
+Description             : Designed for Deathmatch 2 for DOOM II                                                   
+			  
+Weapons:
+--------
+Everything you can dream of
+
+Features:
+---------
+1. Cool new sounds, over 15 in all. We think that you will agree that the
+new sounds completely kick ass.  Sounds include single barrel shotgun,
+plasma shot, rocket shot, Item pickup sound, New slop sound, New pistol
+sound, killer punching sound, new warp sound, and many more. 
+
+2. New Killer Kick ASS music.  This music will rock your world.
+
+3. New Textures.  One new animated texture.
+
+4. Ok I will briefly go over the changes that have been made from spiffwad,
+but I will not go over the original spiffwad, you must be familiar with 
+it or figure things out for yourself (they are pretty obvious anyway).  
+
+* First there are now two switches (near the door by the hidden room), these switches 
+do two things.  One switch raises the floor in the hidden room crushing any
+occupants, the other one obviously lowers the floor.  Two warnings though.  If
+the person in the hidden room has 200 percent health and armor they will not
+die but they will be trapped.  If you look at the hidden room you will see 
+them and be able to shoot them even though they are in the ceiling. The second
+note is that you will not be able to enter the hidden room if someone has 
+raised the floor, you must lower it first.
+
+* Did some asshole ever end the level before you were through?? No more!  There
+is now a wall in front of the exit (with a awesome texture).  This wall can 
+only be lowered by pressing on the wall that is marked exit (in the room that 
+contains the hidden room).  What does this mean?? It means that no one will 
+be able to exit the game by themselves, one person must press the switch and
+the other must hit the exit.
+
+* The rocket room, oh my this is hard to explain.  Ok basically the room is the
+same except for the textures and a lot of switches.  When you warp in you can
+click on the wall behind you to raise the warp to the ceiling making it 
+inoperable.  Clicking on one of the Hitler faces will raise a wall in the 
+middle of the room.  Clicking on the other Hitler face will lower the wall.
+Note if you raise the wall and the warp a person on the other side is trapped.
+If you run against the left hand wall you will be transported to a new room.
+In this new room there are two warps.  Walking near the warps automatically
+lowers the warp in the rocket room.  Walking on either of the new warps 
+transports you to one of two positions in the rocket room.  I am sure this
+all sounds horribly confusing to you, but just play and you will find out.
+
+* The pink eyes in the center lower the other two walls in the center room
+making game flow smoother. 
+
+* There is now lava on top of the elevator in the center room that has the
+megasphere on it.  
+
+* There is a new titlescreen, look at it it kicks ass.
+
+* There is now a hallway behind the old bfg allowing you to get the old bfg
+(near the exit) without first starting in that position.
+
+* New status bar, it completely wastes the old one.  Bet you wish you were
+awesome enough to make it.  Look at the colors behind the faces as well, now
+they are much more intense.
+
+* Cool new sky texture
+
+I may have forgotten something and this probably all sounds completely 
+confusing, but I'm sure you will like the wad if you just try playing it.
+
+Additional Credits to   : ID Software for a great game
+			  Waded 1.49 (great editor)
+			  NWT (New Waded Tools to extract/import)
+			  NeoPaint (Used to paint the textures)
+			  Aldus Photostyler (More texture painting) 
+			  Thanks Mark (oldwest author) for the help.
+			  Thanks to us for making a great wad and to you for 
+			  playing it.
+=====================================================================
+
+* Play Information *
+
+Level #                 : Map 1 
+Single Player           : Yes, but why?
+Cooperative 2-4 Player  : Not unless you are a dumb ass
+Deathmatch 2-4 Player   : Yes 
+Difficulty Settings     : All the same
+New Sounds              : Yes lots
+New Graphics            : Yes lots
+New Music               : Yes
+Demos Replaced          : Nope
+
+* Construction *
+
+Base                    : Two weeks at part-time
+Editor(s) used          : WADED v1.49
+Known Bugs              : Are you kidding?  There are no bugs.
+			  But if you happen to find one, buy a new
+			  computer because it's not the wad.
+
+* Copyright / Permissions *
+
+You may not change this pwad.  This wad kicks ass and we don't want any
+freaks going through and trying to make improvements to it (have a nice day)
+:) You can take two or three of our sounds for a new wad, but don't overdo it.
+You may not and I repeat not take any music or textures, too much time went
+into them.
+
+You MAY distribute this PWAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+Final Note:
+-----------
+  We personally think that this wad completely kicks ass, but that is probably
+a slightly biased opinion (maybe not).  We'd love to hear from you if you 
+actually have any meaningfull and helpfull suggestions.  If you have any
+good criticism then send that too, but don't write just to say that you think
+the wad sux because two things are obvious if you do 1. You are a delerious
+fruit cake who is scheduled for commitment in a maximum security mental 
+facility and 2. We are not going to accept your criticism because we tend
+not to believe blind dumb animals.

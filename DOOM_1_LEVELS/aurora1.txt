@@ -1,0 +1,46 @@
+================================================================
+Title                   : Aurora 1.0  
+Filename                : AURORA1.WAD
+Author                  : Ky Ma
+Email Address           : N/A
+Misc. Author Info       : None.
+
+Description             : A DOOM level.
+
+Additional Credits to   : Me
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M2 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch.
+Editor(s) used          : DoomED The Real Thing. v2.60 beta 4.
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+You may do whatever you want with this file.
+
+

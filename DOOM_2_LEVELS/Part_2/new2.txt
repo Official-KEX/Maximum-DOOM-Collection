@@ -1,0 +1,50 @@
+Title                   : NEW2 - A DOOM ][ replacement level     
+Filename                : NEW2.WAD
+Author                  : Talon
+Email Address           : CEWessel@aol.com
+Misc. Author Info       : Author of DEJAVU.WAD(9 LEVELS), NEXUS.WAD,  
+                          MODMAP01.WAD, RUINS.WAD and PAIN2.WAD.  Also 
+                          TALON.WAD, available on Code Red and KCE bb's.
+
+Description:            Ever notice that no one..and I mean no one has
+                        remade id's map02 for Doom2? Most people don't
+                        play it for deathmatch....until now! Here is a 
+                        very cool remake of map02...this one is fast
+                        and furious. Includes the ability to "lock up"
+                        the bfg for all you whiners out there.
+
+Additional Credits to: Shotgun for playtesting and ideas
+                       Brian Koos for EVILSND2.WAD (Groovy!)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01
+Single Player           : Yes (kinda lonely)
+Cooperative 2-4 Player  : Yes (awful boring with no monsters, but...)
+Deathmatch 2-4 Player   : ONLY WAY TO PLAY!!!
+Difficulty Settings     : Not implemented
+New Sounds              : Yes (portions of EVILSND2.WAD)
+New Graphics            : No
+New Music               : Of course...original map02 music was boring!
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Doom2, map02
+Editor(s) used          : Edmap 1.31; NWT for sound/music replacement
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels, as I might!!  
+
+You MAY distribute this WAD file in any format, as long as this file is 
+included intact.
+
+* Where to get this WAD *
+
+KCE bbs             214-613-0992
+Code Red bbs        214-424-4702
+AOL (when they finally get it available)

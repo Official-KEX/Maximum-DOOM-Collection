@@ -1,0 +1,62 @@
+===========================================================================
+Title                   : M_ROOM.WAD
+Date Finished           : May 13, 1995
+Author                  : Kevin Searle (aka Monolith)
+Email Address           : ksearle@connect.net
+Misc. Author Info       :  He hates authoring wads (read: lazy)
+Description             : This is not an original level! I modified someone else's! I take abolutely no credit in the
+                         design of this wad. The original was unique and fun as hell, but I grew tired of the same
+                         old weapons and look, so I "made" this.
+Additional Credits to   :  The original wad, j_room4.wad, was created by Jordan Russel.
+===========================================================================
+* Type of DOOM or DOOM II file*
+
+(Choose One)
+New level WAD           : Yes
+Sound PWAD Only         : No
+Music PWAD Only         : No
+Graphic Addon Only      : No
+Dehack Patch Only       : No
+.LMP Only               : No
+Other                   : No
+
+* Play Information *
+
+Map #                   : Map 8 (For DOOM II version 1.9)
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2 Player   : Yes
+Deatmatch 3-4 Player   : Hell Yes !
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Music               : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Modified j_room4.wad
+Build Time              :  A few minutes
+Editor(s) used          :  DCK
+Known Bugs              : None
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels seeing as how I modified someone else's made-from-scratch level.  
+
+You may do whatever you want with this file.
+
+
+* Where to get this WAD *
+
+How you managed to get this file without the wad amazed me.
+
+
+
+
+
+
+
+
+crash worship!

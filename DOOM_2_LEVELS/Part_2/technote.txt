@@ -1,0 +1,27 @@
+This file contains some technical information on DFE.
+
+If you are using EMM386 and wish to use the Sound Blaster WAD sound player,
+you will want to add D=64 to the command line of EMM386.EXE in your
+config.sys file.  This will prevent EMM386 from crashing on you when you
+attempt to play a sound that is greater than 32k in length.  Note for SCSI
+users: you may already have the D= parameter set for EMM386, as long as
+this number is 64 or greater, it does not need to be changed.
+
+If you have a copy of DFE 3.00 and you are using a Novell Network, STOP!!!
+Use 3.10 instead.  I was not thinking when I wrote the loader program for
+DFE 3.00.  Its loader uses what is probably the most crutial interrupt in
+Novells API for itself.  3.10 corrects this problem.
+
+There is still one known conflict with DFE:  It is not compatible with
+DoubleDos  (Not DoubleSpace!).  DoubleDos is a multitasking addition to DOS
+similiar to DesqView.
+
+MS Windoze users:  DFE is not designed to be executed under windows!  It will
+for the most part work corretly, but certian features, such as IPXFER and
+the Sound Player, are very much DOS oriented.  I have receive comments that
+IPXFER will cause problems with Windows 3.11 for Work Groups and will some
+times cause problems with other LAN (Novell, etc) operations under windows.
+
+For most functions of DFE, a mouse is required, This includes the Map viewing
+options.  The ExeHacker does not require a mouse, but it is HIGHLY recoomended
+that you use one.

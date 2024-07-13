@@ -1,0 +1,44 @@
+
+THIS IS IT! ONE OF THE BEST DOOM2 WADS YOU WILL EVER FIND!
+DESIGNED FOR DEATHMATCH, BUT STILL GREAT FOR COOPERATIVE OR
+SINGLE PLAYER MODE! 
+================================================================
+Title                   :JAILBREAK!
+Filename                :JAILBRK.WAD
+Author                  :DAVE YERGEAU   
+Email Address           :THE SHOCK! BBS 802-868-5274
+Description             :YOU'VE JUST DECIDED TO MAKE A BREAK FOR
+                         IT, AND THE WARDEN IS DETERMINED TO STOP
+                         YOU! OUTSTANDING DOOM2 MAP 10 WAD!
+Additional Credits to   :BOB BRUNO (DR. DOOM) @ THE SHOCK! BBS
+                        :MY 12 YEAR OLD SON, JOSH...DOOMER SUPREME!
+================================================================
+         * ONLY FOR USE WITH DOOM2 V 1.666 AND ABOVE *
+
+Episode and Level #     : E2M2            
+Single Player           : Yes   
+Cooperative 2-4 Player  : Yes   
+Deathmatch 2-4 Player   : Yes   
+Difficulty Settings     : Yes                
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : NO
+
+* Construction *
+
+Base                    : New level from scratch!
+Editor(s) used          : DEU2 V 5.21
+Known Bugs              : THERE ARE NO BUGS!
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+BBS numbers: THE SHOCK! BBS 802-868-5274
+
+
+

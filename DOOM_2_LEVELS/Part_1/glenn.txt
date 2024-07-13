@@ -1,0 +1,82 @@
+================================================================
+Title                   : The Cookie Monsters Deathmatch
+Filename                : GLENN.WAD
+Author                  : The Cookie Monster (Glenn)
+Email Address           : misc199@csc.canterbury.ac.nz
+
+Description             : clean deathmatch level
+
+Additional Credits to   : Justin Fisher for answering my questions and id's 
+artists, I love your work. (Do you have some Gifs or something higher res of
+those awsome monsters?)
+================================================================
+
+* Play Information *
+
+Map#                    : Map 01 - DOOM ][
+Single Player           : No
+Cooperative 2-4 Player  : Yep - dunno why you would want to.
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Implemented
+New Sounds              : Yep (1)
+New Graphics            : Yep (5)
+New Music               : No
+Demos Replaced          : None
+Secrets                 : one (though it's not defined as a secret)
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DOOMCAD 5.0 & its utils + DeuTex
+Known Bugs              : none - well, the death sound is supposed to be said
+											by the killer, not the killed.
+
+* Rights *
+
+If you want to modify the level could you contact me first please.
+You can distribute this level as long as you keep this text file with it.
+
+* Misc info *
+
+Having played deathmatch, there were several things I hated which drove me 
+to make this level, for privacy purposes some names have been changed, any 
+resemblance to real people is an uncanny co-incidence:
+1) Free Frags - you press space and teleport right infront of Bobs super 
+shotgun, bummer. In my level you start in safe places that can't be accessed 
+once you have left them. Each start position has two exits so that they can't 
+be guarded.
+2) Being chased by Bobs plasma gun when you only have a pistol - I believe
+everyone has the right to bear at least a shotgun. There are weapons *very*
+close to each start position (Its a good idea to know where before you play)
+3) Ambushing megaweapons - game gets a bit tedious when Bob waits for me to
+get a big weapon and then blasts me when I try - most weapons can be approached 
+from more than one direction in this level and the ones that can't are not in 
+positions to stage an ambush.
+4) I'm kick'in Bobs butt, he doesn't like it so he ends the level - two people
+are required to end my level.
+
+The level is not too big, but it's big enough to allow you to fight when you 
+want - not before you are ready (A problem I have with small DM levels)
+
+* Hints *
+
+1) Learn the teleports, sure there are a lot of them, but if you know them 
+you have a huge advantage over someone who doesn't. The Super Shotgun for
+instance can only be approched from one very ambushable position unless you 
+know of a certain teleport
+2) If you see a soul sphere, dont bother, it's impossible to get. If by some 
+gymnastic feat you *do* manage it, you'll never get out again and have to yell
+for a mercy killing. This is a tip to reward you for reading all my ramblings.
+3) Some potions give you more than 1% health.
+4) On ultra violence this is designed to be played with respawn of objects and 
+monsters (dont worry about the 2 monsters - they are there for ammo!). The 
+health and ammo is enough so that even on respawn it gradually goes down.
+Easier levels just have more health and ammo scattered about the place.
+
+This is my first WAD but I have put effort into matching textures and using 
+different ones ie I dont think it's beginners crap - there is no startan 
+anywhere (well ok, thats because I replaced it) and since it's my first work 
+I am very interested in your comments.
+
+DOOM ON
+The Cookie Monster

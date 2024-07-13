@@ -1,0 +1,51 @@
+
+================================================================
+Title                   : DITCH.WAD   
+Author                  : Adam Falwell
+Email Address           : aegb98b@prodigy.com
+
+Description             : I Would Recommend This For Deathmatch Only.
+                          There IS A Way Out Of Every Pit.  
+                          
+Misc Game Info          : This Is The Second Release Of My PWAD.
+                          I Fixed One Hall Of Mirrors Bug I Found.
+
+Additional Credits To   : Christos Vagenas And Ryan Falwell 
+                          For Their Input And Suggestions.
+================================================================
+
+* Play Information *
+
+Level #                 : MAP01            
+Single Player           : I Played This Alone For A While But Not Much Fun.
+Cooperative 2-4 Player  : Fun For The 1:30 Seconds That It Lasts.
+Deathmatch 2-4 Player   : Yes Specifically Designed For This.
+Difficulty Settings     : BIG Diffrence Between Level 1 And Level 4
+New Sounds              : Yes (Smells Like Teen Spirit by NIRVANA)
+New Graphics            : No
+
+* Construction *
+
+Base                    : Scratch
+Build Time              : About 6 Hours (Perfected)
+Editor(s) used          : DoomEd And Waded 
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors May NOT Use This Level As A Base To Build Additional
+Levels Unless Givin Permission By Me.  
+
+You May Do Whatever You Want With This File As Long As It Doesn't 
+Get Uploaded To Any Site.
+
+
+* * * Get Your Pal Bonus * * *
+I Bet You Were Wondering How To Get Into That Plasma Area. Heres How:
+There Is A Secret In The Corner Of The Main Room With A Ton Of Rockets. 
+There Is A Warp To The Top Pedestal In It. Tell Him To Download This 
+And He Probably Won't Be As Smart As You Were To Read This Before Playing. 
+Wait Till Hes Down The Pit Then Run On In!
+MAKE SURE HES NOT LOOKING!!
+PS: No Escape From Plasma Area!

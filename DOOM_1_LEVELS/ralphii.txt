@@ -1,0 +1,29 @@
+RalphIIb (r.wad) collected by Ralph (Hat Trick) Evans (revans@kaiwan.com)
+This is an improved version of Ralphii & Ralphiia.  4 wads were replaced.
+This is a deathmatch collection that replaces 30 levels in Doom2.
+Levels 1-24, 26 & 28 were Doom 1 levels.  Level 26 was pretty well
+reworked by Kevin Roels.  He also created Levels 27, 28 & 30 along
+with the sounds & control panel replacement bar.
+
+Play using "doom2 -file ralphii.wad".
+
+Level:
+1   Gus (redone by Wayne Roberts)     16 Badboy
+2   Spunk                             17 Gog2x
+3   Ultim                             18 Showdown
+4   Super33                           19 Markroom
+5   Zrat                              20 Nemodm
+6   Infinity                          21 Ayrton_2
+7   Pdeth (level 1)                   22 Warzone4
+8   Amadeus                           23 Ledges4i
+9   Pdeth (level 2)                   24 Dmatch1 1st level
+10  Arena11                           25 G50 (New York Subway)
+11  Wire2                             26 Dmtown
+12  Slapme                            27 D-3 (Also known as Domain)
+13  Pdeth (level 3)                   28 23Castle
+14  Trunk                             29 Raven1
+15  Acheron                           30 Dandd
+
+  Thanks to all the great wad authors & especially Kevin Roels!
+  Sirdoom all the way!  Id has changed the face of gaming.
+

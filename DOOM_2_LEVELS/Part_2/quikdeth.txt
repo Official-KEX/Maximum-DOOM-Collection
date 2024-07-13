@@ -1,0 +1,53 @@
+================================================================
+Title                   : QUIKDETH.WAD
+Author                  : Patrick Steele
+Email Address           : psteele@netcom.com
+Misc. Author Info       : Used my own editor.  It's powerful and easy
+                          to use, but isn't polished enough for general
+                          release.  Maybe someday....
+
+Description             : This is a DeathMatch frag fest!  Lots of weapons,
+                          good layout, room to run, and a few teleporters
+                          for a quick getaway.  Even a few ambush spots
+                          for real fun!
+
+Additional Credits to   : DEU authors (I'm using their find sector routine
+                          in my editor).
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01
+Single Player           : Yes, but boring
+Cooperative 2-4 Player  : Yes, again boring
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : No
+Monsters                : No
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 3 to 4 weeks
+Editor(s) used          : My own editor, BSP 1.1, BSP 1.2x
+Known Bugs              : none
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites (soon): alt.binaries.doom,ftp.cdrom.com,ftp.idsoftware.com
+
+BBS numbers: The GameNet BBS, 1-810-816-9191
+             Running APCi Multiplayer Game Server

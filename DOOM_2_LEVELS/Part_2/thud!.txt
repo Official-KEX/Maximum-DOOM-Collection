@@ -1,0 +1,39 @@
+================================================================
+Title                   : THUD! (ChrisK WAD for Doom ][)   
+Filename                : THUD!.WAD v1.1 (corrected text)
+Author                  : Christen David Klie
+CompuServe Address      : 74767,3615
+Additional Credits to   : Gerri, Michael & Megan Klie
+                          Mark & Matt Borczon
+                          Mal Blackwell (for inspiration)
+                          John W. Anderson (inspiration part 2)
+================================================================
+
+* Play Information *
+
+Levels Replaced         : MAP01; MAP02; MAP03;
+                          MAP04; MAP05; MAP06;
+                          MAP07; MAP08; MAP09.
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New levels from scratch
+Editor(s) used          : DEU ][ v1.0 by R. Quinet, B. Wyber & Adler
+                          BSP v1.0 by C. Reed
+
+* Copyright / Permissions *
+
+Authors may NOT use this WAD as a base to build additional levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.

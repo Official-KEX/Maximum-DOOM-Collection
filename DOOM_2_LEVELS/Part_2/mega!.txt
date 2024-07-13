@@ -1,0 +1,60 @@
+===========================================================================
+Title                   : Mega!
+Date Finished           : 3/15/95 
+Author                  : Will Pendleton
+                          Carlos Cardenas
+Email Address           : None
+Other Files By Author   : HELLYEAH.WAD
+Misc. Author Info       : See you on Dallas DWANGO
+                          
+Description             : *EXCELLENT* re-make of map 1. We included some 
+                          great new sounds too... We really didnt add on 
+                          much, we just took what was there and expanded 
+                          on it..There is a hidden soul sphere..good luck!
+                          (And maybe a Megasphere. I think I forgot.)
+Additional Credits to   : 
+===========================================================================
+* Type of DOOM or DOOM II file*
+
+(Choose One)
+New level WAD           : No
+Sound PWAD Only         : No
+Music PWAD Only         : No
+Graphic Addon Only      : No
+.LMP Only               : No
+Other                   : Yes, new sounds added (thanks to Carlos)
+
+* Play Information *
+
+Map #                   : Map 01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes Of course!
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Music               : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Modified level 1
+Build Time              : Hmmm...Bout 10 hrs. 
+Editor(s) used          : Deu2, BSP 1.0
+Known Bugs              : none..lemme know if ya find any..
+
+* Copyright / Permissions *
+
+Authors NOT use this level as a base to build additional
+levels. (Unless you have authors Premission)  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+BBS numbers:                          
+KCE: (214) 613-0992
+Code Red: (214) 424-4702

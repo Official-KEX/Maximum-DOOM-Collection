@@ -1,0 +1,21 @@
+File Name:      wax2.zip
+Contents:       wax2.wad(doom2 deathmatch wad) , kokoguns.deh, wax2.txt
+Author:         Kyle Ver Steeg
+E mail:         kverstee@blue.weeg.uiowa.edu
+=============================================================================
+Discription
+=============================================================================
+        Here it is, wax2, the sequal you have been asking for.  In response 
+to the many letters I recieved concerning wax.wad, I made this level.  You
+will find that the layout of wax2 is very similar to wax.  There are multiple
+ambush sites, tons of tricks and a few traps.  There is also a pretty neat
+subway section for you to play in (don't piss on the middle rail!!!)
+        I also included a weapons patch, kokoguns.deh, named in the dishonor
+of a toy poodle that I hate.  The patch basically just converts the pistol
+into an autopistol which fires twice as fast, makes the shotgun into an 
+assault shotgun, and the chaingun into a minigun reminicent of T2.  To use it
+you will have to download dehacked (DHE23.zip) and follow the instructions
+listed in dehacked.hlp.  Have fun,
+                                        KVS
+
+

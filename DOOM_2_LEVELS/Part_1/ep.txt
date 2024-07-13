@@ -1,0 +1,50 @@
+============================================================================
+Title                  : EP  
+Filename               : EP.WAD
+Author                 : Julian Peterson
+Email Address          : julianp@atlas.otago.ac.nz
+Misc. Author Info      : what do you care?
+
+Description            : DEATHMATCH EPISODE
+                         Made for when Stefan and I only had 386's, so as a
+                         result most levels are very small. We have since
+                         upgraded, but still play them as they are real good
+                         for massive amounts of combat.
+                         There is also an excessive amount of monsters, on
+                         some levels, the idea there was to off set any 
+                         advantage with weapons across each level.
+                         With a choice of exit, the left is always the secret.
+
+Additional Credits to  : id for um something...
+                         Stefan Seager, Henry Knowles, Stephen Bacon,
+                         Brent McClintock, Simon Peterson for playtesting.
+============================================================================
+
+* Play Information *
+
+Episode and Level #    : E1M1 -> E1M9
+Single Player          : Yes, if you are keen, but that's not the idea
+Cooperative 2-4 Player : Yes, but amazingly boring I would guess
+Deathmatch 2-4 Player  : Yes (designed for 2 originally, but 4 is cool if 
+                         you are a mass carnage freak)
+Difficulty Settings    : Not implemented
+New Sounds             : YES (smart-gun, stolen from Aliens, love that sound)
+New Graphics           : No
+New Music              : No
+Demos Replaced         : 1 (3 player DeathMatch)
+                       
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21
+Known Bugs              : For Shame!
+
+
+* Copyright / Permissions *
+Do whatever you want with this file, see if I care.
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com
+

@@ -1,0 +1,74 @@
+
+================================================================
+Title                   : Jump to your Death!
+
+Filename                : jump.WAD - Doom one version
+
+Author                  : Ross A. Carlson
+
+Email Address           : setc@together.net
+
+Web Page for wad project: http://together.net/~setc/thewad.html
+
+Misc. Author Info       : Hardcore, hopeless, terminal Doom
+                        : Deathmatch addict.  Author of a few Wads.
+                        : Co-ordinator of Trials & Tribulations
+                        : Superwad project (see my Web page, or Wad
+                        : team mailing list)
+
+Description             : Large room in the middle, where all the
+                        : action is.  Several raised ledges around
+                        : the perimeter of this room, where the start
+                        : points, and the weapons are.  Also some
+                        : connecting passages around the outside.
+                        : We have literally hundreds of hours on this
+                        : level.  It's fast.  IT ROCKS.  Nuff said.
+
+Suggestions for Play    : The start points are considered safe zones,
+			: or at least they are when we play.  But, as
+			: soon as you step forward into the hallway
+			: that connects to the pit, you are fair game.
+			: This works well for our games, and keeps
+			: the "cheap" frags to a minimum.
+
+Additional Credits to   : Bennet Deliduka for providing the network
+			: that sucked my life away
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : jump.wad - E1M1
+Single Player           : Yes, but no monsters
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Deu 5.21, BSP
+Known Bugs              : None Known Of
+
+
+
+* Copyright / Permissions *
+
+Authors may print this file, and put it in your bird cage.  Oh, you mean
+the wad, oh hell I don't care.  If you use it as a base, just let me know,
+so I can check out the new one, and credit me in your .txt file.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites:
+         ftp.cdrom.com://pub/idgames/levels/doom/deathmatch

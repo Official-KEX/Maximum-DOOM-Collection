@@ -1,0 +1,66 @@
+================================================================
+Title                   : SEWERS.ZIP
+Authors                 : David Calvin & David Blanshine
+Email Address           : calvid@rpi.edu & blansd@rpi.edu
+Misc. Author Info       : This is our first WAD, but it is
+                          bigger and more complex than most
+                          people's first attempts. (146k).
+
+Description             : This is the first level in a new
+                          9 level episode.  A run through
+                          the muck.
+
+Note                    : For those who are unfamiliar with
+                          using PWADs, just unzip this into
+                          your Doom directory and type GO.
+
+Additional Credits to   : Dan Tanguay (tangud@rpi.edu), the
+                          texture alignment God, for
+                          unheeded advice, humor, annoyance,
+                          motivation, inspiration, aggravation,
+                          a little (more than a little really)
+                          help, for smacking Pete upside the head,
+                          and future author of his own WAD.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (but not tested)
+Deathmatch 2-4 Player   : Yes (but not tested)
+Difficulty Settings     : Yes, two.
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Beyond 50...
+Editor(s) used          : DEU 5.0, DEU 5.1, BSP 1.0, BSP 1.1x
+Known Bugs              : No HOMs, all textures aligned, no
+                          other known bugs.
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ocf.unt.edu
+           ftp.wustl.edu
+
+BBS numbers: Atrium Way (201) 984-5555
+
+Other:
+AFS:
+\afs\rpi.edu\home\60\calvid\public
+
+Upload it everywhere!

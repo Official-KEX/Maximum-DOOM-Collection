@@ -1,0 +1,92 @@
+=========================================================================
+Title                   : The Rescue (The Monastery, episode 5)
+Filename                : RESCUE.WAD
+Author                  : Dominique Lavergne
+Email Addresses         : Dominique_Lavergne@email.francenet.fr
+                          100424.3626@compuserve.com
+                          lavergne@dialup.francenet.fr
+
+Description             :   Remember the fourth episode, The Watering-Place.
+                          Gal Mac Porter told you it was the last mission you
+                          had to complete. But he forget to tell you 
+                          something very important. He ordered your brother
+                          to go back to 15th century in the Carpathian
+                          Mountains, and try to strengthen the rebels by 
+                          killing some more Hell Order agents, In spite of 
+                          his promise to keep your brother away from these 
+                          time-travel and risky missions. He is too young to
+                          die.
+                            Coming back to your era, he said that he couldn't
+                          do anything else, and that this mission was a matter
+                          of life and deaf for your rebelion group. He added
+                          that unfortunately he had no news about your brother
+                          for days. So, you to decide to go back there and try
+                          to rescue your brother. You hope he is still alive
+                          and could killed many Hell Order agents.
+                            But a bad thinking borns in your mind : Why did
+                          Gal Mac Porter give such a dangerous mission to 
+                          your brother in spite of his promise, what kind of
+                          reason did he found ?
+                            You must not loose a second, try to rescue your
+                          brother. You'll ask for explanations when you're
+                          back.
+==========================================================================
+
+Installation            :   Quite easy. Unzip the file in your Doom2 
+                            directory and type RESCUE.
+
+Additional Credits to   : Id Software for creating such great games
+                          All of you who create such great tools
+==========================================================================
+
+* Play Information *
+
+Game Type               : Doom 2
+Episode, Level #        : MAP01  
+Single Player           : Yes   
+Cooperative 2-4 Player  : Yes (Untested)
+Deathmatch 2-4 Player   : No, sorry
+Difficulty Settings     : Yes, all 5.
+New Sounds              : Yes
+New Graphics            : Yes
+New Music               : Yes
+Demos Replaced          : None
+
+
+==========================================================================
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : WADED, DEUTEX, MIDI2MUS
+Build time              : About 3 weeks.
+Known Bugs              : None that I know of
+                          
+
+==========================================================================
+
+* Misclaneous *
+
+  Send me your reactions and comments about this Wad, using one of the
+above Email adresses.
+
+
+==========================================================================
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites:
+        ftp.cdrom.com
+        ftp.luth.se
+
+

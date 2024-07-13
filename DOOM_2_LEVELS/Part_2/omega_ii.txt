@@ -1,0 +1,48 @@
+================================================================
+Title                   : OMEGA2   
+Filename                : OMEGA2.WAD
+Author                  : David Davidson
+Email Address           : Leave me a message on Software Creations.
+Misc. Author Info       : Another Doom addict.
+
+Description             : A neat looking map for Doom 2 only.                                    
+* Play Information *
+
+Level #                 : Map01 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : UV, Multiplayer(Extra Monsters)
+New Sounds              : 
+New Graphics            : 
+New Music               : 
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : 
+Editor(s) used          : 1DEU-II, DEU 521GC, IDBSP 1.01
+Known Bugs              : NONE
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+You may do whatever you want with this file.
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:Software Creations
+
+Other:

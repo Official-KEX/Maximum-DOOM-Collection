@@ -1,0 +1,94 @@
+==========================================================================
+Title                   : 4 Towers   
+Filename                : 4TOWERS.WAD
+Author                  : Jeff Larson 
+Email Address(es)       : None at this time
+Misc. Author Info       : I am known as "Carmack" on the Cyberspace
+                          BBS.
+
+Description             : Strictly a Deathmatch level for Doom 2, 
+                          Replaces Level 1.
+
+Credits                 : Beta Testers from the Cyberspace BBS are 
+                          as listed below:
+
+                          Myself (Carmack)
+                          Capone
+                          Isaac the J
+                          Spark-man
+                          Sventech
+                          T Rex
+                          The Mighty Q
+                          Tornado
+
+Thanks very much to these Beta Testers that helped me test and 
+improve my first ever DOOM Level!
+
+A GREAT BIG THANKS TO MY SISTER FOR HELPING ME WITH MANY IDEAS
+AND THE COLORATION OF THIS LEVEL.  I COULDN'T HAVE DONE IT 
+WITHOUT HER!  
+
+Thanks goes to Kevin Roels for supplying me with Deu2c, BSP12X,
+and other miscellaneous utilities which made this level possible.
+
+Also, thanks to Shadow Hawk for helping me with sector closing 
+in Deu2c.  Thanks for supplying me with NWT!  What a great utility!
+==========================================================================
+
+* Play Information *
+
+Level                   : Map 01
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes (Preferrably 3 or 4 players)
+Difficulty Settings     : Use "NIGHTMARE" difficulty.  Turbo 130 
+                          is suggested.  Use a higher Turbo setting
+                          if the WAD seems slow in a 4 player game.
+
+New Sounds              : Yes (Chaingun and Plasma Gun Sounds)
+New Graphics            : No
+New Music               : Yes
+Demos Replaced          : None 
+
+* Construction *
+
+Base                    : New level from scratch!
+Editor(s) used          : Deu2c v6.66á and the BSP12X node building 
+                          utility made by Colin Reed.
+Known Bugs              : Deu2c has a bug when switching through
+                          the modes with the TAB key.  The program
+                          will sometimes exit to DOS when TAB key
+                          is used.  
+
+                          Memory available greatly decreases after
+                          node building.  Using BSP12X should alleviate
+                          this problem.  Answer no when Deu2c asks
+                          you to build the nodes, exit to DOS, and use
+                          BSP to build them.  
+          
+Known Functionality     : Deu2c is a great utility and has many more 
+                          textures and things than Deu2!  It has been 
+                          a great utility to make/edit Doom 2 levels!  
+                           
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels without prior permission.  
+
+You MAY distribute this WAD, provided you include all of the
+files herein this archive, 4TOWERS.WAD, 4TOWERS.TXT and FILE_ID.DIZ 
+with no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include these files 
+intact.
+
+* Where to get this WAD *
+
+FTP sites    : Wherever it may have been uploaded
+
+BBS numbers  : Cyberspace BBS (714) 838-8100, (714) 559-8100 
+               (Previously known as the K2 BBS).
+
+Other        : Wherever it may have been uploaded
+
+Look for upcoming levels soon to be made!

@@ -1,0 +1,46 @@
+===============================================================
+
+Title                   : RIDER02.WAD
+Author                  : Ryan Feltrin
+Email Address           : 9307923J@levels.unisa.edu.au
+
+Description             : A VERY small DeathMatch level. But after playing
+                          the same level for hours and hours, I decided
+                          to leave it `AS-IS'. I hope you find it just
+                          as fun.
+
+Misc Game Info          : What you see is what you get in this level. No
+                          secrets at all. I think this level shows the TRUE
+                          skill of each player.
+
+Additional Credits to   : ID Software.
+                          Ben Morris, author of DCK.
+
+================================================================
+
+* Play Information *
+
+Map  Level #            : Map 02
+Single Player           : <yawn>
+Cooperative 2-4 Player  : yeah, right.. what a geek!
+Deathmatch 2-4 Player   : Oath!
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : Nothin but a grid.
+Build Time              : Who cares?
+Editor(s) used          : DCK 2.2 (a GODly program)
+Known Bugs              : Uh uh, no way! I hate buggy levels!
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels, if they
+have a spare PC to donate !!
+
+Have FUN!
+ 
+úJRú

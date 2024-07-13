@@ -1,0 +1,13 @@
+This is strictly Deathmatch. No monsters are included.
+Plenty of weapons, fake walls, ambush areas.  Just about 
+room has 2 exits with exception of the ammo rooms and
+1 of the perches. In order to start player one has got 
+to throw the switch directly in front of him. The slime 
+doesn't damage because apparently nobody likes that in
+Deathmatch so that's why.  There is no exit so either 
+you can add one and wad merge with another one or just
+play it till it hurts.  Obviously ID software has no 
+idea i even exist no less support this wad. This is a 
+DOOM 2 wad.  Unzip into your DOOM2 dir and to run its
+-file megadeth.wad....you know the drill.
+---------------Tango X@aol.com

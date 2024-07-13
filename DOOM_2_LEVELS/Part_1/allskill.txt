@@ -1,0 +1,73 @@
+===============================================================
+Title                   : ALLSKILL.WAD (All Skills Required Deathmatch) 
+Author                  : The Immortal
+Email Address           : wl-the_immortal-web@society.com
+                          
+Description             : This level was designed for a good deathmatch
+                          game where you can expirence fragging more often
+                          than just once in a while. I added a few monsters
+                          incase you would like to play Deathmatch w/monsters
+                          on skill 5 so they would respawn (for a lil' twist)
+                          The rest of the wad is explainatory and easy so you
+                          should find yourself fimular with that wad on your
+                          first time.      
+           
+Misc Game Info          : DOOM II WAD. This WAD has a little bug on mini-tower
+                          in the middle, but you shouldn't notice it because
+                          you'll be too busy fragging other doom wanna be's.
+                          This WAD has tested for over 1+ hours ;). 
+                          It should run fine on a 386 or a 486. 
+                          If it does not work, then your computer is SCREWED, 
+                          if it isn't your computer, then YOUR SCREWED! ;)
+
+Additional Credits to   : Special thanks goes to John Romero for making
+                          the best game on the face of the earth! Yep, i can't
+                          get enuph of it! Also IVS for bringing out the
+                          best doom/heretic/misc multi-player interface
+                          ever created! (Death to all Multi's) This
+                          WAD was created for all the people on DWANGO!
+
+================================================================
+
+* Play Information *
+
+Mape Level #            : Map 01            
+Single Player           : NO WAY! (Unless your a loner)  
+Cooperative 2-4 Player  : Urk, ya right. (You and your partner(s) are gay)
+Deathmatch 2 Players    : Yes, what am i Joking! OF COURSE!
+Deathmatch 3-4 Players  : DEFINATELY THE BEST (What the wad was designed for)
+Difficulty Settings     : Help yourself ;)
+New Sounds              : Yes (OH YES!)
+New Graphics            : No (Next wad will have 4 sure)
+
+* Voices *
+
+The voices that I added were all my voice. Incase you can't make them out
+then here its the text for it.
+
+When Player Dies : "NOOOOOOOOOOOOOOOOO!" or the regular scream (random)
+When Player Splats : "BAAASSSTAAAARRRD!!"
+When Player gets hurt or shot : "Hey! That HURTS!"
+When Player hits ground from higher place (jumps) : "Ouch, thats gotta hurt!"
+
+
+* Construction *
+
+Base                    : Scratch
+Build Time              : About 40 mins for wad, 20 mins for voices 
+                          and importing and testing.
+Editor(s) used          : EDMAP 1.40 (RULES), DMAUD (Wish they had 
+                          one for Doom2 or is there already one for it?)
+Known Bugs              : Completely Bug Free
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels.
+
+You may distribute this level only as it is, no modifications can be made
+to the WAD or the TXT file you are reading.
+
+This wad can be downloaded of Worth Every Byte (905) 738-1077
+
+

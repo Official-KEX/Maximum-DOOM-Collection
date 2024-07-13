@@ -1,0 +1,125 @@
+================================================================
+Title                   : CROSSING ACHERON 2
+Author                  : John W. Anderson (aka Dr. Sleep)
+E-mail Address          : drsleep@hooked.net;75211.1113@compuserve.com
+
+Additional Credits	: Rapha‰l Quinet and Brendon J. Wyber for DEU 5.21;
+			: Colin Reed for BSP v1.1w (can't DEU without it);
+			: Peter Monks for TED/Doom Endoom Data Editor 1.2
+			: War Machine for endless Deathmatch tests (am I 
+			  getting any better?); 
+			: Terry C. Ramey and Sebastian Kirke for BETA critiques
+			  and other witty and useful suggestions;
+			: Patrix for being such a swell guy;
+			: My pal Howard "Desdinova" Rider for his patience;
+			: Morgana and all the folks in Gamers;
+			: Nicholas Bell, who started it all with DOOM PITS;
+			: And, of course, those id guys
+
+Description             : CROSSING ACHERON is the second level in the INFERNO 
+			  series.  Having passed through DANTE'S GATE and 
+			  survived, you now find yourself in a keep on the
+			  shores of the river Acheron. This is the second 
+			  leg of the journey in your search for Beatrice. 
+			  Your guide, Virgil, is nowhere to be found. 
+			  "He's buggered off!" you think to yourself; but 
+			  you have no time now to even think: you are
+			  immediately challenged by several Demons, and in 
+			  the distance you hear the eerie purring of the 
+			  Arch-Vile. (Just be sure not to stare at him for 
+			  too long before you start running.)  As usual, 
+			  you dispatch what fiends you may and begin the 
+			  task at hand.
+
+			  Your goal?  To get the hell out of this place as
+			  quickly as possible and find your beloved Beatrice.
+			  You only hope that she has already passed through
+			  this hell-hole to a safer haven beyond.  If only
+			  you could hold her in your arms again, you know
+			  what you would say:
+
+			  "Give me some sugar, Babe."
+	 		  
+			  CROSSING ACHERON (pronounced 'ak eron) is the second
+			  level in a series that began with DANTE'S GATE. The
+			  third is VIRGIL'S LEAD. For any of the two or three 
+			  of you out there who have read Dante Alighieri's 
+			  THE DIVINE COMEDY -- or even only "Inferno" -- 
+			  I'm sure you've been able to appreciate the many 
+			  allusions to this work in DOOM. I have tried to 
+			  take a tack of my own along the same lines. (I do
+			  this not only because I think the idea is neat, but
+			  so that people will think that I'm very clever.)
+			  I'm not so na‹ve as to expect everyone to rush out
+			  and get a copy of "Inferno" (I mean, it IS pretty
+			  tedious stuff, at times), but it's well worth the
+			  read -- and a little patience is a virtue that is
+			  often well-rewarded.
+
+			  (By the way: Acheron is a river in Hell (basically).
+			  But don't look for any rivers in here: I tried it
+			  several different ways and just wasn't convinced.)
+
+			  Thanks.  Hope you like it.
+
+Instructions		: Put ACHERON2.WAD in your DOOM directory, type
+			  "doom2 -file acheron2.wad -warp 3 -skill <#>"
+			  (Or, to play moderately at first, also put the file
+			  ACHE2.BAT in your DOOM directory and type ACHE2.)
+  			  To play the DEMO, just type DOOM2 -file acheron2.wad,
+			  sit back, and enjoy the show.
+			  
+Disclaimer		: I assume no responsibility for anything of any sort
+			  in any way, shape, or form--now, then, henceforeward 
+			  in this life (or the next several) for any screw-ups
+			  or even minor inconveniences this PWAD causes you,
+			  your family, your relatives, friends, ancestors,
+			  associates, employers, pets, neighbors, lovers,
+			  congressional representatives, nor any other person--
+			  living, dead, or undead -- that you have or will ever
+			  have any contact with in even the slightest form.
+			  This PWAD has been tested and tested ad infinitum, so
+			  it shouldn't mess with your computer or anything else
+			  remotely associated with it.  But if it DOES, then
+			  that's the way the cookie crumbles. Don't come cryin'
+			  to me.  It must be something YOU did.  If you don't
+			  like it, lump it. (I ran out of clich‚s.) 
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : All
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : DEMO1
+
+* Construction *
+
+Base                    : Remake of CROSSING ACHERON for DOOM 1.xxx
+Build Time              : A really, really, really long time	 
+Editor(s) used          : DEU 5.1, 5.21, and 5.21GCC by Rapha‰l Quinet
+			  & Brendon J. Wyber, DEU-ii by ADLER
+Known Bugs              : Rush Limbaugh <g> (none that I know of)
+Unknown Bugs		: How would I know if they're unknown?  Please tell me.
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels. Please.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+CompuServe, Gamers+ Forum, Library 8 (Action Game Aids).
+The Four Winds Bar BBS (412) 437-4521 -- Desdinova, Sysop; Dr Sleep, co-sysop.
+
+
+(This information form was provided as AUTH_WAD.TXT v1.2 with DEU 5.1.)

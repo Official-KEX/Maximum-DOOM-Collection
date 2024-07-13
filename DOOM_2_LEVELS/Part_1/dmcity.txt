@@ -1,0 +1,47 @@
+================================================================
+
+Title                   : Death Match City
+
+Filename                : DMCITY.WAD
+
+Author                  : Sam Lopresti
+
+Description             : The Best Deathmatch Level Ever!
+
+Additional Credits to   * All of the people at ID Software
+                        * Matthew Ayres (The maker of the best editor)                   
+                        * Dale Keiper (Countless hours of playtesting)
+
+================================================================
+
+* Play Information *
+
+Doom][ Level #          : MAP01
+Single Player           : NO
+Cooperative 2-4 Player  : NO
+Deathmatch 2-4 Player   : YES
+Difficulty Settings     : NO
+New Sounds              : NO
+New Graphics            : NO
+New Music               : NO
+Demos Replaced          : NONE
+Bugs                    : NONE 
+
+* Construction *
+
+Base                    : Scratch (Approx. 25 Hrs total construction)
+
+Editor(s) used          : Waded v1.42 (The best version so far!)  :)
+                        
+
+* Copyright / Permissions *
+
+ Authors ** MAY NOT ** use these maps as a base to build additional
+maps.  
+ 
+ You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+

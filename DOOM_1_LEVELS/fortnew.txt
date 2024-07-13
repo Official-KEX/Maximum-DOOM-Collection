@@ -1,0 +1,33 @@
+Fortnew.wad is an example of what the registered version of the
+object placer can do.
+
+FORTNEW.WAD contains the same map and is based on FORTRESS.WAD which 
+can be found on the D!ZONE disk.  Just to prove to the skeptical that
+the generator can handle large WADS and the placement of hundreds of 
+objects.
+
+The machine I used wad a 486BL75 with only 458KB of free memory, my network
+software hogs memory, you don't need much memory to use the generator.
+It took about 45 seconds to generate, then I played the level. 
+
+I issued the following command at the dos prompt:
+
+DMOP.EXE datrwop1.dat e:\levels\pwads\fortress.wad gzero.rw fortnew.wad E1M1 E1M1 100P 45936
+
+E: is my cdrom drive.
+
+I played through FORTNEW and enjoyed it, you have to get the weapons
+and health before you try to get the BLUE key.  The maze is filled with
+monsters that will sneak up on you.
+
+Keep in mind while you play Fortnew that you can redo all your 
+DOOM patchwads or original levels with my generator and have a fresh
+DOOM everyday.
+
+To load FORTNEW copy FORTNEW.WAD to your DOOM 1 directory and type:
+
+DOOM -FILE FORTNEW.WAD
+
+Have fun!
+Dusty Bedford
+

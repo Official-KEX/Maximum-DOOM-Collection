@@ -1,0 +1,47 @@
+================================================================
+Title                   : Quad (couldn't think of anything better)
+Filename                : QUAD.WAD
+Author                  : Gary Marsh / Genesis (my PWAD group)
+Email Address           : gmarsh@mini.ultratel.com
+Misc. Author Info       : Designed a PWAD named QUAD.WAD?
+Description             : One of my many geometric-shaped levels. For
+                          deathmatch play only.
+Additional Credits to   : The World
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : But of course!
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : Yes (you'll like them...)
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Time                    : Around 2 hours
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21gcc, BSP 1.2x, DMGRAPH, Wad Master,
+                          Windows Paintbrush (yay), Paint Shop Pro
+Known Bugs              : Sometimes players will not start in the
+                          area with the plasma rifle.
+
+* Copyright / Permissions *
+
+Authors *MAY NOT* use this level as a base to build additional levels.
+It's my wad (my 1 hour of work..), and I don't like to see somebody
+ripping off someone else's work. Also, I like some variety in levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+ftp.cdrom.com
+ftp.idsoftware.com

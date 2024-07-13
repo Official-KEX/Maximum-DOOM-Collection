@@ -1,0 +1,47 @@
+================================================================
+Title                   : THE ARENA   
+Filename                : ARENA.WAD
+Author                  : BluMoose
+Email Address           : Just write to blumoose at AOL
+Misc. Author Info       : 
+
+Description             : Made with DEATHMATCH in mind...
+                         Got kinda carried away with size, It would have
+                         been larger but I seemed to have run out of 
+                         conventional memory.Thats why the large east room
+                         is incomplete, the goodies are there but the 
+                         workers never finished unpacking the crates.
+                         They've done a lot of overtime and they're not 
+                         in a good mood,so be careful in there.
+                         The game has been tested with a multiplayer
+                         network, It's likely to be
+                         a hard one on your own....
+		
+		UPGRADE! : VOID THE PREVIOUS PARAGRAPH!
+		I got ahold of EDMAP and converted the place for 
+		doom II. It is now virtually impossible in
+		single play mode. I never did finish that east wing...
+                BONUS!!! I threw in a modified e1m1 from doom 1 
+		upgraded for DOOM II!!
+================================================================
+Episode and Level #     : E1M1
+Single Player           : Yes? / Not recommended
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes !
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No T2.wad works well (terminator2 music)
+Demos Replaced          : None
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.2/BSP 11x/EDMAP
+Known Bugs              : tried to weed out most of them, but if you see
+                          one let me know
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.

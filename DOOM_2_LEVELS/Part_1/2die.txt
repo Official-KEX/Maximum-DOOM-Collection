@@ -1,0 +1,94 @@
+================================================================
+Title                   : 2 Die
+Filename                : 2DIE.WAD            date: (5/6/95)
+
+Author                  : Neil R. Bonner
+Email Address           : nrbonner@ffx.mobil.com (primary)
+                          neil.bonner@swcbbs.com (secondary)
+Misc. Author Info       : Designer of AUGUST.WAD, LEDGES-X.WAD
+
+Description             : An incredible 2 player deathmatch wad!
+                          If you like a great 3D layout and 
+                          architecture, this level is for you.
+                          Extensively playtested in both 2 and
+                          3 player mode.  Also, supports single
+                          and cooperative play!
+
+Additional Credits to   : My playtesters: Zach R., Steve R.
+                          Neil Ryan, and especially Michael W.
+                          Thanks for the frags, Mike!!!
+                          Source of MUS file unknown. Based on,
+                          "Lullaby" by The Cure.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #                    : MAP01 (Doom II)
+Single Player                          : Yes (skill 3 & 4)
+Cooperative 2-4 Player                 : Yes (skill 3 & 4)
+Deathmatch 2-4 Player                  : Yes (2.0 optimized)
+Recomended # of players (deathmatch)   : 2
+Difficulty Settings                    : Yes
+New Sounds                             : No
+New Graphics                           : No
+New Music                              : Yes
+Demos Replaced                         : None (2 player external
+                                         demo included! v1.9 format)
+
+Monster types : This level is small enough that monsters are not
+                needed in 2 player mode.  However, skill levels
+                1 & 2 support deathmatch with monsters (3 shotgun
+                guys, 1 chaingun dude).
+
+                Single and coop play: Skill levels 3 & 4 supported:
+                Arachnotron (6) (goes with new music <g>), Revenant (1),
+                Hell Knight (1), Mancubus (1), Spectres (3), Heavy
+                Weapons Dude (1), Imps, Former Human Sergeants.
+
+
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Editor: RG DoomED 2.86
+                          Nodes:  DeepBSP 3.1a
+                          Reject: RMB 2.1
+                          Musics: WinTex 3.4
+Known Bugs              : None
+
+
+Additional Description:  In a 2 player game we were getting a frag 
+every 30 seconds!  A 3 (or heaven forbid-- 4) player game is
+pure chaos!  I spent a *lot* of time on the design and layout of 
+this level.  It's designed for deathmatch but single player is a
+real challenge!
+
+Check out the included demo to see how good this level plays.  I 
+have other incredible demos of this level.  On one demo, I BFG Mike W.
+in mid-air as he leaps for the plasma rifle-- you've got to see it
+to believe it!  Email me and I'll sent it to you.
+
+Please, email me with your comments if you like this wad.  Also,
+please send me your best demos of this level!
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+You may do whatever you want with this file.
+
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com (and mirrors)
+
+BBS numbers: Software Creations BBS
+
+Other: CompuServe Action Games Forum

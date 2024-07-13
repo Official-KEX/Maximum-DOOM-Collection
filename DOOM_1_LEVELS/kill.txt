@@ -1,0 +1,15 @@
+Kill.wad
+
+E1M1
+
+DEATHMATCH ONLY
+
+There are no monsters, no poison pits,
+and 2 people must work together to reach the exit.
+
+
+This map is the Anthill.wad without monsters.
+
+The map is based on the Student center and pub at U.C.I.
+
+Kill.txt

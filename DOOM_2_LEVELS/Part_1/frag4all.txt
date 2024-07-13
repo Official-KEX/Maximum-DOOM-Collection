@@ -1,0 +1,110 @@
+================================================================
+Title                   : Frags For All!
+                          A Deathmatch WAD Series designed specifically for
+                          four player deathmatch play. (DOOM II)
+Filename                : FRAG4ALL.WAD
+Author                  : Christian Antkow
+Email Address           : cant@softchoice.com
+Misc. Author Info       : Crazed and devoted DOOM nut who's in search of the
+                          perfect four player deathmatch WAD for network
+                          play. Spends more time on DOOM related activities
+                          than would like to admit :)
+Description             :"Lock the target
+                          Bait the line
+                          Spread the net
+                          and FRAG the man!"
+                          (To paraphrase Front 242's "HeadHunter")
+
+MAP01 - Free For All    : Converted from my original DOOM I deathmatch wad
+                          This was my first "real" deathmatch wad and still
+                          remains as one of my favourites. All weapons are
+                          present, but going for them puts you in a position
+                          to be fragged. Fast paced and crazy.
+MAP02 - Skulker         : This one is Andrew Moore's favourite (fellow
+                          co-worker and DOOM nut). You skulk around in a
+                          dark maze searching for your opponent. Not a very
+                          high-frag level but it lends itself nicely for some
+                          long distance rocket fights or shotgun battles.
+                          The catwalks also make gameplay more interesting by
+                          being able to sneak up on an unsuspecting opponent.
+MAP03 - Hunter          : A very simple rocket WAD. A very high "Negative
+                          Frag" level if you have four players and have an
+                          itchy trigger finger.
+MAP04 - Death To All    : Made this level while totally smashed at an office
+                          party. Had an entire office full of drunk crazees
+                          who wanted to see how long it could take me to
+                          design a deathmatch WAD. Took me an hour to build
+                          this one and we played it well into the wee hours
+                          of the morning. This one is a VERY HIGH FRAG level
+                          and with four players, it's just INSANE!!! This is
+                          my best "Heart-Pounding-Sweat-Building" level to
+                          date. Big thanks go out to my Ingram Micro,
+                          Symantec, Microsoft and Delrina reps for cheering
+                          me on while I slaughtered the other people in
+                          the office...
+MAP05 - Carnage         : Was fooling around with some different ideas in
+                          this one. There are diagonal coridoors connecting
+                          four outside rooms and this one makes for
+                          interesting play. There is a hidden warp in the
+                          centre courtyard where the rocket launcher is
+                          which leads to a lift to a megasphere.
+MAP06 - DeadZone        : A bit of a departure for me. I was messing around
+                          with hidden areas and sniping positions. This one
+                          revolves around a centre room with a lift to a
+                          rocket launcher and around the rocket launcher
+                          are four floating megaspheres. You have to see this
+                          one. This one is probably my best deathmatch WAD
+                          and with four players, it kicks!
+
+Additional Credits to   : Andrew Moore (amoo@softchoice.com) for the
+                          Floating MegaSphere idea on MAP06
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01-MAP06
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : YES, YES, Oh Y E S!!!
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+Build Time              : Well over 200+ hours in total
+Play Notes              : All levels have co-op exits. We've found that it's
+                          also good to play with -TIMER 10 and see who get's
+                          the most frags after 10 minutes.
+
+* Construction *
+
+Base                    : New levels from scratch
+Editor(s) used          : 1DEU-II, DEU2C, EdMap 1.?
+Known Bugs              : On MAP06, as you're going up the rocket launcher
+                          lift, the floors from the invisible sector briefly
+                          "Bleed" but go away and soon as it's out of your
+                          line of sight. Couldn't find a way around this
+
+Thanx to the entire id crew for releasing such a great game. It was worth
+every penny I spent on it and has given me countless hours of enjoyment
+with network and modem play. I look forward to spending my money on Quake
+when it ships in 4th quarter '95 and hope it lives up to the hype.
+
+If you have any comments about these levels, please e-mail me. Tell me what
+you think and if I get good enough response, I'll probably design some more.
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:      ftp.idsoftware.com
+                ftp.cdrom.com
+                ftp.orst.edu

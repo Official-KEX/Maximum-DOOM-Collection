@@ -1,0 +1,42 @@
+================================================================
+Title                   :  One Ball Jay Patch  
+Filename            :  1balljay.zip
+Author                :  Andrew Elliott
+Email Address    : Elliott@teleport.com
+Misc. Author Info       : 
+
+Description             : One Ball Jay is this really badass disco guy from the 70's with a fro.
+
+Additional Credits to   : Aden Catalani for the awsome graphics, and 
+Bill Neisius for Dmgraph and Dmaud.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : (none)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : Yes
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : 
+Editor(s) used          : Dmgraph, NeoPaint and my scanner
+Known Bugs              : 
+
+
+* Copyright / Permissions *
+
+Authors MAY use this as a base to build additional
+things.
+
+You MAY distribute this patch, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+

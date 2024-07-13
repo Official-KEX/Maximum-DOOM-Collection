@@ -1,0 +1,106 @@
+Title                   : Halls of Death I (Episode of deathmatch wads)
+Filename                : hallspro.wad
+Author                  : Jan Ignatius, Osku Salerma
+Email Address           : osku@muncca.fi
+Description             : These levels are designed especially for
+                          deathmatch. They're great fun at even two
+                          players games, but with a LOT of playtesting
+                          we have found out that the more players you
+                          have, the more fun :)
+
+Note                    : We completely re-made level one, and finetuned
+                          the others as well.
+                          Also modified sounds and graphics, and
+                          added a working extract.bat that you can
+                          use to insert the sounds used in this
+                          episode to doom.wad.
+
+-----------------------------------------------------------------
+|If you have any of these, delete them, they're old:            |
+|        -halls.wad, halls2.wad, halls2-[1-9].wad, hallsALL.wad |
+-----------------------------------------------------------------
+
+Additional Credits to   : Raphael Quinet, Colin Reed, for making deu and
+                          bsp.
+
+                          Jari Lanteri, for converting the music on
+                          levels e1m3 and e1m9. And all the other
+                          music authors, whose midi files we picked
+                          out of a large midi-collection. We also
+                          changed them a bit to make them sound better
+                          on GUS. (Note: I don't have a gus and I don't
+                          even intend to get one. Osku :))
+
+* Play Information *
+
+Episode and Level #     : E1M1, E1M2, E1M3, E1M4, E1M5, E1M6, E1M7, E1M8, E1M9
+Single Player           : Yes ( If you use idspispopd to exit and iddqd
+                              ( to survive, and idkfa to get ammo ;-) )
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Graphics            : Yes
+New Music               : Yes
+Demos Replaced          : All
+
+Level-specific notes:
+
+E1M4: There IS a way to exit on your own, but it's too hard for you to
+figure out :) The first one to mail us a demo showing how he/she does it
+gets his/her name on the next release of Halls of Death :)
+
+Also, the first one to walk thru a certain doorway to a specific
+direction gets teleported to a place where there is a lot of goodies
+around. Including BFG. BUT, only one person can get there, and then it's
+gone forever..
+
+E1M2: The only weapons on medium/hard difficulty level are chaingun and
+shotgun. At easy level, there's also a rocket launcher included.
+
+E1M8: This level is actually a co-operative level, but we decided to
+include it anyway :) You can still play it in deathmatch, though, it's
+just not as good in deathmatch as in co-op.
+
+E1M9: To exit press the button behind the plasma, and three areas (
+secret lifts :)) will go down, and you must jump down with them to the
+maze, where you will find the exit switch. )
+
+* Construction *
+
+Base                    : All new levels by us..
+Editor(s) used          : DEU 5.1-DEU GCC 5.2
+Known Bugs              : None that we know of, but let us know if you
+                          find any.
+Time                    : Half a year. That makes about 4320 hours.
+                          Note: We have kept a few breaks :)
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You may distribute this file in any electronic format (BBS, Diskette,
+CD, MD, etc) as long as you include this file intact, and haven't touched
+the zip file.
+
+YOU MAY NOT INCLUDE ANYTHING FOUND IN THIS WAD IN ANYTHING ELSE. YOU
+CAN'T TAKE THE SOUNDS, GRAPHICS, DEMOS, OR LEVELS, OR ANYTHING ELSE, AND
+DISTRIBUTE THEM SEPARATELY. WE'LL SUE YOU IF YOU DO SO!
+
+* Disclaimer *
+
+Halls of Death I is supplied as is. The authors disclaim all
+warranties, expressed or implied, including, without limitation,
+the warranties of merchantability and of fitness for any
+purpose. The authors assume no liability for damages, direct or
+consequential, which may result from the use of Halls of Death I.
+
+In plain English, this means that you use this wad on your own risk.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+Official BBS distribution site: Game Palace BBS (305)587-4258
+
+Email us your comments about this level. We like having lots of mail :)

@@ -1,0 +1,20 @@
+================================================================
+Filename                : HUEVOS.LMP
+"Author"                : Brian Munson
+Email Address           : bmunson@gladstone.uoregon.edu
+
+Description             : This is for Doom 2 version 1.9.  This is 
+			  me playing level 32 on Ultra-violence with 
+			  fast monsters.  I finished it in 3:13, using 
+			  only the super-shotgun, chaingun and berserk.  
+			  I used the invulnerability on the SS so I could 
+			  punch all of them. . . my punching is pretty
+			  sorry at points.  I took the cyber-demon head-on,  
+			  because I haven't seen any .lmp's of it done quite
+			  like this (although I'm sure some exist!).  I
+			  only used the BFG and rocket launcher on the
+			  hanging Keens.  I recorded this on a 486-DX2 66
+			  with 8 megs of RAM.
+
+BTW: I am a happy owner and proud user of a Gravis PC Gamepad.  I know the 
+mouse rules, but I'm just too stubborn to change.

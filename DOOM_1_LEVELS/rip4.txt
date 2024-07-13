@@ -1,0 +1,56 @@
+================================================================
+Title                   : Rest In Pieces part IV
+Filename                : RIP4.WAD
+Author                  : Jeremy Drye and Nick Tucker
+Email Address           : forwarded from nickwt@aol.com
+Misc. Author Info       : HS Student 
+                          Super Street Fighter II Turbo wanna-be
+Description             : Ever play serial-link or otherwise more than
+                          1 computer side by side in a doom deathmatch, and
+                          just can't stand the other person looking at your
+                          screen to see where your at?  Fool'em with this
+                          mirror of E1M1.  They can tell where you are, but
+                          not WHICH e1m1 your on.  There is more than 1
+                          way to get to each e1m1, including some shortcuts.
+                          
+Additional Credits to   : DEU and BSP Authors
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Modified E1M1
+Editor(s) used          : DEU
+Build Time              : Less than an hour
+Known Bugs              : Mirage effect
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:  Infant2
+
+BBS numbers:  Bills Graphics BBS  (704) 932-4739   19.2K V.32Terbo
+              Carolina Forum BBS  (704) 563-5857   28.8K V.FC
+
+Other:  America Online PC Games Forum

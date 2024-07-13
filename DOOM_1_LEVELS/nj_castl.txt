@@ -1,0 +1,25 @@
+Just a quick WAD file I did one afternoon when I wasn't busy.
+
+Level name Enjay's Castle
+Replaces E1M1
+
+This level is designed with deathmatch playing in mind.  There are single
+and co-operative play start points but it is best in deathmatch mode. I have
+not included changes for the skill levels 'cos when you play deathmatch all
+the bad guys eventually get wiped out anyway.  All the areas are accessible 
+right from the start and there are lots of weapons ammo and medical stuff
+lying around. The map itself is quite simple and most areas are big.
+
+I heard that DOOM2 was going to be based mainly outside and at least some
+of it in a castle type environment so I thought "I'll try that" and here is
+the result.
+
+I also decided to include some sounds in the WAD 'cos I thought the electrical
+sounding doors and lifts did not seem right in a castle.
+
+Known problems  I had a lot of "hall of mirrors" and invisible wall problems 
+when making this level but I think they are all cleared up now.  
+If you stand with your back hard against the northern most outside wall and 
+fire a pistol, chain gun or shot gun the you seem to hit a wall that isn't 
+there. This does not happen with the other weapons and your movement is not 
+restricted - not a big problem so I left it.

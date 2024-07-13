@@ -1,0 +1,13 @@
+This is my first .wad . I hope that you'll enjoy this level.
+It can be play by more than one player. But in multi there's only
+one level. I would like to have feedbacks on it.
+This will help me in the making of my next level.
+
+To play just type: doom2 -file tower.wad -warp 1
+
+E-mail address : Martin C.
+                 bottle@ift.ulaval.ca
+             or  ganger@ift.ulaval.ca
+
+* Remember that is my first one!!!!
+

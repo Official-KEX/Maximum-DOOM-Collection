@@ -1,0 +1,28 @@
+This PWAD file is a model of Purdue University's Engineering campus.
+It was created by Scott Schuricht using DEU 5.0 and BSP 1.1x and took up
+way too much of my time, but hey, is there anything more important than
+DOOM :-)
+
+As far as I can tell there are bugs in this that are my fault. The one
+MAJOR problem is the 2 sided linedef limit. Out in the central courtyard
+I went over the limit (apparantly way over :-) and in you look straight 
+through that area you get HOM effects, but as you walk through towards
+the other sides it goes away (it DOES NOT happen inside any buildings).
+
+I could have tried to fix this (I actually did but nedded to remove too
+much!) but it is only a minor annoyance. I have placed certain goodies
+around to help you through this :-)
+
+Anyway, enjoy this and if you find any problems or have any comments just
+email them to
+
+schurich@ecn.purdue.edu
+
+I will fix any problems that come up. I would also like comments on the
+textures/difficulty/easiness/... that anyone cares to express. 
+
+Oh yeah, This replaces E-2-1 in DOOM. Happy DOOMing :-)
+
+Scott Schuricht
+Mechanical Engineering Dept.
+Purdue University

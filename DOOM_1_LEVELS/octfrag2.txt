@@ -1,0 +1,158 @@
+==============================================================================
+Title                   : OCTAFRAG2.WAD
+Filename                : octfrag2.wad 
+Author                  : Scott Coleman, ASRE  
+Modified by             : Icecube     
+Email Address           : ice_cube@azathoth.miskatonic.edu :)
+		  This is a phony address I don't have an account yet :(
+Misc. Author Info       : Only DooM is real :)     
+
+Description       :  This is a DEATHMATCH-only level, designed for optimal 
+		  fragging. Although the level is small, the rooms are 
+		  multiply and redundantly connected so it seems larger 
+		  than it really is and the action will always be fast 
+		  and furious. No toxic waste or barrels, so suicide 
+		  wussies have no choice but to duke it out 'till the end. 
+		  This also means that there are no sniper's nests per se; 
+		  be sure to watch your back! Other features are a unique 
+		  central elevator shaft with four random lifts, as well as
+		  a cooperative exit which requires at least two players 
+		  to operate. Happy fragging!! This modified version is 
+		  optimized for altdeath! No BFG's but all other weapons 
+		  are there. Secrets are not obvious.
+
+Additional Credits to   : The guys at id for the best game to come along
+			  (that is untill Quake is released :)
+			  Authors of DEU, the DEU GCC port & IDBSP10
+
+==============================================================================
+
+ * Play Information *
+
+ Episode and Level #   : E1M1
+ Single Player         : No 
+			 (Exit impossible with only one player)
+			 (*very* boring)
+ Cooperative 2-4 Player: Yes 
+			 (Supported, but not recommended)
+			 (Proably not enough ammo)
+ Deathmatch 2-4 Player : Yes!
+			 (Altdeath 2.0 optimized!)
+ Difficulty Settings   : Not implemented 
+			 (If you can't play on UV why are you playing DooM?)
+ Difficulty            : N/A
+ New Sounds            : I riped off some I liked (added by Icecube)  
+ New Graphics          : No
+ New Music             : No
+ Demos Replaced        : None
+
+ * Construction *
+
+ Base                  : OCTAFRAG.WAD
+ Build Time            : 66-6 packs of Sam Adams Boston Ale :^p   
+			 (about 1 hr.)
+ Editors used          : DEU5.21 GCC & IDBSP10
+ 
+ Known Bugs :  None, naught, zilch, zero. I am of Scottish descent 
+	       I do not create crap nor do I upload crap. If it's 
+	       not Scottish it's crap! :)
+
+==============================================================================
+			     * Disclaimer *             
+				 
+	       I assume no responsibility for anything of any sort 
+	    in any way, shape, or form - now, then, hence-foreword, 
+	    in this life (or the next several) for any screw-ups or 
+	    even  minor  inconveniences  this PWAD causes you, your 
+	    family, your relatives, friends, ancestors,  associates, 
+	    employers,  pets,  neighbors, lovers, congressional rep-
+	    resentatives, nor any other person  --  living, dead, or 
+	    undead  --  that you have  or will ever have any contact 
+	    with in even the slightest form. 
+	       This  PWAD  has been tested  and tested ad infinitum, 
+	    so it shouldn't mess with your computer or anything else 
+	    remotely associated with it.  But if it DOES, then that's 
+	    the way the  cookie crumbles.   Don't come crying' to me. 
+	    It must be something YOU did. If you don't like it,  lump 
+	    it.. (I ran out of clich‚s.) 
+
+		       ONCE AGAIN LET ME MAKE THIS CLEAR
+
+		     I will not  accept any responsibility  
+		      for problems caused with this WAD.
+		
+	       It is not even guaranteed to work on your machine... 
+			only take up hard drive space.
+
+
+				* Comments *
+
+	  -I HATE- texture aligning, Wolf editing was MUCH easier!!)
+	    
+	       If you like it, SEND MONEY :) or just e-mail me
+	    with some constructive feedback.
+	     
+	   For the humor impaired, the :) emoticon equals sarcasm             
+
+
+			 * Copyright / Permissions *
+
+      Authors MAY use this level as a base to build additional levels 
+  (ya, like I could really stop you, if I modified it why couldn't you?),
+	      but if you upload the results you must: 
+
+	    Wear a pink tu-tu and bowling shoes while doing so
+	  
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			You MAY distribute this WAD 
+		    pursuant to the following limitations:
+
+	   1. You include this file, with no modifications.
+	   
+	   2. You   MAY NOT   distribute  this  WAD,  in whole or in 
+	      part,    as part of a  commercial  product without the 
+	      permission of the author.  This  includes  any use for 
+	      profit, including the use of this level in competitions 
+	      or collections of files on physical media. 
+	    
+		       Distribution  via electronic means 
+	    is exempted from this  limitation  (you may post this WAD 
+	    on commercial and private BBS systems)  as long  as it is 
+	    distributed free of any charge.                  
+	 
+			       ONCE AGAIN
+   YOU MAY NOT USE THIS WAD TO MAKE MONEY IN ANY WAY, WHAT SO EVER, AT ALL
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	The same goes if you include this in any collection of WADs for
+	distribution
+
+			   * Where to get this WAD *
+
+	   Duh, if you're reading this you probably already have it.
+
+	    FTP sites: infant2 : 
+			  One of infant2's many mirrors
+	    BBS numbers: 
+	      
+		      SoftWare Creations  - Appogee BBS - 
+			     (Clinton MA) 14.4
+
+			       1-508-368-4137
+			       1-508-368-7036
+	    
+		     Silver Soft BBS (Albuquerque NM) 14.4
+				
+			       1-505-268-8502
+
+		Other :         My Hard Drive
+
+
+			      *Additional Notes*
+				    
+      Watch for ice_fort.wad comming soon to a bbs or ftp site near you. 
+				    
+				    -:|:-
+						   
+
+
+

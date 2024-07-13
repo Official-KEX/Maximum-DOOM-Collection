@@ -1,0 +1,100 @@
+             _/_/_/   _/    _/   _/_/_/       _/   _/        _/
+          _/         _/    _/  _/          _/_/   _/_/   _/ _/
+         _/  _/_/   _/    _/  _/_/_/        _/   _/  _/    _/ 
+        _/    _/   _/    _/       _/       _/   _/        _/
+        _/_/_/     _/_/_/   _/_/_/        _/   _/        _/
+
+                             _/_/_/  _/_/_/
+                                _/  _/
+                               _/  _/
+                              _/  _/
+                         _/_/_/  _/_/_/
+
+           by Sebastien Bacquet  <bacquet@bach.iie.cnam.fr>
+
+   23 April 95
+
+===========
+! WARNING ! -------------------------------------------------------------
+===========
+This text is dangerous for people who can not put up with grammatical 
+or spelling or phonetic or ... mistakes.
+I am French and not a wizard at English, so if your heart is delicate 
+stop reading now. :-(
+-------------------------------------------------------------------------
+
+
+GREAT ! You are brave and you will be rewarded for it. Good luck !
+
+
+Well :
+
+ _/  You own a GUS with 1024 K on board
+     (if you don't it's not too late, it's really worth it !)
+
+ _/  You don't hate DOOM ][  
+     (if you think it is the greatest game you have ever played it suits too)
+
+ _/  You love DOOM ]['s musics
+     (if you don't try this then you will)
+
+ _/  You play with maxi music volume
+     (if you don't why do you have a GUS, a SB would have been cheaper)
+
+THEN THIS IS FOR YOU !!
+
+
+But what is it ?
+~~~~~~~~~~~~~~~~
+  This is an optimized MIDI instrument mapping for GUS 1024 (like GUS1M 
+by Tom Klok for DOOM 1).
+  Tom Klok has done a very good job with GUS1M (thanx) but this mapping 
+doesn't suit with DOOM ][. 
+This is not Tom Klok's fault : DOOM (1) and DOOM ][ don't use the same MIDI
+instruments at all. Id didn't seem to note it because they have inserted 
+GUS1M in DOOM ]['s directory (DMXGUSC entry), which is not, I repeat, good 
+for DOOM ][.
+
+  So, thanks to Joakim Erdfelt, I have converted MUS files to MIDI files with
+MUS2MIDI so I could see what instruments were used in the musics. 
+Then I made a list of them and made the mapping according to it.
+
+  The result is ... simply great ;) ! DOOM ][ is not yet the same !
+This is not a lie : try and listen.
+
+
+How to use it ?
+~~~~~~~~~~~~~~~
+  This wad (GUS1M-II.WAD) was made for DOOM ][ and not for DOOM (1)
+(if you don't have GUS1M.WAD, get it it's excellent for DOOM 1).
+  If you use GUS1M-II with DOOM 1, it will do nothing at all 
+(DMXGUSC entry is ignored by DOOM 1).
+  To use GUS1M-II, just do :
+
+        doom2 -file gus1m-II.wad
+
+  or (better) insert it definitively in DOOM2.WAD (not dangerous) with
+DEUTEX for example (a very good tool : thanx to Olivier Montanuy, 
+a French guy too) :
+
+        deutex -doom \games\doom2 -merge gus1m-II.wad
+
+That's it !
+
+If you are a music lover you will really appreciate the difference.
+Try this : 
+   - launch DOOM ][ without GUS1M-II and listen some musics (IDCLEV__)  :(
+   - pump up the volume, pump up the volume, pump up the volume
+   - launch DOOM ][ WITH GUS1M-II and enjoy the music                   :o
+  
+Let me know if you like it (sure you do !)
+
+Copyright / Permissions
+~~~~~~~~~~~~~~~~~~~~~~~
+     Authors may use this optimized GUS1M-II WAD in their own WAD files,
+and may use it as a base to further modify the GUS's GM mapping,
+provided they send me (Sebastien Bacquet) a chocolate bar.
+
+     Anyone may distribute this WAD, provided you include this text
+file with attributions.  You may distribute this pwad in via any media
+(BBS, floppy disk, CDROM, etc).

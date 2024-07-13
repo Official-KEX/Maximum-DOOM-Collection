@@ -1,0 +1,237 @@
+================================================================
+Title                   : SERENITY III aka INFINITY (v1.1)
+                          A full replacement for the first episode of
+                          Doom, registered version (we have made 8
+                          levels - sorry, no bonus level in this one,
+                          but you won't miss it...).
+                          Changes since v1.0 (which was released about
+                          one week ago...): fixed a visplanes-error in
+                          level 4 (of which I was sure that I'd fixed
+                          it...). Added more monsters (on people's
+                          requests... 8-). Fixed a few minor things we
+                          had overlooked. Changed two switches one level
+                          one, which could cause a player to get stuck.
+
+
+                          In the months after the release of SERENITY
+                          and ETERNITY, Holger has been working hard and
+                          has managed to create a worthy successor of
+                          both SERENITY and ETERNITY, and has made the
+                          Serenity Trilogy complete!!
+                          INFINITY has most of the look & feel of
+                          Eternity, which means rooms with a cool &
+                          consistent use of textures, and lots of
+                          'architecture' in it. Again we have included a
+                          few puzzles in the various levels, but not as
+                          much as in Serenity (I). The gameplay is,
+                          again, touch but doable on "Hurt me plenty".
+                          You will have to be careful, though, not to waste
+                          your ammo...! AND YOU WON'T HAVE TO USE ANY
+                          CHEATS!!
+IMPORTANT               : Do NOT move this level to another episode,
+                          since you can't finish the last level (8) if it
+                          isn't played as E1M8!
+                          IF YOU USE DOOM 1.2 OR LOWER, RUN INFINITY WITH
+                          THE INFIWITH.BAT. IF YOU USE 1.666 (and
+                          above?), USE THE INFINONE.BAT WHICH DOESN'T
+                          INCLUDE MUSIC! (some versions of Doom crash on
+                          this... - if your Doom I version does, than
+                          use the INFINONE.BAT)
+
+Filename                : INFINITY.WAD
+Authors                 : Bjorn Hermans and Holger Nathrath. Holger did
+                          ALL of the design work this time + the
+                          selection of the music.
+Email Address Hermans   : B.T.Hermans@kub.nl, or
+                          s879614@kub.nl
+Misc. Author Info       : Two guys with too much spare time (especially
+                          Holger - at least so it seems...!)
+
+Description             : This set of 8 levels has been made with the
+                          word quality in mind. It's Mind here, not
+                          Muscles! We have tried to find a good mixture
+                          of action, architecture and adrenaline.
+                          Some of the levels may be a breeze, others may
+                          be a real pain in the *ss. But remember one
+                          thing: YOU DON'T HAVE TO USE THE CHEATS!!!
+                          There are a few very though places, but they
+                          can be done. When it seems you can't get
+                          around them without using the cheats, you may
+                          be doing it the wrong way and/or you may have
+                          missed something(s).
+                          Hidden entrances to rooms can always be
+                          recognized in some way (different texture,
+                          different light-level, etc.).
+
+Additional Credits to   : DEU (5.2GCC and 5.21), BSP (1.2x) and their
+                          many contributors; Id (no comment); all those
+                          people who have been so kind to send us
+                          remarks and feed-back about our previous
+                          wad-files (NATHRATH, SERENITY and ETERNITY);
+                          every WADmaker whose WAD has been a source of
+                          inspiration for the rooms in INFINITY.
+
+                          And all those many others we have forgotten.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 through E1M8, see below for descriptions
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (although untested)
+Deathmatch 2-4 Player   : Yes (although untested)
+Difficulty Settings     : Yes, there are three.
+New Sounds              : No (See "Other Releases")
+New Graphics            : Yes, although most Wad-managers won't spot
+                          them.
+                          All patches work just fine in both 1.2 and 1.666.
+                          (so probably in all higher Doom I versions)
+New Music               : Yes! We have, again, made an unusual selection
+                          of all kinds of musical pieces (we personally
+                          just love the one of level 7...)
+                          (make sure you use the right batch-file: that
+                          is INFIWITH.BAT for Doom 1.2 and earlier, and
+                          INFINONE.BAT for Doom 1.666. We don't know if
+                          higher Doom versions (than 1.666) will work
+                          properly with extra add-on music. If Doom
+                          crashes while playing INFINITY WITH music,
+                          then try it without extra music.
+Demos Replaced          : None
+
+
+* Descriptions *
+
+Level 1 Description     : "Three Is A Magic Number"
+                          A warm welcome & a warm start! This is what
+                          Infinity is all about! (so get used to it...)
+
+Level 2 Description     : "Say Jazz To Another Excess"
+                          Be on your guard in this level. There is more
+                          than meets the eye here.
+
+Level 3 Description     : "Beat It!"
+                          You'd better be warmed up be now, as the
+                          action really starts on this level. Some spots
+                          are though. Some spots may even seem unfair...
+                          at FIRST sight...
+                          Don't make your brown eyes BLUE...
+
+Level 4 Description     : "Everybody Frag Now"
+                          This is a real treat: there is fun (a
+                          labyrinth) and there is relaxation (a
+                          'tropical' island) and there is... Well,
+                          you'll see it when you get there.
+
+Level 5 Description     : "Dungeons Of Doom"
+                          Will you reach the eNd??
+                          (will you like the 'joke'?)
+
+Level 6 Description     : "Who's Afraid Of Red, Yellow And Blue?"
+                          Anything you'd want in a level... (?) Making
+                          the right choices (or should we say
+                          'guesses'?) is essential in this level. At
+                          least if you'd like to stay ALIVE...!
+
+Level 7 Description     : "Blaze Of Glory"
+                          After Red; Fight
+                          After Blue; Think
+                          After Yellow; exiT
+
+Level 8 Description     : "StarGate Into Infinity"
+                          A Finale that is sharp as a knive, and which
+                          gives you the creepy feeling that you have
+                          seen this terrible sight before...
+
+
+* Construction *
+
+Base                    : 8 new levels from scratch.
+Construction Time       : About one month.
+
+Editor(s) used          : DEU 5.21 and 5.22GCC, plus BSP 1.2x and IDBSP.
+
+Known Bugs              : There are a few small HOMs to be seen (when you
+                          use Doom 1.2 or earlier) in some rooms,
+                          because of the many linedefs. There aren't any
+                          places where it is very prominent in sight,
+                          nor where it distracts you.
+
+
+* Philosophy *
+
+Appearance/Design       : A lot of effort was put into making creating a
+                          decent architecture. We are especially pleased
+                          with the several light effects, and the
+                          continuity of the used textures.
+                          Not everything in this episode has a purpose.
+                          Some things are just there for artistic or
+                          architectural purposes. We think that is one of
+                          the aspects that made the original DOOM levels
+                          so good.
+
+Traps                   : All levels have been designed in a way that
+                          they do not contain places where you can get
+                          trapped (at least not without providing you
+                          with some kind of 'emergency exit').
+                          Yet, should there be a place where you do get
+                          stuck, and cannot get out except by using
+                          'IDSPISPOPD', then let us know!
+
+Secret Areas            : You do not have to get into the secret areas
+                          to complete a level. Keys or switches to open
+                          doors or areas are never located in secret areas.
+
+                          All secret areas/doors are marked in some way
+                          (for instance by giving it another light
+                          level, or a slightly different texture).
+
+Monsters                : We prefer quality over quantity, but on the
+                          other hand we also want a WAD that offers lots
+                          of action. We have tried to find a good balance
+                          between quality and quantity.
+                          We did make an exception though for
+                          "Ultraviolence". Here there are an awfully lot
+                          of monsters, and it should give those who like a
+                          lot of fragging & fighting the challenge and
+                          action you want (so we hope...).
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a source of inspiration to build
+new levels. Please don't copy parts of this WAD, and leave us
+unmentioned in your description file...
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD-ROM, etc) as long as you include this file
+intact (free copies of a CD-ROM that contains this WAD are warmly
+welcomed by the authors 8-)
+
+
+* Where to get this WAD *
+
+This WAD will be uploaded to ftp.cdrom.com, so you will find it there,
+and on any mirror-sites of ftp.cdrom.com.
+We will also upload it to wuarchive and a few other sites as soon as
+possible.
+
+
+* Other Releases *
+
+Besides this WAD, we have two other complete episodes to play. These
+are, as you might have guessed, SERENITY I and II (aka ETERNITY).
+If you like INFINITY, you'll most probably like SERENITY and ETERNITY as
+well.
+
+We have also release a sound-WAD with the complete collection of our
+favourite Doom sounds. You should be able to get SERSOUND.WAD at the
+same place/site as where you got this file (the same goes for the other
+WADs).
+
+================================================================
+
+Enjoy!
+
+Bjorn Hermans & Holger Nathrath.

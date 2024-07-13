@@ -1,0 +1,57 @@
+==============================================================================
+Title                   : JAX01.WAD   
+Author                  : Glenn Jackson
+Email Address           : can be reached at : jacksong@cuix.pscu.com or
+                                              Doom Plus Bbs
+                                              (206) 854-8204
+Misc. Author Info       : Seattle, Washington
+
+Description             : This is Wad is a straight-forward you-against-them
+                          commando sort of thing.  This wad is fast action and
+			  it will take speed and intelligence to complete it...
+                          ...well, maybe just speed.
+                          
+                          A friend and I tried a co-op mode and it did run a
+                          little slow because the amount of creatures that are 
+                          present... and we were using 486/66 computers with
+                          14.4 baud modems to play.
+
+                          Anyway, give it a go and tell me what you think.
+
+==============================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 (Doom Version 1.7a) 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : If you want but I don't recommend it!
+Difficulty Settings     : The level of difficulty is the same for all levels
+
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : About 20 hours
+Editor(s) used          : RGDOOMED 2.3C And DCK 2.1
+Known Bugs              : None
+
+Additional Credits to   : The authors of RGDOOMED and DCK
+                          
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels.  
+
+You MAY distribute this WAD, provided you include this file, with no
+modifications. You may distribute this file in any electronic format
+(BBS, Diskette, CD, etc) as long as you include this file intact.
+
+
+  
+    
+
+

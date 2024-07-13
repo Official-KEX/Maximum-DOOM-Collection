@@ -1,0 +1,61 @@
+DOOM 2
+
+Parts one through nine in the RAVEN SERIES: Maps 1-9
+
+This is the premier Doom 2 RAVEN series.  This .wad will 
+challenge all Doom players regardless of skill level.
+
+Features of all levels (distinctions follow):
+- support for all 5 skill levels
+- Great DEATHMATCH level
+- well placed monsters
+- use of all three keys
+- can be completed with out cheating
+- excellent texture alignment
+- great windows for sniping
+
+Level 1 distinctions:  - use of only two keys
+
+Level 3 distinctions:  - challenging puzzles
+
+Level 4 distinctions:  - SUPRISE ending
+
+Level 6 distinctions:  - OK DEATHMATCH level
+                       - HINT: There is a room near the exit. The door 
+                           trigger spots are under the lights on the ceiling.
+                           And the dead imps are strategically placed.
+
+Level 7 distinctions:  - great open areas and windows for attacking
+                       - Created by my sister: Theresa Chasar with little
+                            help from me.
+
+Level 8 distinctions:   -used in the all area Alberta Canada DEATHMATCH 
+                            tournament as the mystery DEATHMACH level.
+                        - HINT: The switch in the little room on the NE
+                            corner of the map crushes the monsters.
+
+Level 9 distinctions:   - First outdoor settings
+                        - HINT: Don't try too hard to get things you can't
+                            reach, it could be a trick.
+                        - Created by my sister: Theresa Chasar with a little
+                            help from me.
+
+Level 10 distinctions:  - The longer you play the more open it gets.
+
+Level 11 distinctions:  - Tall buildings
+                        - HINT: The bridge could be more than it looks.
+
+****************************************************************************
+If you liked this level or any of the RAVEN levels
+please drop me an E-mail note.  Any suggestions or comments
+will be greatly appreciated.
+
+** Please contact me if you wish to include this level (or any RAVEN levels)
+   in a commercial package. (i.e. MEGA-WAD pack, etc)
+
+     Tim Willits (will0057@mermaid.itlabs.umn.edu)
+     63 N. Ruth St.
+     St. Paul MN 55119
+
+Technical Advisor:      Indigo Design & Theresa Chasar
+Level Tester:           Robert J. Cody & Theresa Chasar

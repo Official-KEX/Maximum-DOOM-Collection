@@ -1,0 +1,54 @@
+					    DOOM2 PWAD                                                   ================================================================ 
+						     
+
+Title                   : 2besiege.wad
+Author                  : Shayne Hawthorne
+Internet address:    shayne.hawthorne@graphcon.com
+			  
+		      
+Description             :You are dropped at a Scottish castle. Now a demon stronghold on Earth.
+			  You must rid the castle of enemies, but beware of counterattacks.
+			  
+			 
+		
+
+Additional Credits to   : The Guys at ID for making such a great game and letting us 
+				    build wads for it.
+			 
+			 Mel Rogers for many hours of playtesting it.
+						 
+			 Matthew Ayres for programing Waded
+			  
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (Best if -nomonsters is set.)
+Difficulty Settings     : 3&4
+New Sounds              : Yes
+New Music               : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : Siege.wad (also by me)
+Build Time              : What months is it?
+Editor(s) used          : Waded 1.42
+			
+Known Bugs              : None
+				    
+
+* Copyright / Permissions *
+
+You may distribute this file provided you include this file, with no
+modifications. Authors may use this file as a base for additional
+levels, but at least give me some credit.
+
+Enjoy!!!!!!
+
+
+
+								    

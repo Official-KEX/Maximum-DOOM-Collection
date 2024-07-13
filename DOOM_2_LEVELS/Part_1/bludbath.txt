@@ -1,0 +1,102 @@
+================================================================
+Title                   : BLUDBATH.WAD
+Author                  : John "Doominator" Ehde
+Email Address           : john.ehde@therealm.com  
+
+Description             : This level is designed to be a fast paced 
+			  deathmatch level with a Doom ][ feel.
+			  The only obsticals in the level are the weapons.
+			  All weapons are present, but each weapon has a   
+			  certain degree of consequence.  The plasma being
+			  one of the favorite weapons has the largest
+			  consequence, that being every one knows where you
+			  are when you get it.  Since the Super Shotgun has
+			  become such a farorite weapon in deathmatch, that  
+			  also has a slight degree of consequence.  This 
+			  level is great for two players, but the more
+			  the merrier.
+
+Org Description         : This level is best played with -altdeath and
+			  nomonsters, but if you must, I threw in a few
+			  baddies to make it interesting.  I didn't put in
+			  4 player starting points so co-op is definitely
+			  out of the question.  If you really must play 
+			  with monsters present I recommend playing Hurt Me
+			  Plenty on -respawn. It's just enough to aggravate 
+			  you, and supply a little ammo in the proccess.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : 01
+
+Cooperative 2-4 Player  : NO, don't even try, it'll puke!
+Deathmatch 2-4 Player   : OH YES! A real blud fest!
+Difficulty Settings     : Sorta, skill levels 3 & 4, thats it.
+New Sounds              : Nope
+New Graphics            : Nope
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Much faster than if I would have used DEU,
+			  30 hours at best.
+Editor(s) used          : DmReal v2.6 beta4 to create the map, Renegade 
+			  Graghics DoomED v2.0beta for the structural
+			  editor and to convert from Doom1 to Doom2, and
+			  BSP v1.2x to build the nodes.
+Known Bugs              : No known bugs at this time.
+
+
+
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels. Just so long as you send me a copy of your version. Otherwise,
+FORGET IT!
+
+You MAY distribute this WAD, provided you include this .txt file, with
+no modifications.  You may distribute these files in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact. REPEAT, IT MUST CONTAIN THIS .TXT FILE! GOT IT?! Good.
+
+
+
+Other:
+Renegade Graghics BBS
+(615)-337-9198
+
+Beyond the Realm BBS
+(805)-987-5506
+
+Exec-PC BBS
+(414)-789-4210
+
+
+P.S.  This level is living proof that you can design a level with something
+other than DEU.  
+				
+P.S.S.  I have yet to find one decent editor (that works). Renegade DoomED
+is the best when it comes to editing a map. You can edit lindefs, sidedefs,
+floor & ceiling graghics, and sector hights & light values all at once!  But
+they have yet to fix their map editor. :(  The sucky part is is that
+DEU works, but the format is lowsy! :( My eyes can only take so much when 
+it comes to the WHOLE screen redrawing itself a million times while moving 
+a line...AHHHHHHHHHHHHHHHHHHHHHH!
+
+
+
+
+
+
+
+
+
+
+
+
+		      Oh, and good luck finding the exit.
+

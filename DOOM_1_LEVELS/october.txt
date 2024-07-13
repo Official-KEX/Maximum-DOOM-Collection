@@ -1,0 +1,61 @@
+================================================================
+Title                   : October.WAD
+Author                  : Rob (Cisco) Sarsorito
+
+Email Addresses         : jfharr01@homer.louisville.edu
+
+Description             : Deathmatch Deathmatch Deathmatch
+                          This WAD was built with deathamtch in
+                          in mind.  No safe places to hole up and 
+                          wait.  (I hate it when people do that!)
+                          Hunt and kill WAD.
+
+Weapons                 : Rocket launcher, chaingun, shotgun
+
+Bonuses                 : Soul sphere, blue armor, medkits
+                          Not alot of any of the above.
+
+                          
+Additional Credits to   : Brendon Wyber (DEU 5.21)
+                          Rapha‰l Quinet (DEU 5.21)                       
+                          Colin Reed (BSP1.2X)
+                          and id Software.
+                          Jeff McDonald (Tester)
+                          Jason Johnson (Tester)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : No
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (Designed for maximum carnage)
+Difficulty Settings     : No 
+
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 20 hours
+Editor(s) used          : DEU 5.21GCC, BSP1.2X
+Known Bugs              : None                                           
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Disclaimers *
+
+This WAD is provided as is.  If you get fragged alot using it without
+getting any frags yourself, you need more practice.  Try using the mouse.
+I do and I'm unbeatable.  Insert all standard discaimers here.
+
+* Where to get this WAD *
+
+infant2.indiana.edu ---> iglou.com  (Copper Electronics, Louisville, KY)

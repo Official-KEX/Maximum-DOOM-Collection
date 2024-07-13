@@ -1,0 +1,294 @@
+This is a post I did to explain how to put new graphics and demos
+in a PWAD, enjoy!
+
+======================================================================
+From: jsg8a@acadvm1.uottawa.ca (Jean-Serge Gagnon)
+Newsgroups: comp.sys.ibm.pc.games.action
+Subject: How to put new demos and grphics in PWAD files
+Date: 21 Apr 1994 16:29:43 GMT
+
+Hi,
+    I'm the author of FOREST.WAD (get FOREST12.ZIP on many sites), and
+am also a beta tester of DEU. When I released FOREST 1.1, Raphael
+expressed to me the fact that he was unhappy that I had release a new
+PWAD that included new demos and graphics because DEU 5.1 will have
+a feature to do this and he thought that I had over-stepped my 
+priviledges as a beta tested and taken advantage of that feature. I
+assure you that I did not! (some are saying "Sure! He just wants us
+to beleive that so that he feels less guilty!") I will prove it to
+you by trying to explain how I did it in a simple language so that
+other can do it also. I will include BATCH files and DIR files so that
+you can use them as examples to do it.
+    I hope this will clear the fact that I DID NOT USE THE NEW FEATURE
+OF DEU 5.1beta TO CREATE THIS NEW WAD.
+
+Before I begin, this is VERY IMPORTANT, WAD MASTER PUTS AN IWAD MARKER
+AT THE BEGINNING OF THE PWAD FILE, PLEASE, PLEASE, PLEASE, BEFORE 
+UPLOADING ANY NEW WADS CREATED USING IT, CHANGE THE "I" TO A "P" BEFORE
+WITH ANY HEX EDITOR. This is probably because it was written before 
+ID released information (or someone else) about the IWAD-PWAD formats.
+
+First, you will need these files:
+
+WT100.ZIP (Wad tools 1.0) to view the graphics in the DOOM.WAD file
+              and find the name of the texture you want to change.
+
+DMGRAP10.ZIP (Doom graph 1.0) to extract and store a GIF file to/from
+              the DOOM.WAD file.
+
+DMAUD11.ZIP (Doom audio 1.1) to extract and store audio files to/from
+              the DOOM.WAD file (I didn't do it, but you could also
+              include new sounds in a PWAD file)
+
+WDMSTR05.ZIP (Wad Master 1.0) to extract the raw data from your new
+              levels and the modified textures or sound from the 
+              DOOM.WAD file.
+
+Second, how does it all come together.
+   Once you have created your level with DEU (or any other editor)
+decide what texture you want to change, find out what it's name is in
+the DOOM.WAD file with WT and extract it with DMGRAPH. For example if
+you want to change the SP_DUDE2 texture, you will find with WT that
+it's name is WALL50_2, so use the command "DMGRAPH WALL50_2 -e file.gif".
+You will want to check the insertion point for when you put the modified
+graph back in with "DMGRAPH WALL50_2 -v". Once you have the GIF, do what
+you want, store it back in DOOM.WAD (make a copy of it to be able to
+put back the original in) so that you can extract the RAW file with
+WAD Master. 
+
+    To use WadMaster, you need to create a reference DIR file with
+WADDIR. If your new map is called "NEWMAP", and we want the
+dir file to be NEWMAP.DIR then type:
+"WADDIR NEWMAP.WAD >MEWMAP.DIR". Once you have the DIR file, you must
+edit it so that seperate entries (levels, if you have more than one
+level) do not go in the same directory. Look at the first few lines
+without the comment), they will be like this:
+E1M1\                    E1M1\                   0
+THINGS                   THINGS                  10
+LINEDEFS                 LINEDEFS                952
+
+you must add a dospath to the first column like this:
+E1M1\                    E1M1\                   0
+E1M1\THINGS              THINGS                  10
+E1M1\LINEDEFS            LINEDEFS                952
+
+(make sure the column 2 starts at the same place)
+
+Once you've done that, you can extract the raw data to dos files
+in a directory, so create a directory (like NEWMAP) and type the command
+"UPKWAD -o NEWMAP NEWMAP.DIR NEWMAP.WAD" and this will extract all
+the resources in the PWAD map you created to the directory NEWMAP.
+
+OK! now let's put the modified GIF in there! Look at the order in which
+the DOOM.WAD directory is (do WADDIR >DOOM.DIR) so that you can put the
+new graphic in the proper order (it won't work otherwise). You will want 
+to copy the NEWMAP.DIR file to an other name, let's say NEWMAP1.DIR and
+edit it to add the proper references to it. WALL50_2 is in the P2 section,
+so you need to add the folowing lines at the end of the NEWMAP1.DIR file:
+
+P2_START\                P2_START\               0
+P2_START\WALL50_2        WALL50_2                17544
+P2_END\                  P2_END\                 0
+
+(notice that the DEMO1-3 are just before the E1M1 entry, so you could
+put the lines as they apear in DOOM.DIR just before the E1M1 line in
+NEWMAP1.DIR and copy any demo lmp for your PWAD to NEWMAP\DEMOx (no LMP
+extention). That's how I did it)
+
+Once you've done that, create a WAD DIR file to be able to extract the
+raw graphic from DOOM.WAD (after storing the modified GIF, let's call
+it NEW50_2.GIF in DOOM.WAD with "DMGRAPH WALL50_2 -s NEW50_2.GIF"). You
+will also need to create an other directory, let's say GRAPHIC. So, 
+create the WAD DIR file like this: (let's call it GRAPHIC.DIR)
+
+P2_START\                P2_START\               0
+P2_START\WALL50_2        WALL50_2                17544
+P2_END\                  P2_END\                 0
+
+and type the command "UPKWAD -o GRAPHIC.DIR" (it used DOOM.WAD by default)
+and you will have a new file in GRAPHIC\P2_START call WALL50_2. I 
+copied the raw files to an other name, but you don't have to. You can
+just copy it like this "COPY GRAPHIC\P2_START\WALL50_2 NEWMAP\P2_START"
+
+Now we're ready to put the new graphic and demos in a PWAD file. So
+type the command "PKWAD -o NEWMAP NEWMAP1.DIR TOTAL.WAD". Remember that
+you have to use a modified wad dir file (that's why I typre NEWMAP1.DIR
+instead of just NEWMAP.DIR) that includes the new files you want 
+included in the new PWAD file, like the DEMOs, graphic or sound
+resources. You can put anything there!
+
+To finish it off, here's a copy of a series of files I used to create
+FOREST.WAD, I will not explain them here because you should be able
+to figure it out, if not, there is documentation that comes with
+Wad master, I figured it out, I'm sure you can.
+
+------------------------- getpics.bat -------------------------------
+
+@echo off
+cls
+echo Storing new graphics in DOOM.WAD...
+dmgraph sky2 -s forest.gif -i 127,123 >nul
+dmgraph wall50_2 -s new50_2.gif -i 63,123 >nul
+dmgraph mwall5_1 -s new5_1.gif -i 63,123 >nul
+dmgraph mwall4_2 -s new4_2.gif -i 63,123 >nul
+dmgraph credit -s newcred.gif -i 0,0 >nul
+echo Unpacking new graphics to raw files...
+upkwad -o graph graph.dir >nul
+echo Putting normal graphics back in DOOM.WAD...
+dmgraph sky2 -s sky2.gif -i 127,123 >nul
+dmgraph wall50_2 -s wall50_2.gif -i 63,123 >nul
+dmgraph mwall5_1 -s mwall5_1.gif -i 63,123 >nul
+dmgraph mwall4_2 -s mwall4_2.gif -i 63,123 >nul
+dmgraph credit -s credit.gif -i 0,0 >nul
+echo Copying raw graphics to .pic files...
+copy graph\p2_start\sky2 newsky2.pic >nul
+copy graph\p2_start\wall50_2 new50_2.pic >nul
+copy graph\p2_start\mwall5_1 new5_1.pic >nul
+copy graph\p2_start\mwall4_2 new4_2.pic >nul
+copy graph\credit newcred.pic >nul
+
+------------------------- graph.dir --------------------------------
+# DOOM WAD FILE DIRECTORY LISTING
+# LINES STARTING WITH # ARE IGNORED
+# EACH LINE CONTAINS DOSFILE WADFILE SIZE
+# THIS FILE CAN BE USED TO UNPACK/PACK WAD FILES
+# DO NOT CHANGE THE ORDER OF THESE LINES!!!!
+# HOWEVER, DELETION IS OKAY
+CREDIT                   CREDIT                  68168
+P2_START\                P2_START\               0
+P2_START\WALL50_2        WALL50_2                17544
+P2_START\MWALL4_2        MWALL4_2                17544
+P2_START\MWALL5_1        MWALL5_1                17544
+P2_START\SKY2            SKY2                    65344
+P2_END\                  P2_END\                 0
+P_END\                   P_END\                  0
+# IN FILE doom.wad THERE ARE 10366184 bytes in 2045 FILES.
+
+------------------------ makejs.bat ---------------------------------
+@echo off
+cls
+echo Creating composite file of all missions...
+deu -file e2m1js.wad e2m2js.wad e2m3js.wad <makejs.key >nul
+echo Unpacking WAD...
+upkwad -o forest forest.dir forest.wad >nul
+echo Copying new image files...
+copy newsky2.pic forest\p2_start\sky2 >nul
+copy new50_2.pic forest\p2_start\wall50_2 >nul
+copy new5_1.pic forest\p2_start\mwall5_1 >nul
+copy new4_2.pic forest\p2_start\mwall4_2 >nul
+copy newcred.pic forest\credit >nul
+echo Copying DEMO files...
+copy js1.lmp forest\demo2 >nul
+copy js2.lmp forest\demo3 >nul
+copy js3.lmp forest\demo1 >nul
+echo Creating new WAD with DEMO files and new graphics...
+pkwad -o forest jsdemos.dir forest.wad >nul
+
+--------------------- makejs.key ---------------------------------
+g forest.wad
+q
+
+---------------------- forest.dir --------------------------------
+# DOOM WAD FILE DIRECTORY LISTING
+# LINES STARTING WITH # ARE IGNORED
+# EACH LINE CONTAINS DOSFILE WADFILE SIZE
+# THIS FILE CAN BE USED TO UNPACK/PACK WAD FILES
+# DO NOT CHANGE THE ORDER OF THESE LINES!!!!
+# HOWEVER, DELETION IS OKAY
+E2M1\                    E2M1\                   0
+E2M1\THINGS              THINGS                  2720
+E2M1\LINEDEFS            LINEDEFS                5684
+E2M1\SIDEDEFS            SIDEDEFS                16620
+E2M1\VERTEXES            VERTEXES                1352
+E2M1\SEGS                SEGS                    6672
+E2M1\SSECTORS            SSECTORS                716
+E2M1\NODES               NODES                   4984
+E2M1\SECTORS             SECTORS                 2418
+E2M1\REJECT              REJECT                  1082
+E2M1\BLOCKMAP            BLOCKMAP                11942
+E2M2\                    E2M2\                   0
+E2M2\THINGS              THINGS                  2250
+E2M2\LINEDEFS            LINEDEFS                4956
+E2M2\SIDEDEFS            SIDEDEFS                14100
+E2M2\VERTEXES            VERTEXES                1344
+E2M2\SEGS                SEGS                    6372
+E2M2\SSECTORS            SSECTORS                744
+E2M2\NODES               NODES                   5180
+E2M2\SECTORS             SECTORS                 2002
+E2M2\REJECT              REJECT                  742
+E2M2\BLOCKMAP            BLOCKMAP                11782
+E2M3\                    E2M3\                   0
+E2M3\THINGS              THINGS                  10
+E2M3\LINEDEFS            LINEDEFS                3248
+E2M3\SIDEDEFS            SIDEDEFS                9960
+E2M3\VERTEXES            VERTEXES                764
+E2M3\SEGS                SEGS                    4104
+E2M3\SSECTORS            SSECTORS                472
+E2M3\NODES               NODES                   3276
+E2M3\SECTORS             SECTORS                 1378
+E2M3\REJECT              REJECT                  352
+E2M3\BLOCKMAP            BLOCKMAP                3624
+# IN FILE forest.wad THERE ARE 130850 bytes in 33 FILES.
+
+---------------------------- jsdemos.dir ---------------------------
+# DOOM WAD FILE DIRECTORY LISTING
+# LINES STARTING WITH # ARE IGNORED
+# EACH LINE CONTAINS DOSFILE WADFILE SIZE
+# THIS FILE CAN BE USED TO UNPACK/PACK WAD FILES
+# DO NOT CHANGE THE ORDER OF THESE LINES!!!!
+# HOWEVER, DELETION IS OKAY
+DEMO1                    DEMO1                   1000
+DEMO2                    DEMO2                   1000
+DEMO3                    DEMO3                   1000
+E2M1\                    E2M1\                   0
+E2M1\THINGS              THINGS                  2720
+E2M1\LINEDEFS            LINEDEFS                5684
+E2M1\SIDEDEFS            SIDEDEFS                16620
+E2M1\VERTEXES            VERTEXES                1352
+E2M1\SEGS                SEGS                    6672
+E2M1\SSECTORS            SSECTORS                716
+E2M1\NODES               NODES                   4984
+E2M1\SECTORS             SECTORS                 2418
+E2M1\REJECT              REJECT                  1082
+E2M1\BLOCKMAP            BLOCKMAP                11942
+E2M2\                    E2M2\                   0
+E2M2\THINGS              THINGS                  2250
+E2M2\LINEDEFS            LINEDEFS                4956
+E2M2\SIDEDEFS            SIDEDEFS                14100
+E2M2\VERTEXES            VERTEXES                1344
+E2M2\SEGS                SEGS                    6372
+E2M2\SSECTORS            SSECTORS                744
+E2M2\NODES               NODES                   5180
+E2M2\SECTORS             SECTORS                 2002
+E2M2\REJECT              REJECT                  742
+E2M2\BLOCKMAP            BLOCKMAP                11782
+E2M3\                    E2M3\                   0
+E2M3\THINGS              THINGS                  10
+E2M3\LINEDEFS            LINEDEFS                3248
+E2M3\SIDEDEFS            SIDEDEFS                9960
+E2M3\VERTEXES            VERTEXES                764
+E2M3\SEGS                SEGS                    4104
+E2M3\SSECTORS            SSECTORS                472
+E2M3\NODES               NODES                   3276
+E2M3\SECTORS             SECTORS                 1378
+E2M3\REJECT              REJECT                  352
+E2M3\BLOCKMAP            BLOCKMAP                3624
+CREDIT                   CREDIT                  68168
+P2_START\                P2_START\               0
+2_START\WALL50_2        WALL50_2                17544
+2_START\MWALL4_2        MWALL4_2                17544
+2_START\MWALL5_1        MWALL5_1                17544
+2_START\SKY2            SKY2                    34554
+2_END\                  P2_END\                 0
+_END\                   P_END\                  0
+ IN FILE doomjs.wad THERE ARE 130850 bytes in 33 FILES.
+------------------------ end -----------------------------------------
+ 
+--
+---
+Jean-Serge Gagnon                        e-mail:jsg8a@acadvm1.uottawa.ca
+Ottawa Univerity, Ontario                 voice:(613) 791-0785
+Canada    K1N 6N5                           fax:(613) 564-7180
+*** Get the PostScript Processing Speed Test (PPST) in /public   ***
+*** on gaaj.cosmos.uottawa.ca. It's a PostScript benchmark test. ***
+

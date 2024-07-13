@@ -1,0 +1,52 @@
+================================================================
+Title                   : Deathrow
+Filename                : Deathrow.wad
+Author                  : Kris Daley
+Email Address           : Double07@usit.net
+Misc. Author Info       : This is my second so drop me a line and
+			  let me know what you think.
+
+Description             : Same as most levels, kill all the monsters
+			  and find the secrets to win.
+			  
+	
+Additional Credits to   : Dave Swift
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Deu, Doomed "The Real Thing"
+Known Bugs              : None.  But let me know...
+
+
+* Copyright / Permissions *
+
+Authors (MAY) use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com (and mirrors)
+
+BBS numbers:
+
+Other:   

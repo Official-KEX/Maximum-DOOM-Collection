@@ -1,0 +1,54 @@
+================================================================
+Title                   : Mentzer2.WAD  (For Doom 2) 
+Author                  : David J. Hill   
+Email Address           : Mentzer@aol.com
+
+Description             : This is a Deathmatch Wad created for 
+			  Doom 2.  All Weapons are available and no 
+			  monsters are present. Ammo, health, armor,
+			  and weapons are spread out to provide for
+			  constant action.  This is the second in a 
+			  series of deathmatch wads for Doom 2.  
+			  
+			  
+Additional Credits to   : The authors of DoomCad and ID software.  I want
+			  my Quake! 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 1
+Single Player           : Yeah, but whats the point?
+Cooperative 2-4 Player  : yes
+Deathmatch 2-4 Player   : yes! Thats what its for!
+Difficulty Settings     : NO
+New Sounds              : NO
+New music               : NO
+Demos Replaced          : None
+Date Finished		: December 24, 1994 (merry christmas) 
+
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Around 20 hours.
+Editor(s) used          : DoomCad 5.0
+Known Bugs              : None
+
+===============================================================
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, just give me credit for my effort.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+If you find any bugs or have question or comments, write to Mentzer@aol.com.
+
+* Where to get this WAD *
+
+Other: America On-Line, Compuserve, Ftp.cdrom.com and mirrors

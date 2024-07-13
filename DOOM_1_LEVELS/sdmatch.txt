@@ -1,0 +1,58 @@
+================================================================
+Title                   : Super DeathMatch (SDMATCH.WAD)
+Author                  : Graeme Howland / Brian Tsang
+
+Email Addresses         : graeme.howland@t8000.cuc.ab.ca
+
+Description             : Wicked DeathMatch level with tons-o-guns-ammo
+                          EMAIL me for two ULTRA tips!!! They will benifit
+                          you greatly :-).
+
+Additional Credits to   : Author of DMATCH.WAD
+                          Geoff Allan (DoomEd v2.60B4)
+                          Colin Reed (BSP1.2X)
+                          and of course, the great id Software team.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M4
+Single Player           : Yes (but lame)
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : No
+New Sounds              :
+New Graphics            : 
+
+
+* Construction *
+
+Base                    : Mofified DMATCH.WAD
+Build Time              : About 1 1/2 hours. 
+Editor(s) used          : DoomEd v2.60Beta4 / BSP 1.2x
+Known Bugs              : None (perfect like me :-) ) 
+                         
+* Copyright / Permissions *
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Disclaimers *
+
+If your HD crashes then to bad.... 
+
+* Where to get this WAD *
+(even though you already have it!)
+
+InterNet sites: infant2.sphs.indiana.edu
+
+BBSes:
+
+Realms of Doom
+(403)295-1175
+14.4k / RoboBOARD F/X v1.02
+Sysop:     Eugene So 
+Co-Sysop:  Udell So
+

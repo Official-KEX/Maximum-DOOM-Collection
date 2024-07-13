@@ -1,0 +1,30 @@
+There is a minor glitch in swetdeth.wad, so either download swetdeth_fix.zip
+(which is the same level without the sniper point glitch) or wait until the 
+people at ocf move it to another directory and rename swetdeth_fix.zip to 
+swetdeth.zip.  I apologize to the people at ocf for the inconvinence. 
+
+*Sweet-Death Wad*
+-level: E1 M1
+-deathmatch play
+-single play, but for the terminally bored
+-no co-op (it sucks)
+
+Ok, here's the revision to cwwad which I uploaded a week or two ago. It's much
+better than the original. It has been play tested for many hours between us
+DOOM freaks here at UR so there shouldn't be any bugs left. (except for the 
+odd pit glitch, but who cares) Like I said, it was made specifically for death
+match so that is where the most enjoyment will be had from this wad. There are
+some really nice sniper points, and sneaky spots to nail your foe from. There
+is one area which has been tagged as a secret, it's a really great sniper 
+point so find it. This is by far the best deathmatch wad we have played so 
+far(and believe me, we've tried a lot of them), =), so have fun. Warm up on
+the monsters, then toast your friends!
+
+-designed with deu 5 and 5.1, and bsp11x
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+            send comments, complaints, or really nice jpegs to:
+            cw001c@uhura.cc.rochester.edu
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+P.S. suicide is weak! so is the bazooka! enjoy.

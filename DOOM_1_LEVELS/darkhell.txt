@@ -1,0 +1,576 @@
+Name of creator         :    Greytale
+
+Title of patch EPISODE  :    DARKHELL.WAD  
+-----------------------------------------------------------------------------
+Absolutely important    :    "You will LOVE these maps, or I have no
+                              imagination worthy of freeware."  -- Greytale
+-----------------------------------------------------------------------------
+E-MAIL address          :    greytale@hairball.ecst.csuchico.edu
+                             
+                        ****** Any questions?  Comments?  Flames?  Do you
+                               despise these maps?  Do you like them better
+                               than DOOM itself?  If so...
+
+                        **** ...Without a doubt, feel free to mail me!
+
+Episodes and maps       :    ALL   (Yes, the secret level too!)
+=============================================================================                             
+MAP:     TITLE OF WAD:          LENGTH:               FINDING EXIT:
+
+E2 M1 -- Dark Dome Stairs        short                  thinker
+E2 M2 -- Grey Halls of Blood     medium              get them first
+E2 M3 -- Holy Moly!            very short          stay alive, easy exit
+E2 M4 -- Forest of Armour        medium               a linear path
+E2 M5 -- Silver Mirror           large             a good amount of work
+E2 M6 --*BEWARE                very large              pretty hard
+E2 M7 -- Ankh Cliffs           very large                tough
+E2 M8 -- Tower of Demons (This really IS a tower!)    kill last guy
+E2 M9 --*Blood Cells             large                SECRET LEVEL
+
+* Secret level is accessible by map 6 (Beware), but once you finish the
+  map 9 secret, you must RETURN to map 6, and find the REAL exit!
+============================================================================
+
+Skill levels supported  :  * OF COURSE *  --With new twists, too.... :)  
+                                          --In some levels, objects such as
+                                            creatures, obstacles and even
+                                            KEYS are REARRANGED from skill 
+                                            level to skill level!
+                                                
+                                                (SEE NOTES BELOW)
+DEATHMATCH supported    :  * OF COURSE *
+COOPERATIVE supported   :  * OF COURSE *
+
+IBM models tested on    :  **486DX 33Mhz, 8Mb RAM, 512K graphics card,
+                                 standard bus, stacker 3.0 running
+                           --Low detail is smooth as silk with the status bar
+                           --High detail is a bit choppy on "Ultra-Violence",
+                             but it's usually like that for regular DOOM levs
+                           --------------------------------------------------
+                           **Pentium 50Mhz, 16Mb RAM, 1M grap. card, loc. bus,
+                                 NO stacker, NO doublespace
+                           --PRETTY GODDAMN AMAZING
+                           --------------------------------------------------
+Level basis             :    Completely from scratch 
+
+Editor(s) used          :    DEU 5.21 and BSP 1.1 (binary space partitioner) 
+                             (Special thanks to the creators of both
+                             programs; Raphael Quinet and Colin Reed)
+
+                             Thanks to roach@hairball for his play-testing.
+
+                             DOOM LOVERS  R U L E ! ! 
+
+Available where?        : --> WCARCHIVE.CDROM.EDU (?)          
+                           at Doom directory
+                             
+                          --> WUARCHIVE.WUSTL.EDU  
+                           at /pub/msdos_uploads/games or doom
+                             
+                          --> MANY OTHER SITES THAT CARRY DOOM!
+
+Short Level descriptions:
+
+-----------------------------------------------------------------------------
+E2 M1 -- Dark Dome Stairs:           
+-----------------------------------------------------------------------------
+  Your marine begins at the bottom of a dome-like, octagonal staircase, with 
+the dark sky above him.  Slipping in secretly and quietly, if your marine is 
+careful, he can pick up a rocket launcher without being detected, and blow
+several monsters away who have no idea you're there!  Enjoy blowing their 
+guts UP the stairs-- that's right, UP the stairs!
+
+-----------------------------------------------------------------------------
+E2 M2 -- Grey Halls of Blood
+-----------------------------------------------------------------------------
+  Beginning in a very oddly lit tower, your marine finds himself amidst many
+harsh baddies until POOF!  He teleports into a long, dark hall that opens up
+many dangers for him to explore.  If you're afraid of the dark and a few
+measly invisible demons, go home and drink some cool-aid.  Else, wait until
+you get outside, and see the sights.
+
+-----------------------------------------------------------------------------
+E2 M3 -- Holy Moly! there's a lot of baddies!
+-----------------------------------------------------------------------------
+  Your marine will never forget this map, even if he DOES die.
+  Pure fun, absolutely as short as it gets, and still an exercise in insanity.  
+The trick in this huge circle is to use your speed and your BRAINS (not your 
+trigger-finger) to entice the monsters into bickering about who's claws are 
+sharper.  If your WIT is sharper, you'll survive.  If not, start practicing 
+hitting that "F9, y" finger trick.
+
+-----------------------------------------------------------------------------
+E2 M4 -- Forest of Armour
+-----------------------------------------------------------------------------
+  If you have DOOM 1.666, you are shit-outta-luck at pumping your armour
+beyond 200%.  Sorry.  I have no idea how to change that.
+
+  HOWEVER, for those of you still toting that 1.2 engine, your armour will
+reach an interesting amount-- WITHOUT cheating.  Don't get lost in the
+forest, and most importantly, don't worry if you only get 80% of the items.
+There must be 600 helmets out there alone!
+  But, all doom versions look great for ascending my pin-wheel staircase.
+Don't have too much fun, or you'll stop going out on week-ends.  :)
+-----------------------------------------------------------------------------
+E2 M5 -- Silver Mirror
+-----------------------------------------------------------------------------
+  After you play this level, the following sentence will make sense:
+
+  NO, YOU ARE  N O T  IN THE SAME PLACE...
+               -----
+-----------------------------------------------------------------------------
+E2 M6 -- BEWARE
+-----------------------------------------------------------------------------
+  This is the most complicated map I made.  It is very detailed, texture- 
+aligned, and intricate.  If you don't like all the other levels, screw them,
+and play this one.  Of course, I KNOW you won't do that, because YOU love
+DOOM! :)  Seriously, this level has some interesting details-- look for more
+on this particular map (2,6) at the end of this humongous text file.
+
+-----------------------------------------------------------------------------
+E2 M7 -- Ankh Cliffs
+-----------------------------------------------------------------------------
+  More fun.  After slowly making your way up the stonelight heights, you enter
+a new definition of danger.  Tougher than Beware, but fun with respect to all
+the midgrate textures to look through.  This one is a ton of thinking, too.
+Don't forget to bring your BFG...  a little ammo wouldn't hurt, either. :)
+
+-----------------------------------------------------------------------------
+E2 M8 -- Tower of Demons (Replaces Tower of Babel from "The Shores of Hell")
+-----------------------------------------------------------------------------
+  I decided to REALLY create a tower level, since I saw the name of the map
+was "Tower of Babel".  I wondered why ID called it that (no offense at all)
+because the level wasn't really a tower.  Enjoy it.  
+
+NOTE:  Please ignore the texture sky flash that occurs just as you enter the 
+       tower door.  Its cause (FOR THOSE INTERESTED IN KNOWING WHY IT OCCURS) 
+       comes from making a sector, and having he difference between ceiling 
+       and floor heights greater than 540.  For instance, with floor height 
+       at 0 and ceiling at 1024, walking into that sector from another one is 
+       likely to cause a flash (crossing the shared linedef).  
+       
+       The sector heights of my tower span a length of 1024; thus the flash.
+
+-----------------------------------------------------------------------------
+E2 M9 -- Blood Cells
+-----------------------------------------------------------------------------
+  If you catch how simple the design of this level is, you will realize how
+much you can do with a DOOM editor.  Design took the least amount of time,
+while picking textures and editing linedef types and light levels took the
+most of my work time.
+  Personally, my favorite part is the long hall with the lowering marble
+statues.  If you leave your marine's speed off, and continue to walk forward,
+it looks really neat.
+
+
+
+=============================================================================
+And now the story behind BEWARE.WAD...
+
+                              ** B E W A R E **
+
+----------------------------------------------------------------------------
+///////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+============================================================================
+
+Difficulty of Map       :    30 to 40 min. for a very good DOOM player
+
+                             --Really challenging on Hardest skill
+                             --"Hurt Me Plenty" is almost as hard as
+                               "Ultra-Violent" EXCEPT creatures are both
+                               placed differently and / or ENTIRELY new.
+
+Quick Notes on Gameplay :    A very detailed WAD, complete with well-matched       
+                             textures, many lifts, many switches and linedefs
+                             to trigger floors and brighten or darken light 
+                             levels.  Nearly EVERY sector has a tag to SOME 
+                             line definition to do SOMETHING!  Enjoy the huge
+                             staircase into the deep poison dungeon, the 
+                             "Outer Perimeter", the false wall Cove into the 
+                             dark prison bars, the beginning "Cross-hair" 
+                             lift sectors, the Imp teleportation zone, and a
+                             hell of a lot more!!  Beware...
+
+            * There are places where a quick-running DOOM hero must "jump"
+              across gaps between ledges and sectors!  By "jump" I mean, hold
+              down the shift key (or whatever key it is you use to make the
+              marine run) and boogey across a gap as if it weren't there.
+
+              It is only NECESSARY and REQUIRED to do this ONCE in the level.
+              Other places are merely for fun, or score you added bonuses.
+
+Interesting  :    * Very long, deep staircase into a poison dungeon that
+ Features           is full of barrels, purgeable creatures, and a few
+                    switches to keep you busy between shells & cells
+                        
+                  * Different objects appear on different skill levels:
+                    
+                    1. Creatures, decor, bonuses all slightly
+                       differ from skill to skill
+                    2. "Hurt Me Plenty" differs very much from 
+                       "Ultra-Violence" -- creatures appear in
+                       different locations, some entirely new
+                    3. Retrieving weapons becomes interesting from
+                       skill to skill as they are placed differently
+                    4. Keys are in different places per each skill level.
+
+                  * Light levels in nearly every sector can darken or
+                    fill up with light, changing the appearance of each
+                    room, sector and area: trip the correct linedef (with
+                    or without knowing... ;)  and you may not recognize
+                    that sector you went through 2 minutes before!
+                  
+                  * Over 10 DEATHMATCH startup locations
+                  
+                  * Beginning lift creates illusion that there
+                    are sectors on TOP of sectors (which can't occur in DOOM)
+                        
+                  * Possibility of achieving each and EVERY Weapon 
+                    offered in game, on both DEATHMATCH & 1-player mode:
+
+                    No more chinsy excuses from authors of Wads who keep the
+                    weapons from you, expecting you to dust a Caco with a 
+                    pop-gun or Fist-O-rama!!  Screw stuff like that!  Your 
+                    only chance in THIS wad is to FIND all the weapons!  
+                    If they WEREN'T there, you wouldn't be be-waring, you'd 
+                    be-RUNNIN'!
+                
+                  * Immense REVERSED teleportation zone which sends creatures 
+                    and players all over this huge room--fun on DEATHMATCH
+                          ( You can even shoot yourself with   )
+                          ( your OWN missile!  Sorry, your own )
+                          ( BFG doesn't hurt you--hehehehehehe )
+
+                  * Over 670 objects total in Beware.Wad!
+                    (That's including decorations, creatures, teleport exits,
+                     and the like... don't worry; there AREN'T 670 Cacos!!)
+
+                  * Nearly ALL of the 380 sectors that make up BEWARE are
+                    tagged to some linedef so that they darken by a step,
+                    lift with a switch, brighten as you go, frighten as you
+                    play, and change the whole level's appearance around
+
+----------------------------------------------------------------------------
+Time allotted for       :       OVER 150 hours (really).  This was my second
+creation of map                 WAD, and I had been fooling around adding and
+                                deleting and fixing and changing it for many
+                                months now.  I just spent about an hour or 
+                                so each day trying to improve it, and I think 
+                                it's definitely a keeper!  Enjoy it!
+----------------------------------------------------------------------------
+** Special thanks to the creators of DEU 5.21, IDBSP, and BSP1.1x--all of
+   these are really wonderful for making workable, interesting DOOM levels
+----------------------------------------------------------------------------
+
+                               ** B E W A R E **
+----------------------------------------------------------------------------
+///////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+----------------------------------------------------------------------------
+
+THE STORY BEHIND "BEWARE":
+
+  You can hear only your breath.  This suit isn't much, but it's better than
+sucking on the simple nothing that space is made of.  A lump in your throat 
+forms as you recall the silence just before... this.  The silence in Grainer's 
+realization that things were no longer in control... yours, his, or even 
+McCarter's... maybe not even God's...
+
+  And if God's responsible for THIS one, you wonder what IN BEELZEBUB'S name
+he was THINKING, and what the MORAL of this horrifying disaster is...
+
+  As you float into the ex-space station that was once called ILSA, you recap 
+everything that you remember--you thank the UAC for making log recorders able 
+to be hooked up while in an air-tight space suit, and try to describe just
+exactly what took place on the Magellan before she went down.  You figure, 
+"If I don't make it, at least what happened will..." 
+
+  You pause only to secure your feet to ILSA with the G-boots you equipped
+yourself with in your spastic frenzy to save your crew.
+  
+  And with a deep breath, you begin at the beginning... the Light Anomaly-- 
+  
+  ...everything that happened... those last few minutes... what happened... 
+to you, Davis, Gary, Grainer: all in a matter of a few measely parsecs, 
+minutes and adrenaline burning events which you'll never forget... 
+
+  IF you live through this.
+
+================================== ******* ==================================
+
+Davis:  "I'll just be glad when we've completed ILSA.  She'll be one hell of a 
+        great station and all, but I'm tired of breathin' man-made air!  I
+        want to get the f*@k off this hunk of tin ship and go home!"
+
+One of the boys: "Hey, Magellan's no hunk!!  She's a gem!  More than I can
+                  say for Kendra....!"
+
+(Friendly, kind-hearted joking laughter from the tables in the Meal Sector)
+
+Davis:  "Cute... Real cute, guys... a gem, huh?  How 'bout a mouth FULL of
+         gems?!  My fist'll arrange that!  Heh-heh... damn bums..."
+
+(Friendly chuckles and mumbles about Davis from the boys)
+
+Gary:  "Earth, huh... you want to go back to Earth?"
+
+Davis: "Hell, yes!.... What, I'd suppose YOU want to live on the station?!"
+
+Gary:  "No, no!  Not LIVE on ILSA, but at least take an assignment on her!"
+
+Davis: "Gary, you don't even know what ILSA stands for!  How can ya say you
+        want to ensign there?  You just stick to being on Captain --YOUR 
+        NAME--'s ship, and MAYBE he won't 'demote your sorry ass'!  Heh-heh."
+
+(Laughter from the boys in the Meal Sector)
+
+The Boys: "Ha-ha, Davis.  'Demote your sorry ass'-- nice one."
+
+*** (YOU, the space marine Captain of the UAC ship Magellan enter ***
+***  quietly, overhearing the boys' argument)                     ***
+
+Gary:  "Aw, sh*t, Davis... I KNOW what ILSA is all about..."
+Davis: "Okay, brainiac, what's the 'I' for? Heh-heh..."
+
+(More chuckles)
+
+Gary:  "Okay, very funny... 'I' stands for Interplanetary: can I get a drink
+        of water, Mrs. Davis?  Do I need a bathroom access card??"
+
+(Rolling against Davis with the laughter)
+
+Davis: "Cute;  It just so happens that General McCarter named his daughter
+        ELSA, and thass why they call the new station that, Gare..." 
+
+You:   "For BOTH of your information, Davis... Gary.... McCarter's WIFE is, or
+        rather WAS named Elsa before she died.  The station's name just came
+        out that way, and it was kind of nice that it resembled Tom McCarter's
+        wife's name... ILSA... Interplanetary Linking Satellite Archive.  Elsa
+        was a hell of a lady, or so I hear from old Tommy... I saw her picture
+        once; lemme tell you-- she was drop-dead gorgeous.  Tom said her dream
+        was to make information from planet to planet accessible to all--to
+        somehow link information that was worldwide right through space.  A
+        sort of Planetary Internet, I guess.  
+        
+        Look, I don't want to be a kill-joy, and I never met her, 
+        but I want this station to be a success."
+
+(Pause.  The crew is somewhat struck by your sudden sappiness.)
+
+Davis: "Aw, Cap why do you have to go and get sappy on us?  I ain't never
+        seen you give us no "speech" before like this?"
+
+You:   "Jesus, Davis, I'm NOT opening up a 'let's explore our feelings'
+        session, I just think we ought to give McCarter's wife-God rest her
+        soul-some respect!  This station is not just ANOTHER assignment,
+        Davis... McCarter's been our Big Sarge for a little less than two
+        hands worth of fingers to count in years!"
+
+One of the boys: "Cap, you know Davis can't count that high...."
+
+(Laughter)
+
+You:   "Heh-heh... Davis, I know you want off this assignment... I mean, I
+        understa... I... Davis, what is your wife's nam..."
+Davis: "...Oh, Kendra, Captain --YOUR NAME--, Kendra..."
+The Boys : "the GEM...."
+You:   "..RIGHT!  Kendra.  Anyway, I know she's probably as anxious to see
+        you as you are to see her, bu.."
+
+=============================================================================
+(A sudden wisp of light flashes through the Meal Sector, blinding the entire
+ room of crew members for a second, as if a beam of light with the intensity
+ of a small sun had rolled over the area.  The ship is lightly shaken.)
+=============================================================================
+
+Davis: "What th..."
+The Boys: "Hey.. Wh.. Holy Sh... Ay..."
+
+(The lights dim slightly during the confusion...)
+
+Voice over your communicator: "Captain..."
+
+You:   "Status, Mr. Grainer!  What happened?"
+
+Voice of Grainer: "Captain, I'm not sure... for a moment, we had something
+                   that basically resembled a... well a... (long pause)"
+
+You:   "Go on, Mark..."
+
+Voice of Grainer: "Well... I hope you know what I mean Captain, if I say
+                   we had what resembled a.. 'power surge'."
+
+You:   "A powe.. a sur..., Mark you can't be serious..."
+
+Voice of Grainer: "Aye Sir, I know it's 99.9 percent impossible after 2207, 
+                   when Professor and scientist James D. Jen..." 
+
+You:   "..I know, Grainer... James D. Jenkins solved the problem of surges,
+        anomalies and other power abnormalities greater than 2048-ei and
+        less than 4194304-ei through a specific formula to control the
+        current and source of energy...  But how, then did th..."
+
+Voice of Grainer: "I don't know, sir."
+
+(You are not amused.  What seemed to have happened HASN'T HAPPENED for nearly
+ one-hundred and fifty YEARS!!!  How could a surge occur on a spaceship?
+ A couple hundred years ago, this was no big thrill, but on a spaceship that
+ packs the power of over 1200000-ei, a SURGE makes a laser blast look pretty
+ pathetic in terms of brightness... AND destructive force!)
+
+(The ship is rocked once more, the flash and shake even brighter this time.)
+
+You:    "STATUS, GRAINER!!  HANSON, RAENER, BOYER--BRIDGE!"
+
+(Your bridge crew scrambles for the compression lifts...)
+
+Voice of Grainer: "CAPTAIN, WE'VE LOST AUTO-PILOT!  LOOKS LIKE LUNCH IS OVER!
+                   I NEED SOME HANDS DOWN HERE!  CLASS 3 ELECTRICAL DISTUR-
+                   BANCE ON THE BOARDS!!!  REPEAT-- ASSISTANCE REQUIRED!!"
+
+You:    "GARY, DAVIS, ATTEND TO MR. GRAINER IN ENGINEERING!"
+
+(Frantically, as the preceding dialogue overlapped generously, you rush your
+ way through the dimly lit ship, up a lift to the bridge.)
+
+(Helmsman Erikson meets you just as you arrive from the lift, reporting the 
+ ship's situation in respect to ILSA...)
+
+Erikson: "ERIKSON REPORTING, SIR.  ILSA STATION HAS UNDERGONE SOME MASSIVE
+          POWER ANOMALIES... EQUIVALENT TO EXPLOSIVE BLASTS OF RANDOM ENERGY
+          THAT HAVE THROWN IT OUT OF ORBIT AROUND MARS!  SHE'S DRIFTING."
+
+You:     "Are we still maintaining orbit, and if so, can we pursue ILSA?"
+
+Erikson: "CAPTAIN...."
+
+(HE GRABS YOUR ARM)
+
+You:     "What?  What... What is it?!"
+
+Erikson: "The Magellan is no longe...."
+
+Voice of Grainer: "CAPTAIN!  THE SHIP'S NOT RESPONDING!  WHAT THE HELL
+                   HAPPENED TO DAVIS AND GARY?!!  THIS CAN'T BE HAPPENING!
+                   THERE IS  N O  FUCKING WAY THE SHIPS DRIVER CONTROL COULD
+                   HAVE BEEN LOST.... CAPTAIN, YOU'LL HAVE NO CONTROL OVER
+                   THE SHIP FROM THE BRIDGE... I... OH SHIT, OH SHIT.... 
+                   ONLY SIX MINU...
+                   
+                   (No breath)
+
+                   --your name--....
+
+                   ..... There's nothing more we can do... We're headed
+                   directly toward Mars' atmosphere... there's not even
+                   enough time to reach the shuttles before Magel...
+
+You:     "The    H E L L   there ISN'T MISTER!!!  YOU GET YOUR ASS IN GEAR,
+          OR I'LL DEMOTE YOUR PATHETIC ASS!!!  MOVE IT!!!
+          
+          M O V E  your ASS!!  GO, GO!!  MOVE  A S S !!!"
+
+Over intercom:  "DOCKING--- ALL STATIONS, ALL FLOORS, THIS IS EVAC 5,
+
+                 THIS IS NO FUCKING DRILL, AND I WILL NOT, REPEAT  N O T
+                 REPEAT THIS MESSAGE!!!  DOCKING.... MOVE NOW.... EVAC 5
+
+                         E V A C   5---    N O W !!"
+                                           -----
+(In a whirlwind of commotion, in an emergency evac-situation never even
+ practiced in UAC Marine/Cadet training school, you attempt every effort to
+ get your crew the hell off the Magellan before it's all over.  The G-forces
+ alone would smash the crew's bones like grapevines if the Magellan entered
+ the atmosphere of Mars without proper entry.
+
+ The biggest problem remains... who will survive, and who will not... as you
+ barked out the EVAC 5 order, you knew that not everyone would make it off
+ the ship in time: ... Jesus... only four minutes left after the crew was 
+ notified and in gear.  Record time for carrying out a full ship order-- one 
+ minute, fifty-six seconds.)
+
+ Dammit, though, it's not enough!  Oh, Christ why my crew...
+
+----------------------------------------------------------------------------
+
+ *** You're not sure if Davis made it.....  --------------- (player 2)
+
+ *** You're not sure if Erikson made it...  --------------- (player 3)
+
+ *** You're not sure if Grainer made it...  --------------- (player 4)
+
+---------------------------------------------------------------------------
+ But...
+
+ Unfortunately, you know YOU made it.
+
+ Allowing as many crew members per shuttle as possible, you jettisoned your-
+ self with the garbage cell, full-clad in gravity boots, a space suit and
+ helmet, complete with a 4-day air supply, and three meals of food--hopefully
+ your crewmates will navigate to Mars, relay the disaster to UAC, and send
+ a patrol to find you for the 50 parsecs you could possibly travel with the
+ damn garbage unit.
+
+ You surmise that your chances of being rescued are grim.  You know one thing
+ though... you'll be sure to mention that record-timing full-ship EVAC in
+ your log.  Damn proud.  Damn sorry.  You hope to God somehow all of the
+ crew made it somewhere, anywhere, anyplace, anyplanet safely.
+
+ You'll have a lot of time to record what happened in the log recorder while
+ you're on the garbage un...
+
+ But WAIT!!
+
+ The garbage unit... of COURSE!  Well, how the hell ELSE would it get
+ clea... (!) You suddenly remember: Every garbage unit HAS to have a homing
+ device to eventually be RECEIVED by a space station, and flown to Jupiter,
+ where a WM SpaceBlock can hold the refuse!  So, you don't even have to
+ WORRY about being sent for--you'll just hang on the the garbage cell, float
+ on its sub-sub-warp power to the nearest..... space.. sta... 
+ 
+ (In the distance, a glowing, randomly flashing space station ILSA looms,
+ drifting further and further from orbit around Mars.)
+
+                Oh.... shit.
+ 
+ The nearest space station is... ILSA.
+
+ WELL, but.... they... well they WOULDN'T have the GARBAGE units running if..
+ ...if, uh... the... station wasn't.. running, right?
+
+
+ Right?
+
+
+
+                        Um,.... right?
+
+
+
+ Terrified, you wonder what anomalies occurred in the ILSA station....  
+
+ You KNOW you'll eventually land there...
+ You KNOW the garbage unit MUST be working since they were building...
+ You KNOW because you were just THERE about 48 hours ago!
+
+
+ *** Now, if you could only REMEMBER where the small armouries all about
+     ILSA were... you knew they were preparing the station to be able to
+     defend itself.  You just KNOW it's through some UAC door, at the top
+     of the cross-hair lift... 
+
+ You cock your head back as well as you can to see your unstable Magellan
+ behind you.  From this distance, you couldn't possibly make out if any
+ shuttles were anywhere near, or even jettisoned.
+
+ In a flash of red and white flame, your ship is lost, and you eventually 
+ lose sight of the largest pieces of wrecka... Oh... Oh my god....
+
+ You see the tortured remains of Ensign Gary floating through the darkness of
+ space, limp and lifeless.  It was just plain unjust for him to have to die
+ this way.  He was young, and would've been a great asset to ILSA...
+
+ You:     "F*@k.........
+
+                          I'm demoting my OWN sorry ass..."
+============================================================================

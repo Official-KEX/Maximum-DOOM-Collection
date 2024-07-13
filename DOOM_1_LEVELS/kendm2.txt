@@ -1,0 +1,46 @@
+================================================================
+Title                   : KENDM2.WAD
+Author                  : Kendall Anderson
+Email Address           : kbpander@watserv1.uwaterloo.ca
+
+Misc. Author Info       : Slowly, painfully dying in architecture..
+
+Description             : PWAD file for E1M1.
+
+                          Again, designed from the ground up for deathmatch
+                          only. This is a bit smaller than the last and
+                          tends to be 'frag happy.' Again, mostly everything
+                          you do will cause some sort of noise to alert the
+                          other player as to exactly where you are. Be
+                          careful and have fun with the rockets.. :)
+
+                          Again, probably too small for anymore than 2
+                          deathmatch players.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yep, but there's no monsters so don't be mad
+                          when you get bored quickly..
+Cooperative 2-4 Player  : Not tested, not suggested.
+Deathmatch 2-4 Player   : Absolutely, tested with 2 player.
+Difficulty Settings     : Nada.
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 3+ hours
+Editor(s) used          : Some windows editor, DMREAL..
+Known Bugs              : None yet..
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You may do whatever you want with this file. Please give credit to
+author if used to create other levels from this one. Thanks.

@@ -1,0 +1,61 @@
+==============================================================================
+Title                   : JAX02.WAD   
+Author                  : Glenn Jackson
+Email Address           : I can be reached at : jacksong@cuix.pscu.com or
+                                              Doom Plus Bbs 
+                                              (206) 854-8204
+Misc. Author Info       : Seattle, Washington, Complete Loser, No life.
+
+Description             : This is my second attempt at wad construction. This
+                          wadfile is pretty straight forward...find the redkey
+                          and get the hell out of dodge!!!!!
+
+                          This file is no fun if played in god-mode so, try to
+                          play it without all of the cheat codes...I did put in
+                          enough weapons for you to get the job done so, good
+                          luck and may the force be with you.
+                       
+
+                          I also included a *.LMP recording of this wad and I 
+                          was doing ok for awhile but I made a stupid mistake and
+                          got nailed...see if you can do better!!!
+                          
+                                       
+                          Anyway, give it a go and tell me what you think.
+
+==============================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 (Doom II Version 1.7a) 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes, yes, yes!!!
+Deathmatch 2-4 Player   : Yes if you limit the number of creatures
+Difficulty Settings     : The level of difficulty is the same for all levels
+
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : About 5 hours
+Editor(s) used          : RGDOOMED 2.3C And DCK 2.1
+Known Bugs              : None found yet!
+
+Additional Credits to   : The authors of RGDOOMED and DCK
+                          
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels.  
+
+You MAY distribute this WAD, provided you include this file, with no
+modifications. You may distribute this file in any electronic format
+(BBS, Diskette, CD, etc) as long as you include this file intact.
+
+
+  
+    
+
