@@ -10,6 +10,8 @@ Maximum Doom is a collection of community-made levels included on the "Master Le
 released by Id Software in 1995. The collection was Id Software's answer to the various Doom level<br />
 collection CDs that had begun to circulate around the time. It contained 21 levels selected & licensed<br />
 by Id Software (the Master Levels) and a larger collection of 1830 other levels (Maximum Doom).<br />
+<br />
+The copyrighted/licensed Master Levels are **NOT INCLUDED** in this archive/repo!<br />
 
 ---
 
